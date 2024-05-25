@@ -1,0 +1,647 @@
+# 강의 요약
+
+## 핵심 주제: Flip Class와 신경계 구조
+
+### Flip Class
+- Flip class는 학생들이 스스로 학습하는 것이 중요하며, video lecture를 보고 이해가 안 되는 부분은 반복해서 보거나 다른 자료를 찾아 학습하는 것이 중요하다.
+- Google이나 Wikipedia 등의 도구를 활용하여 모르는 내용을 찾아보는 것이 권장된다.
+
+### 신경계 구조
+- 우리 몸의 신경계는 Central Nervous System과 Peripheral Nervous System으로 구분된다.
+- Peripheral Nervous System은 주로 nerve conduction, spinal cord와 brainstem 등을 포함하며, rehabilitation이나 neurorehabilitation에서 배우는 신경들이 이에 속한다.
+- Peripheral Nervous System의 기원은 spinal nerve로부터 시작되며, 이는 몸 전체로 퍼져가면서 몸의 말단으로 갈수록 각각의 이름이 붙게 된다.
+- 가장 큰 신경인 Sciatic nerve는 sacral plexus에서 나오며, 이는 spinal nerve가 네트워크를 형성한다는 것을 의미한다.
+- Sciatic nerve는 다리로 들어가는 가장 중요한 신경으로, 다리의 앞쪽에는 Femoral nerve가 위치하고 있다.
+- Femoral nerve는 다리의 앞쪽에 있는 Anterior compartment나 Medial compartment에 있는 근육들을 지배하며, Saphenous nerve라는 피부신경을 통해 감각을 전달한다.
+- Sciatic nerve는 다리로 내려가서 거기에서 다리의 근육을 지배한다.
+
+## 퀴즈
+
+1. Flip class에서 가장 중요하게 강조하는 학습 방법은 무엇인가요?
+    - A. 강의를 듣는 것
+    - B. 스스로 학습하는 것
+    - C. 그룹 스터디
+    - D. 책을 읽는 것
+    - 정답: B. 스스로 학습하는 것
+
+2. Peripheral Nervous System의 기원은 어디로부터 시작되나요?
+    - A. Brainstem
+    - B. Spinal nerve
+    - C. Sacral plexus
+    - D. Femoral nerve
+    - 정답: B. Spinal nerve
+
+3. Sciatic nerve는 어떤 부위를 주로 지배하나요?
+    - A. 다리의 앞쪽
+    - B. 다리의 뒷쪽
+    - C. 팔
+    - D. 등
+    - 정답: B. 다리의 뒷쪽
+# 강의 요약
+
+## TVR과 Conenpidula Division
+
+TVR과 Conenpidula division의 경계는 다양한 형태로 나타납니다. 이들은 Paprika Cossa 부분에서 분리되며, TVR nerve와 Conenpidula nerve로 구분됩니다.
+
+## Gluteal Region
+
+Gluteal region에는 Superior gluteal nerve와 Inferior gluteal nerve가 있습니다. 이들은 Sacral plexus에서 시작되며, 각각 다른 근육들을 innovation합니다.
+
+## Internal Iliac Artery
+
+Internal Iliac Artery는 하나의 근육으로 이어져 있지만, 상부와 하부로 구분됩니다. 상부는 골반 내부로, 하부는 골반 밖으로 내려가 다리로 이어집니다.
+
+## Anterior와 Posterior Division
+
+Anterior와 Posterior division에서는 Superior gluteal artery와 Inferior gluteal artery로 구분됩니다. 이들의 위치는 Piriformis를 기준으로 설명됩니다.
+
+## 차이점에 대한 이해
+
+골반은 좁은 공간에 많은 근육, 혈관, 신경이 위치해 있어, 발생 단계에서 약간의 차이만 있어도 혈관의 가지 분포나 다른 현상에서 차이가 나타날 수 있습니다. 따라서 교과서에 서로 다른 내용이 있다고 해서 하나만 맞고 다른 하나가 틀렸다고 생각할 필요는 없습니다.
+
+---
+
+# 퀴즈
+
+1. TVR과 Conenpidula division은 어디에서 분리되나요?
+    - A. Paprika Cossa
+    - B. Sacral plexus
+    - C. Gluteal region
+    - D. Internal Iliac Artery
+    - 정답: A. Paprika Cossa
+
+2. Superior gluteal nerve와 Inferior gluteal nerve는 어디에서 시작되나요?
+    - A. Paprika Cossa
+    - B. Sacral plexus
+    - C. Gluteal region
+    - D. Internal Iliac Artery
+    - 정답: B. Sacral plexus
+
+3. Superior gluteal artery와 Inferior gluteal artery의 위치는 어떤 것을 기준으로 설명되나요?
+    - A. Paprika Cossa
+    - B. Sacral plexus
+    - C. Gluteal region
+    - D. Piriformis
+    - 정답: D. Piriformis
+
+# 혈관 시스템의 구조와 기능
+
+우리 몸의 혈관 시스템은 **Blood Vessel**과 **Lymph Vessel**로 구성되어 있습니다.
+
+## Blood Vessel
+
+Blood Vessel은 동맥에서 시작하여 말단 부분에 도달할 때까지 점점 가늘어지는 혈관입니다. 말단에서는 capillary로 변환되고, capillary가 끝나면 다시 vein으로 변환되어 심장으로 돌아가는 혈액 순환을 이루는 시스템입니다. 이는 순환 시스템이라고도 합니다.
+
+## Lymph Vessel
+
+Lymph Vessel은 Blood Vessel과는 달리 artery에 해당되는 부분은 없으며, 말단 부분에서 vein이 시작될 때 근처에서 새로운 vein이 형성되는 구조입니다. Lymph Vessel은 말단 조직에서 시작되어 점점 심장 쪽으로 진행하며, artery계통이 없기 때문에 혈액이 막힌 방향으로 흐르게 됩니다.
+
+## 혈관계통과 림프계통의 차이
+
+혈관계통과 림프계통의 차이는 vein계통에 해당되는 것이 림프계통인데, vein은 말단 capillary에서 시작하여 작은 vein들이 모여 점점 늙어지는 구조입니다. 따라서 혈액은 vein을 통해 모여야 하므로 양이 점점 증가하게 되고, 심장의 100이라는 혈액이 나가면 다시 100이 돌아오는 원활한 순환을 유지할 수 있습니다.
+
+그러나 Lymphatic system은 들어오는 곳만 있고 내보내는 혈액이 없기 때문에 그럴 필요가 없어요. 그래서 시작부터 끝까지 Lymphatic system의 차이가 크지 않습니다.
+
+## Lymphatic system의 구조
+
+Lymphatic system은 또 하나 중간중간에 lymph node라는 정거장이 있어서 Lymphatic vessel이 하나의 lymph node로 들어갔다가 다시 나오는 Lymphatic vessel이 시작되고 다음 단계의 lymph node로 들어가고 여러 단계에 따라서 계속 필터링이 되면서 심장 쪽으로 림프를 보내게 됩니다.
+
+## Superficial과 Deep Lymphatic vessel
+
+Lymphatic vessel도 Superficial Lymphatic vessel이 있고 Deep Lymphatic vessel이 있어요. Superficial tissue에서 나오는 gluteal region의 Superficial tissue라고 하면 엉덩이 부분의 피부 피부 밑 조직, 근육, 사이의 fascia 이런 거겠죠. 여기에서 나오는 림프는 오른쪽 피부처럼 분홍색 화살표처럼 피부 밑 조직에 있는 Lymphatic vessel을 통해서 앞쪽으로 이동을 해요.
+
+## Extensor Retinaculum
+
+발목의 앞쪽에는 Extensor Retinaculum이라고 하는 근육이 있습니다. Extensor Retinaculum은 근막띠로, 근육을 덮고 있는 깊은 근막과 근육층 표면을 덮고 있는 깊은 근막이 두꺼워져서 띠 형태가 되는 것을 말합니다. Extensor Retinaculum은 Extensor Digitorum Longus Tendon을 고정해주는 역할을 하기 때문에 이렇게 이름이 붙었습니다. Superior와 Inferior 두 개의 Extensor Retinaculum이 있습니다.
+
+---
+
+### 퀴즈
+
+1. 우리 몸의 혈관 시스템은 어떤 두 가지로 구성되어 있나요?
+    - A. Blood Vessel과 Lymph Vessel
+    - B. Blood Vessel과 Artery
+    - C. Lymph Vessel과 Vein
+    - D. Artery와 Vein
+    - 정답: A. Blood Vessel과 Lymph Vessel
+
+2. Lymphatic system은 어떤 곳만 있고 어떤 곳이 없기 때문에 그럴 필요가 없나요?
+    - A. 들어오는 곳만 있고 내보내는 혈액이 없기 때문에
+    - B. 내보내는 곳만 있고 들어오는 혈액이 없기 때문에
+    - C. artery계통이 있고 vein계통이 없기 때문에
+    - D. vein계통이 있고 artery계통이 없기 때문에
+    - 정답: A. 들어오는 곳만 있고 내보내는 혈액이 없기 때문에
+
+3. Extensor Retinaculum은 어떤 역할을 하나요?
+    - A. 근육을 덮고 있는 깊은 근막과 근육층 표면을 덮고 있는 깊은 근막이 두꺼워져서 띠 형태가 되는 것
+    - B. Extensor Digitorum Longus Tendon을 고정해주는 역할
+    - C. Lymphatic vessel을 통해 림프를 이동시키는 역할
+    - D. Blood Vessel과 Lymph Vessel을 연결하는 역할
+    - 정답: B. Extensor Digitorum Longus Tendon을 고정해주는 역할
+
+# 강의 요약
+
+## 인피어의 구조
+- 인피어는 Y자 형태로, 레터럴 사이즈는 하나이지만 미디얼 사이즈로 가면서 두 개로 나눠집니다.
+- 레터럴 사이즈는 tibialis의 뼈에 붙고, 미디얼 사이즈로는 위쪽에 미디얼 malleolus 두 개가 붙습니다.
+- 아래쪽에는 inferior band가 있습니다. inferior band는 발바닥에 있는 plantar aponeurosis의 미디얼 보더에 붙어 발 옆구리를 감싸고 발바닥 쪽으로 내려갑니다.
+
+## 신경 구조
+- saphenous nerve는 sartorius parts를 통해 내려오면서 tibial nerve와 common peroneal nerve로 나뉩니다.
+- common peroneal nerve는 fibula의 헤드 아래 넥 부분을 감싸고 앞쪽으로 돌아내립니다.
+- infosternal membrane 앞쪽으로 내려오는 것이 deep peroneal nerve이고, fibula를 따라 아래쪽으로 내려오는 것이 superficial peroneal nerve입니다.
+
+## 동맥 구조
+- 동맥의 경우에는 anterior tibial artery와 posterior tibial artery입니다.
+- posterior tibial artery와 공반되는 것은 posterior tibial nerve가 아니라 그냥 tibial nerve라고 합니다.
+- Anterior Tibial Artery와 공반되는 것은 Anterior Tibial Nerve가 아니라 Deep Peroneal Nerve입니다.
+
+## 근육 구조
+- Lateral Compartment에 있는 것은 Superficial Peroneal Nerve입니다.
+- Lateral Compartment에는 큰 동맥이 없습니다.
+- Lateral Compartment에 있는 Peroneus, Longus, Brevis가 있는데 얘들은 공급을 어떻게 받느냐? Anterior Tibial Artery나 여기 있는 이 동맥이 Peroneal Artery입니다.
+
+## 퀴즈
+
+1. 인피어의 구조는 어떻게 되어있나요?
+    - A. X자 형태로, 레터럴 사이즈는 두 개이지만 미디얼 사이즈로 가면서 하나로 합쳐진다.
+    - B. Y자 형태로, 레터럴 사이즈는 하나이지만 미디얼 사이즈로 가면서 두 개로 나눠진다.
+    - C. Z자 형태로, 레터럴 사이즈는 두 개이지만 미디얼 사이즈로 가면서 하나로 합쳐진다.
+    - D. Y자 형태로, 레터럴 사이즈는 두 개이지만 미디얼 사이즈로 가면서 하나로 합쳐진다.
+    - 답: B
+
+2. saphenous nerve는 어떤 신경으로 나뉘나요?
+    - A. tibial nerve와 common peroneal nerve
+    - B. tibial nerve와 superficial peroneal nerve
+    - C. common peroneal nerve와 deep peroneal nerve
+    - D. deep peroneal nerve와 superficial peroneal nerve
+    - 답: A
+
+3. Lateral Compartment에 있는 것은 무엇인가요?
+    - A. Deep Peroneal Nerve
+    - B. Superficial Peroneal Nerve
+    - C. Anterior Tibial Nerve
+    - D. Posterior Tibial Nerve
+    - 답: B
+
+# 강의 요약
+
+## 핵심 주제: 신경계의 이해와 Sciatic nerve
+
+1. **학습 방법론**: 이 강의는 flip class 형태로 진행되며, 학생들이 스스로 학습하는 것이 중요하다. Video lecture를 보고 이해가 안 되는 부분은 반복해서 보거나 다른 자료를 찾아 학습하는 것이 중요하다.
+
+2. **신경계의 구분**: 우리 몸의 신경계는 Central Nervous System과 Peripheral Nervous System으로 구분된다. Peripheral Nervous System은 주로 nerve conduction, spinal cord와 brainstem을 포함하며, 이들은 몸 전체로 퍼져가면서 몸의 말단으로 갈수록 각각의 이름이 붙게 된다.
+
+3. **Sciatic nerve**: Sciatic nerve는 sacral plexus에서 나오며, 우리 몸에서 가장 붉은 신경이다. 이는 peripheral nerve에 속하며, spinal nerve 이후에 여러 개의 신경이 주로 나오게 된다.
+
+4. **신경의 분포와 기능**: Sciatic nerve는 다리로 내려가서 거기에서 다리의 근육을 지배한다. 볼 근육이나 허벅지 옆 부분과 같은 근육들을 지배하며, 넓적다리 뒤쪽에 있는 모든 근육들을 지배한다.
+
+## 퀴즈
+
+1. Flip class에서 학생들이 스스로 학습하는 것이 중요한 이유는 무엇인가요?
+    - A. 강의를 듣는 것보다 스스로 학습하는 것이 더 효과적이기 때문이다.
+    - B. 강의를 듣는 것보다 스스로 학습하는 것이 더 재미있기 때문이다.
+    - C. 강의를 듣는 것보다 스스로 학습하는 것이 더 쉽기 때문이다.
+    - D. 강의를 듣는 것보다 스스로 학습하는 것이 더 빠르기 때문이다.
+    - 정답: A
+
+2. Sciatic nerve는 어디에서 나오나요?
+    - A. Cranial plexus
+    - B. Sacral plexus
+    - C. Lumbar plexus
+    - D. Thoracic plexus
+    - 정답: B
+
+3. Sciatic nerve가 지배하는 근육은 어디에 위치해 있나요?
+    - A. 다리의 앞쪽
+    - B. 다리의 뒷쪽
+    - C. 팔의 앞쪽
+    - D. 팔의 뒷쪽
+    - 정답: B
+
+# TVR과 Conenpidula Division의 구분
+
+TVR과 Conenpidula Division은 일반적으로 위에서부터 옆으로 보이지만, 얕은 골짜기 형태로 두 개의 넓적한 부분이 뒤쪽 중간부터 구분되기도 합니다. TVR Division은 넓은 쪽, Conenpidula Division은 좁은 쪽입니다. 
+
+# Nerve의 구분과 기능
+
+TVR nerve와 Conenpidula nerve는 Paprika Cossa 부분에서 분리되며, 이들은 각각 Gluteal region의 Superior gluteal nerve와 Inferior gluteal nerve로 이어집니다. 이들 nerve는 Sacral plexus에서 시작하여 Gluteus medius, Minimus, Tensor fasciae 등의 근육을 innovation합니다. 
+
+# Internal Iliac Artery의 구조
+
+Internal Iliac Artery는 하나의 근육으로 연결되어 있지만, 상부와 하부로 구분됩니다. 상부는 골반 내부로, 하부는 골반 밖으로 내려가 다리로 이어집니다. 
+
+# Anterior와 Posterior Division의 구분
+
+Anterior와 Posterior Division은 Superior gluteal artery와 Inferior gluteal artery로 구분됩니다. 이들의 위치는 Piriformis를 기준으로, Superior gluteal artery가 위, Inferior gluteal artery가 아래에 위치합니다. 
+
+# 각 교재와 학교의 설명 차이
+
+각 교재와 학교에서는 골반의 협소한 공간과 발생 단계의 차이로 인해 혈관의 가지 분포나 다른 현상에서 차이를 보일 수 있습니다. 이는 교재나 학교의 입장이나 설명 방식에 따른 것이므로, 하나가 틀리고 다른 하나가 맞다고 판단할 필요는 없습니다. 
+
+---
+
+## 퀴즈
+
+1. TVR과 Conenpidula Division은 어떤 부분에서 구분되나요?
+    - A. Paprika Cossa 부분
+    - B. Gluteal region
+    - C. Sacral plexus
+    - D. Piriformis
+
+2. Superior gluteal nerve와 Inferior gluteal nerve는 어디에서 시작하나요?
+    - A. TVR nerve
+    - B. Conenpidula nerve
+    - C. Sacral plexus
+    - D. Internal Iliac Artery
+
+3. Superior gluteal artery와 Inferior gluteal artery의 위치는 어떻게 되나요?
+    - A. Superior gluteal artery가 아래, Inferior gluteal artery가 위
+    - B. Superior gluteal artery가 위, Inferior gluteal artery가 아래
+    - C. 둘 다 같은 위치에 있다
+    - D. 위치는 명확하게 구분되지 않는다
+
+---
+
+## 답안
+
+1. A. Paprika Cossa 부분
+2. C. Sacral plexus
+3. B. Superior gluteal artery가 위, Inferior gluteal artery가 아래
+
+# 혈관 시스템의 구조와 기능
+
+## 1. 혈관 시스템의 구성
+- **Blood Vessel**: 동맥에서 시작하여 말단 부분에 도달할 때까지 점점 가늘어지는 혈관. 말단에서는 capillary로 변환되고, capillary가 끝나면 다시 vein으로 변환되어 심장으로 돌아가는 혈액 순환을 이루는 시스템.
+- **Lymph Vessel**: 말단 조직에서 시작되어 점점 심장 쪽으로 진행하며, artery계통이 없기 때문에 혈액이 막힌 방향으로 흐르게 됩니다.
+
+## 2. 혈관계통과 림프계통의 차이
+- vein은 말단 capillary에서 시작하여 작은 vein들이 모여 점점 늙어지는 구조.
+- Lymphatic system은 들어오는 곳만 있고 내보내는 혈액이 없기 때문에 그럴 필요가 없어요.
+
+## 3. Lymphatic system의 특징
+- Lymphatic system은 중간중간에 lymph node라는 정거장이 있어서 Lymphatic vessel이 하나의 lymph node로 들어갔다가 다시 나오는 Lymphatic vessel이 시작되고 다음 단계의 lymph node로 들어가고 여러 단계에 따라서 계속 필터링이 되면서 심장 쪽으로 림프를 보내게 됩니다.
+
+## 4. Superficial과 Deep Lymphatic vessel
+- Superficial Lymphatic vessel은 피부, subcutaneous tissue 그리고 subcutaneous tissue 바로 밑에 있는 근육 사이에 있는 fascia까지 생각하면 돼요.
+- Deep Lymphatic vessel은 근육 근육 속에 있는 깊은 vein, artery, bone 이런 것이 Deep structure입니다.
+
+## 5. Extensor Retinaculum
+- 발목의 앞쪽에는 Extensor Retinaculum이라고 하는 근육이 있습니다.
+- Extensor Retinaculum은 근막띠로, 근육을 덮고 있는 깊은 근막과 근육층 표면을 덮고 있는 깊은 근막이 두꺼워져서 띠 형태가 되는 것을 말합니다.
+
+---
+
+# 퀴즈
+
+1. 혈관 시스템은 어떤 두 가지로 구성되어 있나요?
+    - A. Blood Vessel과 Lymph Vessel
+    - B. Blood Vessel과 Vein
+    - C. Lymph Vessel과 Vein
+    - D. Blood Vessel과 Artery
+
+2. Lymphatic system은 어떤 특징을 가지고 있나요?
+    - A. 들어오는 곳만 있고 내보내는 혈액이 없다.
+    - B. 들어오는 곳과 내보내는 곳이 모두 있다.
+    - C. 내보내는 곳만 있고 들어오는 곳이 없다.
+    - D. 들어오는 곳과 내보내는 곳이 없다.
+
+3. Extensor Retinaculum은 어디에 위치하고 있나요?
+    - A. 발목의 앞쪽
+    - B. 발목의 뒤쪽
+    - C. 손목의 앞쪽
+    - D. 손목의 뒤쪽
+
+---
+
+# 답안
+1. A. Blood Vessel과 Lymph Vessel
+2. A. 들어오는 곳만 있고 내보내는 혈액이 없다.
+3. A. 발목의 앞쪽
+# 강의 요약
+
+## 인피어의 구조
+- 인피어는 Y자 형태로, 레터럴 사이즈는 하나이지만 미디얼 사이즈로 가면서 두 개로 나눠집니다.
+- 레터럴 사이즈는 tibialis의 뼈에 붙고, 미디얼 사이즈로는 위쪽에 미디얼 malleolus 두 개가 붙습니다.
+- 아래쪽에는 inferior band가 있습니다. inferior band는 발바닥에 있는 plantar aponeurosis의 미디얼 보더에 붙어 발 옆구리를 감싸고 발바닥 쪽으로 내려갑니다.
+
+## 신경 구조
+- saphenous nerve는 sartorius parts를 통해 내려오면서 tibial nerve와 common peroneal nerve로 나뉩니다.
+- common peroneal nerve는 fibula의 헤드 아래 넥 부분을 감싸고 앞쪽으로 돌아내립니다.
+- infosternal membrane 앞쪽으로 내려오는 것이 deep peroneal nerve이고, fibula를 따라 아래쪽으로 내려오는 것이 superficial peroneal nerve입니다.
+
+## 동맥 구조
+- 동맥의 경우에는 anterior tibial artery와 posterior tibial artery입니다.
+- posterior tibial artery와 공반되는 것은 posterior tibial nerve가 아니라 그냥 tibial nerve라고 합니다.
+- Anterior Tibial Artery와 공반되는 것은 Anterior Tibial Nerve가 아니라 Deep Peroneal Nerve입니다.
+
+## 근육 구조
+- Lateral Compartment에 있는 것은 Superficial Peroneal Nerve예요.
+- Lateral Compartment에는 큰 동맥이 없습니다.
+- Lateral Compartment에 있는 Peroneus, Longus, Brevis가 있는데 얘들은 공급을 어떻게 받느냐? Anterior Tibial Artery나 여기 있는 이 동맥이 Peroneal Artery죠.
+
+## 피부신경
+- Deep Fibular Nerve의 끝부분이 첫 번째 Interdigital Cleft의 피부에 구멍을 뚫습니다.
+- Superficial Fibular Nerve는 Deep Fibular Nerve가 Interosseous Membrane 앞쪽을 따라 내려가는 동안 피부를 따라서 내려가요.
+
+## Tibialis Anterior Strain
+- Tibialis Anterior Strain을 보시는데 Shin Splints라고도 해요.
+- 갑자기 평소 운동을 많이 하지 않던 사람이 굉장히 오랫동안 제주도 술래길을 걷는다거나 북도대장정을 한다거나 오랫동안 걷거나 등산을 하면 Tibialis Anterior의 앞쪽 발목 앞쪽이 굉장히 아프면서 두꺼워 당기는 그런 증상이 나타날 수 있어요.
+
+# 퀴즈
+
+1. 인피어의 구조는 어떻게 되어있나요?
+    - A. X자 형태로, 레터럴 사이즈는 두 개이지만 미디얼 사이즈로 가면서 하나로 합쳐집니다.
+    - B. Y자 형태로, 레터럴 사이즈는 하나이지만 미디얼 사이즈로 가면서 두 개로 나눠집니다.
+    - C. Z자 형태로, 레터럴 사이즈는 두 개이지만 미디얼 사이즈로 가면서 하나로 합쳐집니다.
+    - D. Y자 형태로, 레터럴 사이즈는 두 개이지만 미디얼 사이즈로 가면서 하나로 합쳐집니다.
+    - 답: B
+
+2. Tibialis Anterior Strain은 어떤 상황에서 발생하나요?
+    - A. 갑자기 평소 운동을 많이 하던 사람이 굉장히 오랫동안 제주도 술래길을 걷는다거나 북도대장정을 한다거나 오랫동안 걷거나 등산을 하면 발생한다.
+    - B. 갑자기 평소 운동을 많이 하지 않던 사람이 굉장히 오랫동안 제주도 술래길을 걷는다거나 북도대장정을 한다거나 오랫동안 걷거나 등산을 하면 발생한다.
+    - C. 갑자기 평소 운동을 많이 하던 사람이 굉장히 오랫동안 제주도 술래길을 걷는다거나 북도대장정을 한다거나 오랫동안 걷거나 등산을 하면 발생한다.
+    - D. 갑자기 평소 운동을 많이 하던 사람이 굉장히 오랫동안 제주도 술래길을 걷는다거나 북도대장정을 한다거나 오랫동안 걷거나 등산을 하면 발생한다.
+    - 답: B
+
+3. Deep Fibular Nerve의 끝부분이 어디에 위치하나요?
+    - A. 첫 번째 Interdigital Cleft의 피부에 구멍을 뚫습니다.
+    - B. 두 번째 Interdigital Cleft의 피부에 구멍을 뚫습니다.
+    - C. 세 번째 Interdigital Cleft의 피부에 구멍을 뚫습니다.
+    - D. 네 번째 Interdigital Cleft의 피부에 구멍을 뚫습니다.
+    - 답: A
+
+# Soleus Muscle과 TBI
+
+## Soleus Muscle
+- 발목의 dorsiflexion과 inversion을 담당하는 중요한 근육
+- 티비아의 표면에 결합되어 있음
+- 근육은 뼈에 텐던이라는 형태로 부착되지만, Soleus muscle은 뼈의 몸통에 직접 부착되는 것이 아니라 뼈를 둘러싸고 있는 뼈 막에 부착됨
+
+## Periosteum (뼈 막)
+- 뼈의 대부분을 싸고 있는 막
+- 근육이 뼈의 본체에 직접 결합되는 것이 아니라 periosteum에 결합됨
+- 근육을 둘러싸고 있는 뼈 막이 뼈 막과 결합할 수도 있음
+
+## TBI
+- 근육이 계속 뼈에 이어서 뼈가 잠기면 그 부분에서 microtrauma가 생길 수 있음
+- inflammation이 생기면 붓고 아프고 그래서 TBI 아래쪽 3분의 2 정도의 앞쪽에서 부은 느낌과 통증을 느끼게 됨
+- inflammation 반응에 의해서 근육과 뼈의 연결도에 의해서도 발생함
+
+## Common Fibular Nerve
+- 피부와 뼈 사이에 약하게 위치하기 때문에 손상받을 수 있음
+- 손상되면 Superficial peroneal nerve와 Deep peroneal nerve가 모두 마비가 되고, Foot drop이라는 현상이 나타남
+
+## Foot Drop
+- 발목에서 도르사이플렉션(dorsiflexion)이 안되기 때문에 발을 땅에서 떼면 발끝이 땅쪽으로 축 처지게 됨
+- 걸음걸을 때 Foot drop이 있는 발끝이 자꾸 땅끝에 닿기 때문에 걸음걸이가 변화하게 됨
+
+## High Stepping Gait, Swing Out Gait, Steppage Gait
+- Foot drop이 생기면서 발생하는 보상적인 행동
+- High Stepping Gait: 오른쪽 다리에 Foot drop이 생겼을 때, 오른쪽 다리를 땅에서 떼는 순간 발끝이 뚝 떨어지면서 땅에 닿으려고 하니까 그 순간 오른쪽 다리가 땅에 뜨면서 몸을 왼쪽으로 기울이는 거
+- Swing Out Gait: 다리를 옆으로 휘익휘익 원을 그리면서 스르륵 와가지고 앞으로 내리면 발끝이 땅에 안 닿으니까 그렇다 하겠다
+- Steppage Gait: 발을 높이 들어올리겠다. 앞으로는 이제 Steppage, 계단 올라갈 때처럼 막이 된 쪽 발을 유난히 정상적인 발보다 더 높게 들어올리게 되는 거
+
+---
+
+### 퀴즈
+
+1. Soleus muscle은 어떤 운동을 담당하는 근육인가요?
+    - A. 발목의 dorsiflexion과 inversion
+    - B. 팔꿈치의 flexion과 extension
+    - C. 손목의 flexion과 extension
+    - D. 무릎의 flexion과 extension
+    - 정답: A
+
+2. TBI에서 inflammation이 발생하면 어떤 증상이 나타나나요?
+    - A. 통증과 부음
+    - B. 피부 발진과 가려움
+    - C. 두통과 현기증
+    - D. 기침과 가래
+    - 정답: A
+
+3. Foot drop이 발생하면 어떤 보상적인 행동이 나타나나요?
+    - A. High Stepping Gait, Swing Out Gait, Steppage Gait
+    - B. Running, Jumping, Skipping
+    - C. Walking, Sitting, Standing
+    - D. Pushing, Pulling, Lifting
+    - 정답: A
+
+# 강의 요약
+
+## 딥 페르로브 인트라멘트와 스키 부츠 피시엔드럼
+- 딥 페르로브 인트라멘트는 스키 부츠를 너무 꽉 조이면 발목과 종아리 앞부분에 압력이 가해져 약간 압박을 받을 수 있음.
+- 이를 스키 부츠 피시엔드럼이라고도 함.
+
+## Pec Major Tendon
+- Pec Major Tendon은 우리 몸에서 가장 붉은 텐던으로, 끊어질 수도 있음.
+- 운동선수들이 Pec Major Tendon을 잘 끊어냄.
+- 근육이 달달한 사람들은 Pec Major Tendon에 연결된 근육이 강력하여 텐던이 끊어질 수 있음.
+
+## Doctorsmin과 Lenoir's Lift Tension
+- Doctorsmin은 현역을 은퇴한 후 광고 촬영 등 다른 활동을 하다가 갑작스럽게 끊어짐.
+- 이 상황에서 Doctorsmin은 Lenoir's Lift Tension 상태에서 강한 Plantar Strike으로 전환하려고 할 때 문제가 발생할 수 있음.
+
+## Pecanew Tendon Luxation
+- Pecanew Tendon Luxation이 생기면 발목이 튀어나와 있는 모습이 정상.
+- Tendon Luxation이 생기면 Silhouette이 없어지게 됨.
+
+## Calcaneal Tendon Reflex
+- Calcaneal Tendon Reflex는 Biceps나 Patellar Tendon Reflex와 같이 발목에서 Plantar Reflex를 일으키는 근육들이 연결되어 있음.
+
+## Plantar fasciitis
+- Plantar fasciitis는 흔히 족저근막염이라고 함.
+- Plantar fascia가 이렇게 삼각형으로 위치하며, 앞뒤 방향으로 넘길 수 있는 아치가 있음.
+- 아치의 높이를 낮추는 위쪽으로부터의 무게가 굉장히 많이 가해지면 plantar fascia는 탄력이 없어짐.
+
+# 퀴즈
+
+1. 딥 페르로브 인트라멘트는 어떤 상황에서 압박을 받을 수 있는가?
+   - A. 스키 부츠를 너무 꽉 조임
+   - B. 스키 부츠를 너무 헐렁하게 조임
+   - C. 스키 부츠를 착용하지 않음
+   - D. 스키 부츠를 오래 착용함
+   - 정답: A
+
+2. Pec Major Tendon이 끊어질 확률이 높은 사람은 누구인가?
+   - A. 운동을 전혀 하지 않는 사람
+   - B. 운동을 가끔 하는 사람
+   - C. 운동을 자주 하는 사람
+   - D. 운동선수
+   - 정답: D
+
+3. Plantar fasciitis는 어떤 상황에서 발생하는가?
+   - A. 발바닥 아치가 너무 높을 때
+   - B. 발바닥 아치가 너무 낮을 때
+   - C. 발바닥 아치가 펴지는 경향이 있을 때
+   - D. 발바닥 아치가 없을 때
+   - 정답: C
+
+# Plantar Reflex와 Babinski Sign
+
+Plantar Reflex는 발바닥을 긁었을 때 발가락이 움직이는 반응을 말합니다. 이는 정상적인 반응이지만, 발가락이 펴지는 반응을 보이는 경우, 이를 Babinski Sign라고 합니다. Babinski Sign는 Spinal Cord의 문제나 뇌질환, Brain Injury 등을 나타낼 수 있습니다. 그러나 4살 미만의 어린이에게는 정상적으로 나타날 수 있습니다.
+
+# Kidney의 Blood Supply와 Femur
+
+Kidney의 Blood Supply에는 작은 혈관이 몇 개 있으며, Femoral Head로 들어가는 작은 동맥이 하나 있습니다. Femur는 헤드에 연결된 리가먼트 Ligament 속을 통해 혈액을 공급하는데, 이는 Femur의 뇌 전체에 중요한 역할을 합니다. 그러나 Femur 힙조인트의 모빌리티를 늘리기 위해 사용되는 앵블러브 Inflation은 나이가 들어서 뼈의 밀도가 달라지는 고스테어 Process에 취약합니다.
+
+# Anterior와 Posterior Cruciate Ligament
+
+Anterior Cruciate Ligament는 피모로 올라가면 서로 반대가 됩니다. Anterior Cruciate Ligament는 TBR쪽에서 볼 때는 앞쪽으로 붙지만 위쪽으로 올라가면 피모로 뒤쪽으로 붙습니다. Posterior Cruciate Ligament는 TBR에 붙잡힌 부분은 뒤쪽이지만 피모로 올라가면 앞쪽으로 붙습니다. Anterior Cruciate Ligament가 피모로 올라가면서 서로 X자로 교차를 하기 때문에 바뀝니다.
+
+---
+
+**퀴즈:**
+
+1. Babinski Sign는 어떤 상황에서 정상적으로 나타날 수 있나요?
+    - A. 4살 미만의 어린이
+    - B. 10살 미만의 어린이
+    - C. 모든 성인
+    - D. 모든 어린이
+
+2. Femur의 헤드에 연결된 리가먼트는 어떤 역할을 하나요?
+    - A. 혈액을 공급
+    - B. 뼈의 밀도를 유지
+    - C. 힙조인트의 모빌리티를 늘림
+    - D. 뼈의 성장을 돕음
+
+3. Anterior Cruciate Ligament의 주요 역할은 무엇인가요?
+    - A. 피모가 몸통에 붙어있는 상태에서 TBR가 앞쪽으로 당겨지는 것을 막음
+    - B. 피모가 몸통에 붙어있는 상태에서 TBR가 뒤쪽으로 밀리는 것을 막음
+    - C. 피모가 몸통에 붙어있는 상태에서 TBR가 앞쪽으로 밀리는 것을 막음
+    - D. 피모가 몸통에 붙어있는 상태에서 TBR가 뒤쪽으로 당겨지는 것을 막음
+
+**답:**
+1. A. 4살 미만의 어린이
+2. A. 혈액을 공급
+3. A. 피모가 몸통에 붙어있는 상태에서 TBR가 앞쪽으로 당겨지는 것을 막음
+# 강의 요약
+
+## 1. Anterior Cruciate Ligament(ACL)과 Posterior Cruciate Ligament(PCL)
+ACL이 끊어지면 경골이 앞으로 당겨지는 현상을 Anterior Drawer Sign이라고 합니다. 반대로, PCL이 끊어지면 경골이 뒤로 움직이는 현상을 Posterior Drawer Sign이라고 합니다. 
+
+## 2. 어깨 관절과 Rotator Cuff Muscle
+어깨 관절은 팔의 움직임을 원활하게 하지만 안정성이 약합니다. 이를 안정화하는 가장 중요한 역할은 주변의 Ligament나 근육입니다. 특히 Rotator Cuff Muscle이 중요하며, 이는 Supraspinatus, Infraspinatus, Teres Minor라는 네 개의 근육으로 구성됩니다.
+
+## 3. Triangle of Auscultation
+Triangle of Auscultation은 청진을 수행하는 위치를 말합니다. 이 삼각형은 latissimus dorsi, trapezius, scapula 이 세 개의 구조물이 만나는 경계에 의해서 형성됩니다.
+
+## 4. Axillary Artery
+Axillary Artery는 첫 번째 갈비뼈를 넘어가는 subclavian artery가 변하는 부분입니다. 이는 팔쪽으로 내려가서 teres major까지 이어집니다. teres major를 지나면 brachial artery로 바뀝니다.
+
+# 퀴즈
+
+1. ACL이 끊어졌을 때 나타나는 현상은 무엇인가요?
+    - A. Posterior Drawer Sign
+    - B. Anterior Drawer Sign
+    - C. Triangle of Auscultation
+    - D. Axillary Artery
+    - 답: B. Anterior Drawer Sign
+
+2. 어깨 관절을 안정화하는 가장 중요한 근육은 무엇인가요?
+    - A. Supraspinatus
+    - B. Infraspinatus
+    - C. Teres Minor
+    - D. 모두 맞음
+    - 답: D. 모두 맞음
+
+3. 청진을 수행하는 위치를 나타내는 용어는 무엇인가요?
+    - A. Anterior Drawer Sign
+    - B. Posterior Drawer Sign
+    - C. Triangle of Auscultation
+    - D. Axillary Artery
+    - 답: C. Triangle of Auscultation
+
+# 강의 요약
+
+## Axillary 구조와 Lymph Node
+
+- Teres minor를 기준으로 그 이전 부분에는 First biceps, 중간 부분에는 Second biceps, 그리고 나머지 부분에는 또 다른 First biceps가 위치합니다.
+- Axillary에는 중요한 기관 중 하나인 Axillary lymph nodes가 있습니다. 이는 림프계의 한 부분으로, 림프계의 기관을 말합니다.
+- Axillary lymph nodes는 다섯 개의 그룹으로 구성되어 있으며, Spectral, Trimeral, Subspectral이 림프계의 위치를 나타내고 있습니다.
+- 림프계의 중앙 부분에는 Central node가 있으며, 림프계의 폭지 부분에는 Base node가 위치합니다.
+
+## Lymphatic System
+
+- Lymphatic System은 오른쪽과 왼쪽이 다르며, 오른쪽 가슴과 오른쪽 팔을 포함한 이쪽 팔의 Lymph는 오른쪽 Supraclavicular Lymph Node로 모든 Lymph가 들어갑니다.
+- 몸의 그 외의 오른쪽 부분은 Thoracic Duct라고 하는 왼쪽에 있는 Lymphatic System을 통해서 왼쪽으로 Supraclavicular Lymph Node로 들어갑니다.
+- Lymph Node가 중요한 것은 특히 전이될 때 암 중에서 Lymphatic System을 통해서 퍼져나가는 암 종류가 있고 혈액을 통해서 퍼져나가는 암 종류가 있습니다.
+
+## Brachial Plexus
+
+- Brachial plexus는 팔로 가는 신경이 만들어지는 곳입니다.
+- Plexus가 injury를 받았을 때 팔에서 마비나 손상이 나타납니다.
+- Superior trunk가 마비나 손상을 받았을 때는 abduction pulse라고 하는데 이 abduction pulse는 waiter's tip position(팔을 옆으로 들어올리는 자세)이 나타납니다.
+
+# 퀴즈
+
+1. Axillary lymph nodes는 몇 개의 그룹으로 구성되어 있나요?
+   - A. 3개
+   - B. 4개
+   - C. 5개
+   - D. 6개
+   - 정답: C. 5개
+
+2. 오른쪽 가슴과 오른쪽 팔을 포함한 이쪽 팔의 Lymph는 어디로 모든 Lymph가 들어가나요?
+   - A. 오른쪽 Supraclavicular Lymph Node
+   - B. 왼쪽 Supraclavicular Lymph Node
+   - C. 오른쪽 Thoracic Duct
+   - D. 왼쪽 Thoracic Duct
+   - 정답: A. 오른쪽 Supraclavicular Lymph Node
+
+3. Brachial plexus가 injury를 받았을 때 어떤 증상이 나타나나요?
+   - A. 팔의 마비나 손상
+   - B. 팔의 통증
+   - C. 팔의 저림증
+   - D. 팔의 경련
+   - 정답: A. 팔의 마비나 손상
+
+# 강의 요약
+
+## Waiter's Tip Position과 Abduction Palsy
+- 왼손의 특징적인 자세를 "Waiter's Tip Position"이라고 부르며, 이는 "Abduction Palsy"라는 Paralysis 유형을 나타냅니다.
+- 이 자세는 팔이 축 늘어져 있고, 팔꿈치가 타져 있으며, 손바닥이 뒤쪽으로 향하고 있습니다.
+
+## Backpacker's Palsy
+- "Backpacker's Palsy"는 장기간 동안 무거운 백팩을 지니고 다니는 경우에 발생하는 "Spinal Cord" 손상 유형입니다.
+- 이 경우에는 "Muscle Loss", "Foot Drop"과 "Radial Nerve"의 장애가 발생합니다.
+
+## Claw Hand
+- "Inferior Trunk"가 마비됐을 때 "Claw Hand"라는 현상이 발생합니다.
+- 이는 엄지, 둘째, 셋째 손가락이 구부러지는데 넷째와 다섯째 손가락이 안 구부러지는 것을 말합니다.
+
+## Wrist Drop
+- Radial Nerve가 마비됐을 때 Wrist Drop이라는 현상이 나타납니다.
+- 이는 손목이 들어오지 못하고 손목이 툭 펴진 상태로 꺾어지는 것을 말합니다.
+
+## Biceps Brachii의 역할
+- Biceps Brachii는 팔꿈치가 90도로 굽혀진 상태에서 손목이 Pronation하는 경우에 Flexor를 작동시킵니다.
+- 이는 팔꿈치의 Flexor를 작동시키는 것입니다.
+
+## Pull-up과 Chin-up의 차이
+- Pull-up과 Chin-up의 차이는 손목의 위치에 있습니다.
+- Chin-up이 더 쉬운 이유는 Biceps Brachii가 팔꿈치의 Flexor를 대도적으로 작동시키기 때문입니다.
+
+# 퀴즈
+
+1. "Waiter's Tip Position"이 나타내는 Paralysis 유형은 무엇인가요?
+    - A. Backpacker's Palsy
+    - B. Abduction Palsy
+    - C. Claw Hand
+    - D. Wrist Drop
+    - 정답: B. Abduction Palsy
+
+2. "Claw Hand" 현상이 발생하는 경우는 어떤 신경이 마비되었을 때인가요?
+    - A. Radial Nerve
+    - B. Inferior Trunk
+    - C. Biceps Brachii
+    - D. Spinal Cord
+    - 정답: B. Inferior Trunk
+
+3. Biceps Brachii가 팔꿈치의 Flexor를 대도적으로 작동시키는 운동은 무엇인가요?
+    - A. Pull-up
+    - B. Chin-up
+    - C. Push-up
+    - D. Sit-up
+    - 정답: B. Chin-up
+

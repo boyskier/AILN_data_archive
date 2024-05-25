@@ -1,0 +1,130 @@
+# 팔의 구조와 기능
+
+## 팔의 구성
+- 어깨: 몸통과 팔을 연결하는 부분으로 가슴 쪽 부분을 펙토럴, 등쪽 부분을 스캐퓰라, 어깨 부분을 델토이드 리전이라고 합니다.
+- 팔과 전완: 앞쪽과 뒤쪽 두 부위로 구분됩니다.
+- 손: 손목, 손바닥, 손등, 그리고 손가락으로 구분됩니다.
+
+## 팔의 뼈 구조
+- 어깨와 팔을 구성하는 뼈: 클라비클, 스캐퓰라, 휴머러스, 울나, 레디우스, 카프럴 뼈 8개, 메타카프럴, 팔린지알로 이루어져 있습니다.
+
+## 팔의 움직임
+- 팔을 최대한 180도로 외전시킬 때 Glenohumeral 관절에서 120도의 움직임이 발생하며, 스케이프라의 회전에 의해 60도의 움직임이 발생합니다.
+
+## 팔의 골절
+- Radius의 Distal End 부분이 골절되면, 부러진 부분이 뒤로 이동하면서 Radius의 길이가 짧아지게 되어 양쪽 스틸로이드 프로세스가 일직선 상에 위치하게 됩니다. 이를 Colles' fracture라고 합니다.
+- Scaphoid는 Carpal bones 중에서 가장 자주 골절되는 뼈입니다.
+
+---
+
+### 퀴즈
+
+1. 팔을 최대한 180도로 외전시킬 때 Glenohumeral 관절에서 얼마의 움직임이 발생하나요?
+    - A. 60도
+    - B. 90도
+    - C. 120도
+    - D. 180도
+
+2. Radius의 Distal End 부분이 골절되면서 부러진 부분이 뒤로 이동하면서 어떤 현상이 발생하나요?
+    - A. Radius의 길이가 길어짐
+    - B. 양쪽 스틸로이드 프로세스가 일직선 상에 위치함
+    - C. Scaphoid가 골절됨
+    - D. 팔의 외전 각도가 120도로 제한됨
+
+3. Carpal bones 중에서 가장 자주 골절되는 뼈는 무엇인가요?
+    - A. Radius
+    - B. Ulna
+    - C. Scaphoid
+    - D. Metacarpal
+
+---
+
+### 답안
+
+1. C. 120도
+2. B. 양쪽 스틸로이드 프로세스가 일직선 상에 위치함
+3. C. Scaphoid
+# 강의 요약
+
+## 스케포이드 골절
+스케포이드는 손목의 radial side에 위치하며, 넘어질 때 손목을 지탱하는 역할을 합니다. 스케포이드 골절은 손목을 dorsiflexion, abduction 시켰을 때 통증을 느끼는 것으로 확인할 수 있습니다. 특히, Anatomical Snuff Box라는 부분을 눌렀을 때 통증이 발생하면 스케포이드 골절의 가능성이 높습니다. 스케포이드 골절은 혈액 공급이 중단되어 necrosis가 발생하기 쉽습니다.
+
+## 근막의 구조
+근막은 근육을 둘러싸는 연결조직으로, pectoralis fascia, axillary fascia, subclavius muscle, pectoralis minor muscle 등 다양한 부위에 위치합니다. 이들은 서로 연결되어 있으며, 근막의 구조는 근육의 위치와 기능에 따라 다양합니다.
+
+## 브라키얼 패시아와 팔의 구조
+브라키얼 패시아는 팔의 근육을 둘러싸는 근막으로, Humerus를 중심으로 구성되어 있습니다. 이는 Medial과 Lateral Intermaxillary Septum에 의해 Anterior와 Posterior 두 개의 컴파트먼트로 나누어져 있습니다. 팔꿈치 아래쪽의 Anterior Brachial Fascia는 Radius와 Ulna 사이를 연결하는 Interosseous Membrane과 연결되어 있습니다.
+
+## 손목의 구조
+손목에는 Flexor Retinaculum과 Extensor Retinaculum이라는 두 개의 근막이 있습니다. 이들은 손목 뼈와 사이에 공간을 형성하며, 이 공간을 통해 Flexor tendon과 Extensor Muscles의 Tendon이 지나갑니다.
+
+## 손의 구조
+손바닥에는 Palmar aponeurosis라는 삼각형의 연결조직이 있습니다. 이는 Palmar carpal ligament 앞쪽을 지나 손바닥으로 들어와 4개의 띠가 되고, 이 4개의 띠는 각각 4개의 손가락의 기저 부분으로 연결됩니다.
+
+## 팔의 정맥 구조
+팔의 얕은 정맥은 손등에서 시작하며, Dorsal venous network를 형성합니다. 이 중 Cephalic vein은 Radius의 앞면을, Basilic vein은 Ulna의 앞면을 따라 올라가며, 이 두 개의 정맥은 팔꿈치 부위에서 Median cubital vein에 의해 연결됩니다.
+
+# 퀴즈
+
+1. 스케포이드 골절의 특징적인 증상은 무엇인가요?
+   - A. 손목의 radial side에서 통증을 느낀다.
+   - B. Anatomical Snuff Box를 눌렀을 때 통증을 느낀다.
+   - C. 손목을 dorsiflexion, abduction 시켰을 때 통증을 느낀다.
+   - D. 모두 맞다.
+
+2. 브라키얼 패시아는 어떤 부위를 둘러싸고 있나요?
+   - A. Humerus
+   - B. Radius
+   - C. Ulna
+   - D. 모두 맞다.
+
+3. 손목의 앞쪽에 위치한 근막은 무엇인가요?
+   - A. Flexor Retinaculum
+   - B. Extensor Retinaculum
+   - C. Palmar Carpal Ligament
+   - D. Palmar aponeurosis
+
+답: 1. D, 2. A, 3. A
+# 강의 요약
+
+## 팔의 혈관 구조
+
+- 팔의 표면 혈관인 cephalic vein과 median vein은 팔꿈치를 지나 다른 경로를 따라 deep vein에 합류한다.
+- 손의 깊은 부분에서는 deep palmar arch가 형성되고 여기서 deep veins이 시작된다.
+- 팔의 깊은 veins들은 팔꿈치를 지나면 brachial vein과 deep brachial vein 또는 profunda brachii vein이라고 하는 두 개의 깊은 veins이 되어서 어깨 쪽으로 올라간다.
+- 이 깊은 veins들이 목에 도달하면 accessory vein으로 이름이 바뀌고, 첫 번째 갈비뼈를 넘어서 몸통 속으로 들어가게 되면 그때부터 subclavian vein으로 이름이 바뀐다.
+
+## 팔의 림프계 구조
+
+- 팔의 Superficial lymphatic veins들은 손에서 시작하여 어깨쪽으로 올라가는데, Cephalic vein과 함께 진행되며 Deltopectoral triangle까지 올라간다.
+- 팔에서는 Deep lymphatic veins들이 Radial vein과 Ulnar vein을 따라 올라가며, 팔꿈치 위에서는 Brachial vein을 따라 올라간다.
+
+## 목 부위의 신경 구조
+
+- 목 부위에서는 Spinal cord의 Anterior rami들이 두 개의 plexus를 형성하는데 C1에서 C4까지 나온 Spinal nerve의 Anterior rami들이 모여서 Cervical plexus를 형성하고 C5부터 T1까지의 Spinal nerve의 Anterior rami들은 Brachial plexus를 형성한다.
+
+---
+
+# 퀴즈
+
+1. 팔의 표면 혈관인 cephalic vein과 median vein은 어디서 deep vein에 합류하는가?
+    - A. 팔꿈치
+    - B. 어깨
+    - C. 손목
+    - D. 손가락
+    - 정답: A. 팔꿈치
+
+2. 팔의 Superficial lymphatic veins들은 어디서 시작하여 어디까지 올라가는가?
+    - A. 손에서 시작하여 팔꿈치까지
+    - B. 팔꿈치에서 시작하여 어깨까지
+    - C. 손에서 시작하여 어깨까지
+    - D. 어깨에서 시작하여 손까지
+    - 정답: C. 손에서 시작하여 어깨까지
+
+3. C1에서 C4까지 나온 Spinal nerve의 Anterior rami들이 모여서 무엇을 형성하는가?
+    - A. Cervical plexus
+    - B. Brachial plexus
+    - C. Lumbar plexus
+    - D. Sacral plexus
+    - 정답: A. Cervical plexus
+

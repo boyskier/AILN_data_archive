@@ -1,0 +1,314 @@
+# 강의 요약
+
+## 영상 편집과 pH 측정
+- 영상의 Title은 편집 소프트웨어를 통해 추가할 수 있습니다. 자세한 방법은 해당 소프트웨어의 사용 설명서나 온라인 자료를 참고하세요.
+- pH 측정은 pH meter나 다른 pH 측정 장치를 사용합니다. 이전에는 pH를 계산하여 맞추는 방법이 중요했지만, 현재는 장치를 사용하여 직접 측정하는 것이 일반적입니다.
+
+## 단백질의 구조와 기능
+- 단백질은 아미노산의 펩티드 결합으로 이루어진 구조를 가지며, 이 구조는 공간적으로 특정한 모양을 갖습니다.
+- 이 모양은 단백질의 기능과 역할을 결정하는 중요한 요소입니다.
+- 단백질은 다양한 기능을 수행합니다. 예를 들어, 구조적 지지체 역할을 하는 콜라겐과 같은 단백질은 강한 triple helix 구조를 형성하여 체내에서 구조적인 지지를 제공합니다.
+- 단백질은 enzyme로서 화학 반응을 촉매하는 역할을 할 수도 있습니다.
+
+## 단백질 구조 분석 방법
+- X-ray crystallography는 protein 구조를 밝힐 수 있는 대표적인 방법 중 하나입니다.
+- 최근에는 인공지능(AI)와 같은 소프트웨어 계산을 활용하여 protein 구조를 추정하는 연구도 진행되고 있습니다.
+- protein 구조를 밝히는 연구는 생명과학 분야에서 중요한 역할을 합니다.
+
+# 퀴즈
+
+1. 단백질의 구조는 어떤 결합으로 이루어져 있나요?
+    - A. 아미노산의 펩티드 결합
+    - B. 당의 글리코사이드 결합
+    - C. 지방산의 에스터 결합
+    - D. 핵산의 인산 결합
+    - 정답: A. 아미노산의 펩티드 결합
+
+2. 단백질 구조를 밝히는 대표적인 방법은 무엇인가요?
+    - A. X-ray crystallography
+    - B. NMR spectroscopy
+    - C. Mass spectrometry
+    - D. Chromatography
+    - 정답: A. X-ray crystallography
+
+3. 단백질의 어떤 요소가 그 기능과 역할을 결정하나요?
+    - A. 분자량
+    - B. 아미노산의 종류
+    - C. 공간적인 모양
+    - D. 용해도
+    - 정답: C. 공간적인 모양
+
+# 강의 요약
+
+## 단백질의 구조와 기능
+
+단백질의 기능을 바꾸려면, 그 구조를 알아야 합니다. 단백질의 구조에 맞는 화학물질을 디자인하고 합성하여 사용할 수 있습니다. 이는 단백질의 구조가 Hierarchical 구조를 가지기 때문입니다. 단백질은 Primary, Secondary, Tertiary, Quaternary 구조로 구성되어 있습니다.
+
+## 단백질의 구성 요소
+
+단백질은 Polypeptide로 이루어져 있습니다. Polypeptide는 Amino Acid들이 연결되어 있는 구조입니다. 이 연결된 곳을 Peptide Bond라고 합니다. Peptide Bond는 한 쪽에 Amino Group과 Alpha Carboxyl Group이 있고, 다른 쪽에 Amino Group이 있는데, 이들이 결합할 때 물이 빠져나가면서 결합이 형성됩니다.
+
+## 단백질의 구조 결정 요소
+
+Peptide bond의 특징은 partial double bond를 갖고 있다는 것입니다. 이는 Peptide bond가 탄소와 아미드, 질소 사이에 회전이 불가능한 double bond를 가지고 있음을 의미합니다. 이러한 partial double bond의 성질은 이 단백질의 구조 결정에 매우 중요한 역할을 합니다.
+
+## 단백질의 구조 변화
+
+단백질의 구조는 primary structure로 시작합니다. 이는 아미노산의 순서를 의미하며, 그 다음에는 secondary structure가 있습니다. secondary structure는 primary structure가 정해지면 그 모양을 취할 수 밖에 없는 구조를 말합니다. 마지막으로 tertiary structure가 있습니다. 이것은 이렇게 polypeptide chain이 3차원 공간에 접혀서 특정한 모양을 갖게 되는 것을 얘기하는 건데 이 tertiary structure는 대부분의 경우에 folding하지 못해요.
+
+## 단백질의 번역과 접힘
+
+단백질은 free ribosome에서 번역되는 경우도 있지만 대부분의 경우에는 ribosome에 붙어있죠. ER, endoplasmic reticulum에 ribosome에 붙은 상태로 거기서부터 translation이 쭉 진행이 되는 거예요. 안으로 ER lumen으로 peptide가 들어가면 그럼 물론 어떤 경우에는 folding에 성공할 수 있지만 그렇지 못한 경우가 많기 때문에 어떤 게 붙어요? 도와주는 단백질이 뭐 있잖아요? chaperone에 붙여서 도와주게 되죠.
+
+## 퀴즈
+
+1. 단백질의 구조를 바꾸기 위해 필요한 것은 무엇인가요?
+    - A. 화학물질
+    - B. 유전자
+    - C. RNA
+    - D. DNA
+    - 정답: A. 화학물질
+
+2. 단백질의 구조 결정에 중요한 역할을 하는 것은 무엇인가요?
+    - A. Amino Acid
+    - B. Peptide Bond
+    - C. Polypeptide
+    - D. Alpha Carboxyl Group
+    - 정답: B. Peptide Bond
+
+3. 단백질이 3차원 공간에 접히는 구조를 무엇이라고 하나요?
+    - A. Primary Structure
+    - B. Secondary Structure
+    - C. Tertiary Structure
+    - D. Quaternary Structure
+    - 정답: C. Tertiary Structure
+
+# 강의 요약
+
+## Peptide의 Amino Acid Sequence 파악 방법
+1. **생화학의 Direct Sequencing 방법**: 이 방법은 dinitrobenzene이라는 화학물질을 사용하여 N-terminus에 반응시켜 N-terminal amino acid를 알아내는 방법입니다. 이후 FDMB가 peptide에 N-terminus에 붙어 acid hydrolysis를 시키면 amino acid의 조성을 알아낼 수 있습니다. 이 방법은 Edman degradation을 사용합니다.
+2. **Mass Spectrometry 방법**: 이 방법은 peptide를 ionization 시킨 후 진공 상태에서 날려보내어 Charge to Mass Ratio에 의해 분리하는 방법입니다. 이 방법은 훨씬 빠르고 쉽고 정확하게 amino acid sequence를 알아낼 수 있습니다.
+
+## Mass Spectrometry를 이용한 Sequencing
+1. Electrospray Ionization을 통해 펩타이드 ionization을 시킵니다.
+2. Mass Spectrometry 1번을 통해 분리합니다.
+3. 분리된 펩타이드들을 레이저로 쏴서 부숴버립니다.
+4. 부숴진 펩타이드를 다시 2번 Mass Spectrometry로 분리합니다.
+
+## Primary Structure의 중요성
+Primary Structure를 보면 같은 종 내에서도 같은 기능을 하는 유전자들에도 차이가 있습니다. 이 차이는 다음 세대로 전달되는 DNA의 돌연변이로 인해 발생합니다. 이런 다양성이 우리 인구에서 상당한 비율로 존재하면 그걸 diversity라고 합니다. Diversity는 개인이 drug에 반응하는 것이 다 다르기 때문에 중요합니다.
+
+## Homolog와 Paralog
+Homolog는 같은 ancestral gene에서 나온 것이라고 생각되는 것입니다. Paralog는 사람한테 있는 gene인데 gene A, B, C가 sequence가 비슷한 것을 말합니다.
+
+# 퀴즈
+1. Peptide의 Amino Acid Sequence를 알아내는 두 가지 방법은 무엇인가요?
+   - 답: 생화학의 Direct Sequencing 방법, Mass Spectrometry 방법
+2. Mass Spectrometry를 이용한 Sequencing의 과정을 순서대로 나열해보세요.
+   - 답: Electrospray Ionization을 통해 펩타이드 ionization을 시키고, Mass Spectrometry 1번을 통해 분리한 후, 분리된 펩타이드들을 레이저로 쏴서 부숴버리고, 부숴진 펩타이드를 다시 2번 Mass Spectrometry로 분리한다.
+3. Homolog와 Paralog의 차이는 무엇인가요?
+   - 답: Homolog는 같은 ancestral gene에서 나온 것이라고 생각되는 것이고, Paralog는 사람한테 있는 gene인데 gene A, B, C가 sequence가 비슷한 것을 말한다.
+# 강의 요약
+
+## 유전자 진화와 다양성
+
+- 유전자는 Ancestral gene에서 시작하여 Duplication과 Mutation을 거쳐 현재의 상태에 이른다.
+- 이러한 유전자 군들을 Paralog라고 부르며, 많은 유전자들은 Superfamily로 구분된다.
+- Tissue-specific variation과 Tissue-specific isoform이 존재하며, 이는 Hemoglobin의 Subunit들의 종류가 Embryo, Fetus, Adult 때마다 다르게 나타나는 현상을 예로 들 수 있다.
+
+## Creatine Phosphorylation
+
+- Creatine Phosphorylation은 Mitochondria와 Cytosol에서 각각 다른 방향으로 진행된다.
+- Mitochondria에서는 ATP를 이용하여 Creatine을 Phosphorylation하여 Phosphocreatine을 만들고, Cytosol에서는 Phosphocreatine을 이용하여 Phosphate 그룹을 띄워서 ADP에 전달하여 ATP를 생성한다.
+- Phosphocreatine은 근육에서 에너지를 빠르게 저장하는 방법 중 하나로, M타입과 B타입으로 구분되며, 근육, 뇌, 심장에서 각각 다른 다이머 형태로 작용한다.
+
+## Insulin과 종 특이성
+
+- Insulin은 종에 따라 아미노산 시퀀스가 다르며, 돼지의 Insulin은 사람의 것과 거의 차이가 없어서 약으로 사용되기도 한다.
+- 그러나 아미노산 시퀀스 차이가 거의 없음에도 불구하고 면역 반응이 있는 경우도 있어, 현재는 사람의 Insulin을 사용하는 것이 일반적이다.
+
+## Secondary Structure
+
+- Secondary structure는 Alpha helix와 Beta sheet로 구성되어 있으며, Alpha helix는 나선의 구조를 갖고 있어 한 번 회전할 때 아미노산 3개가 추가된다.
+- Beta sheet는 linear하게 peptide 모양이 생기며, 이것들이 서로 antiparallel 혹은 parallel하게 side by side로 나란히 쓰이게 되어, 각각은 사이에 amino hydrogen bond가 일어나고 carbon backbone 사이에 hydrogen bond가 형성되어 이 구조를 유지한다.
+
+---
+
+# 퀴즈
+
+1. 유전자가 현재의 상태에 이르기까지 거치는 과정을 순서대로 나열하시오.
+   - 답: Ancestral gene -> Duplication -> Mutation
+
+2. Phosphocreatine이 근육에서 에너지를 빠르게 저장하는 방법 중 하나라고 했을 때, 이것이 근육, 뇌, 심장에서 어떻게 다르게 작용하는지 설명하시오.
+   - 답: 근육에서는 M,M 다이머로, 뇌에서는 B,B 다이머로, 심장에서는 M,B 다이머로 작용한다.
+
+3. Alpha helix와 Beta sheet의 차이점을 설명하시오.
+   - 답: Alpha helix는 나선의 구조를 갖고 있어 한 번 회전할 때 아미노산 3개가 추가되며, Beta sheet는 linear하게 peptide 모양이 생기며, 이것들이 서로 antiparallel 혹은 parallel하게 side by side로 나란히 쓰이게 된다.
+# 강의 요약
+
+## 단백질의 구조
+단백질의 구조는 크게 secondary structure와 tertiary structure로 나뉩니다. Secondary structure는 단백질의 기본적인 구조를 이루며, 이는 helix와 beta sheet, 그리고 이들을 연결하는 loop 또는 bend로 구성됩니다. Tertiary structure는 secondary structure가 3차원적으로 접혀서 만들어진 구조로, fibrous와 globular 두 종류가 있습니다.
+
+## Fibrous 단백질
+Fibrous 단백질의 대표적인 예로는 keratin과 collagen이 있습니다. Keratin은 머리카락에 발견되는 단백질로, alpha helix가 dimer를 만들어서 protofibril이 되고, protofilament가 모여서 머리카락을 형성합니다. Collagen은 세 개의 helical strand가 서로 연결되어 triple helix를 형성하며, 이 과정에서 vitamin C가 필요합니다.
+
+## Globular 단백질
+Globular 단백질은 propeptide가 공간적으로 접히기 때문에 매우 조밀한 구조를 가지게 됩니다. 이러한 단백질 내에는 fold와 motif라는 특정한 모양을 취할 수 있는 부위가 있습니다.
+
+## Hemoglobin
+Hemoglobin은 산소를 운반하는 기능을 가지고 있습니다. 산소는 우리 몸의 조직에 전달되어야 하는데, 이를 위해 우리 몸은 lungs를 통해 산소를 흡입하고, blood를 통해 조직으로 운반합니다. Hemoglobin은 철이 중심이 되어 있으며, 철은 6개의 coordinate bonds를 할 수 있습니다.
+
+---
+
+# 퀴즈
+
+1. 단백질의 구조는 크게 어떤 두 가지로 나뉘는가?
+   - A. Primary structure와 Secondary structure
+   - B. Secondary structure와 Tertiary structure
+   - C. Tertiary structure와 Quaternary structure
+   - D. Primary structure와 Quaternary structure
+   - 정답: B. Secondary structure와 Tertiary structure
+
+2. Collagen의 triple helix 형성 과정에서 필요한 비타민은 무엇인가?
+   - A. Vitamin A
+   - B. Vitamin B
+   - C. Vitamin C
+   - D. Vitamin D
+   - 정답: C. Vitamin C
+
+3. Hemoglobin이 산소를 운반하는 과정에서 중심이 되는 물질은 무엇인가?
+   - A. Hydrogen
+   - B. Oxygen
+   - C. Nitrogen
+   - D. Iron
+   - 정답: D. Iron
+
+# 헤모글로빈의 구조와 산소 결합 메커니즘
+
+헤모글로빈은 산소를 운반하는 역할을 수행합니다. 이를 위해 헤모글로빈은 특정한 3차원 구조를 가지며, 이 구조는 유연성을 가지고 있습니다. 이 구조는 여러 가지 약한 결합력으로 유지되며, 이러한 결합력은 계속해서 형성되고 끊어지는 과정을 반복하면서 구조를 유지합니다.
+
+## 헤모글로빈의 구조
+
+헤모글로빈의 구조에는 Proximal Histidine, Distal Histidine, Valine, Phenylalanine 등의 아미노산들이 포함되어 있습니다. Proximal Histidine은 철과 결합하며, 이는 산소와 결합하는 위치입니다. Distal Histidine은 산소와 약간의 상호작용을 합니다. 이러한 구조 덕분에 산소는 헤모글로빈 내부로 들어올 수 있습니다.
+
+## 산소 결합 메커니즘
+
+산소는 철에 결합하게 되는데, 이 결합은 직선적이지 않고 각도를 이루어 결합합니다. 이는 Histidine이 옆으로 기울어져 있기 때문입니다. 이러한 결합 방식 덕분에 산소는 쉽게 떨어져 나갈 수 있습니다. 이를 산화(Oxidation)라고 부릅니다.
+
+## 산소 운반
+
+헤모글로빈은 산소를 안전하게 운반하는 역할을 합니다. 이를 위해 헤모글로빈은 산소가 결합할 수 있는 공간을 만들어주며, 디히스티딘은 산소의 흐름을 조절하여 산소가 너무 빠르게 결합하지 않도록 막아줍니다.
+
+## 결합 상수
+
+산소와 헤모글로빈의 결합은 결합 상수(KA)와 해리 상수(KD)로 표현될 수 있습니다. 결합 상수는 결합 반응의 균형 상수이며, 해리 상수는 결합이 끊어지는 반응의 균형 상수입니다.
+
+---
+
+# 퀴즈
+
+1. 헤모글로빈의 구조를 유지하는 결합력은 어떤 과정을 반복하나요?
+   - A. 형성과 끊어짐
+   - B. 산화와 환원
+   - C. 결합과 해리
+   - D. 이온화와 중화
+
+2. 산소가 헤모글로빈에 결합할 때, 결합은 어떤 형태로 이루어지나요?
+   - A. 직선적으로
+   - B. 각도를 이루어
+   - C. 원형으로
+   - D. 복잡한 형태로
+
+3. 산소와 헤모글로빈의 결합을 표현하는 상수는 무엇인가요?
+   - A. 결합 상수(KA)와 해리 상수(KD)
+   - B. 산화 상수(KO)와 환원 상수(KR)
+   - C. 이온화 상수(KI)와 중화 상수(KN)
+   - D. 결합 상수(KA)와 이온화 상수(KI)
+
+---
+
+# 답안
+
+1. A. 형성과 끊어짐
+2. B. 각도를 이루어
+3. A. 결합 상수(KA)와 해리 상수(KD)
+# 강의 요약
+
+## Ligand의 결합과 P50 값
+
+Ligand의 농도에 따라 결합된 portion의 양이 변화하며, 이에 따라 결합 부위인 KB의 상태도 변화합니다. Myoglobin의 경우 P50가 0.26kPa로 매우 강한 결합을 나타내며, P50 값이 낮을수록 Ligand의 농도가 낮을 때에도 강하게 결합합니다.
+
+## Hemoglobin의 구조
+
+Hemoglobin은 4개의 subunit이 결합한 형태로 되어 있으며, 각각 alpha1, alpha2, alpha3로 구성되어 있습니다. 각 subunit이 서로 만나고 있는 interface는 단순히 부딪히는 것이 아니라 서로 유지되고 있습니다. 이는 alpha1과 beta1 사이의 결합 부위에 여러 개의 weak interaction이 함정되어 있기 때문입니다.
+
+## T-state와 R-state
+
+Hemoglobin의 구조는 Tense state와 Relaxed state로 나뉘며, 이는 alpha1과 beta2 사이의 interface에 ionic interaction이 많이 형성되어 있거나 없어지기 때문입니다. R-state는 산소가 잘 결합하는 상태이고, T-state는 산소가 잘 결합하지 못하는 상태입니다.
+
+## Digital Hysteresis
+
+Digital Hysteresis를 통해 힘과 철이 결합되어 있는 것을 볼 수 있습니다. 산소가 결합하면 힘의 프레임이 꺾이게 되며, 이 아주 미세한 변화가 전체 3차원적인 변화를 유발합니다.
+
+## Positive Cooperative Binding과 Allostery
+
+Positive Cooperative Binding은 한 개의 서브유닛에 산소가 결합하면 해당 지점이 해당 모양의 체인으로 변화하게 되며, 이러한 모양의 변화가 다른 서브유닛의 모양 변화를 유도하여 악세사리와 Affinity를 변화시킵니다. 이로 인해 Positive Cooperative Binding이 발생합니다. 이러한 산소 결합으로 인해 다른 지점의 모양이 변화하는 것을 Allostery라고 합니다.
+
+# 퀴즈
+
+1. P50 값이 낮을수록 Ligand의 농도가 낮을 때에도 강하게 결합하는 것이다. (O/X)
+2. Hemoglobin의 구조는 몇 개의 subunit이 결합한 형태로 되어 있는가?
+   - A. 2개
+   - B. 3개
+   - C. 4개
+   - D. 5개
+3. Positive Cooperative Binding이란 무엇인가?
+   - A. 한 개의 서브유닛에 산소가 결합하면 해당 지점이 해당 모양의 체인으로 변화하게 되며, 이러한 모양의 변화가 다른 서브유닛의 모양 변화를 유도하여 악세사리와 Affinity를 변화시키는 것
+   - B. 산소가 결합하면 힘의 프레임이 꺾이게 되는 것
+   - C. 산소가 잘 결합하는 상태
+   - D. 산소가 잘 결합하지 못하는 상태
+
+# 퀴즈 답안
+
+1. O
+2. C
+3. A
+# 강의 요약
+
+## 알로스테리즘과 코오퍼러티브 바인딩
+- 알로스테리즘은 효소의 반응성을 변화시키는 메커니즘으로, regulator, activator, inhibitor 등이 효소의 subunit과 결합하는 자리가 아닌 다른 자리에 결합하여 발생합니다.
+- 코오퍼러티브 바인딩은 여러 subunit이 함께 작동하는 현상을 말합니다.
+
+## 헤모글로빈의 기능에 영향을 주는 요소
+- 헤모글로빈의 기능에 영향을 주는 주요 요소로는 수소, bisphosphoglycerate, BPG 등이 있습니다.
+- 수소는 beta subunit의 histidine의 protonation에 의해 발생하며, 이는 알로스테리즘에 의해 헤모글로빈에 결합하여 버퍼링을 합니다.
+
+## 단백질의 구조와 결합 상수
+- 단백질의 기본 구조는 특정한 3D 구조로 이루어져 있으며, 이는 단백질이 접근하는 방법을 결정합니다.
+- Affinity constant KA와 dissociation constant KD는 단백질의 결합 및 해제에 영향을 미치는 상수입니다.
+
+## 단백질의 변성
+- 단백질의 변성은 단백질의 구조적 불안정성을 의미하며, 이는 열, 액체 또는 수소 결합 등에 의해 일어날 수 있습니다.
+
+# 퀴즈
+
+1. 알로스테리즘은 어떤 메커니즘인가요?
+   - A. 효소의 반응성을 변화시키는 메커니즘
+   - B. 효소의 반응성을 유지하는 메커니즘
+   - C. 효소의 반응성을 감소시키는 메커니즘
+   - D. 효소의 반응성을 증가시키는 메커니즘
+   - 정답: A
+
+2. 헤모글로빈의 기능에 영향을 주는 주요 요소는 무엇인가요?
+   - A. 수소, bisphosphoglycerate, BPG
+   - B. 수소, bisphosphoglycerate, ATP
+   - C. 수소, bisphosphoglycerate, ADP
+   - D. 수소, bisphosphoglycerate, AMP
+   - 정답: A
+
+3. 단백질의 변성은 무엇을 의미하는가요?
+   - A. 단백질의 구조적 안정성
+   - B. 단백질의 구조적 변화
+   - C. 단백질의 구조적 불안정성
+   - D. 단백질의 구조적 유지
+   - 정답: C

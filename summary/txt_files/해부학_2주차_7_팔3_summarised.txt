@@ -1,0 +1,133 @@
+# 강의 요약
+
+## "Axilla"의 구조와 기능
+
+"엑실라"는 우리말로 "겨드랑이"라고 합니다. 이는 몸통에서 팔로 연결되는 피부 표면뿐만 아니라 그 내부에 있는 "Humerus"와 "Thoracic Cage" 사이에 형성되는 피라미드 형태의 공간을 말합니다. 이 공간은 "Glenohumeral Joint" 아랫부분과 "Axillary Fascia" 윗부분으로 구성되어 있습니다. 
+
+## "Axilla"의 중요성
+
+"Axilla"는 몸통에서 팔로 들어가는 모든 조직이 통과하게 되기 때문에 중요합니다. 이 공간에는 "Axillary Artery Vein"이 있고 그 주위에 팔로 들어가는 "Brachial Plexus"라는 신경들이 위치합니다. 이 Artery Vein 신경은 동일한 Connective Tissue에 쌓이기 때문에 "Axillary Sheath"라고 합니다. 
+
+## "Axillary Artery"의 구조와 기능
+
+"Axillary Artery"는 심장에서 시작된 Artery가 첫번째 갈비뼈를 넘는 순간 "Axillary Artery"로 이름이 바뀌고, 이 이름은 "Teres Major"의 "Inferior Border"를 지나갈 때까지 유지됩니다. 이를 지나면 "Brachial Artery"로 이름이 다시 바뀌게 됩니다. 
+
+## "Axillary Artery"의 세 파트
+
+"Axillary Artery"는 "Pectoralis minor muscle"이 덮는 부분을 기준으로 해서 그 이전 부분을 first part, "Pectoralis minor muscle"이 덮고 있는 부분을 second part, 그리고 그 이후 부분을 third part로 구분합니다. 각 파트에서는 다양한 가지가 나오게 됩니다. 
+
+# 퀴즈
+
+1. "Axilla"는 어떤 형태의 공간을 말하는가?
+    - A. 원형
+    - B. 사각형
+    - C. 피라미드형
+    - D. 원통형
+    - 정답: C. 피라미드형
+
+2. "Axillary Artery"는 어디서 시작되어 어디까지 이름이 유지되는가?
+    - A. 심장에서 시작되어 첫번째 갈비뼈를 넘을 때까지
+    - B. 심장에서 시작되어 "Teres Major"의 "Inferior Border"를 지나갈 때까지
+    - C. 첫번째 갈비뼈에서 시작되어 "Teres Major"의 "Inferior Border"를 지나갈 때까지
+    - D. "Teres Major"의 "Inferior Border"에서 시작되어 심장까지
+    - 정답: B. 심장에서 시작되어 "Teres Major"의 "Inferior Border"를 지나갈 때까지
+
+3. "Axillary Artery"의 세 파트를 구분하는 기준은 무엇인가?
+    - A. "Pectoralis major muscle"이 덮는 부분
+    - B. "Pectoralis minor muscle"이 덮는 부분
+    - C. "Teres Major"의 "Inferior Border"
+    - D. 첫번째 갈비뼈
+    - 정답: B. "Pectoralis minor muscle"이 덮는 부분
+
+# 강의 요약
+
+## 1. Subscapular Lymph Node 그룹과 Artery
+- Subscapular lymph node 그룹은 subscapular artery에서 시작하여 circumflex scapular와 thoracodorsal artery로 나누어집니다.
+- 상완골의 surgical neck 주위로는 anterior와 posterior circumflex humeral artery가 나타납니다.
+- Axillary vein은 깊은 정맥인 brachial vein과 얕은 정맥인 basilic vein이 합쳐져 형성되며, cephalic vein이 합류하면서 subclavian vein이 형성됩니다.
+
+## 2. Axillary 공간과 Lymph Node 그룹
+- Axillary 공간 내부에는 apical, humeral, central, pectoral, subscapular lymph node 그룹이 존재합니다.
+- Lymph는 pectoral, subscapular, humeral에서 central로, central에서 apical로, apical에서 axillary 밖으로 나가 supraclavicular node로 향합니다.
+- Supraclavicular node에서는 subclavian lymphatic trunk를 통해 오른쪽에서는 right lymphatic duct, 왼쪽에서는 thoracic duct를 통해 정맥 혈액이 합류됩니다.
+
+## 3. Brachial Plexus
+- Brachial plexus는 팔에 분포하는 신경들을 공급하는 소스로, C5, C7, A, T1 4개의 spinal nerve anterior rami에서 시작된 가지들이 합쳐져 3개의 trunk를 만들고, 이들은 각각 2개씩의 division으로 나누어집니다.
+- 이후에는 이 division들이 서로 만나서 3개의 cord인 medial, lateral, posterior cord를 형성하며, 이 cord들은 다시 갈라지고 서로 만나서 팔로 들어가는 신경들을 구성하게 됩니다.
+
+## 4. Supraclavicular Part
+- Supraclavicular part에서는 dorsal scapular nerve, long thoracic nerve, nerve to subclavius, 그리고 suprascapular nerve가 나옵니다.
+- 이 신경들은 각각 levator scapulae와 rhomboids, serratus anterior, 그리고 supraspinatus와 infraspinatus muscle을 지배합니다.
+
+# 퀴즈
+
+1. Subscapular lymph node 그룹은 어떤 artery에서 시작하나요?
+    - A. Subscapular artery
+    - B. Circumflex scapular artery
+    - C. Thoracodorsal artery
+    - D. Humeral artery
+    - 답: A. Subscapular artery
+
+2. Axillary vein은 어떤 정맥들이 합쳐져 형성되나요?
+    - A. Brachial vein과 basilic vein
+    - B. Cephalic vein과 subclavian vein
+    - C. Brachial vein과 cephalic vein
+    - D. Basilic vein과 subclavian vein
+    - 답: A. Brachial vein과 basilic vein
+
+3. Brachial plexus는 몇 개의 spinal nerve anterior rami에서 시작된 가지들이 합쳐져 몇 개의 trunk를 만드나요?
+    - A. 3개의 spinal nerve anterior rami에서 시작된 가지들이 합쳐져 2개의 trunk를 만든다.
+    - B. 4개의 spinal nerve anterior rami에서 시작된 가지들이 합쳐져 3개의 trunk를 만든다.
+    - C. 5개의 spinal nerve anterior rami에서 시작된 가지들이 합쳐져 4개의 trunk를 만든다.
+    - D. 6개의 spinal nerve anterior rami에서 시작된 가지들이 합쳐져 5개의 trunk를 만든다.
+    - 답: B. 4개의 spinal nerve anterior rami에서 시작된 가지들이 합쳐져 3개의 trunk를 만든다.
+# 강의 요약
+
+## Brachial Plexus와 관련 신경들
+
+Brachial Plexus는 infraclavicular part에서 lateral cord, medial cord, posterior cord의 세 가지 cord에서 가지들이 나와, ulnar, median, radial, axillary, musculocutaneous, cutaneous라는 5개의 큰 신경을 형성합니다. 
+
+- Lateral cord에서는 lateral pectoral nerve가, 
+- Medial cord에서는 medial pectoral nerve와 medial brachial cutaneous, medial antebrachial cutaneous nerve가, 
+- Posterior cord에서는 upper와 lower, subscapular nerve, 그리고 thoracodorsal nerve가 생성됩니다. 
+
+이 3개의 cord는 결국 2개씩으로 나누어지는데, lateral cord의 medial part와 medial cord의 lateral part가 만나서 median nerve라는 신경을 형성합니다.
+
+## Anastomosis와 동맥들
+
+겨드랑이 주위에서는 앞면과 뒷면에서 몇 개의 동맥이 만나서 anastomosis를 형성합니다. 
+
+- 앞쪽에서는 thyrocervical artery에서 나온 thyrocervical trunk에서 supra scapular artery가 나와서 겨드랑이로 내려오게 되고, 
+- Transverse cervical artery에서 나온 deep scapular artery가 내려와서 dorsal scapular artery가 됩니다.
+
+이 두 개의 동맥은 Scapula의 뒷면에서 각각 왼쪽과 가운데에서 여러 개의 가지를 내어 서로 Anastomosis를 하게 됩니다. 
+
+## Brachial Plexus 손상과 기능 장애
+
+Brachial plexus가 손상을 받으면 여러 가지 기능 장애가 발생하게 됩니다. 
+
+- 높은 곳에서 떨어지면서 목이 꺾여서 목과 어깨 사이가 hyperextension 되거나 출산할 때 아기 머리를 당기면서 머리와 몸통 사이가 hyperextension 될 경우 superior trunk 부분이 손상을 받기가 쉽습니다. 
+- 이런 경우에 감각 이상은 대개 lateral aspect of the forearm에서 발생하고, 운동 장애는 deltoid, biceps brachii 등의 근유가 마비됨으로써 어깨가 abduction되고 팔이 medial rotation되고 팔꿈치가 extension된 이러한 자세를 취하게 됩니다. 
+
+## 고난이도 객관식 퀴즈
+
+1. Brachial Plexus는 어떤 부분에서 어떤 cord들이 나오는가?
+   - A. infraclavicular part에서 lateral cord, medial cord, posterior cord
+   - B. supraclavicular part에서 anterior cord, medial cord, posterior cord
+   - C. infraclavicular part에서 anterior cord, lateral cord, posterior cord
+   - D. supraclavicular part에서 lateral cord, medial cord, posterior cord
+   - 정답: A
+
+2. 어떤 상황에서 superior trunk 부분이 손상을 받기 쉬운가?
+   - A. 높은 곳에서 떨어지면서 목이 꺾여서 목과 어깨 사이가 hyperextension 되는 경우
+   - B. 출산할 때 아기 머리를 당기면서 머리와 몸통 사이가 hyperextension 되는 경우
+   - C. 높은 곳에서 떨어지면서 목이 꺾여서 목과 어깨 사이가 hyperextension 되거나 출산할 때 아기 머리를 당기면서 머리와 몸통 사이가 hyperextension 되는 경우
+   - D. 높은 곳에서 떨어지면서 목이 꺾여서 목과 어깨 사이가 hyperextension 되거나 출산할 때 아기 머리를 당기면서 머리와 몸통 사이가 hyperextension 되지 않는 경우
+   - 정답: C
+
+3. Superior trunk 손상에 의한 기능 장애를 무엇이라고 하는가?
+   - A. Abduction palsy
+   - B. Extension palsy
+   - C. Rotation palsy
+   - D. Flexion palsy
+   - 정답: A

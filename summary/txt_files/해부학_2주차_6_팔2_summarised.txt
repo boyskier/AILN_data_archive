@@ -1,0 +1,148 @@
+## 몸통과 팔을 연결하는 근육들
+
+### 앞쪽에서 몸통과 팔을 연결하는 근육들
+
+1. **Pectoralis Major**: 가슴의 앞쪽 표면을 덮고 있는 가장 큰 근육. Clavicular head와 Sternocostal head로 구성되어 있으며, 주된 역할은 humerus를 adduction 또는 medial rotation 시키는 것.
+
+2. **Pectoralis Minor**: Pectoralis를 제거하면 그 밑에 나타나는 근육. Proximal attachment는 대개 3,4,5번 갈비뼈이고, Distal attachment는 scapula의 coracoid process에 붙음.
+
+3. **Subclavius**: 첫번째 갈비뼈에서 시작이 되어서 clavicle의 아랫면에 있는 그루브에 가서 붙게 됨.
+
+4. **Serratus Anterior**: 첫번째 갈비뼈부터 여덟번째 혹은 아홉번째 갈비뼈에 걸쳐서 넓은 부위에서 시작이 되고, Distal attachment는 등쪽으로 돌아가서 scapula의 medial border의 anterior surface 쪽에 붙음.
+
+### 뒤쪽에서 몸통과 팔을 연결하는 근육들
+
+1. **Superficial posterior axioappendicular muscle**: Trapezius와 Latissimus dorsi가 속함.
+
+2. **Deep posterior axioappendicular muscle**: Levator scapulae와 Rhomboid muscle이 속함. Rhomboid는 major와 minor 2개가 있음.
+
+3. **Scapulohumeral muscle**: 스케피라와 팔뼈를 직접 연결하는 근육들로, Deltoid와 Teres major, Rotator cuff muscle이 포함됨. Rotator cuff muscle은 Supraspinatus, Infraspinatus, Teres minor, Subscapularis 4개의 근육을 말함.
+
+### 트라페지우스와 랫시미우스 도르시
+
+1. **Trapezius**: 전체적으로 삼각형 모양을 띄고 있으며, 상승운동, 하강운동, 후방운동, 회전운동 등 견갑골의 여러 운동에 작용함.
+
+2. **Latissimus dorsi**: 등 아랫부분의 넓은 영역을 덮고 있으며, 근육이 끝나는 부위는 좁은 건이 되어 상완골의 견갑골 그루브에 부착됨.
+
+---
+
+### 퀴즈
+
+1. Pectoralis Major의 주된 역할은 무엇인가요?
+    - A. Humerus를 adduction 시키는 것
+    - B. Humerus를 abduction 시키는 것
+    - C. Humerus를 lateral rotation 시키는 것
+    - D. Humerus를 medial rotation 시키는 것
+    - 답: A, D
+
+2. Serratus Anterior의 Distal attachment는 어디인가요?
+    - A. Scapula의 medial border의 anterior surface
+    - B. Scapula의 lateral border의 anterior surface
+    - C. Scapula의 medial border의 posterior surface
+    - D. Scapula의 lateral border의 posterior surface
+    - 답: A
+
+3. Rotator cuff muscle에 포함되지 않는 근육은 무엇인가요?
+    - A. Supraspinatus
+    - B. Infraspinatus
+    - C. Teres major
+    - D. Subscapularis
+    - 답: C
+
+# 어깨 관절의 움직임과 근육 구조
+
+어깨 관절의 움직임은 다양한 근육들에 의해 이루어집니다. 
+
+## Levator Scapulae 근육
+C1,2,3,4에서 시작하여 scapula의 superior medial border에 붙습니다. 이 근육이 수축하면 scapula를 위로 끌어올리고 downward rotation을 시킵니다.
+
+## Rhomboid Muscle
+Rhomboid muscle은 minor와 major로 구분되며, 이 근육들은 scapula의 rotation을 조절하며, retraction과 downward rotation을 수행합니다.
+
+## Scapula와 Serratus Anterior의 연결
+Scapula는 근육에 의해 Serratus Anterior에 연결되어 있으며, 근육의 수축에 따라 다양한 방향으로 운동할 수 있습니다.
+
+## Deltoid 근육
+Deltoid 근육은 앞쪽에서 Clavicle과 외측면의 Acromion, 뒤쪽에서 Scapula의 Spine으로 시작하여 Humerus의 Deltoid Tuberosity에서 끝납니다. Deltoid 근육은 팔을 Abduction 시키는 작용을 하며, Axillary Nerve 신경에 의해 지배됩니다.
+
+## Teres Major와 Minor
+Teres Major는 Scapula Inferior Angle에서 시작하여 외측면으로 이동한 후, Humerus의 Intertubercular Groove에 디지털 어테치먼트가 붙습니다. Teres minor는 Scapula의 뒷면에서 시작하여 Humerus의 앞면에 부착되어 Anterior medial surface에 도달하고, Humerus를 어덕션하고 medial rotation을 수행하는 역할을 합니다.
+
+## Rotator Cuff Muscle
+Rotator cuff muscle은 하나의 근육이 아니라 4개의 근육을 말합니다. 이 4개의 근육은 Supraspinatus, Infraspinatus, Teres minor, Subscapularis 4개를 말하는데, 이를 s-i-t-s라고 부르기도 하고, t-i-s-s라고 부르기도 합니다. 이 4개의 근육이 Humerus의 head를 Glenoid cavity에 밀착시켜 관절을 안정화시키는 역할을 하기 때문입니다.
+
+---
+
+### 퀴즈
+
+1. Levator Scapulae 근육이 수축하면 어떤 움직임을 하는가?
+    - A. Upward rotation
+    - B. Downward rotation
+    - C. Medial rotation
+    - D. Lateral rotation
+
+2. Deltoid 근육은 어떤 신경에 의해 지배되는가?
+    - A. Axillary Nerve
+    - B. Radial Nerve
+    - C. Ulnar Nerve
+    - D. Median Nerve
+
+3. Rotator Cuff Muscle은 몇 개의 근육으로 이루어져 있는가?
+    - A. 2개
+    - B. 3개
+    - C. 4개
+    - D. 5개
+
+---
+
+### 답안
+
+1. B. Downward rotation
+2. A. Axillary Nerve
+3. C. 4개
+
+# 요약
+
+## Teres Major와 Teres Minor
+- Teres Major는 견갑골의 Inferior Angle 뒷부분에서 시작하여 Intertubercular Groove에 위치한다.
+- Teres Minor는 견갑골의 Lateral Border의 중간 부분에서 시작하여 Greater Tubercle 쪽에 붙는다.
+
+## Glenoid Capsule과 상완골의 머리
+- Glenoid Capsule은 작은 면적을 차지하고, 상완골의 머리는 큰 볼 형태를 가진다.
+- 두 개의 관절면이 접촉하는 면적이 좁아 주위에 네 개의 근육이 둘러싸여 관절의 안정성을 유지한다.
+
+## Supraspinatus와 Infraspinatus
+- Supraspinatus와 Infraspinatus는 견갑골의 Spine 위쪽과 아래쪽의 포사에서 시작하며, Suprascapular Nerve에 의해 지배된다.
+- 두 근육은 어깨 관절을 안정화하는 역할을 하며, Infraspinatus는 팔을 Lateral Rotation 시키고, Supraspinatus는 팔이 Abduction될 때 작용한다.
+
+## Teres Minor와 Subscapularis
+- Teres Minor는 Axillary Nerve에 의해 지배되며, 팔을 외측 회전시킨다.
+- Subscapularis는 Upper and Lower Subscapular Nerve에 의해 지배되며, 팔을 중앙 회전시킨다.
+
+## Triangle of Auscultation
+- Triangle of Auscultation은 Trapezius, Latissimus dorsi, Rhomboid major muscle 사이의 삼각형 틈으로, 청진기로 소리를 들을 때 사용된다.
+
+# 퀴즈
+
+1. Teres Major는 어디에서 시작하고 어디에 위치하나요?
+   - A. 견갑골의 Inferior Angle 뒷부분에서 시작하여 Intertubercular Groove에 위치한다.
+   - B. 견갑골의 Lateral Border의 중간 부분에서 시작하여 Greater Tubercle 쪽에 붙는다.
+   - C. 견갑골의 Spine 위쪽에서 시작하여 Suprascapular Nerve에 위치한다.
+   - D. 견갑골의 Spine 아래쪽에서 시작하여 Axillary Nerve에 위치한다.
+
+2. Supraspinatus와 Infraspinatus는 어떤 역할을 하나요?
+   - A. 어깨 관절을 안정화하고 팔을 Lateral Rotation 시킨다.
+   - B. 어깨 관절을 안정화하고 팔이 Abduction될 때 작용한다.
+   - C. 팔을 중앙 회전시키고 팔을 외측 회전시킨다.
+   - D. 어깨 관절을 안정화하고 팔을 중앙 회전시킨다.
+
+3. Triangle of Auscultation은 무엇을 의미하나요?
+   - A. 청진기로 소리를 들을 때 사용되는 Trapezius, Latissimus dorsi, Rhomboid major muscle 사이의 삼각형 틈을 의미한다.
+   - B. 청진기로 소리를 들을 때 사용되는 견갑골의 Inferior Angle과 Intertubercular Groove 사이의 삼각형 틈을 의미한다.
+   - C. 청진기로 소리를 들을 때 사용되는 Supraspinatus와 Infraspinatus 사이의 삼각형 틈을 의미한다.
+   - D. 청진기로 소리를 들을 때 사용되는 Axillary Nerve와 Upper and Lower Subscapular Nerve 사이의 삼각형 틈을 의미한다.
+
+# 답
+1. A
+2. B
+3. A

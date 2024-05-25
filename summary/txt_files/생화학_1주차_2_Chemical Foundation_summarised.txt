@@ -1,0 +1,188 @@
+# Metabolism 기본 지식 복습
+
+## 1. 물의 중요성
+- 물은 우리 몸의 60% 이상을 차지하며, 생명체의 구성 분자들이 녹아있는 용매이다.
+- 열과 여러 종류의 분자들을 운반하는 매개체 역할을 한다.
+- 외계 생명체 탐사에서 가장 먼저 찾아야 할 것은 물이다.
+
+## 2. 생체 분자와 탄소
+- 생체 분자는 Organic Compound, 즉 탄소를 포함한 화합물을 의미한다.
+- 탄소는 4개의 결합을 형성하며, 이 4개의 결합은 각각 109.5도의 각을 이루어 Tetrahedral 구조를 만든다.
+- 탄소는 다른 탄소와 Single Bond, Double Bond, Triple Bond을 형성할 수 있다.
+
+## 3. Functional Group
+- 생체 분자에서 흔히 발견되는 Functional Group에는 Methyl Group, Ethyl Group, Phenyl Group, Carbonyl Group, Aldehyde Group, Ketone Group, Carboxyl Group, Hydroxyl Group 등이 있다.
+
+## 4. Configuration과 Conformation
+- Configuration은 구성원자들의 공간적 배열이 고정된 경우 사용되며, 이중결합이나 chiral center가 있을 때 만들어지는 3차원 구조이다.
+- Structural isomers는 치환기들이 자유롭게 회전할 수 있어 어떤 결합도 끊지 않고 공간에서 자유롭게 다른 모양을 취할 수 있는 치환기의 공간 배열을 의미한다.
+
+---
+
+## 퀴즈
+
+1. 탄소는 몇 개의 결합을 형성할 수 있는가?
+    - A. 2개
+    - B. 3개
+    - C. 4개
+    - D. 5개
+    - 정답: C. 4개
+
+2. 다음 중 생체 분자에서 흔히 발견되는 Functional Group이 아닌 것은 무엇인가?
+    - A. Methyl Group
+    - B. Ethyl Group
+    - C. Phenyl Group
+    - D. Neon Group
+    - 정답: D. Neon Group
+
+3. Configuration과 Conformation 중 어떤 것이 구성원자들의 공간적 배열이 고정된 경우를 의미하는가?
+    - A. Configuration
+    - B. Conformation
+    - 정답: A. Configuration
+
+# Stereoisomer와 Chiral Center
+
+Stereoisomer는 이중 결합 때문에 생기는 Geometric Isomer와 Chiral Center 때문에 생기는 것으로 나눌 수 있습니다. Geometric Isomer에는 Cis-Trans Isomer가 있으며, 사과산과 풀산은 이에 해당합니다. Chiral Center는 탄소 원자에 붙어 있는 4개의 치환기가 모두 다른 경우를 말하며, 이를 비대칭 탄소라고도 합니다. Chiral Carbon을 가진 화합물은 거울에 비친 이미지와 같은 Stereo Isomer를 가집니다. 이를 엔티오머라고 부르며, 이들 이성질체들을 합하여 광학 이성질체라고 부릅니다. 키랄 센터가 있는 화합물의 가능한 입체이성질체의 수는 2의 거듭제곱입니다.
+
+# 물의 화학적, 물리적 특성
+
+물은 강한 극성을 띄고 있으며, 이는 산소 원자와 수소 원자 간의 전기음성도 차이 때문입니다. 전기음성도는 공유 전자를 끌어당기는 정도를 나타내는 지표입니다. 물 분자의 극성으로 인해, 한 물 분자의 부분 음전하를 가지는 Oxygen과 다른 물 분자의 부분 양전하를 가지는 Hydrogen 사이에 약한 결합인 Hydrogen 결합이 형성됩니다. Hydrogen 결합의 길이는 0.177 nm로, 물 분자 내의 Oxygen과 Hydrogen 사이의 공유 결합 길이인 0.0965 nm보다 약 2배 길게 형성됩니다.
+
+---
+
+**퀴즈**
+
+1. Stereoisomer는 어떤 경우에 생기는 것인가?
+    - A. 이중 결합 때문에
+    - B. Chiral Center 때문에
+    - C. A와 B 모두
+    - D. A와 B 모두 아님
+    - 정답: C. A와 B 모두
+
+2. Chiral Center는 어떤 경우를 말하는가?
+    - A. 탄소 원자에 붙어 있는 4개의 치환기가 모두 같은 경우
+    - B. 탄소 원자에 붙어 있는 4개의 치환기가 모두 다른 경우
+    - C. 탄소 원자에 붙어 있는 4개의 치환기 중 2개가 같은 경우
+    - D. 탄소 원자에 붙어 있는 4개의 치환기 중 2개가 다른 경우
+    - 정답: B. 탄소 원자에 붙어 있는 4개의 치환기가 모두 다른 경우
+
+3. 물의 극성은 어떤 원자 간의 어떤 차이 때문에 생기는가?
+    - A. 산소 원자와 수소 원자 간의 전기음성도 차이
+    - B. 산소 원자와 수소 원자 간의 질량 차이
+    - C. 산소 원자와 수소 원자 간의 크기 차이
+    - D. 산소 원자와 수소 원자 간의 원자 번호 차이
+    - 정답: A. 산소 원자와 수소 원자 간의 전기음성도 차이
+
+# 강의 요약
+
+## ChargerDIN 물질과 물의 상호작용
+ChargerDIN 물질은 수소 결합을 형성할 수 있는 극성 분자로, 이로 인해 물에 쉽게 녹을 수 있습니다. 그러나 이 물질의 성질은 그 구조와 화학적 특성에 따라 달라질 수 있습니다.
+
+## 이온화된 화합물과 물의 상호작용
+나트륨 클로라이드와 같은 이온화된 화합물은 물 분자와 상호작용하여 수화되고, 이로 인해 물에 녹게 됩니다. 이 과정은 물 분자의 극성과 이온의 전하 상호작용에 의해 발생합니다.
+
+## 비극성 화합물과 물의 상호작용
+비극성 화합물이 물에 들어가면, 물 분자는 비극성 부위를 둘러싸는 케이지 형태의 구조를 형성합니다. 이는 물 분자와 비극성 화합물 사이의 상호작용을 최소화하기 위한 현상입니다. 또한, 물에 여러 개의 비극성 분자가 있는 경우, 이들은 서로 붙어서 모이게 되며, 이를 Hydrophobic Effect 또는 비극성 효과라고 합니다.
+
+## 수은회피 효과와 반데르발스 인력
+수은회피 효과는 수은회피 화합물과 극성 용매가 섞일 경우 발생하는 수동적인 효과입니다. 이 효과에 의해 수은회피 분자들이 서로 가까워지면, 실제로 인력이 작용하게 되는데, 이를 반데르발스 인력이라고 부릅니다.
+
+# 퀴즈
+
+1. ChargerDIN 물질이 물에 쉽게 녹는 이유는 무엇인가요?
+    - A. 비극성 화합물이기 때문
+    - B. 수소 결합을 형성할 수 있는 극성 분자이기 때문
+    - C. 반데르발스 인력 때문
+    - D. 수은회피 효과 때문
+    - 정답: B
+
+2. 비극성 화합물이 물에 들어가면 어떤 현상이 발생하나요?
+    - A. Hydrophobic Effect
+    - B. 반데르발스 인력
+    - C. 수은회피 효과
+    - D. 전하 상호작용
+    - 정답: A
+
+3. 수은회피 효과에 의해 수은회피 분자들이 서로 가까워지면 어떤 인력이 작용하게 되나요?
+    - A. 전하 상호작용
+    - B. 반데르발스 인력
+    - C. 수소 결합
+    - D. 쌍극자 상호작용
+    - 정답: B
+# 강의 요약
+
+## 원자간의 결합과 생체분자 내의 약한 결합
+
+원자들은 covalent bond를 형성하며, 이를 통해 더 안정적인 분자를 형성합니다. 이 과정에서 원자간 거리는 Van der Waals 반지름보다 짧아집니다. 생체분자 내에서는 hydrogen bond, ionic bond, Hydrophobic Effect, 그리고 Van der Waals 힘 등 네 가지의 약한 결합이 생성됩니다. 이러한 약한 결합들은 효소와 기질 등의 두 분자가 결합되어 있을 때 중요한 역할을 합니다.
+
+## 물의 흐름과 삼투압
+
+물은 용질의 농도가 높은 쪽으로 이동하여 osmolarity를 맞추게 되는데, 이를 osmosis라고 합니다. 이 과정에서 생기는 압력을 osmotic pressure라고 합니다. 세포 내와 외부의 osmolarity는 유지되어야 하며, 이를 isotonic 상태라고 합니다. 만약 세포 내부와 외부의 osmolarity가 다르다면, 세포는 수축하거나 팽창하게 됩니다.
+
+## 세포의 Osmolarity 유지
+
+세포는 Sodium 등의 이온들을 능동적으로 세포밖으로 내보내면서 세포와 세포밖의 Osmolarity를 유지합니다. 또한, 순수한 물도 약간 이온화되어 수소이온과 수산이온이 생성됩니다.
+
+# 퀴즈
+
+1. 원자들이 covalent bond를 형성하면서 원자간 거리가 어떻게 변하나요?
+    - A. Van der Waals 반지름보다 길어진다
+    - B. Van der Waals 반지름보다 짧아진다
+    - C. 변화가 없다
+    - D. 원자의 크기에 따라 다르다
+    - 정답: B
+
+2. 생체분자 내에서 생성되는 네 가지의 약한 결합은 무엇인가요?
+    - A. covalent bond, ionic bond, Hydrophobic Effect, Van der Waals 힘
+    - B. hydrogen bond, ionic bond, Hydrophobic Effect, Van der Waals 힘
+    - C. hydrogen bond, covalent bond, Hydrophobic Effect, Van der Waals 힘
+    - D. hydrogen bond, ionic bond, covalent bond, Van der Waals 힘
+    - 정답: B
+
+3. 세포 내부와 외부의 osmolarity가 다르면 어떤 현상이 발생하나요?
+    - A. 세포는 수축하거나 팽창하게 된다
+    - B. 세포는 죽게 된다
+    - C. 세포는 분열하게 된다
+    - D. 세포는 이동하게 된다
+    - 정답: A
+# 강의 요약
+
+## 1. 수소 이온과 수소 결합
+- Water 분자는 인접한 water 분자와 수소 결합을 형성하며, 이를 통해 Hydronium 이온이 생성되고 proton 전달이 발생합니다. 이 현상을 proton hopping이라고 합니다.
+
+## 2. pH와 acid-base 반응
+- Hydrogen ion 농도는 pH로 표시되며, 이는 우리 몸의 상태를 판단하는 유용한 지표로 사용됩니다. 
+- Weak acid나 weak base는 수용액에서 이온화되어 hydrogen ion이나 hydroxide ion을 생성합니다.
+
+## 3. KA와 PKA
+- Weak acid의 이온화 반응의 평형 상수를 KA라고 하며, 이 값의 역수에 상용로그를 취한 값을 PKA라고 합니다.
+
+## 4. 완충액과 pH 유지
+- 생명체는 생체 분자의 올바른 기능을 위해 적정한 pH를 유지해야 합니다. 이를 위해 완충액이 필요하며, 완충액의 pH는 주로 해당 산염기 쌍의 pKa 값 주변에 위치합니다.
+
+## 5. Henderson-Hasselbalch Equation
+- 완충액의 pH를 계산하는데 사용되는 식으로, 산염기와 염기의 농도 변화가 pH에 미치는 영향을 알 수 있습니다.
+
+# 퀴즈
+
+1. Proton hopping이란 무엇인가요?
+    - A. Hydrogen ion의 이동
+    - B. Water 분자와 수소 결합의 형성
+    - C. 수소 이온의 이동
+    - D. Hydrogen ion과 water 분자의 결합
+    - 정답: C. 수소 이온의 이동
+
+2. Weak acid의 이온화 반응의 평형 상수 KA의 역수에 상용로그를 취한 값을 무엇이라고 하나요?
+    - A. pH
+    - B. PKA
+    - C. KA
+    - D. pOH
+    - 정답: B. PKA
+
+3. Henderson-Hasselbalch Equation은 무엇을 계산하는데 사용되나요?
+    - A. Hydrogen ion의 농도
+    - B. 완충액의 pH
+    - C. 산염기 쌍의 pKa 값
+    - D. Hydrogen ion과 hydroxide ion의 농도
+    - 정답: B. 완충액의 pH
+

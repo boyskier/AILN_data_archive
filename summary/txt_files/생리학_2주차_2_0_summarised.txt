@@ -1,0 +1,410 @@
+# 강의 요약
+
+## 이온 채널과 평형 상태
+
+- Potassium channel이 열리면 평형 상태에 도달하게 됩니다. 이 과정에서 이동해야 하는 이온의 농도 변화는 매우 작습니다. 따라서 Potassium의 initial concentration만 제어되면 충분합니다.
+- 시간이 지나면 ATP를 사용하여 Sodium pump가 다시 돌아가고, 평형 상태도 다시 초기 상태로 돌아가게 됩니다.
+
+## Potassium 채널과 Chloride 채널의 차이
+
+- Potassium 채널은 주로 세포에서 resting potential이 만들어지는 곳에서 열리는 채널입니다.
+- Chloride 채널에는 Sodium 채널과 Calcium 채널이 있습니다. 이 채널들은 세포에 존재하지만, resting 상태에서는 열리지 않습니다.
+- Potassium 채널은 특이하게도 항상 열려있는 채널이 있습니다. 이러한 항상 열려있는 Potassium 채널은 resting potential을 만드는 데 기여합니다.
+
+## GABA(A) 리셉터와 Chloride 채널
+
+- GABA(A) 리셉터가 결합하면 Chloride 채널이 열리고, Chloride가 세포 안으로 들어갑니다. 이로 인해 세포막의 전위가 Hyperpolarization이 되어 신경세포가 덜 흥분성, 덜 활동적으로 됩니다.
+
+## Sodium 채널과 신경전달물질
+
+- 어떤 신경전달물질이 Sodium 채널을 연다면, Sodium는 세포 안으로 들어가게 되고, 세포막의 전위는 Depolarization이 되어 신경세포가 흥분성이 됩니다.
+
+# 퀴즈
+
+1. Potassium channel이 열리면 어떤 상태에 도달하게 되는가?
+    - A. 초기 상태
+    - B. 평형 상태
+    - C. 흥분 상태
+    - D. resting 상태
+    - 정답: B. 평형 상태
+
+2. Potassium 채널과 Chloride 채널의 주요 차이점은 무엇인가?
+    - A. Potassium 채널은 resting potential을 만드는 데 기여한다.
+    - B. Chloride 채널은 resting 상태에서 열리지 않는다.
+    - C. Potassium 채널은 항상 열려있다.
+    - D. 모두 맞다.
+    - 정답: D. 모두 맞다.
+
+3. Sodium 채널이 열리면 세포막의 전위는 어떻게 변하는가?
+    - A. Hyperpolarization이 된다.
+    - B. Depolarization이 된다.
+    - C. 평형 상태로 돌아간다.
+    - D. 초기 상태로 돌아간다.
+    - 정답: B. Depolarization이 된다.
+# 강의 요약
+
+독일의 박사 스타일리스트, 사크마 나브레로는 세포의 작동 원리에 대한 연구를 통해 노벨상을 수상하였습니다. 그의 연구는 세포 내부에서 일어나는 일을 관찰하고 이해하는 데 중요한 역할을 하였습니다. 
+
+## 세포의 작동 원리
+
+세포는 매우 작은 크기로, 유리반에 넣고 소금 용액을 넣은 후 전극을 연결하여 세포에 밀착시키면 세포 내부에서 일어나는 일을 관찰할 수 있습니다. 
+
+예를 들어, 징크 채널이 열리면 나트륨 채널이 형성되고, 이를 통해 나트륨이 이동하면 전극에서 이를 감지할 수 있습니다. 이를 통해 세포 내부에서 일어나는 일을 연구할 수 있습니다.
+
+## Sodium Channel의 작동 원리
+
+나트륨 채널은 전압에 의존하는 활성화와 비활성화 과정을 거칩니다. 이 과정은 세포의 전기적 특성을 결정하는 데 중요한 역할을 합니다. 
+
+나트륨 채널은 휴면 상태에서는 항상 닫혀 있으며, 자극이 오면 전압 변화에 따라 열립니다. 그러나 이 채널은 계속 열려 있지 않고, 자극이 계속되는 동안에도 스스로 비활성화됩니다. 이를 나트륨 채널의 비활성화라고 합니다.
+
+## Ball and Chain Model
+
+볼과 체인 모델은 채널 비활성화를 설명하는 모델입니다. 이 모델에 따르면, 채널이 열리면 볼이 결합 사이트에 결합하여 채널을 닫습니다. 이 과정은 매우 빠르게 일어나며, 이를 통해 세포의 전기적 특성을 조절합니다.
+
+## 연구의 중요성
+
+이 연구는 세포의 전기적 특성을 이해하는 데 중요한 역할을 하였습니다. 특히, 나트륨 채널의 변형이 발생하면 세포의 전기적 특성이 바뀌며, 이는 다양한 질병의 원인이 될 수 있습니다. 이를 이해하는 것은 질병의 원인을 찾고 치료법을 개발하는 데 중요한 역할을 합니다.
+
+# 퀴즈
+
+1. 사크마 나브레로의 연구는 어떤 것에 대한 연구였는가?
+    - 세포의 작동 원리에 대한 연구
+
+2. 나트륨 채널은 어떤 과정을 거치며 작동하는가?
+    - 전압에 의존하는 활성화와 비활성화 과정을 거친다.
+
+3. 볼과 체인 모델은 무엇을 설명하는가?
+    - 채널 비활성화를 설명한다.
+# 강의 요약
+
+## Sodium Channel과 Membrane Potential
+
+- Sodium channel을 통해 1초에 100만 개의 sodium이 들어올 수 있지만, 그 current의 양은 매우 작습니다. 
+- 세포 크기가 작고 여러 개의 sodium channel이 함께 작동하면 상당한 양의 sodium이 짧은 시간에 들어올 수 있습니다.
+- 이는 membrane potential을 심각하게 높일 수 있습니다.
+
+## Ischemic Damage와 ATP 생산 중단
+
+- 뇌에 oxygen 공급이 중단되면 ischemic damage가 발생하며, 이는 뇌졸중과 같은 상황을 초래합니다.
+- 이 상황에서는 mitochondria에서 ATP 생산이 중단되어 oxidative phosphorylation이 일어나지 않게 됩니다.
+- ATP 생산이 중단되면 depolarization과 generation of millivolts에 접근하는 과정이 진행되며, 이는 세포의 죽음을 초래합니다.
+
+## Sodium Pump와 Digitalis, Ouabain
+
+- Digitalis와 Ouabain은 Sodium pump, Sodium-Potassium pump를 만드는데 사용됩니다.
+- 이들은 약하게 사용하면 Membrane tension을 증가시켜 더 강력한 Calcium이 들어오게 합니다.
+- Digitalis와 Ouabain은 Sodium channel과 Voltage channel을 공부하는데 사용될 수 있습니다.
+
+## Sodium Channel과 Potassium Channel
+
+- Sodium channel은 Potassium channel과 유사하며, Monocarboxylate는 Sodium channel이 Potassium channel보다 4배 큽니다.
+- Subunit은 Formal channel이 되며, Clonic을 위해 Alternagin-C가 필요합니다.
+- Membrane을 단통하기 위해 Alternagin-C가 뒤로 10개 필요합니다.
+
+## Ballistic Fandom과 Membrane Potential
+
+- Ballistic fandom은 구조적인 패턴이 중요한 이유입니다.
+- Membrane potential이 -65밀리볼트에서 웨스팅하면 변화가 생깁니다.
+- 이때 모세를 찔렀다고 가정하면 membrane potential이 말단에 있는 신경세포로 전달되어 membrane potential이 20밀리볼트로 확대됩니다.
+- 이때 channel protein의 구조가 바뀌게 됩니다. 이것이 voltage dependence와 gating입니다.
+
+# 퀴즈
+
+1. Sodium channel을 통해 1초에 몇 개의 sodium이 들어올 수 있는가?
+   - A. 100만 개
+   - B. 10만 개
+   - C. 1000만 개
+   - D. 1억 개
+   - 정답: A. 100만 개
+
+2. Digitalis와 Ouabain은 어떤 pump를 만드는데 사용되는가?
+   - A. Sodium pump
+   - B. Potassium pump
+   - C. Calcium pump
+   - D. Magnesium pump
+   - 정답: A. Sodium pump
+
+3. Membrane potential이 -65밀리볼트에서 웨스팅하면 어떤 변화가 생기는가?
+   - A. Membrane potential이 20밀리볼트로 확대된다.
+   - B. Membrane potential이 10밀리볼트로 확대된다.
+   - C. Membrane potential이 30밀리볼트로 확대된다.
+   - D. Membrane potential이 40밀리볼트로 확대된다.
+   - 정답: A. Membrane potential이 20밀리볼트로 확대된다.
+# 강의 요약
+
+## Voltage Dependence와 Sodium Channel
+
+- Sodium channel은 휴면 상태에서는 닫혀있으며, Depolarization 자극이 오면 한꺼번에 열립니다.
+- Sodium channel이 열리면 Sodium이 세포 내로 들어오게 됩니다.
+- Sodium channel은 Potential channel에 비해 천배만큼 선택적입니다.
+- Sodium channel의 Core size는 Hydration에 있는 Sodium size와 동일합니다.
+- Sodium channel을 통해는 Water molecule 하나를 포함한 Sodium ion이 통과할 수 있습니다.
+- Potential ion은 Sodium channel을 통과하지 못합니다.
+
+## Potential Ion과 Cell의 반응
+
+- Potential ion은 Muscle cell, Cardiac cell, Neuron 등 모든 장기에서 중요한 역할을 합니다.
+- Potential ion을 이해하지 못하면 각 장기에서 시작하는 포인트를 이해하는데 어려움이 있습니다.
+- Cell은 마이너스 전류와 플러스 전류를 인위적으로 주입하여 막 membrane potential을 변화시키는 방법으로 신호를 전달하고 받습니다.
+
+## Hodgkin과 Huxley의 연구
+
+- Hodgkin과 Huxley는 1940년대부터 cell의 membrane potential 변화를 측정하는 연구를 진행했습니다.
+- 이들은 대왕 오징어의 axon을 사용하여 실험을 진행했습니다.
+
+# 퀴즈
+
+1. Sodium channel은 어떤 자극이 왔을 때 열리는가?
+    - A. Hyperpolarization
+    - B. Depolarization
+    - C. Repolarization
+    - D. None of the above
+    - 정답: B. Depolarization
+
+2. Sodium channel과 Potential channel은 어떤 점에서 선택적인가?
+    - A. Core size
+    - B. Permeability
+    - C. Both A and B
+    - D. None of the above
+    - 정답: C. Both A and B
+
+3. Hodgkin과 Huxley의 연구에서 사용된 실험 도구는 무엇인가?
+    - A. Human neuron
+    - B. Rat neuron
+    - C. Giant squid axon
+    - D. None of the above
+    - 정답: C. Giant squid axon
+
+# 실험 개요
+
+이 실험은 membrane potential을 -70mV에서 0mV로 depolarization 시키면서 나트륨과 칼륨 채널의 반응을 관찰하려는 것입니다. 실험자는 이 과정에서 발생하는 전류를 측정하고자 했으나, 나트륨 이온의 유입으로 인해 원하는 결과를 얻지 못했습니다.
+
+# Feedback Amplifier의 도입
+
+이 문제를 해결하기 위해 1950년대에 Feedback Amplifier가 도입되었습니다. 이 기기는 원하는 전압을 유지하기 위해 필요한 전류를 제공하며, 이를 통해 원하는 전압 상태를 유지할 수 있습니다.
+
+# Sodium channel blocker의 사용
+
+또한, Sodium channel blocker인 양모를 사용하여 Sodium channel을 차단하고, 이를 통해 나트륨 이온의 유입을 막아 전류를 측정하는 방법도 사용되었습니다.
+
+# 결론
+
+이 실험을 통해 나트륨과 칼륨 채널의 depolarization에 대한 반응을 관찰하고, 이를 통해 전류의 흐름을 측정하는 방법을 개발하였습니다.
+
+---
+
+# 퀴즈
+
+1. 실험자가 원하는 전압 상태를 유지하기 위해 도입한 기기는 무엇인가요?
+    - A. Feedback Amplifier
+    - B. Sodium channel blocker
+    - C. Membrane potential meter
+    - D. Depolarization meter
+    - 정답: A. Feedback Amplifier
+
+2. Sodium channel을 차단하는 물질은 무엇인가요?
+    - A. 양모
+    - B. 칼륨
+    - C. 나트륨
+    - D. Feedback Amplifier
+    - 정답: A. 양모
+
+3. 실험자가 원하는 전압 상태를 유지하기 위해 필요한 전류를 제공하는 기기는 무엇인가요?
+    - A. Sodium channel blocker
+    - B. Feedback Amplifier
+    - C. Membrane potential meter
+    - D. Depolarization meter
+    - 정답: B. Feedback Amplifier
+# 강의 요약
+
+## Depolarization과 Sodium 채널의 Inactivation
+
+Depolarization이 발생하면 Sodium 채널이 열리고, 이는 스스로 Inactivation 상태가 됩니다. 이러한 단일 채널이 수백, 수천 개 있다면 Inactivation이 일어납니다.
+
+## 전압 시뮬레이션과 Calibration
+
+전압에 따른 시뮬레이션을 진행하고 Calibration을 완료했습니다. 이를 통해 Potassium 채널과 Sodium 채널이 어떤 전압에서 얼마나 열리는지에 대한 정보를 얻을 수 있었습니다.
+
+## Squid Giant Axon과 Electrical Potential
+
+Squid Giant Axon은 Electrical Potential을 사용합니다. 이는 Action Potential이라고도 합니다. Sodium와 Potassium 채널에 대한 설명은 거의 완료되었습니다.
+
+## Voltage Clamp와 Potassium 채널
+
+Voltage Clamp를 통해 작은 크기의 실험체도 Recording할 수 있게 되었습니다. Potassium 채널은 Resting Potential을 만드는 역할을 하며, Voltage와는 관계없이 항상 열려있습니다.
+
+## Intracellular Potential과 EQ Viewer
+
+Intracellular Potential이 -80, -90에 위치한다는 것을 알 수 있습니다. Negative current를 넣으면 potential이 낮아지고, Positive current를 넣으면 potential이 높아집니다. EQ viewer가 깨지면 potential이 변화하고 EQ viewer의 상태도 변할 수 있습니다.
+
+## 맴브레인 포텐셜
+
+맴브레인 포텐셜이 마이너스 60mV가 되면, 이는 전류가 세포 외부로 나가는 상황을 의미합니다. 이로 인해 나가는 전류가 생겨서 맴브레인 포텐셜이 다시 균형 상태로 돌아옵니다.
+
+---
+
+# 퀴즈
+
+1. Depolarization이 발생하면 Sodium 채널이 어떤 상태가 되는가?
+   - A. Activation
+   - B. Inactivation
+   - C. Stabilization
+   - D. Polarization
+   - 정답: B. Inactivation
+
+2. Potassium 채널은 어떤 상태에서도 항상 어떤 상태인가?
+   - A. 열림
+   - B. 닫힘
+   - C. 안정
+   - D. 불안정
+   - 정답: A. 열림
+
+3. 맴브레인 포텐셜이 마이너스 60mV가 되면, 이는 어떤 상황을 의미하는가?
+   - A. 전류가 세포 내부로 들어가는 상황
+   - B. 전류가 세포 외부로 나가는 상황
+   - C. 전류가 세포 내부와 외부 사이에서 균형을 이루는 상황
+   - D. 전류가 세포 내부와 외부 사이에서 불균형을 이루는 상황
+   - 정답: B. 전류가 세포 외부로 나가는 상황
+
+# 란스포텐셜과 맴브레인 포텐셜
+
+맴브레인 포텐셜이란 세포 내부와 외부의 전기적 차이를 의미합니다. 이 값이 -100mV가 되면, 세포 내부로 전류가 들어와서 다시 균형 상태로 돌아오게 됩니다. 반대로, 이 값이 -60mV가 되면, 세포 외부로 전류가 나가서 다시 균형 상태로 돌아옵니다. 
+
+이러한 현상을 란스포텐셜이라고 부릅니다. 란스포텐셜은 세포의 전기적 안정성을 유지하는 중요한 역할을 합니다.
+
+## 퀴즈
+
+1. 맴브레인 포텐셜이란 무엇을 의미하는가?
+    - A. 세포 내부와 외부의 전기적 차이
+    - B. 세포 내부와 외부의 화학적 차이
+    - C. 세포 내부와 외부의 온도 차이
+    - D. 세포 내부와 외부의 압력 차이
+    - 정답: A
+
+2. 맴브레인 포텐셜이 -100mV가 되면 어떤 현상이 발생하는가?
+    - A. 세포 내부로 전류가 들어옴
+    - B. 세포 외부로 전류가 나감
+    - C. 세포 내부의 전류가 멈춤
+    - D. 세포 외부의 전류가 멈춤
+    - 정답: A
+
+3. 란스포텐셜이란 무엇인가?
+    - A. 세포 내부와 외부의 전기적 차이를 유지하는 현상
+    - B. 세포 내부와 외부의 화학적 차이를 유지하는 현상
+    - C. 세포 내부와 외부의 온도 차이를 유지하는 현상
+    - D. 세포 내부와 외부의 압력 차이를 유지하는 현상
+    - 정답: A
+
+# 강의 요약
+
+## 리버스 포텐셜
+리버스 포텐셜은 맴브레인 포텐셜이 변화하면서 전류의 방향이 바뀌는 현상을 의미합니다. 이는 세포 내부로 전류가 들어오는 경우나 세포 외부로 전류가 나가는 경우에 발생합니다.
+
+## 이큐리브 포텐셜과 전류 채널
+이큐리브 포텐셜을 형성하는 전류 채널의 수가 증가하면, 이는 공간의 길이가 변화하는 것과 같습니다. 예를 들어, 전류 채널이 100개에서 200개로 늘어나면, 이는 커브의 모양에 변화를 가져올 것입니다.
+
+# 퀴즈
+
+1. 리버스 포텐셜이란 무엇을 의미하는가?
+    - A. 맴브레인 포텐셜이 변화하면서 전류의 방향이 바뀌는 현상
+    - B. 전류 채널의 수가 증가하는 현상
+    - C. 세포 내부로 전류가 들어오는 현상
+    - D. 세포 외부로 전류가 나가는 현상
+    - 답: A
+
+2. 이큐리브 포텐셜을 형성하는 전류 채널의 수가 증가하면 어떤 변화가 생기는가?
+    - A. 맴브레인 포텐셜이 변화한다.
+    - B. 커브의 모양이 변화한다.
+    - C. 세포 내부로 전류가 들어오는 현상이 증가한다.
+    - D. 세포 외부로 전류가 나가는 현상이 증가한다.
+    - 답: B
+
+3. 리버스 포텐셜은 언제 발생하는가?
+    - A. 세포 내부로 전류가 들어오는 경우
+    - B. 세포 외부로 전류가 나가는 경우
+    - C. 맴브레인 포텐셜이 변화하는 경우
+    - D. A와 B 모두
+    - 답: D
+# 소듐 채널의 활성화
+
+## 소듐 채널의 이큐리브 포텐셜
+- 소듐 채널이 항상 열려 있다면, 소듐의 이큐리브 포텐셜은 플러스 25mV가 됩니다.
+
+## 소듐 채널의 활성화
+- 소듐 채널은 모두 소듐에 의해서 활성화되는 것이 아니라, 일부는 voltage-dependent하다는 것이 최근 연구에서 밝혀졌습니다.
+- 소듐 채널의 활성화 과정은 voltage-dependent한 특성을 가지고 있습니다.
+
+## 소듐 채널의 활성화 곡선
+- 마이너스 40밀리볼트에서는 전혀 활성화되지 않습니다.
+- 마이너스 30밀리볼트에서는 약간의 활성화가 있습니다.
+- 마이너스 20밀리볼트에서는 더 많이 활성화됩니다.
+- 0밀리볼트에서는 100% 활성화됩니다.
+- 이 곡선은 sodium channel의 voltage-dependent한 특성을 보여줍니다.
+
+## 마이너스 20밀리볼트에서의 활성화
+- 마이너스 20밀리볼트에서는 반 열리는 현상이 나타나며, 이는 sodium channel의 활성화 정도가 굉장히 민감하게 변화한다는 것을 보여줍니다.
+
+---
+
+### 퀴즈
+
+1. 소듐 채널이 항상 열려 있다면, 소듐의 이큐리브 포텐셜은 얼마인가요?
+    - A. 플러스 20mV
+    - B. 플러스 25mV
+    - C. 플러스 30mV
+    - D. 플러스 35mV
+    - 정답: B. 플러스 25mV
+
+2. 소듐 채널의 활성화는 어떤 특성을 가지고 있나요?
+    - A. Voltage-dependent
+    - B. Sodium-dependent
+    - C. Both A and B
+    - D. None of the above
+    - 정답: A. Voltage-dependent
+
+3. 마이너스 20밀리볼트에서 소듐 채널의 활성화 정도는 어떻게 변하나요?
+    - A. 전혀 활성화되지 않는다.
+    - B. 약간의 활성화가 있다.
+    - C. 더 많이 활성화된다.
+    - D. 100% 활성화된다.
+    - 정답: C. 더 많이 활성화된다.
+# 강의 요약
+
+## Voltage Dependence와 Sodium Channel
+
+이 강의에서는 전압 의존성과 sodium channel에 대해 설명했습니다. 전압이 -40mV까지는 하나의 채널만 열리며, -20mV가 되면 채널이 약간 열려 sodium current가 조금씩 들어옵니다. 0mV가 되면 채널이 100% 열리지만, 이후로는 더 이상 열릴 수 없습니다. 이 때 current가 줄어드는 이유는 sodium의 driving force가 줄어들기 때문입니다. 이는 sodium channel의 전압 의존성을 보여줍니다.
+
+## Western Blot Potential
+
+Western blot potential은 전압 의존성이 없는 protein으로, 이를 sodium channel의 전압 의존성과 겹치면 시계 모양이 됩니다. 이를 이해하면 action potential에 대한 이해에 큰 도움이 됩니다.
+
+## Dyslexia와 Neurons
+
+특정 neurons의 활동에 따라 Dyslexia의 정도가 결정됩니다. 이를 이해하면, 환자가 Dyslexia를 발현시키는데 영향을 주는 요소를 조절하고, 블루라이트를 켜는 것으로 Dyslexia를 감소시킬 수 있습니다. 이는 Optogenetics와 관련이 있습니다.
+
+## 윤리적 고려
+
+이러한 기술적인 측면 외에도 윤리적인 문제를 고려해야 합니다.
+
+# 퀴즈
+
+1. 전압이 -20mV가 되면 sodium channel은 어떻게 변화하는가?
+   - A. 채널이 모두 닫힌다.
+   - B. 채널이 약간 열린다.
+   - C. 채널이 100% 열린다.
+   - D. 채널의 변화는 없다.
+   - 정답: B
+
+2. Western blot potential은 어떤 protein에 대한 것인가?
+   - A. 전압 의존성이 있는 protein
+   - B. 전압 의존성이 없는 protein
+   - C. Sodium channel
+   - D. Dyslexia를 발현시키는 protein
+   - 정답: B
+
+3. Dyslexia의 정도를 조절하는 데 영향을 주는 것은 무엇인가?
+   - A. 전압 의존성
+   - B. Sodium channel
+   - C. 특정 neurons의 활동
+   - D. Western blot potential
+   - 정답: C

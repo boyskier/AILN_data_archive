@@ -1,0 +1,395 @@
+# Cellular Reserve와 Lexic Membrane Handle
+
+## 핵심 개념
+
+1. **Cellular Reserve**: 세포 내부의 에너지 저장소. 이는 세포의 생존과 기능을 유지하는 데 필요한 에너지를 제공한다.
+
+2. **Lexic Membrane Handle**: 세포막에서 생성되는 두 가지 주요 조건을 관리하는 메커니즘.
+
+    - **조건 1**: 세포 내부의 전위는 MCA를 통해 유지되며, 세포 외부는 no specialty 상태이다. 이는 세포 내부와 외부의 이온 농도 차이를 유지하는 데 중요하다.
+    
+    - **조건 2**: 세포막에는 특정한 IR 채널이 존재하며, 이를 통해 전위의 gradient를 따라 이온이 움직인다. 이는 세포 내부와 외부의 전위 차이를 유지하는 데 중요하다.
+
+## Resting Membrane Potential
+
+- 세포 내외의 전기적인 차이를 나타내며, 이는 세포 내부의 활동에 중요한 역할을 한다.
+- 이 전위 차이는 주로 Potassium Ion(K+)의 이동에 의해 형성된다.
+- 세포 내부에는 높은 농도의 Potassium Ion이 존재하고, 외부에는 낮은 농도의 Potassium Ion이 존재한다.
+- 이러한 농도 차이로 인해 Potassium Ion은 세포 외부에서 세포 내부로 이동하려고 한다.
+- 이러한 이동은 전위 차이를 유지하기 위해 필요하며, 이때 필요한 Potassium Ion의 이동은 매우 적은 양이다.
+
+## 학습 방법
+
+- 강의를 듣고, 그날 그날 공부한 내용을 소화하는 것이 중요하다.
+- 시험 기간에는 이미 공부한 내용을 복습하는 정도로 접근하면 좋다.
+
+---
+
+# 퀴즈
+
+1. Cellular Reserve의 주요 기능은 무엇인가요?
+    - A. 세포의 생존과 기능을 유지하는 데 필요한 에너지를 제공한다.
+    - B. 세포의 생존과 기능을 유지하는 데 필요한 영양소를 제공한다.
+    - C. 세포의 생존과 기능을 유지하는 데 필요한 산소를 제공한다.
+    - D. 세포의 생존과 기능을 유지하는 데 필요한 물을 제공한다.
+
+2. Resting Membrane Potential이 주로 어떤 이온의 이동에 의해 형성되나요?
+    - A. Sodium Ion
+    - B. Potassium Ion
+    - C. Calcium Ion
+    - D. Chloride Ion
+
+3. 강의 내용을 효과적으로 소화하는 가장 좋은 방법은 무엇인가요?
+    - A. 강의를 듣고, 그날 그날 공부한 내용을 소화한다.
+    - B. 강의를 듣고, 시험 기간에 모든 내용을 한 번에 공부한다.
+    - C. 강의를 듣지 않고, 시험 기간에 모든 내용을 한 번에 공부한다.
+    - D. 강의를 듣지 않고, 그날 그날 공부한 내용을 소화한다.
+
+---
+
+# 퀴즈 답안
+
+1. A. 세포의 생존과 기능을 유지하는 데 필요한 에너지를 제공한다.
+2. B. Potassium Ion
+3. A. 강의를 듣고, 그날 그날 공부한 내용을 소화한다.
+# 강의 요약
+
+## 실패에 대한 인식
+- 실패는 학습의 일부이며, 이전에 실패했던 방법들은 다음 성공을 위한 발판이 될 수 있다.
+- 학습에 있어서 '대충 듣지 않는다'는 것이 중요하다.
+
+## Membrane Potential과 Current
+- 실험을 통해 Membrane Potential과 Current를 조절하고 관찰할 수 있다.
+- X축은 Membrane Potential을, Y축은 Current를 나타낸다.
+- Membrane Potential이 -90mV에서 -100mV로 변하면, Current는 0이 된다.
+
+## Potential의 변화와 Ion Pump
+- Membrane Potential이 변하면, Cell 밖으로 Ion이 나가는 Pump가 생기거나, Cell 안으로 들어오는 Pump가 생기게 된다.
+- Sodium Channel은 항상 열려있으며, Sodium의 농도에 따라 Cell의 상태가 달라진다.
+
+---
+
+# 퀴즈
+
+1. 실패에 대한 강의자의 인식은 어떠한가?
+    - A. 실패는 학습의 일부이다.
+    - B. 실패는 피해야 한다.
+    - C. 실패는 성공의 반대이다.
+    - D. 실패는 학습의 방해요소이다.
+    - 정답: A
+
+2. Membrane Potential이 -90mV에서 -100mV로 변하면, Current의 값은 어떻게 변하는가?
+    - A. 0이 된다.
+    - B. 증가한다.
+    - C. 감소한다.
+    - D. 변화가 없다.
+    - 정답: A
+
+3. Sodium Channel의 상태는 어떠한가?
+    - A. 항상 열려있다.
+    - B. 항상 닫혀있다.
+    - C. Sodium의 농도에 따라 열림과 닫힘이 변한다.
+    - D. Membrane Potential에 따라 열림과 닫힘이 변한다.
+    - 정답: A
+
+# 강의 요약
+
+## Sodium의 IV Curve와 Sodium Channel
+
+- Sodium의 IV Curve는 Sodium의 Reverse Potential을 기준으로 그려집니다.
+- Sodium Channel은 수천 개, 수만 개 이상의 개수를 가질 수 있지만, Resting 상태에서는 닫혀있습니다.
+- Sodium Channel이 열리는 시점은 Depolarization이 되어야 하며, 이 열림은 한 마이너스 20밀리볼트에서 시작하여 마이너스 65밀리볼트까지 이루어집니다.
+
+## Voltage Dependent Gating
+
+- Voltage Dependent Gating은 볼트에 따라 문이 열리고 닫히는 것을 의미합니다.
+- Membrane Potential이 Depolarization이 되면 Sodium Channel은 움직이면서 닫힌 상태에서 열리게 됩니다.
+- Sodium Channel이 모든 Potential에서 열리고 있다면 Voltage Dependent Curve를 그릴 필요는 없습니다.
+
+## Sodium Gradient와 Driving Force
+
+- 나트륨 그라디언트가 크면, 나트륨 채널이 완전히 열려 있을 때, 드라이빙 포스는 큽니다.
+- 플러스 60mV에서는 나트륨의 리버스 포텐셜이므로, 나트륨은 들어오지 않습니다.
+- 마이너스 40mV에서 렘브란트 텐션이 갑자기 마이너스 40mV가 되면, 1-2%의 나트륨 채널이 열립니다.
+- 마이너스 20mV에서는 반 정도가 열리며, 제로 밀리볼트에서는 100%가 열리는 조건입니다.
+
+# 퀴즈
+
+1. Sodium의 IV Curve는 어떤 것을 기준으로 그려지나요?
+    - Sodium의 Reverse Potential
+
+2. Voltage Dependent Gating은 무엇을 의미하나요?
+    - 볼트에 따라 문이 열리고 닫히는 것
+
+3. 나트륨 그라디언트가 크면 어떤 상황이 발생하나요?
+    - 나트륨 채널이 완전히 열려 있을 때, 드라이빙 포스는 크다.
+# 강의 요약
+
+## 1. Sodium Channel과 Potential
+- Sodium channel은 열리면 스스로 다치게 되어 있습니다. 이는 voltage-gated sodium 채널에서 발생합니다.
+- Depolarization에 대해 이해하면 이전에 다룬 내용과 관련된 부분이 해결됩니다.
+- 인위적으로 전류를 빌려서 마이너스 50짜리 Depolarization을 만들 수 있습니다.
+
+## 2. Action Potential
+- Action Potential은 Resting Membrane Potential에 대한 내용을 반복해서 얘기했습니다.
+- Action Potential은 이해하기 어렵지 않은 내용입니다. 실제로 동영상에 있는 4분짜리 애니메이션을 보면 Action Potential이 어떻게 만들어지는지 잘 설명되어 있습니다.
+- Action Potential은 neuron에서 발생하며, 시작부터 끝까지 약 1ms만에 완료됩니다. 다시 말해, 1초에 1,000번 이상의 action potential이 발생할 수 있습니다.
+
+## 3. Resting Membrane Potential
+- Resting membrane potential은 모든 세포에 존재한다고 했습니다.
+- 어떤 세포든 resting membrane potential이 사라지면 그 세포는 죽은 것으로 간주됩니다.
+
+# 퀴즈
+
+1. Sodium channel이 열리면 어떤 현상이 발생하는가?
+    - A. Depolarization
+    - B. Action Potential
+    - C. Resting Membrane Potential
+    - D. Sodium channel이 다친다.
+    - 정답: D. Sodium channel이 다친다.
+
+2. Action Potential이 발생하는 시간은 대략 얼마인가?
+    - A. 1초
+    - B. 1분
+    - C. 1ms
+    - D. 1시간
+    - 정답: C. 1ms
+
+3. Resting Membrane Potential이 사라지면 세포는 어떻게 되는가?
+    - A. 세포가 죽는다.
+    - B. 세포가 활성화된다.
+    - C. 세포가 분열한다.
+    - D. 세포가 휴면 상태로 들어간다.
+    - 정답: A. 세포가 죽는다.
+# 액션 포텐셜의 발생과 작용
+
+## 액션 포텐셜의 발생
+액션 포텐셜은 특정 세포에서만 발생합니다. 이는 Voltage-gated, Sodium channel, Voltage-gated, Calcium channel과 같은 요소들이 필요하기 때문입니다. 이에 해당하는 세포는 뉴런, 심장세포, 근육세포입니다. 
+
+심장세포는 평균적으로 1초에 한 번씩 박동을 하며, 이것이 액션 포텐셜입니다. 심장세포의 액션 포텐셜은 보통 100ms 정도이며, 근육세포도 액션 포텐셜을 보입니다. 
+
+## 액션 포텐셜의 작용
+액션 포텐셜은 세포 안으로 칼슘이 유입되어 근육이 수축되게 합니다. 이는 볼티지-게이티드한 탄탄한 칼슘 채널과 소듐 채널을 가지고 있기 때문입니다. 
+
+## 액션 포텐셜의 변화
+액션 포텐셜에서의 membrane의 potential 변화는 microvolt입니다. 이는 세포관축에서 제어할 수 있는 voltage를 반영합니다. 
+
+## 감각신경세포와 액션 포텐셜
+감각신경세포에서는 특정한 ion channels이 열리게 되어 receptor potential이 발생합니다. 이 receptor potential이 일정 수준 이상으로 증가하면 action potential이 발생하게 됩니다. 
+
+## 액션 포텐셜의 threshold
+액션 포텐셜을 만들어내기 위해서는 일정한 자극의 강도가 필요하며, 이를 threshold라고 합니다. 
+
+---
+
+### 퀴즈
+
+1. 액션 포텐셜이 발생하는 세포는 무엇인가요?
+    - A. 심장세포
+    - B. 근육세포
+    - C. 뉴런
+    - D. 모두 맞음
+
+2. 액션 포텐셜에서의 membrane의 potential 변화는 어떤 단위로 측정되나요?
+    - A. millivolt
+    - B. microvolt
+    - C. nanovolt
+    - D. picovolt
+
+3. 액션 포텐셜을 만들어내기 위해 필요한 자극의 강도를 무엇이라고 하나요?
+    - A. Threshold
+    - B. Receptor potential
+    - C. Ion channels
+    - D. Voltage-gated
+
+### 답
+1. D. 모두 맞음
+2. B. microvolt
+3. A. Threshold
+# 강의 요약
+
+## Action Potential과 Threshold
+
+- Action potential은 자극의 강도가 일정 수준(threshold) 이상일 때 발휘됩니다.
+- 자극의 강도가 커질수록 action potential의 발휘 횟수가 늘어납니다.
+- 이는 자극 강도를 action potential의 발생 빈도로 변환하는 과정입니다.
+
+## 자극 강도와 Action Potential
+
+- 자극 강도가 커질수록 action potential의 발생 빈도가 늘어납니다.
+- 이는 자극 강도를 action potential의 발생 빈도로 변환하는 과정입니다.
+
+## Depolarization과 Sodium Current
+
+- Depolarization은 action potential을 만들어내기 위한 과정 중 하나입니다.
+- 이 과정에서 sodium current가 중요한 역할을 합니다.
+- Sodium current는 voltage-dependent하며, depolarization 과정에서 sodium 채널을 통해 세포 안으로 들어오는 sodium의 양이 밖으로 나가는 전위의 양보다 많아질 때 발생합니다.
+
+## 퀴즈
+
+1. Action potential이 발휘되기 위한 자극의 강도를 무엇이라고 부르나요?
+    - A. Depolarization
+    - B. Threshold
+    - C. Sodium Current
+    - D. Voltage Dependent
+    - 답: B. Threshold
+
+2. 자극의 강도가 커질수록 어떤 현상이 발생하나요?
+    - A. Action potential의 발생 빈도가 줄어든다.
+    - B. Action potential의 발생 빈도가 늘어난다.
+    - C. Sodium current가 줄어든다.
+    - D. Sodium current가 늘어난다.
+    - 답: B. Action potential의 발생 빈도가 늘어난다.
+
+3. Depolarization 과정에서 sodium current가 발생하는 이유는 무엇인가요?
+    - A. 세포 안으로 들어오는 sodium의 양이 밖으로 나가는 전위의 양보다 적어지기 때문이다.
+    - B. 세포 안으로 들어오는 sodium의 양이 밖으로 나가는 전위의 양보다 많아지기 때문이다.
+    - C. 세포 안으로 들어오는 sodium의 양이 밖으로 나가는 전위의 양과 같아지기 때문이다.
+    - D. 세포 안으로 들어오는 sodium의 양이 밖으로 나가는 전위의 양을 초과하지 못하기 때문이다.
+    - 답: B. 세포 안으로 들어오는 sodium의 양이 밖으로 나가는 전위의 양보다 많아지기 때문이다.
+## 강의 요약
+
+### Sodium Channel과 Membrane Depolarization
+
+- Sodium Channel이 열리면 Sodium이 들어오게 되고, 이로 인해 Membrane Depolarization이 발생합니다. 이는 Voltage Dependent한 과정으로, Sodium Channel이 열리면 더 많은 Depolarization이 일어나고 더 많은 Sodium Channel이 동원되어 열리게 됩니다.
+
+- 이 과정은 아주 짧은 시간 동안에 일어나며, 이로 인해 Membrane Potential은 Sodium의 Equilibrium Potential인 +60mm에 가까워집니다. 하지만 일반적으로 이 정도까지는 도달하지 못하며, 이 과정은 매우 짧은 시간 동안에 일어납니다.
+
+### Action Potential과 Threshold
+
+- Sodium Channel이 열리면 Action Potential이 발생합니다. Threshold는 Depolarization이 충분치 않아서 Sodium Channel이 열리지 않는 상태를 의미합니다. 이 상태에서는 Resting을 결정해주는 Potential Channel만 있기 때문에, Membrane Potential은 다시 Resting 상태로 돌아옵니다.
+
+- 하지만 Threshold 이상의 Current가 흐르게 되면, Sodium Channel이 열리게 되고 이로 인해 Action Potential이 발생합니다.
+
+### Sodium Channel Inactivation과 Repolarization
+
+- Sodium Channel Inactivation은 Sodium Channel이 열린 후 빠르게 닫히는 과정을 의미합니다. 이 과정은 볼티지 의존적이며, Sodium Channel이 열린 후 빠르게 닫히게 되어 다시 열리기 위해서는 시간이 필요합니다.
+
+- Repolarization은 Action Potential 이후에 Membrane Potential이 다시 안정 상태로 돌아가는 과정을 의미합니다. 이 과정은 Sodium Channel Inactivation과 함께 Action Potential을 멈추게 합니다.
+
+## 퀴즈
+
+1. Sodium Channel이 열리면 어떤 현상이 발생하는가?
+    - A. Membrane Depolarization
+    - B. Membrane Repolarization
+    - C. Sodium Channel Inactivation
+    - D. Threshold
+    - 정답: A. Membrane Depolarization
+
+2. Action Potential이 발생하는 조건은 무엇인가?
+    - A. Sodium Channel이 닫힐 때
+    - B. Threshold 이하의 Current가 흐를 때
+    - C. Threshold 이상의 Current가 흐를 때
+    - D. Sodium Channel이 열릴 때
+    - 정답: C. Threshold 이상의 Current가 흐를 때
+
+3. Sodium Channel Inactivation과 Repolarization의 관계는 무엇인가?
+    - A. Sodium Channel Inactivation은 Repolarization을 방해한다.
+    - B. Sodium Channel Inactivation은 Repolarization을 촉진한다.
+    - C. Sodium Channel Inactivation과 Repolarization은 서로 독립적이다.
+    - D. Sodium Channel Inactivation은 Repolarization을 지연시킨다.
+    - 정답: B. Sodium Channel Inactivation은 Repolarization을 촉진한다.
+# 강의 요약
+
+## Sodium와 Potassium 채널의 역할
+- Sodium 채널은 이네큐에이션을 통해 상태가 회복되는데, 이 과정에는 몇 밀리초의 시간이 필요하다.
+- Potassium 채널은 Voltage-dependent하게 열리며, Sodium 채널보다 늦게 열린다. 이를 Delayed rectifier라고 부른다.
+- Sodium 채널이 더 이상 기능하지 않을 때, 새로운 유형의 Potassium 채널이 열리면서 세포막 전위는 다시 Potassium의 Reverse potential 쪽으로 가까이 끌려오게 된다.
+
+## Action potential과 Afterhyperpolarization
+- Action potential은 Sodium 채널이 열리고 이온 교환과 새로운 타입의 Potassium 채널이 열리는 과정을 포함한다.
+- Action potential 이후에는 Afterhyperpolarization이라는 과분극화 과정이 발생한다. 이는 세포막의 전위가 역전위에 더 가까워지게 되어 발생한다.
+- Afterhyperpolarization이 발생하는 동안에는 다음번 Action potential을 만들기가 어려워진다.
+
+## Action potential의 특징
+- Action potential은 all-or-none이라는 특징을 가진다. 즉, 한 번 발사를 하면 모양이 똑같다.
+- Action potential에서 중요한 개념 중 하나는 refractory period라는 것이다.
+
+# 퀴즈
+
+1. Sodium 채널이 열리는 과정을 무엇이라고 부르는가?
+    - 답: 이네큐에이션
+
+2. Potassium 채널이 Sodium 채널보다 늦게 열리는 이유는 무엇인가?
+    - 답: Delayed rectifier 때문
+
+3. Action potential 이후에 발생하는 과분극화 과정을 무엇이라고 부르는가?
+    - 답: Afterhyperpolarization
+# 강의 요약
+
+## Action Potential과 Refractory Period
+
+- Action potential은 세포에서 반복적으로 나타나는 현상입니다. 
+- Absolute refractory period는 매우 짧은 시간 동안 세포가 어떠한 자극에도 반응하지 않는 시간을 말합니다.
+- Relative refractory period는 일정한 자극에는 반응하지 않지만, 큰 자극에는 반응하는 시간을 말합니다.
+
+## Sodium Channel과 Refractory Period
+
+- Sodium channel은 activation gate라는 상태에서 자극을 받으면 열리게 되며, 이후 자체적으로 닫히게 됩니다.
+- Sodium channel이 닫힌 후 다시 열리기까지는 시간이 필요하며, 이 과정이 바로 refractory period입니다.
+- Sodium channel의 inactivation과 recovery 과정 중에 나타나는 refractory period 동안에는 아무리 센 자극이 와도 sodium channel을 열지 못합니다.
+
+## Action Potential의 주파수
+
+- 자극의 강도에 따라 action potential의 주파수가 증가합니다.
+- 이는 relative refractory period의 결과로, action potential의 형태는 큰 차이가 없지만 주파수가 변화합니다.
+
+## 퀴즈
+
+1. Action potential이 반복적으로 나타나는 현상을 무엇이라고 부르나요?
+    - A. Absolute refractory period
+    - B. Relative refractory period
+    - C. Sodium channel activation
+    - D. Sodium channel inactivation
+    - 정답: A
+
+2. Sodium channel이 닫힌 후 다시 열리기까지의 과정을 무엇이라고 부르나요?
+    - A. Absolute refractory period
+    - B. Relative refractory period
+    - C. Sodium channel activation
+    - D. Sodium channel inactivation
+    - 정답: B
+
+3. 자극의 강도에 따라 어떤 것이 증가하는가?
+    - A. Action potential의 형태
+    - B. Action potential의 주파수
+    - C. Sodium channel의 activation
+    - D. Sodium channel의 inactivation
+    - 정답: B
+
+# Action Potential과 Sodium Channel의 상호작용
+
+## 1. Action Potential의 증가
+- Action potential과 action potential 사이의 간격이 줄어들면, 더 많은 행동을 경험할 수 있게 됩니다.
+
+## 2. 자극의 강도와 빈도 조절
+- Action potential을 코딩하여 자극의 강도와 빈도를 조절하면, sodium channel의 inactivation과 recovery를 유발할 수 있습니다.
+
+## 3. 휴식 시간
+- 이러한 과정 후에는 10분간 휴식을 취하는 것이 좋습니다.
+
+---
+
+### 퀴즈:
+
+1. Action potential과 action potential 사이의 간격이 줄어들면 어떤 변화가 일어나나요?
+    - A. 더 적은 행동을 경험하게 됩니다.
+    - B. 더 많은 행동을 경험하게 됩니다.
+    - C. 행동의 변화는 없습니다.
+    - D. 행동의 강도가 약해집니다.
+    - 정답: B
+
+2. Action potential을 코딩하여 자극의 강도와 빈도를 조절하면 어떤 현상을 유발하나요?
+    - A. Sodium channel의 activation과 recovery
+    - B. Sodium channel의 inactivation과 recovery
+    - C. Sodium channel의 activation과 deactivation
+    - D. Sodium channel의 inactivation과 deactivation
+    - 정답: B
+
+3. Action potential과 sodium channel의 상호작용 후에는 얼마나 휴식을 취해야 하나요?
+    - A. 5분
+    - B. 10분
+    - C. 15분
+    - D. 20분
+    - 정답: B
+

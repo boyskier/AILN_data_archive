@@ -1,0 +1,136 @@
+# Cardiovascular System과 Lymphatic System
+
+## Cardiovascular System
+- 순환 시스템의 일부로, heart와 blood vessels로 구성됨.
+- Anastomosis(문합)이라는 구조물이 존재하며, 이는 인접한 arteries나 veins의 가지들 사이에 communication branch가 존재하는 것을 말함.
+- Anastomosis는 동맥의 가지 중 하나가 막히거나 할 때 안전한 우회 장치가 마련되어 있음.
+- Terminal Artery는 Anastomosis가 없는 동맥으로, 이 동맥이 막히면 그 동맥이 혈액을 공급하던 부위는 혈액 공급이 차단되어 괴사가 일어남.
+
+## Lymphatic System
+- heart나 blood vessels에 해당되는 구조물이 없고, lymph vessels만 존재함.
+- lymphatic system을 구성하는 ducts, 관 자체의 조직학적인 구성도 veins과 거의 유사함.
+
+## Veins
+- Superficial Vein과 Deep Vein 두 가지로 구분됨.
+- Superficial Vein은 피부나 Subcutaneous Tissue, 근육 표면에서 혈액을 모으고, Deep Vein으로 혈액을 보냄.
+- Deep Vein은 근육 속에 묻혀 있으며, 근육이 수축하면 deep vein 주위의 정맥이 압박되어 혈액이 심장으로 향하는 힘을 받음.
+- Varicose vein은 피부 밑에 있는 subcutaneous 조직에 있는 superficial vein이 표면으로 튀어나와 보이는 현상을 말함.
+
+---
+
+### 퀴즈
+
+1. 순환 시스템의 구성 요소는 무엇인가요?
+   - A. heart와 blood vessels
+   - B. heart와 lymph vessels
+   - C. blood vessels와 lymph vessels
+   - D. heart, blood vessels, lymph vessels
+
+2. Anastomosis의 기능은 무엇인가요?
+   - A. 동맥의 가지 중 하나가 막히거나 할 때 안전한 우회 장치를 마련하는 것
+   - B. 동맥과 정맥 사이의 혈액 흐름을 조절하는 것
+   - C. 동맥과 정맥 사이의 혈액을 필터링하는 것
+   - D. 동맥과 정맥 사이의 혈액을 순환시키는 것
+
+3. Varicose vein이 발생하는 원인은 무엇인가요?
+   - A. Superficial Vein의 혈액이 Deep Vein으로 제대로 흐르지 않아서
+   - B. Deep Vein의 혈액이 Superficial Vein으로 제대로 흐르지 않아서
+   - C. Superficial Vein이 피부 표면으로 튀어나와서
+   - D. Deep Vein이 피부 표면으로 튀어나와서
+
+### 답
+1. A. heart와 blood vessels
+2. A. 동맥의 가지 중 하나가 막히거나 할 때 안전한 우회 장치를 마련하는 것
+3. A. Superficial Vein의 혈액이 Deep Vein으로 제대로 흐르지 않아서
+# 강의 요약
+
+## 정맥 확장과 수술적 치료
+- Superficial vein에서 Deep vein으로 혈액을 보내는 Perforating veins의 압력이 전해져서 vein이 늘어나고 판막이 기능을 못하게 됨
+- 이로 인해 Superficial vein까지 압력이 전해져서 혈액이 계속 정체되고 정맥이 늘어나고 판막이 기능을 못하게 됨
+- 이 상태가 오래되면 vein은 늘어나서 혈액이 정맥 내부에 정체되게 되고, 이로 인해 통증을 느끼게 됨
+- 이런 경우에는 수술적인 치료가 필요하게 됨
+
+## Cardiovascular system의 중요한 부분: Capillary
+- Capillary는 혈액과 조직액 사이에서 물질 교환을 담당하는 혈관
+- 동맥의 가장 마지막 부분은 Arteriole이라는 작은 동맥이고, Arteriole에서 Capillary가 형성되고 Capillary들이 다시 모여 Vein, 큰 정맥이 됨
+- Arteriole과 Vein을 직접 연결하는 혈관이 존재하며, 이것을 Arteriovenous anastomosis 또는 AV shunt라고 함
+
+## Lymphatic system
+- Lymphatic system은 venous system과 비슷한 성질을 갖음
+- Lymph trunks는 여러 개의 lymph trunks가 모여서 형성되며, 이들은 더 큰 혈관인 lymphatic vessels로 합쳐짐
+- Lymphatic system은 몸의 면역 체계와 밀접한 관련이 있음
+- Lymph는 면역 세포와 항체를 포함하고 있어서 감염, 염증, 종양 등의 상황에서 중요한 역할을 함
+- 또한, lymphatic system은 노폐물 및 여러 가지 노화된 세포나 이물질을 제거하는 기능도 수행함
+
+# 퀴즈
+
+1. Superficial vein에서 Deep vein으로 혈액을 보내는 짧은 혈관을 무엇이라고 부르는가?
+    - A. Arteriole
+    - B. Capillary
+    - C. Perforating veins
+    - D. AV shunt
+    - 정답: C. Perforating veins
+
+2. Arteriole과 Vein을 직접 연결하는 혈관을 무엇이라고 부르는가?
+    - A. Arteriovenous anastomosis
+    - B. Capillary
+    - C. Perforating veins
+    - D. Lymphatic vessels
+    - 정답: A. Arteriovenous anastomosis
+
+3. Lymphatic system이 수행하는 기능 중 틀린 것은 무엇인가?
+    - A. 면역 세포와 항체를 포함하고 있어서 감염, 염증, 종양 등의 상황에서 중요한 역할을 함
+    - B. 노폐물 및 여러 가지 노화된 세포나 이물질을 제거하는 기능을 수행함
+    - C. 혈액과 조직액 사이에서 물질 교환을 담당함
+    - D. 몸의 면역 체계와 밀접한 관련이 있음
+    - 정답: C. 혈액과 조직액 사이에서 물질 교환을 담당함
+
+# Lymphatic System 요약
+
+Lymphatic System은 우리 몸에서 노폐물과 외부 세균을 제거하는 역할을 합니다. 이 시스템은 Lymph와 Lymphatic vessel로 구성되어 있습니다.
+
+## Lymph의 순환
+
+Lymph는 우리 몸 전체를 순환하며, 이 과정에서 노폐물과 외부 세균을 제거합니다. Lymph는 특정 영역에서 모아져 큰 Lymphatic vessel, 즉 Right Lymphatic Duct와 Thoracic Duct로 이동합니다.
+
+## Right Lymphatic Duct와 Thoracic Duct
+
+Right Lymphatic Duct는 몸의 일부 영역에서 모인 Lymph를 수집하고, Thoracic Duct는 나머지 모든 부위에서 Lymph를 수집합니다. 이 두 Duct는 각각 Right Lymphatic Angle과 Left Lymphatic Angle에서 정맥과 합쳐져 혈액으로 변환됩니다.
+
+## Lymphatic Angle
+
+Lymphatic Angle은 목에서 내려오는 Internal Jugular Vein과 팔에서 올라오는 Subclavian Vein이 만나는 부위입니다. Right Lymphatic Duct와 Thoracic Duct는 이 부위에서 큰 정맥에 합쳐져 혈액으로 변환되며, 이 혈액은 최종적으로 심장으로 돌아갑니다.
+
+## 주의사항
+
+Lymphatic System은 조직학과 면역학에서 자세히 공부하는 내용입니다. 이 요약에서 사용된 용어는 실제 용어와 다를 수 있으니 참고 바랍니다.
+
+---
+
+## 퀴즈
+
+1. Lymphatic System의 주요 역할은 무엇인가요?
+    - A. 혈액 생성
+    - B. 노폐물과 외부 세균 제거
+    - C. 신경 전달
+    - D. 호흡
+
+2. Right Lymphatic Duct와 Thoracic Duct의 차이점은 무엇인가요?
+    - A. Lymph를 수집하는 부위
+    - B. 혈액으로 변환되는 과정
+    - C. Lymph의 순환 방향
+    - D. Lymphatic Angle의 위치
+
+3. Lymphatic Angle은 어떤 두 정맥이 만나는 부위인가요?
+    - A. Internal Jugular Vein과 Subclavian Vein
+    - B. Superior Vena Cava와 Inferior Vena Cava
+    - C. Pulmonary Vein과 Pulmonary Artery
+    - D. Aorta와 Pulmonary Artery
+
+---
+
+## 답
+
+1. B. 노폐물과 외부 세균 제거
+2. A. Lymph를 수집하는 부위
+3. A. Internal Jugular Vein과 Subclavian Vein

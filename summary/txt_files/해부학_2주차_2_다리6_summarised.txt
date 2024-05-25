@@ -1,0 +1,202 @@
+# Popliteal Fossa의 구조와 기능
+
+Popliteal fossa는 무릎 관절 뒤쪽에 위치한 마름모 형태의 공간입니다. 이 공간의 경계는 Biceps femoris 근육, Semimembranosus와 Semitendinosus 근육, 그리고 Gastrocnemius의 Medial head와 Lateral head에 의해 형성됩니다.
+
+## Popliteal Fossa 내부 구조
+
+Popliteal fossa 내부에는 다음과 같은 구조물들이 위치합니다:
+
+- Small saphenous vein의 끝부분
+- Popliteal artery와 vein
+- Sciatic nerve가 분기된 Tibial nerve와 Common fibular nerve
+- Posterior cutaneous nerve 사이의 Fascia lata
+- Popliteal lymph nodes와 연결된 Lymphatics
+
+## Popliteal Fossa의 기능
+
+Popliteal Fossa는 근육 사이에 형성되는 오목한 공간으로, 다양한 구조물들이 위치하고 있습니다. 이 공간은 지방조직으로 채워져 있어 실제로는 오목한 부위가 아니라 단단하게 꽉 차있는 부위로 느껴집니다.
+
+Tibial Nerve는 Sciatic Nerve의 가지이며, 이 공간 주위에는 Popliteus, Soleus, Plantaris, Gastrocnemius 등의 근육으로 가는 가지가 있어 이 근육들을 자극합니다. 또한, Tibial Nerve에서는 Short Medial Sural Cutaneous Nerve가 분기되어 나와, Common Fibular Nerve에서 나오는 Sural Communicating Branch와 만나서 Sural Nerve를 형성합니다. 이 Sural Nerve는 피부 신경이 되어 종아리와 발목의 측면에 주로 분포합니다.
+
+---
+
+### 퀴즈
+
+1. Popliteal fossa의 경계를 형성하는 근육들은 무엇인가요?
+   - A. Biceps femoris 근육, Semimembranosus와 Semitendinosus 근육, Gastrocnemius의 Medial head와 Lateral head
+   - B. Biceps femoris 근육, Semimembranosus와 Semitendinosus 근육, Gastrocnemius의 Medial head와 Lateral head, Soleus 근육
+   - C. Biceps femoris 근육, Semimembranosus와 Semitendinosus 근육, Gastrocnemius의 Medial head와 Lateral head, Plantaris 근육
+   - D. Biceps femoris 근육, Semimembranosus와 Semitendinosus 근육, Gastrocnemius의 Medial head와 Lateral head, Popliteus 근육
+   - 답: A
+
+2. Popliteal fossa 내부에 위치하는 구조물들 중 틀린 것은 무엇인가요?
+   - A. Small saphenous vein의 끝부분
+   - B. Popliteal artery와 vein
+   - C. Sciatic nerve가 분기된 Tibial nerve와 Common fibular nerve
+   - D. Anterior cutaneous nerve 사이의 Fascia lata
+   - 답: D
+
+3. Tibial Nerve에서 분기되어 나오는 신경은 무엇인가요?
+   - A. Short Medial Sural Cutaneous Nerve
+   - B. Long Medial Sural Cutaneous Nerve
+   - C. Short Lateral Sural Cutaneous Nerve
+   - D. Long Lateral Sural Cutaneous Nerve
+   - 답: A
+
+# 강의 요약
+
+## Common Peroneal Nerve
+
+- Sciatic Nerve의 작은 가지로, L4부터 S2 레벨의 척추 신경 성분으로 구성
+- Biceps Femoris 근육의 중앙 경계에 위치, Popliteal Fossa의 상부 외측 경계를 따라 내려감
+- Gastrocnemius Lateral Head를 만나 Popliteal Fossa 밖으로 나가며, Fibula의 목을 감싸 돌아감
+- Superficial Peroneal Nerve와 Deep Peroneal Nerve로 나뉘어짐
+- 뼈와 피부 사이에 얕게 위치해 손상을 받기 쉬움
+
+## Posterior Cutaneous Nerve of Thigh
+
+- 주로 S1부터 S3 레벨의 척추 신경 성분으로 구성
+- 깊은 피부조직보다 깊게 위치하며, 피부조직에 쌓여있음
+- 작은 가지들이 피부조직을 뚫고 엉덩이 아래쪽 층으로 나아가 피부 신경의 역할을 함
+- Popliteal Fossa의 피부까지 감각을 담당
+
+## Popliteal Artery
+
+- Popliteal Fossa에 위치하는 동맥, 정맥, 신경 중 가장 깊게 위치
+- Femoral Artery가 아래로 내려오면서 이름이 바뀌며, Adductor Hiatus를 지나면 Popliteal Artery라는 이름이 붙음
+- Popliteal Artery에서는 5개의 Genicular branch가 나와서 관절낭과 인대 등의 혈액을 공급
+- Genicular branch들이 서로 만나서 네트워크를 형성하는 구조를 Genicular anastomosis라고 함
+
+# 퀴즈
+
+1. Common Peroneal Nerve는 어떤 신경의 가지이며, 어떤 척추 신경 성분으로 구성되어 있나요?
+2. Posterior Cutaneous Nerve of Thigh는 어디에 위치하며, 어떤 역할을 하나요?
+3. Popliteal Artery는 어디에 위치하며, 어떤 구조를 형성하나요?
+
+# 답변
+
+1. Common Peroneal Nerve는 Sciatic Nerve의 가지로, L4부터 S2 레벨의 척추 신경 성분으로 구성되어 있습니다.
+2. Posterior Cutaneous Nerve of Thigh는 깊은 피부조직보다 깊게 위치하며, 피부 신경의 역할을 합니다.
+3. Popliteal Artery는 Popliteal Fossa에 위치하며, Genicular branch들이 서로 만나서 네트워크를 형성하는 구조인 Genicular anastomosis를 형성합니다.
+# 강의 요약
+
+## 무릎 관절의 혈액 공급
+
+- Femoral Artery는 Adductor Hiatus를 통해 무릎 뒤쪽으로 이동하며, Descending Genicular Branch를 가지고 있다.
+- Lateral Femoral Circumflex Artery의 Descending Branch는 무릎 관절로 내려온다.
+- Anterior Tibial Recurrent Artery는 Anterior Tibial Artery에서 위쪽으로 거꾸로 올라가는 가지다.
+- 이 3개의 동맥들이 Popliteal Artery 5개의 Genicular Branch와 만나 무릎 관절 주위에 Genicular Anastomosis를 형성한다.
+- Genicular Anastomosis는 무릎 관절 주위의 여러 구조물들의 안정적인 혈액 순환을 돕는 역할을 한다.
+
+## Popliteal Vein과 Lymph Nodes
+
+- Popliteal Vein은 종아리 부위의 깊은 정맥인 Posterior Tibial Vein이 Popliteal Fossa 쪽으로 올라와서 이름이 바뀐 것이다.
+- Popliteal Vein은 Inferior border of popliteus와 Adductor hiatus를 경계로 이름이 붙여진다.
+- Popliteal fossa 부위에는 Superficial lymph nodes와 Deep lymph nodes가 있다.
+- Superficial lymph nodes는 Subcutaneous tissue layer에 위치하고, Small saphenous vein이 끝나는 지점 주위에 위치한다.
+- Deep lymph nodes는 Popliteal artery와 Popliteal vein이 위치하는 좀 더 깊은 부위에 위치한다.
+
+## Extensor Retinaculum과 발목 앞쪽의 근육들
+
+- Extensor retinaculum은 발목 앞쪽을 지나는 힘줄들을 제어하여 발목을 dorsiflexion 할 때 튀어나오지 않도록 하고, 위치를 벗어나지 않도록 유지하는 역할을 한다.
+- Superior extensor retinaculum은 정강이와 종아리뼈 사이에 일자 형태로 형성되어 있으며, Inferior extensor retinaculum은 안쪽은 두 갈래로 나누어지고, 바깥쪽에서는 하나로 합쳐진 Y자 형태로 구성된다.
+- 종아리 앞쪽 부분에는 tibialis anterior, extensor digitorum longus, extensor hallucis longus, 그리고 peroneus tertius라는 4개의 근육이 위치한다.
+- 이 근육들은 발목 관절에서 발을 dorsiflexion하고 발가락을 extension하는 역할을 공통적으로 수행한다.
+
+# 퀴즈
+
+1. Femoral Artery가 Adductor Hiatus를 통해 이동하는 곳은 어디인가요?
+   - A. 무릎 앞쪽
+   - B. 무릎 뒤쪽
+   - C. 발목 앞쪽
+   - D. 발목 뒤쪽
+   - 답: B. 무릎 뒤쪽
+
+2. Popliteal Vein의 이름이 바뀌는 경계는 어디인가요?
+   - A. Inferior border of popliteus와 Adductor hiatus
+   - B. Superior border of popliteus와 Adductor hiatus
+   - C. Inferior border of popliteus와 Femoral Artery
+   - D. Superior border of popliteus와 Femoral Artery
+   - 답: A. Inferior border of popliteus와 Adductor hiatus
+
+3. 발목 앞쪽에 위치하는 근육들 중 하나가 아닌 것은 무엇인가요?
+   - A. tibialis anterior
+   - B. extensor digitorum longus
+   - C. extensor hallucis longus
+   - D. peroneus quartus
+   - 답: D. peroneus quartus
+# 발목 앞쪽 근육과 신경 공급
+
+## 발목 앞쪽 근육
+
+발목 앞쪽에는 4개의 주요 근육이 위치해 있습니다. 이들은 다음과 같습니다:
+
+1. **Tibialis Anterior**: 중앙에 위치하며, 발목을 위로 들어올리는 역할을 합니다.
+2. **Extensor Hallucis Longus**: Tibialis Anterior의 옆에 위치하며, 엄지발가락을 위로 들어올리는 역할을 합니다.
+3. **Extensor Digitorum Longus**: Extensor Hallucis Longus의 옆에 위치하며, 나머지 발가락을 위로 들어올리는 역할을 합니다.
+4. **Peroneus Tertius**: 가장 아래쪽에 위치하며, 발목을 외측으로 회전시키는 역할을 합니다.
+
+이들 근육은 모두 Deep Peroneal Nerve에 의해 신경 공급을 받습니다. 이 신경은 L4와 L5 수준 척추 신경에서 나오는 신경 섬유들이 주요 성분으로 되어 있습니다.
+
+## 신경 공급
+
+Deep Peroneal Nerve는 Common Peroneal Nerve의 끝 부분 가지 중 하나로, 발목 앞쪽에서 Anterior Tibial Artery와 함께 위치합니다. 이 신경은 발목과 발목 사이를 연결하는 Interosseous Membrane을 앞쪽으로 가서 아래로 내려가게 됩니다. 
+
+Deep Peroneal Nerve는 발목 앞쪽을 지나 발등 부분으로 들어가, Intrinsic Muscle 2개인 Extensor Digitorum Brevis (EDB)와 Extensor Hallosis Brevis (EHB)에 신호를 전달합니다. 마지막으로, 이 신경의 끝 부분은 First Interdigital Cleft로 이어져 피부에 분포합니다.
+
+## 퀴즈
+
+1. 발목 앞쪽에 위치하는 근육들은 어떤 신경에 의해 공급되는가?
+    - A. Superficial Peroneal Nerve
+    - B. Deep Peroneal Nerve
+    - C. Common Peroneal Nerve
+    - D. Anterior Tibial Nerve
+    - 정답: B. Deep Peroneal Nerve
+
+2. Deep Peroneal Nerve가 신호를 전달하는 Intrinsic Muscle 2개는 무엇인가?
+    - A. Extensor Digitorum Longus와 Extensor Hallucis Longus
+    - B. Extensor Digitorum Brevis와 Extensor Hallosis Brevis
+    - C. Tibialis Anterior와 Peroneus Tertius
+    - D. Fibularis Longus와 Fibularis Brevis
+    - 정답: B. Extensor Digitorum Brevis와 Extensor Hallosis Brevis
+
+3. Deep Peroneal Nerve의 끝 부분이 분포하는 부위는 어디인가?
+    - A. Second Interdigital Cleft
+    - B. First Interdigital Cleft
+    - C. Anterior Tibial Artery
+    - D. Posterior Tibial Artery
+    - 정답: B. First Interdigital Cleft
+
+# 요약
+
+## Lateral Compartment 근육의 이노베이션
+Lateral compartment 근육들은 주로 L5부터 S2 레벨의 spinal nerve에서 나오는 신경섬유로 구성된 superficial fibular nerve에 의해 이노베이션됩니다. 이 근육들은 외측에서 외측 malleolus를 지나 발의 외측으로 들어가, 발을 inversion시키는 작용과 약하게 plantarflexion을 유발합니다.
+
+## Superficial Fibular Nerve
+Superficial fibular nerve는 common fibular nerve의 가지 중 하나로, lateral compartment에 위치하여 2개의 근육을 이노베이션합니다. 이 신경은 최종적으로 cutaneous nerve가 형성되며, 종아리 앞쪽 표면의 distal part와 발등의 피부에 분포합니다.
+
+## Lateral Compartment의 혈관 공급
+Lateral compartment에는 큰 혈관이 없으며, anterior와 posterior compartment에 있는 큰 혈관에서 나온 perforating branches들이 혈관 공급을 담당합니다. 이에는 anterior tibial artery와 fibular artery 등의 큰 동맥에서 나온 perforating artery가 포함되며, 이와 동반되는 정맥들도 형성됩니다.
+
+# 퀴즈
+
+1. Lateral compartment 근육들은 어떤 신경에 의해 이노베이션되는가?
+    - A. Superficial fibular nerve
+    - B. Common fibular nerve
+    - C. Anterior tibial nerve
+    - D. Posterior tibial nerve
+    - 답: A. Superficial fibular nerve
+
+2. Superficial fibular nerve는 어떤 신경의 가지인가?
+    - A. Common fibular nerve
+    - B. Anterior tibial nerve
+    - C. Posterior tibial nerve
+    - D. Lateral plantar nerve
+    - 답: A. Common fibular nerve
+
+3. Lateral compartment의 혈관 공급은 어디에서 나오는가?
+    - A. Anterior tibial artery와 fibular artery
+    - B. Posterior tibial artery와 fibular artery
+    - C. Anterior tibial artery와 posterior tibial artery
+    - D. Fibular artery와 lateral plantar artery
+    - 답: A. Anterior tibial artery와 fibular artery

@@ -1,0 +1,112 @@
+# 팔의 근육 구조와 기능
+
+팔의 근육은 3개의 flexor와 1개의 extensor로 구성되어 있습니다. 
+
+- **Flexor**
+  - **Biceps Brachii**: Long head와 short head로 구성되며, 팔꿈치가 펴진 상태에서는 팔을 구부리는 작용을 합니다.
+  - **Brachialis**: 팔꿈치 관절에 작용하는 주요 구부리는 근육입니다.
+  - **Coracobrachialis**: Shoulder joint에서 팔을 flexion, adduction 시키는 역할을 하며, shoulder joint를 stabilize 합니다.
+
+- **Extensor**
+  - **Triceps Brachii**: Long head와 lateral, medial head 3개의 head를 갖습니다. 팔꿈치를 펴는 역할을 합니다.
+
+이 근육들은 musculocutaneous nerve와 radial nerve에 의해 지배됩니다.
+
+# 팔의 혈관 구조
+
+- **Brachial Artery**: Axillary artery가 teres major의 inferior border를 지나면서 이름이 바뀌며, 팔로 내려오면 라디얼 아테리와 울나 아테리 두 개로 나뉘어져서 끝나게 됩니다.
+
+- **Deep Artery of Arm**: 휴머러스의 뒷면을 따라 지나가면서 뒤쪽에 있는 구조물들의 혈액을 공급합니다.
+
+# 팔에 분포하는 신경
+
+- **Musculocutaneous Nerve**: 팔꿈치 위쪽에서는 근육에 분포하고 팔꿈치 아래쪽에서는 피부에 분포하는 특성이 있습니다.
+
+## 퀴즈
+
+1. 팔의 근육은 몇 개의 flexor와 몇 개의 extensor로 구성되어 있나요?
+   - A. 2개의 flexor와 2개의 extensor
+   - B. 3개의 flexor와 1개의 extensor
+   - C. 4개의 flexor와 1개의 extensor
+   - D. 3개의 flexor와 2개의 extensor
+   - 정답: B. 3개의 flexor와 1개의 extensor
+
+2. Biceps Brachii 근육의 기능은 무엇인가요?
+   - A. 팔꿈치를 펴는 역할
+   - B. 팔꿈치를 구부리는 역할
+   - C. 팔을 adduction하는 역할
+   - D. 팔을 abduction하는 역할
+   - 정답: B. 팔꿈치를 구부리는 역할
+
+3. Musculocutaneous Nerve는 어디에 분포하는 특성이 있나요?
+   - A. 팔꿈치 위쪽에서는 근육에, 팔꿈치 아래쪽에서는 피부에 분포
+   - B. 팔꿈치 위쪽에서는 피부에, 팔꿈치 아래쪽에서는 근육에 분포
+   - C. 팔 전체에 균일하게 분포
+   - D. 팔꿈치 주변에만 분포
+   - 정답: A. 팔꿈치 위쪽에서는 근육에, 팔꿈치 아래쪽에서는 피부에 분포
+
+**요약:**
+
+이 강의는 팔의 주요 신경과 혈관, 그리고 근육에 대해 설명하고 있습니다. 깊은 상완동맥, 상완골, 반지골 홈 등의 주요 구조물들이 언급되었습니다. 또한, 팔의 주요 신경인 Radial Nerve, Median Nerve, Ulnar Nerve에 대한 설명이 있었습니다. 이들 신경은 감각과 운동을 담당하며, 팔꿈치 위쪽에서는 가지를 내지 않고 팔꿈치 아래쪽에서 가지를 내게 됩니다. 마지막으로, Deep tendon reflex에 대한 설명이 있었습니다. 이는 팔에서 biceps reflex나 triceps reflex를 측정할 수 있는 방법입니다.
+
+**퀴즈:**
+
+1. 팔의 주요 신경 중 팔꿈치 위쪽에서 가지를 내지 않는 신경은 무엇인가요?
+    - A. Radial Nerve
+    - B. Median Nerve
+    - C. Ulnar Nerve
+    - D. 모두
+
+2. Deep tendon reflex를 측정하는 방법 중, 팔에서 측정할 수 있는 방법은 무엇인가요?
+    - A. Biceps reflex
+    - B. Triceps reflex
+    - C. Patellar reflex
+    - D. A와 B
+
+3. 팔의 주요 구조물 중 반지골 홈은 어디에 위치해 있나요?
+    - A. 상완골
+    - B. 팔꿈치
+    - C. 손목
+    - D. 손가락
+
+**답:**
+
+1. D. 모두
+2. D. A와 B
+3. A. 상완골
+# 강의 요약
+
+## 염증과 통증
+염증이 발생하면 주변 부위가 부풀거나 붙을 수 있습니다. 예를 들어, 텐던(tendon) 주변이 부풀거나 붙으면 이를 움직이는 근육인 바이셉스 근육(biceps muscle)이 움직일 때마다 통증이 발생할 수 있습니다.
+
+## Crepitus
+'Crepitus'는 텐던이 좁은 틈을 지나갈 때 딱딱 걸리는 느낌을 말합니다. 이는 염증에 의한 증상 중 하나입니다.
+
+## 해부학 공부의 중요성
+해부학을 공부할 때는 기본적인 구조를 알고, 이름과 위치, 기능을 이해하는 것이 중요합니다. 또한, 이러한 구조와 질병과의 연관성을 이해하는 것도 중요합니다.
+
+## Blue Box
+강의에서는 기본적인 내용만 설명하고 넘어가지만, 'Blue Box' 부분을 읽어보면서 강의에서 설명한 내용이 어떻게 실질적인 상황에 적용되는지, 그 원리가 무엇인지 리마인드해보면 해부학 지식을 늘리는 데 도움이 될 것입니다.
+
+# 퀴즈
+
+1. 염증이 발생하면 어떤 증상이 나타날 수 있는가?
+    - A. 텐던 주변이 부풀거나 붙음
+    - B. 바이셉스 근육이 움직일 때 통증 발생
+    - C. Crepitus 증상 발생
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음
+
+2. 'Crepitus'는 무엇을 의미하는가?
+    - A. 텐던이 좁은 틈을 지나갈 때 딱딱 걸리는 느낌
+    - B. 텐던 주변이 부풀거나 붙는 현상
+    - C. 바이셉스 근육이 움직일 때 발생하는 통증
+    - D. 해부학 공부의 중요성
+    - 정답: A. 텐던이 좁은 틈을 지나갈 때 딱딱 걸리는 느낌
+
+3. 해부학을 공부할 때 중요한 것은 무엇인가?
+    - A. 기본적인 구조를 알고, 이름과 위치, 기능을 이해하는 것
+    - B. 구조와 질병과의 연관성을 이해하는 것
+    - C. 'Blue Box' 부분을 읽어보며 실질적인 상황에 적용하는 방법을 이해하는 것
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음

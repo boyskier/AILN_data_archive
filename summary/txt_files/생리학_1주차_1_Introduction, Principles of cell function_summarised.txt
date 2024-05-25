@@ -1,0 +1,418 @@
+# Human Physiology 강의 요약
+
+## 1. 생리학(Physiology)의 정의
+- "피지"는 "자연" 또는 "생명"을, "올로지"는 "연구" 또는 "학문"을 의미함.
+- 따라서, 생리학은 "자연의 연구" 또는 "생명의 연구"라고 해석할 수 있음.
+- 생리학은 인체의 기능을 이해하는 데 가장 기초가 되는 학문으로, 의학과 함께 인체의 구조와 기능을 연구하는 중요한 분야임.
+
+## 2. 생리학의 중요성
+- 생리학은 생명체의 구조와 기능, 그리고 이들 간의 상호작용을 이해하고 설명하는 학문 분야임.
+- 생명체의 생리적 프로세스를 이해하고, 질병의 원인과 치료법을 연구할 수 있음.
+- Biochemistry, Molecular Biology, Anatomy, Pharmacology 등과의 관련성이 높음.
+
+## 3. 생리학의 연구 방식
+- 생리학은 우리 몸의 생명현상을 설명하는 학문 분야임.
+- 주로 우리 몸의 기능을 설명하는 물리적이고 화학적인 요소들에 관한 것임.
+- 현대과학의 측면에서 물리적인 요소와 화학적인 요소로 우리의 생명현상을 정확히 설명해 나가는 학문 분야임.
+
+---
+
+## 퀴즈
+
+1. 생리학(Physiology)의 의미는 무엇인가요?
+   - A. 자연의 연구
+   - B. 생명의 연구
+   - C. 인체의 연구
+   - D. A와 B 모두
+
+2. 생리학은 어떤 학문 분야와 관련성이 높은가요?
+   - A. Biochemistry
+   - B. Molecular Biology
+   - C. Anatomy
+   - D. 모두
+
+3. 생리학은 어떤 요소들로 우리 몸의 기능을 설명하는가요?
+   - A. 물리적인 요소
+   - B. 화학적인 요소
+   - C. 생명체의 구조
+   - D. A와 B 모두
+
+---
+
+## 퀴즈 답안
+
+1. D. A와 B 모두
+2. D. 모두
+3. D. A와 B 모두
+# 강의 요약
+
+## 인체의 구조와 기능
+인체는 gene로부터 만들어진 여러 가지 물질들과 미네랄, 이온 등의 분자들이 모여서 만들어진 cell로 구성되며, 이 cell들이 모여서 tissue를 형성하고, tissue들이 모여서 organ을 형성하며, organ들이 모여서 system적인 구조를 이루는 organism입니다. 이 organism은 physiological function을 수행하며, homeostasis라는 개념을 통해 항상성을 유지하려고 노력합니다.
+
+## Homeostasis(항상성)
+Homeostasis는 우리 몸이 외부에서 받는 다양한 자극에 대해 반응하면서도 최적의 상태를 유지하기 위해 조절하는 기능을 말합니다. 이는 Dynamic Self-Regulation을 통해 이루어지며, 각 장기들은 상호 협력하여 항상성을 유지합니다.
+
+## Homeostasis의 중요성
+Homeostasis는 우리 몸의 건강을 유지하는 기본 원칙을 제공합니다. 이는 우리 몸의 여러 가지 조절 메커니즘들이 작동하기 때문에 가능하며, 이 메커니즘들은 화학적, 신경적, 세포 내부적인 조절을 통해 이루어집니다.
+
+# 퀴즈
+
+1. 인체의 구조를 이루는 순서로 올바른 것은 무엇인가요?
+    - A. Cell - Tissue - Organ - System - Organism
+    - B. Organ - System - Cell - Tissue - Organism
+    - C. Tissue - Cell - Organ - System - Organism
+    - D. Organism - System - Organ - Tissue - Cell
+    - 정답: A
+
+2. Homeostasis를 유지하는 세 가지 주요 조절 메커니즘은 무엇인가요?
+    - A. 화학적 조절, 신경적 조절, 세포 내부적인 조절
+    - B. 신경적 조절, 세포 외부적인 조절, 화학적 조절
+    - C. 세포 내부적인 조절, 신경적 조절, 물리적 조절
+    - D. 화학적 조절, 물리적 조절, 세포 외부적인 조절
+    - 정답: A
+
+3. Homeostasis란 무엇인가요?
+    - A. 우리 몸이 외부에서 받는 다양한 자극에 대해 반응하는 것
+    - B. 우리 몸이 외부에서 받는 다양한 자극에 대해 반응하면서도 최적의 상태를 유지하기 위해 조절하는 것
+    - C. 우리 몸이 외부에서 받는 다양한 자극에 대해 반응하지 않는 것
+    - D. 우리 몸이 외부에서 받는 다양한 자극에 대해 반응하면서도 최적의 상태를 유지하지 않는 것
+    - 정답: B
+
+# 강의 요약
+
+## Homeostasis와 Auto-regulation
+
+Homeostasis는 생명체가 외부 환경 변화에도 불구하고 내부 환경을 일정하게 유지하는 능력을 말합니다. 이를 유지하기 위한 중요한 메커니즘 중 하나가 Auto-regulation입니다. 이는 neuron이나 chemical hormone에 의존하지 않고도 조직이나 장기 내에서 변화에 대응하여 homeostasis를 유지하는 조절 메커니즘입니다.
+
+## Feedback System
+
+Feedback system은 homeostasis를 유지하는 공통적인 메커니즘으로, 세 가지 구성 요소로 이루어져 있습니다.
+
+1. **Receptor/Sensor**: 외부 자극을 감지하고 이를 control center에 전달합니다.
+2. **Control Center**: 변화에 대한 대응 방법을 결정하고, 이를 장기에게 명령이나 신호로 전달합니다.
+3. **Organ**: Control center의 명령에 따라 반응하고, 이를 통해 변화된 homeostasis가 정상 범위로 되돌아옵니다.
+
+## Physiology 학습 목표
+
+Physiology 공부를 할 때는 이러한 feedback system에 대한 이해가 중요합니다. 이를 통해 인체의 각 organ의 기능과 역할, 인체의 행동과 사고를 결정하는 중요한 발견과 가설들을 설명할 수 있어야 합니다. 또한, 인체의 각 organ의 기능을 설명하는 중요한 원칙들을 molecular cellular 수준에서 혹은 그것보다 더 상위 레벨에서 설명할 수 있어야 합니다.
+
+## 첫 챕터 학습 목표
+
+첫 챕터인 "Principles of Cell Function"에서는 다음과 같은 학습 목표를 제시합니다.
+
+1. cell membrane의 구조와 cell membrane을 구성하는 lipid와 protein의 종류와 특성을 이해할 수 있어야 한다.
+2. cell membrane을 통한 물질 이동의 종류와 원리를 이해할 수 있어야 한다.
+
+---
+
+# 퀴즈
+
+1. Homeostasis를 유지하는 공통적인 메커니즘은 무엇인가요?
+   - A. Auto-regulation
+   - B. Feedback system
+   - C. Control center
+   - D. Receptor/Sensor
+
+2. Feedback system의 세 가지 구성 요소는 무엇인가요?
+   - A. Receptor/Sensor, Control center, Organ
+   - B. Receptor/Sensor, Auto-regulation, Organ
+   - C. Control center, Auto-regulation, Organ
+   - D. Receptor/Sensor, Control center, Auto-regulation
+
+3. 첫 챕터 "Principles of Cell Function"의 학습 목표 중 하나는 아래 중 어느 것인가요?
+   - A. cell membrane의 구조와 cell membrane을 구성하는 lipid와 protein의 종류와 특성을 이해할 수 있어야 한다.
+   - B. cell membrane의 구조와 cell membrane을 구성하는 lipid와 protein의 종류와 특성을 설명할 수 있어야 한다.
+   - C. cell membrane의 구조와 cell membrane을 구성하는 lipid와 protein의 종류와 특성을 설계할 수 있어야 한다.
+   - D. cell membrane의 구조와 cell membrane을 구성하는 lipid와 protein의 종류와 특성을 창출할 수 있어야 한다.
+
+---
+
+# 퀴즈 답안
+
+1. B. Feedback system
+2. A. Receptor/Sensor, Control center, Organ
+3. A. cell membrane의 구조와 cell membrane을 구성하는 lipid와 protein의 종류와 특성을 이해할 수 있어야 한다.
+# 강의 요약
+
+## 세포의 구조와 기능
+
+세포는 다양한 종류의 오가넬로 구성되어 있으며, 이들은 세포막에 의해 둘러싸여 있습니다. 세포막은 세포의 외부와 내부를 구분하며, 세포 내의 홈오스타시스를 유지하는 중요한 역할을 합니다. 세포막은 플라즈마 막, 핵막 등으로 구분되며, 이들은 생리학에서 중요한 주제입니다.
+
+## 세포막의 기능
+
+세포막은 세포 내의 홈오스타시스를 유지하기 위해 선택적으로 물질을 이동시키는 기능을 가지고 있습니다. 이를 통해 세포는 필요한 물질을 흡수하고 불필요한 물질을 배출할 수 있습니다. 또한, 세포막은 세포 외부와의 상호작용을 조절하고, 세포 내부의 환경을 안정화시키는 역할도 합니다.
+
+## 세포막의 중요성
+
+세포막은 세포의 생리학적 기능을 유지하는데 매우 중요한 역할을 합니다. 만약 세포막이 선택적이지 않고 비선택적이라면, 세포 내외로 모든 물질이 자유롭게 드나들 수 있게 되어, 세포 내의 환경을 제어하는 홈오스타시스를 유지하는 것이 어렵게 됩니다.
+
+## 세포의 오가넬
+
+플라즈마 막은 세포막을 감싸고 있어서 물질의 이동을 선택적으로 조절하는 역할을 합니다. 미토콘드리아는 ATP를 합성하여 세포에 에너지를 공급하는 중요한 역할을 합니다. ER, 골지체, 리소좀 등은 세포 내의 다양한 구조물로, 생리학적으로도 중요한 역할을 합니다.
+
+## 고난이도 객관식 퀴즈
+
+1. 세포막의 주요 기능 중 하나는 무엇인가요?
+    - A. 세포의 외부와 내부를 구분하는 것
+    - B. 세포 내의 홈오스타시스를 유지하는 것
+    - C. 세포 내의 물질 이동을 선택적으로 조절하는 것
+    - D. 모든 위의 항목
+    - 정답: D. 모든 위의 항목
+
+2. 세포막이 선택적이지 않다면 어떤 문제가 발생할까요?
+    - A. 세포 내외로 모든 물질이 자유롭게 드나들 수 있게 됨
+    - B. 세포 내의 환경을 제어하는 홈오스타시스를 유지하는 것이 어려워짐
+    - C. 세포의 생리학적 기능이 유지되지 않음
+    - D. 모든 위의 항목
+    - 정답: D. 모든 위의 항목
+
+3. 미토콘드리아의 주요 기능은 무엇인가요?
+    - A. ATP를 합성하여 세포에 에너지를 공급하는 것
+    - B. 세포 내의 물질 이동을 선택적으로 조절하는 것
+    - C. 세포의 외부와 내부를 구분하는 것
+    - D. 세포 내의 홈오스타시스를 유지하는 것
+    - 정답: A. ATP를 합성하여 세포에 에너지를 공급하는 것
+
+# 세포막의 역할과 구조
+
+## 세포막의 역할
+
+1. **내부 홈오스타시스 유지**: 세포막은 내부 환경을 외부 환경으로부터 분리하고, 세포 내부의 조건을 일정하게 유지하는 역할을 합니다.
+
+2. **물질 이동 조절**: 세포막은 세포 내외부로 물질을 선택적으로 이동시키는 역할을 합니다. 이는 다양한 종류의 수송 단백질에 의해 이루어집니다.
+
+3. **신호 전달**: 세포막은 세포가 다른 세포를 인지하거나 외부의 물질을 감지하는 역할을 합니다. 이는 세포막 내의 수용체를 통해 이루어집니다.
+
+4. **조직과 기관의 구성 조절**: 세포막은 세포와 세포 사이의 접착을 통해 조직과 기관의 구성을 조절합니다.
+
+5. **세포 형태 결정**: 세포막 아래에 있는 세포골격은 세포의 3차원 구조와 모양을 형성하는 데 중요한 역할을 합니다.
+
+## 세포막의 구조
+
+세포막의 기본적인 구조는 두 개의 인지질 층으로 구성된 막 지질에 단백질들이 삽입되어 있는 유체 모자이크 모델로 알려져 있습니다. 이 모델은 1972년에 Singer와 Nicolson에 의해 제안되었으며, 이후 다양한 과학적 연구를 통해 잘 알려진 구조입니다. 막 지질은 기름막으로, 지방이중층으로 구성되어 있습니다. 이 지방이중층은 인지질, 인지질로 가장 많이 구성되어 있습니다. 그 다음으로 글리콜지질과 콜레스테롤이 있습니다.
+
+---
+
+### 퀴즈
+
+1. 세포막의 기본적인 구조는 어떤 모델로 알려져 있나요?
+    - A. 유체 모자이크 모델
+    - B. 단백질-인지질 복합체 모델
+    - C. 지방이중층 모델
+    - D. 콜레스테롤-글리콜지질 복합체 모델
+
+2. 세포막이 세포 내외부로 물질을 이동시키는 역할을 수행하는 주체는 무엇인가요?
+    - A. 수용체
+    - B. 수송 단백질
+    - C. 인지질
+    - D. 콜레스테롤
+
+3. 세포막 아래에 있는 구조물이 세포의 3차원 구조와 모양을 형성하는 데 중요한 역할을 하는 것은 무엇인가요?
+    - A. 세포골격
+    - B. 수용체
+    - C. 수송 단백질
+    - D. 인지질
+
+### 답
+1. A. 유체 모자이크 모델
+2. B. 수송 단백질
+3. A. 세포골격
+# 강의 요약
+
+## 1. 세포막의 구성요소
+세포막은 주로 Phospholipids로 구성되어 있으며, 이들은 각각 Choline, Ethanolamine 등을 가지고 있습니다. 이들은 Phosphatidyl한 형태로 존재하며, 이는 Choline과 Ethanol을 Phosphatidyl한 형태를 나타냅니다. Glycolipid는 Fatty acid 체인과 Sugar, 당이 직접 연결된 구조를 가지고 있습니다. Cholesterol은 친수성 부위인 Hydroxyl 그룹이 짧고 작은 부위를 가지고 있으며, 나머지 대부분은 소수성인 Steroid region과 짧은 Fatty acid tail로 구성되어 있습니다.
+
+## 2. 세포막의 어시메트리
+세포막을 구성하는 Phospholipids들은 세포막 이중층 안쪽과 바깥쪽에 분포되어 있습니다. Phosphatidylethanolamine은 주로 안쪽에 분포되지만 80%는 안쪽에 있고 20%는 바깥쪽에 분포되어 있습니다. 반면, Phosphatidylethanolamine, Sphingomyelin, Phosphatidylserine은 주로 바깥쪽에 분포되어 있습니다.
+
+## 3. 세포 신호전달
+Phospholipids들은 세포 신호전달기에서 중요한 역할을 담당합니다. PIP2가 분해되면 IP3와 Diacylglycerol로 분해되며, 이 중 IP3는 세포 내에 있는 칼슘 저장소로 이동하여 칼슘 이온의 방출을 유도합니다. 이 칼슘 이온은 다양한 세포 신호전달 경로에 참여하여 다양한 생리적 반응을 일으킵니다.
+
+# 퀴즈
+
+1. 세포막을 구성하는 Phospholipids 중에서 Choline을 가지고 있는 알코올을 Phosphatidyl한 형태는 무엇인가요?
+    - A. Phosphatidylserine
+    - B. Phosphatidylethanolamine
+    - C. Phosphatidylcholine
+    - D. Sphingomyelin
+    - 정답: C. Phosphatidylcholine
+
+2. Phosphatidylethanolamine은 세포막의 어디에 주로 분포되어 있나요?
+    - A. 바깥쪽
+    - B. 안쪽
+    - C. 양쪽 다
+    - D. 분포되어 있지 않음
+    - 정답: B. 안쪽
+
+3. PIP2가 분해되면 어떤 물질로 분해되나요?
+    - A. IP3와 Diacylglycerol
+    - B. Choline과 Ethanolamine
+    - C. Fatty acid 체인과 Sugar
+    - D. Hydroxyl 그룹과 Steroid region
+    - 정답: A. IP3와 Diacylglycerol
+
+# 강의 요약
+
+## IP3와 Diacylglycerol의 역할
+- IP3는 세포막을 통해 사이토플라즘으로 확산하여 들어옵니다.
+- Diacylglycerol은 세포막에 담아서 Protein Kinase C를 활성화시키며, 이를 통해 다양한 세포 내의 신호 전달을 활성화합니다.
+- IP3는 Endoplasmic Reticulum에 존재하며, 칼슘 이온을 세포 사이토플라즘으로 방출합니다.
+- 이로 인해 세포 내의 칼슘 농도가 증가하면 근육 수축, 호르몬 분비, 신경전달물질 분비 등 다양한 생리적인 현상이 나타날 수 있습니다.
+
+## 세포막의 구성과 움직임
+- 세포막은 두 개의 지질층으로 구성되어 있으며, 이 지질층은 수평적인 lateral movement, 회전하는 rotation, flex movement 등의 운동을 가지고 있습니다.
+- 같은 monolayer 안에서 lateral diffusion movement는 매우 빠르고 쉽게 일어날 수 있지만, 바깥쪽에 있는 phospholipid가 안쪽으로 들어오거나 그 반대로 움직이는 소위 flip flop 현상은 매우 힘들게 일어날 것입니다.
+
+## 세포막의 유동성
+- 세포막의 유동성, membrane fluidity는 기본적으로 lipid bilayer를 구성하고 있는 phospholipid 혹은 lipid들이 어떠한 특성을 가지고 있느냐에 따라 결정됩니다.
+- 가장 fluidity가 높은 조건은 두 개의 fatty acyl chain의 kink가 있어서 unsaturation 상태일 때입니다.
+- Saturated fatty acid chain을 가지고 있는 경우에는 fluidity가 떨어지게 됩니다.
+- cholesterol이 함께 들어가게 된다면 우리의 체온 조건에서는 이런 cholesterol이 lipid의 lateral movement나 이런 것들을 제한함으로 인해서 fluidity는 떨어지게 되고, Viscosity는 올라가는 상황이 됩니다.
+
+## Lipid Raft
+- 세포막의 일부 부위에 protein들이 밀도가 높게 모여있는 구조를 lipid raft라고 합니다.
+- 이런 구조가 형성될 수 있는 이유는 그 protein이 있는 부위에 lipid의 유동성을 감소시키는 cholesterol이나 sphingomyelin 같은 지질들이 다량으로 포함되어 있기 때문입니다.
+
+# 퀴즈
+
+1. IP3는 어떤 역할을 하는가?
+   - A. Protein Kinase C를 활성화시킨다.
+   - B. 세포막을 통해 사이토플라즘으로 확산하여 들어온다.
+   - C. 세포막의 유동성을 감소시킨다.
+   - D. 세포막의 구성 성분 중 하나이다.
+   - 정답: B
+
+2. 세포막의 유동성은 어떤 요소에 의해 결정되는가?
+   - A. 세포막의 구성 성분
+   - B. 세포막의 두께
+   - C. 세포막을 구성하는 phospholipid 혹은 lipid들의 특성
+   - D. 세포막의 온도
+   - 정답: C
+
+3. Lipid Raft는 무엇인가?
+   - A. 세포막의 일부 부위에 protein들이 밀도가 높게 모여있는 구조
+   - B. 세포막의 유동성을 높이는 요소
+   - C. 세포막의 구성 성분 중 하나
+   - D. 세포막의 두께를 결정하는 요소
+   - 정답: A
+# 강의 요약
+
+## Lipid Raft와 Protein 상호작용
+
+Lipid raft 내부의 protein들은 서로 분리되어 있고 조밀하게 배열되어 있어, protein과 protein 사이의 상호작용이 쉽게 일어납니다. 이러한 상호작용은 protein들 간의 신호 전달에 큰 영향을 미칩니다. Lipid raft를 통해 전달되는 신호의 세기가 세포 내부로 전달되는 신호의 세기보다 큰 경우가 많습니다. 만약 이러한 raft를 파괴하면, 세포는 동일한 자극에 대한 반응이 약해질 수 있습니다.
+
+## Membrane Protein의 종류
+
+Membrane Protein은 세 가지 종류로 나뉘어집니다.
+
+1. **Integral Protein**: 세포막을 관통하여 세포 바깥과 안쪽을 모두 접하고 있는 단백질입니다.
+2. **Peripheral Protein**: Integral Protein의 한 쪽에 붙어 있는 단백질입니다.
+3. **Lipid Anchored Protein**: 단백질의 N-터미널과 C-터미널에 지방산이 결합되어 세포막의 한 쪽에 꽂혀있는 형태입니다.
+
+## Membrane Protein의 특징
+
+Integral Protein은 세포막 이중층을 통과해야 하기 때문에 소수성인 Lipid Bilayer를 통과하기 위해 알파 헬릭스 구조를 가지고 있습니다. Peripheral Proteins은 세포 Integral Proteins의 안쪽이나 바깥쪽에 붙어 있기 때문에 물 속에 들어있는 hydrophilic proteins입니다. Lipid Anchored Proteins은 세포막의 바깥쪽에만 존재하게 됩니다.
+
+---
+
+# 퀴즈
+
+1. Lipid raft 내부의 protein들은 서로 어떤 상태로 배열되어 있나요?
+   - A. 분리되어 있고 조밀하게 배열
+   - B. 분리되어 있고 느슨하게 배열
+   - C. 결합되어 있고 조밀하게 배열
+   - D. 결합되어 있고 느슨하게 배열
+   - 정답: A
+
+2. Membrane Protein의 종류로 옳지 않은 것은 무엇인가요?
+   - A. Integral Protein
+   - B. Peripheral Protein
+   - C. Lipid Anchored Protein
+   - D. Hydrophilic Protein
+   - 정답: D
+
+3. Integral Protein이 Lipid Bilayer를 통과하기 위해 가지는 구조는 무엇인가요?
+   - A. 알파 헬릭스 구조
+   - B. 베타 시트 구조
+   - C. 랜덤 코일 구조
+   - D. 플리츠드 시트 구조
+   - 정답: A
+
+# 강의 요약
+
+## 세포막의 구성 요소
+
+세포막은 주로 지방산과 함께 위치한 막 단백질, 탄수화물, 지질로 구성되어 있습니다. 
+
+### 막 단백질
+
+막 단백질은 세포막의 기능과 역할을 수행합니다. 이는 세포 안팎을 통한 물질의 선택적인 이동, 세포 인식, 다른 세포나 항원을 인지하고 세포 통신을 하는 것, 호르몬이나 신경전달물질 등의 신호를 전달하는 것, 2차원과 3차원적인 세포 구조 형성, 효소 활성 조절, 세포의 모양 유지 등을 포함합니다.
+
+### 탄수화물
+
+탄수화물은 세포막의 2-10%를 차지하며, 세포막 단백질이나 인지질의 바깥쪽에 나뭇가지 형태로 분포하고 있습니다. 이들은 호르몬에 대한 수용체 역할을 하며, 신호 전달에 중요한 역할을 합니다.
+
+### 지질
+
+지질은 세포막의 주요 구성 요소로, 세포막의 구조와 기능에 큰 영향을 미칩니다. 지질과 단백질의 상대적인 비율은 세포의 종류나 세포 속의 소기관의 종류와 기능에 따라 다릅니다.
+
+## 세포막의 구조와 기능
+
+세포막의 구조는 세포의 종류에 따라 다르며, 이는 세포막의 기능에 큰 영향을 미칩니다. 예를 들어, 빨간색 혈구의 세포막은 단백질과 지질이 반반으로 구성되어 있습니다. 반면에 신경의 축삭을 감싸고 있는 마이린은 지질의 함량이 높아, 전류가 바깥쪽으로 빠져나가지 않도록 절연체 역할을 합니다.
+
+# 퀴즈
+
+1. 세포막의 주요 구성 요소는 무엇인가요?
+   - A. 단백질, 탄수화물, 지질
+   - B. 단백질, 탄수화물, 물
+   - C. 단백질, 지질, 물
+   - D. 단백질, 탄수화물, 미네랄
+   - 정답: A. 단백질, 탄수화물, 지질
+
+2. 세포막의 단백질이 수행하는 기능 중 하나는 무엇인가요?
+   - A. 세포의 모양 유지
+   - B. 세포의 에너지 공급
+   - C. 세포의 온도 조절
+   - D. 세포의 색상 결정
+   - 정답: A. 세포의 모양 유지
+
+3. 지질의 함량이 높은 세포막의 예로 어떤 것이 있나요?
+   - A. 빨간색 혈구의 세포막
+   - B. 신경의 축삭을 감싸고 있는 마이린
+   - C. 근육 세포의 세포막
+   - D. 피부 세포의 세포막
+   - 정답: B. 신경의 축삭을 감싸고 있는 마이린
+
+# 강의 요약
+
+## Lipid와 Protein의 역할과 위치
+
+1. **Lipid**: 우리 몸에서 가장 좋은 절연체로, 전류가 흐를 수 없도록 막아주는 역할을 합니다. 이는 지방 이중층의 가운데 쪽에 소수성 fatty acyl chain을 가지고 있습니다. 이러한 Lipid가 많이 포함된 막은 우리의 신경을 감싸고 있는 Myelin sheath로, 굉장히 좋은 절연 기능을 합니다.
+
+2. **Protein**: 세포 안에 있는 Endoplasmic reticulum의 membrane에는 Ribosome들이 많이 박혀 있어 Protein의 함량이 높습니다. 이는 Mitochondria의 inner membrane에서 더욱 극단적으로 나타나며, 이 membrane은 전자전달계를 일으키는 다양한 종류의 단백질들로 가득 차있습니다. ATP 합성을 위해 Protein의 양이 많아야 하므로, inner membrane은 Lipid보다 Protein의 함량이 3배나 높습니다.
+
+따라서, Lipid와 Protein은 membrane 안에서 그 비율이 서로 다르며, 세포의 종류나 intracellular organelle의 기능에 따라서도 그 비율은 다를 수 있습니다.
+
+# 퀴즈
+
+1. 우리 몸에서 가장 좋은 절연체는 무엇인가요?
+    - A. Protein
+    - B. Lipid
+    - C. Ribosome
+    - D. Mitochondria
+    - 답: B. Lipid
+
+2. Mitochondria의 inner membrane은 어떤 물질의 함량이 높은가요?
+    - A. Lipid
+    - B. Protein
+    - C. Ribosome
+    - D. Fatty acyl chain
+    - 답: B. Protein
+
+3. Lipid와 Protein의 비율은 어떤 요소에 따라 다를 수 있는가요?
+    - A. 세포의 종류
+    - B. Intracellular organelle의 기능
+    - C. ATP 합성의 필요성
+    - D. A와 B 모두
+    - 답: D. A와 B 모두
+

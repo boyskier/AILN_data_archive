@@ -1,0 +1,388 @@
+# 강의 요약
+
+## 주제: Membrane Potential, Action Potential, Neuroscience System
+
+### 1. 강의 계획
+- 이번 주와 다음 주 동안 Membrane Potential, Action Potential에 대해 학습합니다.
+- 다음 주에는 Neuroscience System을 공부합니다.
+- Human Physiology에서는 교체를 사용하며, 다음 학기 때의 신경과 반응에 대해서는 대부분 이 재고를 가지고 학습합니다.
+
+### 2. 강의 방식
+- 중간에 쉬는 시간이 있으며, 강의 끝난 다음에 질문해도 되고 강의 시간 중간중간에 쉬면 됩니다.
+- 공부하다가 질문할 게 있으면 이메일로 전화해 주시면 되고 연락을 통해서 월요일과 수요일날 오전 8시부터 오후 5시까지 4층에 있는 내 사무실에 오게 됩니다.
+
+### 3. 시험
+- 시험의 내용은 객관식으로 출제될 것이며, 퀴즈 내용과 유사한 문제가 나올 수 있습니다.
+- 문제 내용은 일부 숫자나 내용이 변경되는 경우도 있을 수 있습니다.
+
+### 4. Lasting Membrane Potential
+- Lasting Membrane Potential에 관해서는 이미 지난 주에 강성욱 교수와 강영상 감독님들이 언급한 바가 있습니다.
+- 이 개념은 인체의 기능 전반에 걸쳐 중요한 역할을 하는 개념으로, 다른 장기의 세포들에서도 동일하게 나타납니다.
+
+### 5. 리플렉스
+- 리플렉스는 더 빠르게, 100밀리초의 일부 시간 동안에 발을 빼게 됩니다.
+- 뉴런 사이의 신호 전달은 "neurotransmitter"라는 화학 물질을 통해 이루어지지만, 감각 뉴런과 운동 뉴런 사이에서 전달되는 신호는 전기적인 신호인 "electricity"로 이루어집니다.
+
+---
+
+# 퀴즈
+
+1. 강의에서 다루는 주제들 중 하나인 'Membrane Potential'은 무엇을 의미하는가?
+    - A. 세포막의 전위
+    - B. 세포막의 두께
+    - C. 세포막의 투명도
+    - D. 세포막의 유연성
+    - 정답: A
+
+2. 강의에서 언급된 '리플렉스'는 어떤 상황에서 발생하는가?
+    - A. 긴장 상태에서
+    - B. 편안한 상태에서
+    - C. 위험한 상황에서 빠르게 반응할 때
+    - D. 잠을 잘 때
+    - 정답: C
+
+3. 뉴런 사이의 신호 전달은 어떤 방식으로 이루어지는가?
+    - A. 화학 물질인 neurotransmitter를 통해
+    - B. 전기적인 신호인 electricity를 통해
+    - C. 물리적인 충격을 통해
+    - D. A와 B 모두
+    - 정답: D
+
+# Neuron과 전기 신호
+
+우리 몸의 **neuron**은 전기 신호를 사용하여 정보를 전달합니다. 이 신호는 **neurotransmitter**라는 화학물질을 통해 전달되지만, neuron 내부에서는 **action potential**이라는 전기 신호도 사용됩니다. 
+
+## Neuron의 구조
+
+Neuron은 다른 세포와는 다르게 특별한 모양을 갖고 있습니다. 일부 neuron은 발끝부터 척수까지 거의 1미터에 가까운 길이의 돌기인 **axon**을 가지고 있습니다. 이 axon은 **cell body**에 연결되어 있으며, neuron의 cell body와 함께 **soma**라고도 불립니다. 
+
+## Neuron의 특성
+
+Central Nervous System의 neuron에는 다양한 형태와 **dendrite**가 있으며, neuron 간의 **synapse** 구조도 다양하고 synapse의 숫자도 다릅니다. 평균적으로 몇천 개에서 몇만 개의 synapse가 있을 수 있으며, 이 다양성은 각각의 neuron마다 다르다고 볼 수 있습니다. 
+
+## 세포의 관찰
+
+세포의 모양을 관찰하기 위해서는 맨눈으로는 보이지 않으며, **microscope**나 현미경을 사용해야 합니다. 실험실에서 일반적으로 사용하는 현미경의 배율은 대략 400배입니다. 
+
+## 세포의 전압
+
+Neuron의 경우, voltage는 cell마다 다르며, 일부는 -20mV, -40mV, 일부는 80mV 정도입니다. cell 외부에 비해 약 -60mV 정도의 voltage가 발생하는 것을 확인했습니다. 이는 neuron뿐만 아니라 muscle cell이나 cardiac cell에서도 확인할 수 있었습니다. 
+
+## 퀴즈
+
+1. Neuron이 정보를 전달하는 데 사용하는 두 가지 방법은 무엇인가요?
+   - A. neurotransmitter와 action potential
+   - B. neurotransmitter와 axon
+   - C. axon과 dendrite
+   - D. dendrite와 synapse
+   - 정답: A. neurotransmitter와 action potential
+
+2. Neuron의 어떤 부분이 1미터에 가까울 정도로 길 수 있는가요?
+   - A. cell body
+   - B. dendrite
+   - C. axon
+   - D. synapse
+   - 정답: C. axon
+
+3. 세포를 관찰하기 위해 일반적으로 사용하는 현미경의 배율은 얼마인가요?
+   - A. 100배
+   - B. 200배
+   - C. 300배
+   - D. 400배
+   - 정답: D. 400배
+# 강의 요약
+
+## Voltage Difference와 세포의 크기
+
+세포의 크기가 작을수록 voltage difference가 커지는데, 이는 세포의 기능과 관련이 있습니다. 세포의 크기가 작다는 것은 단순히 작다는 의미만이 아닙니다. 예를 들어, cell membrane의 크기가 0.005 micrometers라고 가정해봅시다. 이 크기는 강애기 플러스와 비교해보면 약 2000분의 1 정도입니다. 만약 cell membrane이 강애기 플러스로 만들어진다면, 일반 biology에서 배운 것처럼 cell membrane은 bilayer structure로 되어있습니다. bilayer structure를 만들기 위해서는 phospholipid 두 개 정도의 레이어가 필요하겠죠. 그러니까 cell membrane의 크기는 0.005 micrometers가 됩니다. 반면, 모래큐의 크기는 약 5 nanometers 정도입니다. 이를 비교해보면 cell membrane의 크기는 모래큐 두 개의 레이어에 해당하는 것이죠. 
+
+## Resting Membrane Potential
+
+-65mV는 세포의 "Resting Membrane Potential"을 나타냅니다. 이는 세포 내부와 외부의 이온 농도 차이로 인해 발생하는 전기적인 차이를 의미합니다. 이 전압은 세포가 휴면 상태에 있을 때 유지되는 값입니다.
+
+# 퀴즈
+
+1. 세포의 크기가 작을수록 voltage difference는 어떻게 변하나요?
+    - A. 커진다
+    - B. 작아진다
+    - C. 변화가 없다
+    - D. 일정하게 유지된다
+    - 정답: A
+
+2. 세포의 "Resting Membrane Potential"은 어떤 상태에서 유지되는 값인가요?
+    - A. 활성 상태
+    - B. 휴면 상태
+    - C. 세포 분열 상태
+    - D. 세포 사멸 상태
+    - 정답: B
+
+3. cell membrane의 크기를 결정하는 구조는 무엇인가요?
+    - A. bilayer structure
+    - B. single layer structure
+    - C. triple layer structure
+    - D. quadruple layer structure
+    - 정답: A
+
+# 강의 요약
+
+## 전압 변화와 Voltage-gated Protein Channels
+- 전압 변화는 세포막에 위치한 "Voltage-gated Protein Channels"에 영향을 미칩니다.
+- 이 채널들은 전압 변화에 따라 열리거나 닫히며, 이 과정은 신경 세포에서 신호 전달에 중요한 역할을 합니다.
+
+## Resting Membrane Potential
+- Resting Membrane Potential은 세포가 안정 상태에서 아무런 활동을 하지 않을 때 발생하는 막 전위를 말합니다.
+- 이 전위는 세포막을 통해 이온들이 이동함으로써 형성되며, 이온 농도 차이와 이온 채널의 활동이 중요한 역할을 합니다.
+
+## 이온 농도와 Pump 프로파일
+- 세포 내부와 외부의 이온 농도는 서로 다르며, 이러한 concentration gradient는 다양한 pump 프로파일에 의해 형성됩니다.
+- 이온 농도 gradient는 ATP 에너지를 사용하여 형성되며, 이 과정에서 sodium과 potassium, chloride, calcium 등의 이온들이 세포 내부와 외부로 이동합니다.
+
+# 퀴즈
+
+1. Voltage-gated Protein Channels는 어디에 위치하며, 어떤 역할을 하는가?
+   - 답: 세포막에 위치하며, 전압 변화에 따라 열리거나 닫히는 역할을 한다.
+
+2. Resting Membrane Potential이 발생하는 두 가지 주요 원인은 무엇인가?
+   - 답: 이온 농도 차이와 이온 채널의 활동이다.
+
+3. 이온 농도 gradient는 어떻게 형성되는가?
+   - 답: ATP 에너지를 사용하여 이온들을 세포 내부와 외부로 이동시키는 pump 프로파일에 의해 형성된다.
+# 강의 요약
+
+## 이온 채널과 펌프의 역할
+
+세포막에는 특정 이온들을 선택적으로 통과시키는 채널이 있습니다. 예를 들어, 소듐 채널은 소듐 이온을, 칼슘 채널은 칼슘 이온을 통과시킵니다. 이러한 채널은 세포 내부와 외부의 이온 농도 차이를 유지하고, 세포의 전기적 균형을 유지하는 데 중요한 역할을 합니다. 또한, 이러한 채널 단백질들은 신경전달과 근육 수축 등 다양한 생리적 과정에 관여합니다.
+
+## 이온 채널의 선택성
+
+포타슘 채널은 포타슘 이온만, 소듐 채널은 소듐 이온만 선택적으로 통과할 수 있게 합니다. 이러한 선택성은 이온 채널이 아주 특수한 통로가 되게 합니다. 이러한 선택성은 세포의 안정된 상태, 즉 Resting potential을 만들어내는 데 중요합니다.
+
+## 이온 채널의 구조
+
+이온 채널은 아미노산이 모여서 형성된 폴리펩타이드로 이루어져 있습니다. 이 폴리펩타이드는 알파 헬릭스 구조로 세포막을 관통합니다. 세포막의 두께가 5나노미터라면, 알파 헬릭스가 한 턴을 만들 때 필요한 아미노산의 개수는 34개가 됩니다.
+
+# 퀴즈
+
+1. 세포막에 있는 이온 채널의 역할은 무엇인가요?
+    - A. 세포 내부와 외부의 이온 농도 차이를 유지하고, 세포의 전기적 균형을 유지한다.
+    - B. 세포의 에너지를 생성한다.
+    - C. 세포의 분열을 돕는다.
+    - D. 세포의 이동을 돕는다.
+    - 정답: A
+
+2. 이온 채널이 선택적으로 이온을 통과시키는 이유는 무엇인가요?
+    - A. 세포의 에너지를 절약하기 위해서
+    - B. 세포의 안정된 상태, 즉 Resting potential을 만들어내기 위해서
+    - C. 세포의 분열을 돕기 위해서
+    - D. 세포의 이동을 돕기 위해서
+    - 정답: B
+
+3. 세포막을 관통하는 이온 채널의 구조는 어떤 모양인가요?
+    - A. 베타 시트
+    - B. 알파 헬릭스
+    - C. 랜덤 코일
+    - D. 플리티드 시트
+    - 정답: B
+
+# Marmekin의 연구와 발견
+
+1998년, 연구자 Marmekin은 Potential Channel이라는 특이한 성질을 가진 단백질에 대한 연구를 통해 Nobel Prize를 수상하였습니다. 그의 연구는 이 단백질의 높은 Turnover Rate와 Potassium에 대한 높은 선택성을 밝혀냈습니다.
+
+## Turnover Rate
+
+Turnover Rate는 Channel Protein 하나가 1초에 몇 개의 Potential이 통과하는지를 측정하는 지표입니다. Marmekin의 연구에 따르면, 한 Channel Protein을 통과하는 Potential의 수는 1초에 10^6~10^8개에 이르는 것으로 나타났습니다. 이는 상상하기 어려울 정도로 높은 수치입니다.
+
+## Potassium에 대한 높은 선택성
+
+Marmekin의 연구는 또한, 이 단백질이 Potassium에 대한 높은 선택성을 가지고 있음을 밝혀냈습니다. Sodium이 하나 통과할 때 Potassium은 20만개가 통과할 수 있으므로, Potassium에 대한 선택성이 매우 뛰어납니다. 이는 Sodium에 비해 1000배에서 10,000배 정도 높은 선택성을 가지고 있다는 것을 의미합니다.
+
+## Crystal Structure와 3차 구조
+
+이 단백질의 빠른 속도와 높은 정확성은 그의 Crystal Structure와 3차 구조를 통해 설명할 수 있습니다. Potassium이 더 잘 통과할 수 있는 구멍이 있기 때문에, Sodium보다 Potassium이 더 잘 통과할 수 있는 것입니다.
+
+## Potassium의 이동
+
+Potassium ion은 solution 상에서 water molecule와 함께 움직이며, 이는 Binding energy를 가지고 있습니다. 이 Binding energy는 Potassium이 water molecule를 벗어나고 단백질에 binding할 때 더 커져야 합니다. 이는 Potassium이 Sodium보다 더 잘 binding할 수 있게 만듭니다.
+
+---
+
+# 퀴즈
+
+1. Marmekin의 연구는 어떤 단백질에 대한 것이었나요?
+    - A. Sodium Channel
+    - B. Potassium Channel
+    - C. Potential Channel
+    - D. Protein Channel
+    - 정답: C. Potential Channel
+
+2. Turnover Rate는 무엇을 측정하는 지표인가요?
+    - A. Channel Protein 하나가 1초에 몇 개의 Sodium이 통과하는지
+    - B. Channel Protein 하나가 1초에 몇 개의 Potassium이 통과하는지
+    - C. Channel Protein 하나가 1초에 몇 개의 Potential이 통과하는지
+    - D. Channel Protein 하나가 1초에 몇 개의 Protein이 통과하는지
+    - 정답: C. Channel Protein 하나가 1초에 몇 개의 Potential이 통과하는지
+
+3. Potassium ion이 water molecule를 벗어나고 단백질에 binding할 때, 어떤 에너지가 더 커져야 하는가요?
+    - A. Kinetic energy
+    - B. Potential energy
+    - C. Binding energy
+    - D. Thermal energy
+    - 정답: C. Binding energy
+# 강의 요약
+
+## Potassium 결합과 Binding Energy
+
+- Potassium은 Carbon이 카독된 결합 포켓에 결합하며, 이는 Oxygen과 Amino side chain에서 Oxygen이 Coordination된 상태로 존재합니다.
+- 이 결합은 Binding energy를 제공하지만, 이는 충분하지 않아 Tetrad 염정이 상현이 됩니다.
+
+## Multipass Transmembrane Protein과 Potassium Ion 통과
+
+- Tetrad 염정은 Plastic membrane에 있는 Multipass transmembrane protein으로, 4개의 동일한 섭유닛이 연결되어 있습니다.
+- 섭유닛의 중심에 있는 Pore는 Potassium ion을 면밀히 통과시키며, 각 섭유닛은 4개의 고정 섭유닛을 통해 Potassium ion을 통과시킵니다.
+
+## Potassium 결합 사이트와 Selectivity
+
+- Potassium 결합 사이트는 한 곳뿐만 아니라 여러 곳에 존재하며, 이는 결합과 언바인딩을 순서대로 밀어나가는 것처럼 작용합니다.
+- 이는 Potassium의 높은 Selectivity와 Tunneling을 설명하며, 이는 백만 개 이상, 천만 개, 십억 개의 이온이 통과할 수 있는 힌트를 제공합니다.
+
+## Professional Channel과 Transmembrane Domain
+
+- Professional channel은 전문가의 선택적 사업이 되기 위해 수능에 대한 Professional channel이 어떻게 발전하는지에 대해 설명합니다.
+- Transmembrane domain의 수에 따라 차이가 나며, 이는 볼트로 열리는 채널, 칼슘으로 열리는 채널, 리간드로 열리는 채널 등 다양한 종류의 Professional channel을 결정합니다.
+
+# 퀴즈
+
+1. Potassium이 결합하는 결합 포켓의 특징은 무엇인가요?
+   - A. Carbon이 카독된 상태
+   - B. Oxygen이 카독된 상태
+   - C. Nitrogen이 카독된 상태
+   - D. Hydrogen이 카독된 상태
+   - 정답: A. Carbon이 카독된 상태
+
+2. Tetrad 염정이 상현이 되는 이유는 무엇인가요?
+   - A. Binding energy가 충분하다.
+   - B. Binding energy가 충분하지 않다.
+   - C. Potassium 결합이 충분하다.
+   - D. Potassium 결합이 충분하지 않다.
+   - 정답: B. Binding energy가 충분하지 않다.
+
+3. Professional channel을 결정하는 요소는 무엇인가요?
+   - A. Transmembrane domain의 수
+   - B. Potassium 결합 사이트의 수
+   - C. Binding energy의 양
+   - D. Oxygen의 Coordination 상태
+   - 정답: A. Transmembrane domain의 수
+
+# 강의 요약
+
+## 채널의 다양성
+- Potassium, Calcium, Sodium 채널 등 다양한 종류의 채널이 존재하며, 이들은 대부분 비슷한 구조를 가지고 있습니다.
+- 볼트스기펜 라인 채널과 Ligand-gated 채널 등이 있으며, 이들은 각각 볼트스기펜에 의해 열리거나 Ligand에 의해 열리는 채널입니다.
+- 이 외에도 Serotonin receptor channel, GABA channel, Alcohol channel, ATP channel 등 다양한 채널이 존재합니다.
+
+## Resting Membrane Potential
+- Resting Membrane Potential을 결정하는 두 가지 요소는 막의 차이를 느끼는 Ionic Concentration Gradient와 특정한 Ion 성분입니다.
+- Potassium Ion, Sodium Ion, Chloride 등의 Ion 농도 차이와 이들 Ion을 통과시키는 Selective한 Pathway가 존재합니다.
+- 이러한 과정을 통해 전압이 생기며, 이를 Equilibrium Potential이라고 합니다.
+
+## Nernst Potential
+- Nernst Potential은 Equilibrium Potential을 측정하는 방법으로, 1889년에 Nernst라는 화학자에 의해 제안되었습니다.
+- 이는 같은 상태를 같은 곳에 이동시킬 수 있는 성질을 나타냅니다.
+
+# 퀴즈
+
+1. 다음 중 볼트스기펜에 의해 열리는 채널은 무엇인가요?
+    - A. 볼트스기펜 라인 채널
+    - B. Ligand-gated 채널
+    - C. Serotonin receptor channel
+    - D. GABA channel
+    - 답: A. 볼트스기펜 라인 채널
+
+2. Resting Membrane Potential을 결정하는 두 가지 요소는 무엇인가요?
+    - A. Ionic Concentration Gradient와 특정한 Ion 성분
+    - B. Ionic Concentration Gradient와 전압
+    - C. 특정한 Ion 성분과 전압
+    - D. Ionic Concentration Gradient와 전류
+    - 답: A. Ionic Concentration Gradient와 특정한 Ion 성분
+
+3. Nernst Potential이란 무엇인가요?
+    - A. 전압을 측정하는 방법
+    - B. 전류를 측정하는 방법
+    - C. Equilibrium Potential을 측정하는 방법
+    - D. Ionic Concentration Gradient를 측정하는 방법
+    - 답: C. Equilibrium Potential을 측정하는 방법
+# 강의 요약
+
+## 내부 및 외부 이온 농도와 전위의 관계
+
+강의에서는 세포 내부와 외부의 이온 농도가 전위에 어떻게 영향을 미치는지에 대해 설명하였습니다. 내부 이온 농도가 100이고 외부 이온 농도가 10일 때, 로우(low) 10이면 자연 로우(low) 10이므로 전위는 마이너스 61 millivolt입니다. 이와 같이 이온 농도에 따라 전위가 달라집니다.
+
+## 이온 종류에 따른 Resting Potential
+
+강의에서는 Sodium, Calcium, Chloride 등 다양한 이온들의 Resting Potential에 대해 설명하였습니다. 이들 각각의 Resting Potential은 다음과 같습니다.
+
+- Calcium의 Resting Potential: 플러스 20 millivolt
+- Sodium의 Resting Potential: 플러스 60 millivolt
+- Chloride의 Resting Potential: 마이너스 90 millivolt
+
+## 이온 농도 변화에 따른 전위 변화
+
+세포 외부의 이온 농도를 바꿔가며 membrane potential을 측정한 결과, 이온 농도의 변화에 따라 전위가 변화하는 것을 확인하였습니다. 예를 들어, 세포 외부의 potassium 농도를 5mm에서 10mm로 늘리면 membrane potential이 depolarization되며, 세포 외부의 potassium 농도를 50mm로 늘리면 -20mm까지 hyperpolarization이 발생합니다.
+
+## 이온 농도의 기여도
+
+Potassium 농도와 Sodium 농도의 기여도에 따라 membrane potential이 결정됩니다. Potassium 농도의 기여도가 크지만, Sodium 농도의 기여도도 무시할 수 없습니다.
+
+# 퀴즈
+
+1. 세포 내부와 외부의 이온 농도가 전위에 어떻게 영향을 미치는가?
+    - A. 이온 농도가 높을수록 전위가 높아진다.
+    - B. 이온 농도가 낮을수록 전위가 높아진다.
+    - C. 이온 농도와 전위는 서로 관련이 없다.
+    - D. 이온 농도가 높을수록 전위가 낮아진다.
+    - 정답: D
+
+2. Sodium의 Resting Potential은 얼마인가?
+    - A. 플러스 20 millivolt
+    - B. 플러스 60 millivolt
+    - C. 마이너스 90 millivolt
+    - D. 마이너스 60 millivolt
+    - 정답: B
+
+3. 세포 외부의 potassium 농도를 5mm에서 10mm로 늘리면 어떤 현상이 발생하는가?
+    - A. Depolarization
+    - B. Hyperpolarization
+    - C. Polarization
+    - D. Repolarization
+    - 정답: A
+# 강의 요약
+
+## 주요 키워드
+- 변화
+- rest
+- practice
+
+## 핵심 내용
+이번 강의에서는 '변화'에 대한 중요성을 강조하였습니다. 그러나 변화가 거의 없는 경우에는 계산할 필요가 없다는 점을 명확히 하였습니다. 이후 'rest'에 대한 이야기로 넘어가며, 다음 시간에는 'rest' 후의 'practice'에 대해 설명할 예정임을 알렸습니다. 이번 강의는 여기까지 진행되었고, 다음 강의에서는 이어서 진행될 예정입니다.
+
+## 객관식 퀴즈
+1. 이번 강의에서 강조한 주요 키워드는 무엇인가요?
+   - A. 변화, rest, practice
+   - B. 변화, rest, study
+   - C. 변화, sleep, practice
+   - D. 변화, sleep, study
+   - 정답: A
+
+2. 다음 강의에서는 어떤 주제에 대해 설명할 예정인가요?
+   - A. rest 후의 study
+   - B. rest 후의 practice
+   - C. sleep 후의 study
+   - D. sleep 후의 practice
+   - 정답: B
+
+3. 변화가 거의 없는 경우에는 어떻게 해야 하나요?
+   - A. 계산할 필요가 있다.
+   - B. 계산할 필요가 없다.
+   - C. 더 많은 변화를 만들어야 한다.
+   - D. 더 많은 변화를 기다려야 한다.
+   - 정답: B

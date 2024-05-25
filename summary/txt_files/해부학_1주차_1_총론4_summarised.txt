@@ -1,0 +1,327 @@
+# 강의 요약: 신경계통의 구조와 기능
+
+## 1. 신경계통의 분류
+신경계통은 구조적으로는 중추신경계와 말초신경계로, 기능적으로는 체성신경계와 자율신경계로 분류됩니다.
+
+- **중추신경계**: 뇌와 척수로 구성되며, 뉴런의 세포체들이 위치하는 부분입니다.
+- **말초신경계**: 뉴런에서 나온 신경섬유들이 모여있는 부분으로, 다양한 신경들이 이곳에 속합니다.
+- **체성신경계**: 의식적으로 감지할 수 있는 다양한 감각을 담당하는 감각신경과 운동신경으로 구성됩니다.
+- **자율신경계**: 의식적으로 느낄 수 없지만 몸의 생리적인 상태에 대한 신호를 수집하고, 부드러운 근육이나 혈관 등을 움직이는 역할을 합니다.
+
+## 2. 신경계통의 세포
+신경계통은 뉴런과 신경교세포로 구성되어 있습니다.
+
+- **뉴런**: 신경신호를 전달하는 역할을 합니다. 다양한 형태를 가지며, 각 형태는 신경전달부라는 뉴런 간의 연결 부분에 따라 결정됩니다.
+- **신경교세포**: 뉴런을 보호하고 영양을 공급하는 역할을 합니다. 중추신경계에는 올리고드로사이트, 아스트로사이트, 미세교세포, 신경상피세포 등이 있으며, 말초신경계에는 슈반세포와 위성세포가 있습니다.
+
+## 퀴즈
+
+1. 신경계통을 구조적으로 분류하면 어떤 두 가지로 나뉘는가?
+    - A. 체성신경계와 자율신경계
+    - B. 중추신경계와 말초신경계
+    - C. 뉴런과 신경교세포
+    - D. 감각신경과 운동신경
+    - 정답: B. 중추신경계와 말초신경계
+
+2. 뉴런의 주요 역할은 무엇인가?
+    - A. 신경신호를 전달하는 것
+    - B. 신경을 보호하고 영양을 공급하는 것
+    - C. 몸의 생리적 상태에 대한 신호를 수집하는 것
+    - D. 부드러운 근육이나 혈관을 움직이는 것
+    - 정답: A. 신경신호를 전달하는 것
+
+3. 말초신경계에 존재하는 신경교세포는 무엇인가?
+    - A. 올리고드로사이트와 아스트로사이트
+    - B. 미세교세포와 신경상피세포
+    - C. 슈반세포와 위성세포
+    - D. 뉴런과 신경전달부
+    - 정답: C. 슈반세포와 위성세포
+
+# 강의 요약
+
+## 1. 감각신경계와 중추신경계
+감각신경계의 구조물로는 감각 뉴런의 세포체가 위치하는 감각갱리온(sensory ganglion) 또는 척수갱리온(spinal ganglion)이 있습니다. 이들 갱리온 주변에는 위성세포(satellite cell)가 위치해 있습니다.
+
+중추신경계는 뇌와 척수로 구성되며, 뇌는 회백질(gray matter)과 백질(white matter)로 나뉩니다. 회백질에는 뉴런의 세포체가, 백질에는 신경섬유가 위치합니다. 또한, 백질 속에 뉴런의 세포체가 모여 있는 부분을 핵(nucleus)라고 합니다.
+
+## 2. 뇌와 척수의 구조
+뇌와 척수는 수막(meninges)으로 덮여 있습니다. 수막은 경막(dura mater), 거미막(arachnoid mater), 연막(pia mater) 세 가지로 구성됩니다. 경막은 머리뼈의 안쪽에 붙어 있으며, 거미막은 경막의 안쪽에 위치합니다. 연막은 뇌 표면에 밀착되어 있습니다.
+
+거미막과 연막 사이에는 뇌척수액이 채워진 아라크노이드 공간(subarachnoid space)이 있습니다.
+
+---
+
+# 퀴즈
+
+1. 감각 뉴런의 세포체가 위치하는 감각갱리온 주변에는 어떤 세포가 위치해 있나요?
+    - A. 위성세포
+    - B. 신경섬유
+    - C. 연막
+    - D. 백질
+
+2. 뇌의 회백질에는 무엇이 위치해 있나요?
+    - A. 뉴런의 세포체
+    - B. 신경섬유
+    - C. 위성세포
+    - D. 백질
+
+3. 뇌와 척수를 덮고 있는 수막은 어떤 세 가지로 구성되어 있나요?
+    - A. 경막, 거미막, 연막
+    - B. 회백질, 백질, 핵
+    - C. 감각갱리온, 척수갱리온, 위성세포
+    - D. 뉴런의 세포체, 신경섬유, 위성세포
+
+---
+
+# 퀴즈 답안
+
+1. A. 위성세포
+2. A. 뉴런의 세포체
+3. A. 경막, 거미막, 연막
+# 강의 요약
+
+## 신경계의 구성
+신경계는 주로 신경섬유로 구성되며, 이는 신경세포체에서 나온 액손(axon)이 주성분입니다. 액손 주변에는 Neuroglial Cell이 사이토플라즘을 쌓아 Neurolemma를 형성합니다. 
+
+## 마이엘린과 액손
+마이엘린은 액손 주위에 달팽이 모양으로 감겨있는 형태를 가리키며, 이는 Action potential의 전도 속도를 빠르게 해줍니다. 마이엘린이 없는 액손은 unmyelinated axon으로, 이 경우에도 Neuroglial cell은 Neurilemma를 형성하여 액손을 보호합니다.
+
+## 신경섬유의 구조
+신경섬유는 여러 단계를 거쳐 Connective tissue로 쌓이는데, 가장 작은 액손을 쌓고 있는 것이 Endoneurium입니다. 이 신경섬유들이 여러 개가 모여 Connective tissue로 쌓이는 단위를 Fascicle이라고 합니다. Fascicle을 쌓고 있는 Connective tissue를 Perineurium이라고 하며, Fascicle이 Perineurium에 쌓인 상태로 다시 여러 개가 모여 좀 더 두꺼운 Connective tissue로 쌓이는 것을 Epineurium이라고 합니다.
+
+## 갱글리아
+갱글리아는 신경세포 몸체들이 모여있는 부위로, 척수의 gray matter에서 시작하여 sympathetic ganglion으로 이어지게 됩니다. 이 부분은 sympathetic ganglion이라고 불리며, sympathetic nervous system의 일부입니다.
+
+# 퀴즈
+
+1. 신경계는 주로 어떤 성분으로 구성되어 있나요?
+    - A. 신경세포체
+    - B. 신경섬유
+    - C. 마이엘린
+    - D. 갱글리아
+    - 정답: B. 신경섬유
+
+2. 액손 주변에 사이토플라즘을 쌓아 형성하는 것은 무엇인가요?
+    - A. 마이엘린
+    - B. Neuroglial Cell
+    - C. Neurolemma
+    - D. Endoneurium
+    - 정답: C. Neurolemma
+
+3. 신경섬유들이 여러 개 모여 Connective tissue로 쌓이는 단위를 무엇이라고 하나요?
+    - A. Endoneurium
+    - B. Fascicle
+    - C. Perineurium
+    - D. Epineurium
+    - 정답: B. Fascicle
+
+# 강의 요약
+
+## 신경세포 갱글리온
+- 신경세포 갱글리온은 Spinal cord 밖에서 post-synaptic neuron의 세포체가 모여있는 부분입니다. 이는 neuron과 지지 세포들로 구성되어 있습니다.
+
+## Peripheral nerve
+- Peripheral nerve는 cranial nerve와 spinal nerve 두 가지 종류가 있습니다. 
+- Cranial nerve는 12쌍이 있으며 대부분 뇌와 뇌간에서 시작됩니다. 
+- Spinal nerve는 31쌍이 있습니다.
+
+## 척수 신경
+- 척수는 서기컬, 토라시크, 룸바, 사크럴, 코싱지얼로 구분되며, 각 부위마다 척수 신경이 나옵니다. 
+- 척수 신경의 구조를 보면, 척수는 바깥쪽이 화이트 메터로 이루어져 있고, 내부에는 그레이 메터가 위치합니다. 
+- 그레이 메터는 앞쪽과 뒤쪽에 각각 2개의 튀어나온 부분이 있습니다. 이를 그레이 메터의 앤테리어 혼과 포스테리어 혼이라고 합니다.
+
+## Dermatome과 Myotome
+- Dermatome은 스파이널 러브마다 감각을 담당하는 구역이 정해져 있습니다. 
+- Myotome은 하나의 스파이널 러브에 포함되어 있는 운동신경섬유들이 운동을 담당하는 근육, 근육분절이라고 할 수 있습니다.
+
+# 퀴즈
+
+1. 신경세포 갱글리온은 어디에 위치해 있나요?
+    - A. Spinal cord 안
+    - B. Spinal cord 밖
+    - C. Spinal cord 위
+    - D. Spinal cord 아래
+    - 정답: B. Spinal cord 밖
+
+2. 척수는 어떤 부분으로 구분되나요?
+    - A. 서기컬, 토라시크, 룸바, 사크럴, 코싱지얼
+    - B. 앤테리어, 포스테리어, 루트릿, 루트
+    - C. Cranial, Spinal, Peripheral
+    - D. Dermatome, Myotome
+    - 정답: A. 서기컬, 토라시크, 룸바, 사크럴, 코싱지얼
+
+3. Dermatome과 Myotome의 차이점은 무엇인가요?
+    - A. Dermatome은 감각을 담당하고, Myotome은 운동을 담당한다.
+    - B. Dermatome은 운동을 담당하고, Myotome은 감각을 담당한다.
+    - C. Dermatome은 Spinal cord 안에 위치하고, Myotome은 Spinal cord 밖에 위치한다.
+    - D. Dermatome은 Spinal cord 밖에 위치하고, Myotome은 Spinal cord 안에 위치한다.
+    - 정답: A. Dermatome은 감각을 담당하고, Myotome은 운동을 담당한다.
+# 강의 요약
+
+## 스파이널 코드와 스파이널 러브
+
+- 스파이널 코드는 몸통 부분에서 독립적으로 진행되며, 스파이널 러브들은 복잡한 네트워크를 형성합니다.
+- 이러한 스파이널 코드의 Anterior rami들이 형성하는 얼기 형태를 Nerve plexus라고 합니다.
+
+## Autonomic nervous system
+
+- Autonomic nervous system은 우리가 의식적으로 인지할 수 없는 영역의 감각과 운동을 담당하는 신경계통입니다.
+- 이는 Autonomic nerve system으로 구성되며, Visceral motor system과 Visceral afferent fibers로 구성됩니다.
+- Visceral motor system은 internal organs을 움직이기 위한 운동 섬유를 포함하고, Visceral afferent fibers들은 이러한 운동 시스템을 위한 정보를 수집하는 감각 섬유를 포함합니다.
+
+## Sympathetic과 Parasympathetic 시스템
+
+- Visceral motor system은 Sympathetic과 Parasympathetic 두 가지 시스템으로 나뉩니다.
+- Sympathetic system과 Parasympathetic system은 모두 Presynaptic neuron과 Postsynaptic neuron 두 개의 뉴런으로 구성됩니다.
+- Sympathetic system은 Thoracolumbar part에서 시작되며, Parasympathetic system의 preganglionic neuron의 세포체는 craniosacral part에서 시작됩니다.
+
+## Sympathetic neuron과 Parasympathetic neuron
+
+- Sympathetic neuron은 중추신경계(CNS) 내부에 위치하며, postsynaptic 또는 postganglionic 뉴런의 세포체는 중추신경계 외부에 위치합니다.
+- Sympathetic system과 parasympathetic system 사이에는 presynaptic 세포체의 위치와 presynaptic fiber가 포함되어 있는 신경의 차이가 있습니다.
+
+# 퀴즈
+
+1. Autonomic nervous system은 어떤 영역의 감각과 운동을 담당하는가?
+   - A. 의식적으로 인지할 수 있는 영역
+   - B. 의식적으로 인지할 수 없는 영역
+   - C. 둘 다 아님
+   - D. 둘 다 맞음
+   - 정답: B
+
+2. Sympathetic system과 Parasympathetic system은 어떤 뉴런으로 구성되어 있는가?
+   - A. Presynaptic neuron과 Postsynaptic neuron
+   - B. Presynaptic neuron과 Afferent neuron
+   - C. Afferent neuron과 Efferent neuron
+   - D. Efferent neuron과 Postsynaptic neuron
+   - 정답: A
+
+3. Sympathetic system과 parasympathetic system 사이의 차이점은 무엇인가?
+   - A. Presynaptic 세포체의 위치와 presynaptic fiber가 포함되어 있는 신경
+   - B. Presynaptic 세포체의 위치와 postsynaptic fiber가 포함되어 있는 신경
+   - C. Postsynaptic 세포체의 위치와 presynaptic fiber가 포함되어 있는 신경
+   - D. Postsynaptic 세포체의 위치와 postsynaptic fiber가 포함되어 있는 신경
+   - 정답: A
+# 강의 요약
+
+## 1. Spinal cord gray matter와 Sympathetic system
+
+Spinal cord gray matter에는 Anterior horn, Posterior horn 그리고 Lateral horn이 존재합니다. Lateral horn 내부에는 Intermediolateral cell column이 위치하며, 이곳에는 Presynaptic neuron의 cell body들이 모여 있습니다. 이들은 T1부터 L1, L2 또는 L3까지 위치하며, 각각 Upper limb, Body wall, Lower limb 순서로 위치합니다. 이들은 Paraethelial structures와 Visceral structures로 나뉘어져 있습니다.
+
+## 2. Sympathetic system의 Postsynaptic neurons
+
+Sympathetic system의 Postsynaptic neurons의 cell body는 Paravertebral ganglion 또는 Prevertebral ganglion에 위치합니다. Paravertebral ganglion은 Vertebral column 좌우에 한 쌍이 존재하며, 이들은 위아래로 신경섬유로 연결되어 있습니다. 이 구조를 Sympathetic trunk 또는 Sympathetic chain이라고 합니다.
+
+## 3. Prevertebral ganglion
+
+Prevertebral ganglion은 척추와 대동맥 사이에 위치하며, 대동맥에서 큰 동맥들이 나누어지는 지점 주위에 주로 분포합니다. Preganglionic sympathetic fibers의 세포체는 척수의 lateral horn에 위치하며, 이들은 척수의 anterior root를 통해 밖으로 나와 척수신경으로 들어갑니다.
+
+## 4. Presynaptic fiber의 경로
+
+Presynaptic fiber는 sympathetic trunk로 들어가서 4가지 경로 중 하나를 선택합니다. 이들은 위로 올라가서 synapse를 형성하거나, 바로 그 자리에서 synapse를 형성하거나, 아래로 내려가서 synapse를 형성하거나, synapse를 형성하지 않고 abdominopelvic splanchnic nerve를 통해 aorta 앞쪽의 prevertebral ganglion으로 이동하여 거기에서 synapse를 형성합니다.
+
+## 5. Postsynaptic sympathetic fiber의 경로
+
+Postsynaptic sympathetic fiber의 경로는 presynaptic sympathetic fiber와 synapse 형성 위치에 따라 다를 수 있습니다. 이들은 실제로 synapse가 형성되는 곳에서 시작됩니다.
+
+# 퀴즈
+
+1. Spinal cord gray matter에는 어떤 horn들이 존재하는가?
+   - A. Anterior horn, Posterior horn, Lateral horn
+   - B. Anterior horn, Posterior horn
+   - C. Anterior horn, Lateral horn
+   - D. Posterior horn, Lateral horn
+   - 정답: A
+
+2. Sympathetic system의 Postsynaptic neurons의 cell body는 어디에 위치하는가?
+   - A. Paravertebral ganglion
+   - B. Prevertebral ganglion
+   - C. Lateral horn
+   - D. A와 B 모두
+   - 정답: D
+
+3. Presynaptic fiber는 sympathetic trunk로 들어가서 몇 가지 경로 중 하나를 선택하는가?
+   - A. 2가지
+   - B. 3가지
+   - C. 4가지
+   - D. 5가지
+   - 정답: C
+# 강의 요약
+
+## Sympathetic System
+
+1. Sympathetic trunk에서 synapse를 형성하고, post-synaptic fiber는 gray ramus communicans를 통해 spinal nerve로 들어갑니다.
+2. Superior cervical ganglion에서 시작된 post-synaptic fiber는 carotid artery로 가는 cephalic arterial branch를 형성합니다.
+3. Cardio-pulmonary splanchnic 신경은 심장, 폐 및 식도와 같은 부위로 post-synaptic 신경 섬유를 전달합니다.
+4. Pre-synaptic 신경 섬유의 경로 중 하나는 sympathetic trunk에서 synapse를 형성하지 않고 prevertebral ganglion으로 이동하여 synapse를 형성합니다.
+
+## Parasympathetic System
+
+1. Parasympathetic System에서는 presynaptic cell body가 brain stem의 gray matter 또는 척수의 S2부터 S4 세그먼트에 위치합니다.
+2. Presynaptic fiber는 cranial nerve 3번, 7번, 9번, 10번을 통해 뇌간 밖으로 나오게 됩니다.
+3. Presynaptic fiber들은 머리, 가슴 및 복부의 내부 장기에 분포하게 되고, pelvic splanchnic nerve을 통해 밖으로 나온 세포 섬유들은 골반의 장기들에 분포하게 됩니다.
+
+---
+
+# 퀴즈
+
+1. Sympathetic trunk에서 synapse를 형성한 후, post-synaptic fiber는 어떤 경로를 통해 spinal nerve로 들어가나요?
+    - A. White ramus communicans
+    - B. Gray ramus communicans
+    - C. Cephalic arterial branch
+    - D. Cardio-pulmonary splanchnic nerve
+    - 답: B. Gray ramus communicans
+
+2. Parasympathetic System에서 presynaptic cell body가 위치하는 곳은 어디인가요?
+    - A. Brain stem의 gray matter 또는 척수의 S1부터 S3 세그먼트
+    - B. Brain stem의 gray matter 또는 척수의 S2부터 S4 세그먼트
+    - C. Brain stem의 white matter 또는 척수의 S2부터 S4 세그먼트
+    - D. Brain stem의 white matter 또는 척수의 S1부터 S3 세그먼트
+    - 답: B. Brain stem의 gray matter 또는 척수의 S2부터 S4 세그먼트
+
+3. Presynaptic fiber가 뇌간을 나오는 cranial nerve 번호는 무엇인가요?
+    - A. 1번, 2번, 3번, 4번
+    - B. 3번, 5번, 7번, 9번
+    - C. 3번, 7번, 9번, 10번
+    - D. 2번, 4번, 6번, 8번
+    - 답: C. 3번, 7번, 9번, 10번
+
+# 강의 요약
+
+## 자율신경계의 구조와 기능
+
+자율신경계는 우리 몸의 내부 환경을 조절하는 데 중요한 역할을 합니다. 이 시스템은 크게 두 부분, 즉 교감신경계와 부교감신경계로 나뉩니다.
+
+### 교감신경계
+
+교감신경계는 주로 에너지를 소모하고, 우리 몸이 환경 변화에 적극적으로 반응하도록 하는 역할을 합니다. 이 시스템의 가장 중요한 역할은 혈압을 조절하는 것입니다. 교감신경계는 혈관벽의 매끄러운 근육을 수축시켜 혈관을 좁게 만들어 혈압을 유지합니다. 그러나 심장을 공급하는 관상동맥, 골격근을 공급하는 혈관, 외부 생식기를 공급하는 혈관 등 일부 부위에서는 교감신경계가 증가할 때 혈관이 확장됩니다.
+
+### 부교감신경계
+
+부교감신경계는 항상성을 유지하고, 에너지를 보존하는 역할을 합니다. 이 시스템은 골반 내부 오관과 소화기 계통의 끝부분에 분포하는 골반 신경을 통해 작동합니다. 이 시스템은 또한 뇌신경을 통해 작동하며, 이 뇌신경은 소화기 시스템의 상부 부위에 분포합니다.
+
+## 객관식 퀴즈
+
+1. 교감신경계의 주요 역할은 무엇인가요?
+    - A. 에너지를 보존한다.
+    - B. 혈압을 조절한다.
+    - C. 혈관을 확장시킨다.
+    - D. 환경 변화에 반응하지 않는다.
+
+2. 부교감신경계가 분포하는 주요 부위는 어디인가요?
+    - A. 골반 내부 오관과 소화기 계통의 끝부분
+    - B. 심장을 공급하는 관상동맥
+    - C. 골격근을 공급하는 혈관
+    - D. 외부 생식기를 공급하는 혈관
+
+3. 교감신경계가 증가할 때 혈관이 확장되는 부위는 어디인가요?
+    - A. 심장을 공급하는 관상동맥
+    - B. 골격근을 공급하는 혈관
+    - C. 외부 생식기를 공급하는 혈관
+    - D. 모든 위의 항목들
+
+### 답안
+
+1. B. 혈압을 조절한다.
+2. A. 골반 내부 오관과 소화기 계통의 끝부분
+3. D. 모든 위의 항목들

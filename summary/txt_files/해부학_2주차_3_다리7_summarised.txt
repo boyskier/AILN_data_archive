@@ -1,0 +1,444 @@
+# 종아리의 Posterior Compartment 요약
+
+종아리의 Posterior Compartment는 Tibia와 Fibula 사이의 Interosseous Membrane의 뒷부분에 위치하며, 가장 큰 Compartment입니다. 이 Compartment는 가로 방향의 Transverse Inter muscular Septum에 의해 Superficial과 Deep 두 개의 Subcompartment로 나뉩니다. 
+
+## Superficial Subcompartment
+Superficial Subcompartment에는 Gastrocnemius, Soleus, Plantaris 세 개의 근육이 있습니다. 
+
+- **Gastrocnemius**는 두 개의 Head로 시작하며, Femur의 Lateral Condyle와 Medial Condyle에 부착됩니다.
+- **Soleus**는 Fibula의 Head와 Shaft, 그리고 Tibia의 Soleus Line과 Medial Border에 부착됩니다.
+- **Plantaris**는 작은 근육으로, Femur의 Lateral Supracondylar Line의 Inferior End에서 시작합니다.
+
+이 세 근육은 모두 Calcaneal Tendon을 통해 Calcaneus에 부착됩니다.
+
+## Deep Subcompartment
+Deep Subcompartment에는 Popliteus, Flexor Digitorum Longus, Flexor Hallucis Longus, Tibialis Posterior 등의 근육이 있습니다.
+
+## 근육의 작용
+- **Gastrocnemius**는 무릎 관절과 발목 관절에 작용하여 Plantar Flexion과 Flexion을 합니다.
+- **Soleus**는 발목 관절에서 Plantar Flexion을 합니다.
+- **Plantaris**는 Gastrocnemius의 작용을 보조합니다.
+
+이 세 근육의 이두신은 Tibial Nerve입니다.
+
+## 고난이도 객관식 퀴즈
+1. 종아리의 Posterior Compartment는 어떤 두 뼈 사이에 위치하나요?
+    - A. Femur과 Tibia
+    - B. Tibia와 Fibula
+    - C. Fibula와 Tarsal
+    - D. Tarsal과 Metatarsal
+    - 정답: B. Tibia와 Fibula
+
+2. Gastrocnemius 근육은 어디에 부착되나요?
+    - A. Femur의 Lateral Condyle와 Medial Condyle
+    - B. Fibula의 Head와 Shaft
+    - C. Tibia의 Soleus Line과 Medial Border
+    - D. Femur의 Lateral Supracondylar Line의 Inferior End
+    - 정답: A. Femur의 Lateral Condyle와 Medial Condyle
+
+3. 종아리의 Posterior Compartment의 근육들이 모두 부착되는 곳은 어디인가요?
+    - A. Femur
+    - B. Tibia
+    - C. Fibula
+    - D. Calcaneus
+    - 정답: D. Calcaneus
+# 강의 요약
+
+## 근육의 위치와 기능
+
+1. **Popliteus**: 무릎 뒤쪽에 위치하며, 주된 작용은 무릎을 뒷면으로 접는 것입니다. 또한, Femur의 Lateral Condyle을 뒤쪽으로 당길 수 있어 Femur를 외측으로 회전시키는 역할도 합니다.
+
+2. **Flexor Digitorum Longus**: Tibia의 뒷면 중간 부분에서 내측에 넓게 부착되며, 주된 작용은 4개의 발가락, 즉 2번, 3번, 4번, 5번 발가락의 구부리는데 작용합니다. 또한, 발목관절의 가운데 쪽을 지나서 발바닥으로 들어가기 때문에 수축을 하면 발목관절에서 약하지만 Plantar flexion을 시킬 수 있습니다.
+
+3. **Flexor Hallucis Longus**: Fibula의 뒷면이 아래쪽 3분의 2 정도에서 시작되며, 주된 작용은 엄지발가락의 플렉션과 발목관절을 지나가며 발목관절에서 약하지만 plantar flexion의 작용을 합니다.
+
+4. **Tibialis Posterior**: posterior compartment에서 가장 깊게 위치하는 근육으로, 주요 attachment는 navicular에 위치합니다.
+
+## 근육의 상호작용
+
+- Flexor Digitorum Longus와 Flexor Hallucis Longus는 발목 관절을 지나서 발바닥으로 들어가며 교차합니다.
+- Flexor Hallucis Longus는 발바닥의 중앙 쪽에 형성되는 발바닥의 medial longitudinal arch를 지탱합니다.
+- Tibialis Posterior는 tibia와 fibula 그리고 두 뼈 사이를 연결하는 interosseous membrane의 posterior surface에서 시작하여 ankle joint에서 medial malleolus 뒤쪽을 지나 발바닥으로 들어갑니다.
+
+# 퀴즈
+
+1. Popliteus 근육의 주된 작용은 무엇인가요?
+   - A. 무릎을 뒷면으로 접는 것
+   - B. 발목을 뒷면으로 접는 것
+   - C. 무릎을 앞면으로 접는 것
+   - D. 발목을 앞면으로 접는 것
+
+2. Flexor Digitorum Longus 근육이 주로 작용하는 발가락은 몇 번째 발가락인가요?
+   - A. 1번
+   - B. 2번
+   - C. 3번
+   - D. 2, 3, 4, 5번
+
+3. Tibialis Posterior 근육의 주요 attachment는 어디에 위치하나요?
+   - A. Femur
+   - B. Tibia
+   - C. Navicular
+   - D. Fibula
+
+# 퀴즈 답안
+
+1. A. 무릎을 뒷면으로 접는 것
+2. D. 2, 3, 4, 5번
+3. C. Navicular
+# Tibial Nerve와 그 기능
+
+Tibial nerve는 발목관절을 지날 때 plantar flexion에 작용하며, 발목관절의 medial side로 지나 발바닥에서도 medial side에 부착됩니다. 이로 인해 Tibial nerve가 당기는 힘을 발휘하면 발목에서 inversion이 일어나게 됩니다. 또한, 이 텐던은 발바닥의 medial side에 위치하는 medial longitudinal arch를 유지하는 데 도움을 줍니다. 
+
+Tibial nerve는 popliteal fossa를 지나서 종아리 뒷면을 따라 내려가며 여러 개의 가지를 내어 Posterior compartment에 있는 모든 근육들을 작용시킵니다. 발목 부위로 내려가면 medial malleolus 뒤를 지나가며 flexor hallucis longus와 flexor digitorum longus tendon과 함께 작용하고, 발바닥으로 들어가면 두 개의 terminal branch로 나누어집니다. 
+
+# Tibial Nerve의 피부 분포
+
+Tibial nerve의 피부 분포에서 가장 중요한 것은 Sural nerve입니다. Sural nerve는 Tibial nerve의 가지인 Medial sural cutaneous nerve와 Common fibular nerve의 가지인 Sural communicating branch 두 개가 만나서 합쳐져서 형성됩니다. 이 두 가지가 발목 위쪽에서 만나서 하나로 합쳐져서 Sural nerve가 되는 것으로 그려져 있습니다. 
+
+# Tibial Nerve의 가지
+
+Tibial nerve는 무릎 관절을 구성하는 성분들로 가는 articular branch도 함께 내게 됩니다. 뒷면에서 가장 큰 동맥은 posterior tibial artery인데, posterior tibial artery는 popliteal artery가 popliteal fossa를 지나서 종아리로 내려가면서 계속 연장된 부분으로 생각할 수도 있겠습니다. 
+
+## 퀴즈
+
+1. Tibial nerve가 발목에서 inversion을 일으키는 이유는 무엇인가요?
+    - A. Tibial nerve가 당기는 힘 때문입니다.
+    - B. Tibial nerve가 밀어내는 힘 때문입니다.
+    - C. Tibial nerve가 회전하는 힘 때문입니다.
+    - D. Tibial nerve가 압축하는 힘 때문입니다.
+    - 정답: A. Tibial nerve가 당기는 힘 때문입니다.
+
+2. Sural nerve는 어떤 두 가지 nerve가 만나서 형성되나요?
+    - A. Medial sural cutaneous nerve와 Common fibular nerve
+    - B. Medial sural cutaneous nerve와 Lateral sural cutaneous nerve
+    - C. Common fibular nerve와 Lateral sural cutaneous nerve
+    - D. Medial sural cutaneous nerve와 Posterior tibial nerve
+    - 정답: A. Medial sural cutaneous nerve와 Common fibular nerve
+
+3. Tibial nerve는 어떤 관절을 구성하는 성분들로 가는 가지를 함께 내게 되나요?
+    - A. Elbow joint
+    - B. Knee joint
+    - C. Ankle joint
+    - D. Hip joint
+    - 정답: B. Knee joint
+
+# 강의 요약
+
+## 피빌라 아터리 (Fibular Artery)
+피빌라 아터리는 Posterior Tibial Artery의 가지로, 종아리를 따라 내려가며 posterior compartment와 lateral compartment 근육들로 가는 muscular branch를 내보냅니다. 끝부분에서는 lateral malleolar branch와 calcaneal branch로 나누어집니다.
+
+## Circumflex fibular artery
+Circumflex fibular artery는 Anterior Tibial Artery 혹은 Posterior Tibial Artery에서 나누어지며, fibula head의 neck을 뒤쪽에서부터 감고 돌아서 지나가면서 knee joint 주위의 arterio-venous anastomoses에 합쳐집니다.
+
+## Tibialis anterior strain (Shin splints)
+Tibialis anterior strain은 tibialis anterior에 반복적으로 micro trauma가 가해질 때 발생하며, 넓은 면적에 걸쳐서 많이 발생하면 전체적으로 tibialis anterior가 붓게 되고 염증이 생겨서 통증을 느끼게 됩니다.
+
+## Common peroneal nerve 손상과 Foot drop
+Common peroneal nerve 손상은 foot drop 증상을 일으키며, 발끝이 땅으로 떨어지기 때문에 plantar flexion이 발생하고, 이 상태에서 발이 dorsiflexion이 안되는 것입니다. 이로 인해 발끝이 땅에 자꾸 닿거나, 마비된 쪽의 발끝이 땅에 닿는 현상이 나타나게 됩니다.
+
+## 객관식 퀴즈
+
+1. 피빌라 아터리는 어떤 동맥의 가지인가요?
+    - A. Anterior Tibial Artery
+    - B. Posterior Tibial Artery
+    - C. Circumflex fibular artery
+    - D. Common peroneal nerve
+    - 정답: B. Posterior Tibial Artery
+
+2. Tibialis anterior strain (Shin splints)의 원인은 무엇인가요?
+    - A. Tibialis anterior에 반복적으로 micro trauma가 가해질 때
+    - B. Tibialis anterior에 부착되는 부위에서 periosteum이나 muscle fiber 자체가 미세하게 찢어지게 될 때
+    - C. Tibialis anterior가 tibia의 lateral surface에 넓게 부착되어 있을 때
+    - D. 모두 맞다.
+    - 정답: D. 모두 맞다.
+
+3. Common peroneal nerve 손상이 발생하면 어떤 증상이 나타나는가요?
+    - A. Foot drop
+    - B. Shin splints
+    - C. Plantar flexion
+    - D. Dorsiflexion
+    - 정답: A. Foot drop
+
+# 강의 요약
+
+## Steppage gait와 Deep peroneal nerve entrapment
+- Steppage gait는 발끝이 땅에 닿지 않도록 변하는 보행 방식입니다.
+- Deep peroneal nerve entrapment는 Deep peroneal nerve가 강한 압박을 받을 때 나타나는 증상입니다.
+- Anterior compartment에 위치하는 근육들이 손상을 받게 되면 이대마가 발생하게 되고, 그렇게 되면 이 Anterior compartment 내부의 압력이 높아져서 그 압력에 의해서 Deep peroneal nerve가 압박을 받고 그에 따라 Anterior compartment의 통증이 발생하게 됩니다.
+
+## Ski boot syndrome
+- Ski boot syndrome은 스키부트를 신을 때 너무 꽉 조이거나, 아니면 너무 작은 부츠를 신게 되면 발목의 앞쪽에서 신경과 부츠 사이에 강한 압박이 발생하게 됩니다.
+- 이로 인해 발의 등쪽 그리고 첫 번째 Interdigital cleft에서 통증이 발생하게 됩니다.
+
+## Fabella
+- Fabella는 Gastrocnemius의 외측 머리에 있는 작은 뼈입니다.
+- 이것은 인구의 3에서 5% 정도에서 존재한다고 알려져 있습니다.
+- 이 작은 뼈가 존재할 수 있다는 사실을 모르고 X-ray를 보면 골절로 착각할 수 있습니다.
+
+## Calcaneal tendinitis와 Calcaneal bursitis
+- Calcaneal tendinitis는 calcaneal tendon에 염증이 발생하는 상황을 말합니다.
+- Calcaneal bursitis는 tendinitis와는 다르게 bursa나 유착주머니에 염증이 발생하는 상황을 말합니다.
+
+# 퀴즈
+
+1. Deep peroneal nerve entrapment는 어떤 상황에서 발생하는가?
+   - A. Anterior compartment에 위치하는 근육들이 손상을 받을 때
+   - B. 스키부트를 너무 꽉 조이거나 작은 부츠를 신을 때
+   - C. Fabella가 골절될 때
+   - D. Calcaneal tendon에 염증이 발생할 때
+   - 정답: A
+
+2. Ski boot syndrome은 어디에서 통증이 발생하는가?
+   - A. 발의 등쪽 그리고 첫 번째 Interdigital cleft
+   - B. Anterior compartment
+   - C. Fabella
+   - D. Calcaneal tendon
+   - 정답: A
+
+3. Fabella는 어디에 위치하는가?
+   - A. Anterior compartment
+   - B. Gastrocnemius의 외측 머리
+   - C. Calcaneal tendon
+   - D. 첫 번째 Interdigital cleft
+   - 정답: B
+
+# Calcaneal Bursitis와 Achilles Tendon
+
+Calcaneal Bursitis는 장거리 달리기와 같은 운동으로 인한 마찰로 인해 발생하는 염증입니다. Calcaneal Tendon은 강력하지만, 경우에 따라 손상이 발생할 수 있습니다. 손상은 대개 무릎 관절이 펴진 상태에서 발목에서 강한 앞꿈치 동작을 할 때 발생합니다. 손상이 발생하면 종아리 부위에 순간적으로 통증을 느끼게 되고, 발목 관절에서 동작이 제한됩니다.
+
+Achilles tendon reflex는 Achilles tendon을 가볍게 두드려서 발목 관절에서 plantar flexion이 정상적으로 나타나는지를 확인하는 검사 방법입니다. 이 검사는 S1과 S2 spinal cord segment에서 이루어집니다.
+
+# Posterior Tibial Pulse와 Deep Fascia
+
+Posterior tibial pulse는 posterior tibial artery의 pulsation을 측정하는 방법입니다. 이는 medial malleolus의 posterior surface와 Achilles tendon의 medial border 사이를 눌러서 측정합니다. pulsation의 강도를 비교하여 동맥이 부분적으로 막혔는지를 확인할 수 있습니다.
+
+발부의 Deep Fascia는 발등 부분을 덮고 있으며, 발목 쪽에서 Inferior Extensor Retinaculum으로 연속됩니다.
+
+## 퀴즈
+
+1. Calcaneal Bursitis는 어떤 활동으로 인해 주로 발생하는가?
+    - A. 수영
+    - B. 장거리 달리기
+    - C. 자전거 타기
+    - D. 등산
+    - 정답: B. 장거리 달리기
+
+2. Achilles tendon reflex 검사는 어떤 spinal cord segment에서 이루어지는가?
+    - A. S1과 S2
+    - B. L1과 L2
+    - C. T1과 T2
+    - D. C1과 C2
+    - 정답: A. S1과 S2
+
+3. Posterior tibial pulse 측정은 어떤 부위를 눌러서 하는가?
+    - A. Medial malleolus의 anterior surface와 Achilles tendon의 lateral border
+    - B. Medial malleolus의 posterior surface와 Achilles tendon의 medial border
+    - C. Lateral malleolus의 anterior surface와 Achilles tendon의 lateral border
+    - D. Lateral malleolus의 posterior surface와 Achilles tendon의 medial border
+    - 정답: B. Medial malleolus의 posterior surface와 Achilles tendon의 medial border
+
+# 발의 구조와 기능
+
+## 발의 구조
+
+발의 구조는 다음과 같이 구성되어 있습니다.
+
+1. **Plantar Fascia**: 발바닥을 덮고 있는 Deep Fascia 중심부분으로, 가운데 부분이 특히 두꺼워진 Plantar Aponeurosis로 구성되어 있습니다. 이는 발바닥 전체를 덮고 있으며, 뒷쪽은 Calcaneus에 부착되어 있고 앞으로 진행하면서 5개의 가닥으로 나뉘어집니다. 각각의 가닥은 발가락 하나씩을 가리키며, 발가락의 베이스 쪽을 쌓고 있는 Fibrous Digital Sheaths와 연결됩니다.
+
+2. **Superficial Transverse Metatarsal Ligament**: Plantar Aponeurosis의 Connective Tissue Fibers들이 앞뒤로 배열되어 있으며, 발가락과 연결되기 직전에는 가로 방향으로 지나가는 이 Ligament가 위치합니다. 이 Ligament는 5개로 나뉘어진 Plantar Aponeurosis의 연결조직들이 서로 움직이지 않게 고정해주는 역할을 합니다.
+
+3. **Vertical Intramuscular Septum**: 발바닥에 있는 Plantar Aponeurosis에서 발등 쪽에 위치한 metatarsal로 연결되는 수직 방향의 연결조직 섹션입니다. 이는 발바닥의 공간을 크게 3개의 구획으로 나눕니다.
+
+## 발의 근육
+
+발에는 총 20개의 근육이 있으며, 이 중 14개는 발바닥에 위치하고, 2개는 발등에 위치하며, 나머지 4개는 중간 부분에 위치합니다. 발바닥에 위치한 근육들은 4개의 레이어로 배열되어 있습니다. 발바닥의 근육들은 특정한 레이어와 레이어 사이를 통해 혈관이나 신경이 통과하는데, 이를 Neurovascular plane라고 합니다.
+
+## 발의 기능
+
+발에 위치한 이 작은 근육들은 각자의 기능을 가지고 있지만, 실질적으로는 모든 근육들이 함께 작용합니다. 특히 걷거나 뛸 때 발의 형태가 계속 변화하게 되는 것이 가장 중요한 기능입니다.
+
+---
+
+### 퀴즈
+
+1. 발바닥을 덮고 있는 Deep Fascia 중심부분을 무엇이라고 부르는가?
+    - A. Plantar Fascia
+    - B. Superficial Transverse Metatarsal Ligament
+    - C. Vertical Intramuscular Septum
+    - D. Neurovascular plane
+
+2. 발에는 총 몇 개의 근육이 있는가?
+    - A. 10개
+    - B. 15개
+    - C. 20개
+    - D. 25개
+
+3. 발의 형태가 계속 변화하는 것이 가장 중요한 기능은 언제 나타나는가?
+    - A. 걷거나 뛸 때
+    - B. 앉아 있을 때
+    - C. 자고 있을 때
+    - D. 뛰어오를 때
+
+---
+
+### 답안
+
+1. A. Plantar Fascia
+2. C. 20개
+3. A. 걷거나 뛸 때
+# 발의 구조와 기능
+
+발은 다양한 근육과 신경, 혈관들로 구성되어 있으며, 이들은 서로 상호작용하며 발의 다양한 기능을 수행합니다.
+
+## 발의 근육
+
+발에는 발바닥을 유지하고 압력을 조절하는 기능을 하는 근육들이 있습니다. 발등에는 Extensor Digitorum Brevis와 Extensor Hallucis Brevis라는 두 개의 근육이 있습니다. 이들 근육은 각각 2, 3, 4번 발가락과 2, 3, 4, 5번 발가락에 연결되어 있습니다. 발바닥에 위치한 근육들은 Medial Plantar Nerve와 Lateral Plantar Nerve에 의해 지배되며, 발등은 Deep Fibular Nerve에 의해 이너베이션됩니다.
+
+## 발의 신경
+
+발의 신경 분포를 살펴보면, Saphenous Nerve, Superficial Peroneal Nerve, Deep Peroneal Nerve, Medial Plantar Nerve, Lateral Plantar Nerve 등이 있습니다. 이들 신경은 발의 다양한 부위를 지배하며, 발의 움직임과 감각을 조절합니다.
+
+## 발의 혈관
+
+발의 혈관 중 Dorsalis Pedis Artery는 발등의 혈류를 담당합니다.
+
+---
+
+# 퀴즈
+
+1. 발등에 위치한 두 개의 근육은 무엇인가요?
+   - A. Extensor Digitorum Brevis와 Extensor Hallucis Brevis
+   - B. Medial Plantar Nerve와 Lateral Plantar Nerve
+   - C. Superficial Peroneal Nerve와 Deep Peroneal Nerve
+   - D. Saphenous Nerve와 Dorsalis Pedis Artery
+
+2. 발의 신경 중, 2, 3, 4번 발가락을 지배하는 신경은 무엇인가요?
+   - A. Extensor Digitorum Brevis
+   - B. Extensor Hallucis Brevis
+   - C. Medial Plantar Nerve
+   - D. Deep Fibular Nerve
+
+3. 발의 혈류를 담당하는 혈관은 무엇인가요?
+   - A. Saphenous Nerve
+   - B. Superficial Peroneal Nerve
+   - C. Dorsalis Pedis Artery
+   - D. Medial Plantar Nerve
+
+---
+
+# 퀴즈 답안
+
+1. A. Extensor Digitorum Brevis와 Extensor Hallucis Brevis
+2. D. Deep Fibular Nerve
+3. C. Dorsalis Pedis Artery
+# 발의 혈관 구조
+
+## 발등의 혈관 구조
+
+1. **Anterior Tibial Artery**는 발목 앞쪽을 지나 발등으로 들어가면서 **Dorsalis Pedis Artery**로 이름이 바뀝니다.
+2. Dorsalis Pedis Artery에서는 여러 가지가 나오는데, 첫 번째는 **Deep Plantar Artery**입니다. 이는 첫 번째와 두 번째 발뒤꿈치 뼈 사이를 지나 발바닥으로 들어갑니다.
+3. Deep Plantar Artery는 발바닥의 큰 동맥인 **Lateral Plantar Artery**와 만나 **Deep Plantar Arch**를 형성합니다.
+4. 두 번째 가지는 **첫 번째 Dorsal Metatarsal Artery**로, 첫 번째 발뒤꿈치 뼈 쪽으로 진행합니다.
+5. **Lateral Tarsal Artery**는 Dorsalis Pedis Artery의 시작 부분에서 옆쪽으로 나가는 가지입니다.
+6. **Arcuate Artery**는 Dorsalis Pedis Artery의 끝부분에서 갈라지는 가지로, 둘째부터 다섯째 발뒤꿈치 뼈의 밑부분을 가로질러 진행하며, Lateral Tarsal Artery와 만나 아치를 형성합니다.
+
+## 발바닥의 혈관 구조
+
+1. **Medial Plantar Artery**는 **Posterior Tibial Artery**의 terminal branch 중 하나로, 발바닥에서 두 개의 terminal branch로 나누어집니다. 이 두 가지는 **Medial**과 **Lateral Plantar Artery**로, 후자가 크기가 더 큽니다.
+2. Medial Plantar Artery는 깊은 가지가 엄지발가락을 컨트롤하는 근육으로 가며, 표면 가지는 발바닥의 medial 쪽에 위치한 피부에 혈액을 공급합니다. 이 가지의 끝부분은 **Superficial Plantar Arch**가 됩니다.
+3. **Lateral Plantar Artery**는 Posterior Tibial Artery의 terminal branch 중 크기가 큰 가지로, 끝부분이 **Deep Plantar Arch**를 형성합니다. 이는 발등에서 발바닥으로 휘어지면서 Deep Plantar Artery와 만나 형성됩니다.
+
+## 퀴즈
+
+1. Dorsalis Pedis Artery에서 나오는 첫 번째 가지는 무엇인가요?
+   - A. Lateral Tarsal Artery
+   - B. Deep Plantar Artery
+   - C. 첫 번째 Dorsal Metatarsal Artery
+   - D. Arcuate Artery
+   - 답: B. Deep Plantar Artery
+
+2. Medial Plantar Artery의 깊은 가지는 어디로 가나요?
+   - A. 엄지발가락을 컨트롤하는 근육
+   - B. 발바닥의 medial 쪽에 위치한 피부
+   - C. 발바닥의 lateral 쪽에 위치한 피부
+   - D. 발등의 medial 쪽에 위치한 피부
+   - 답: A. 엄지발가락을 컨트롤하는 근육
+
+3. Lateral Plantar Artery의 끝부분은 무엇을 형성하나요?
+   - A. Superficial Plantar Arch
+   - B. Deep Plantar Arch
+   - C. 첫 번째 Dorsal Metatarsal Artery
+   - D. Arcuate Artery
+   - 답: B. Deep Plantar Arch
+
+# 발의 혈관 구조와 Plantar Fasciitis
+
+## 발의 혈관 구조
+- 발의 혈관 구조는 **Dorsal metatarsal veins**, **dorsal venous arch**, **medial marginal vein**, **lateral marginal vein**, **great saphenous vein**, **small saphenous vein** 등으로 구성되어 있습니다.
+- 이들 혈관들은 발의 도르살과 플란타르 부위에 venous network를 형성하며, 이는 다시 dorsal venous arch에 합쳐집니다.
+- Medial marginal vein은 great saphenous vein으로 연장되어 종아리로 올라가고, 반대로 lateral marginal vein은 small saphenous vein으로 연장되어 종아리의 뒤쪽으로 올라갑니다.
+
+## Plantar Fasciitis
+- **Plantar Fasciitis**는 발바닥의 plantar fascia의 염증을 의미합니다.
+- Plantar fascia는 발의 아치를 지탱하며, 체중을 분산시켜 완충 작용을 합니다.
+- 하지만, 고강도의 운동이나 부적절한 신발로 인해 충격을 받으면 inflammation이 발생할 수 있습니다.
+- 염증이 발생하면 발의 내측면과 발바닥, 즉 뒷꿈치의 바닥과 발의 내측면, Plantar Fasciitis의 내측 가장자리 부근에서 통증이 발생합니다.
+
+## Plantar Reflex
+- **Plantar Reflex**는 발바닥에서 관찰할 수 있는 반사 운동으로, 척추 신경 뿌리의 정상 여부를 검사하는 방법입니다.
+- 정상적인 반응은 발가락을 구부리는 반응을 보이지만, 비정상적인 반응으로 발가락을 펴는 반응이 나타날 수 있습니다. 이를 Babinski Sign이라고 합니다.
+
+---
+
+### 퀴즈
+
+1. Dorsal metatarsal veins는 어디로 다시 합류하는가?
+    - A. Medial marginal vein
+    - B. Lateral marginal vein
+    - C. Dorsal venous arch
+    - D. Small saphenous vein
+    - 정답: C. Dorsal venous arch
+
+2. Plantar Fasciitis는 어떤 상황에서 발생하는가?
+    - A. 고강도의 운동이나 부적절한 신발을 신을 때
+    - B. 충분한 휴식을 취하지 않을 때
+    - C. 충분한 수분 섭취를 하지 않을 때
+    - D. 올바르지 않은 자세로 서 있을 때
+    - 정답: A. 고강도의 운동이나 부적절한 신발을 신을 때
+
+3. Plantar Reflex에서 발가락을 펴는 반응이 나타나는 것을 무엇이라고 하는가?
+    - A. Plantar Fasciitis
+    - B. Babinski Sign
+    - C. Dorsal Reflex
+    - D. Lateral Reflex
+    - 정답: B. Babinski Sign
+
+# Babinski Sign에 대한 이해
+
+Babinski sign은 발가락의 특정한 반응을 나타내는 의학적 용어입니다. 이 반응은 발가락이 dorsiflexion(발등을 위로 들어올리는 움직임)을 하고, 나머지 네 개의 발가락이 서로 멀리 떨어져 펴지는 현상을 말합니다. 이러한 반응은 일반적으로 뇌 손상의 증상으로 간주됩니다.
+
+그러나, Babinski sign은 항상 비정상적인 상황을 의미하는 것은 아닙니다. 4살 미만의 어린 아이들은 발바닥을 긁었을 때, 성인과는 반대로 발가락을 펴는 반응을 보이는 것이 정상적입니다. 따라서, Babinski sign이 나타났을 때는 나이에 따라 정상적인 반응인지 아닌지를 판단해야 합니다.
+
+## 퀴즈
+
+1. Babinski sign은 어떤 반응을 나타내는가?
+    - A. 발가락이 dorsiflexion을 하고, 나머지 네 개의 발가락이 서로 멀리 떨어져 펴지는 현상
+    - B. 발가락이 plantarflexion을 하고, 나머지 네 개의 발가락이 서로 가까워지는 현상
+    - C. 발가락이 서로 붙어있는 현상
+    - D. 발가락이 서로 멀어지는 현상
+    - 답: A
+
+2. Babinski sign은 어떤 상황에서 비정상적인가?
+    - A. 4살 미만의 아이들이 발바닥을 긁었을 때 발가락을 펴는 경우
+    - B. 성인이 발바닥을 긁었을 때 발가락을 펴는 경우
+    - C. 4살 이상의 아이들이 발바닥을 긁었을 때 발가락을 펴는 경우
+    - D. 모든 경우
+    - 답: B
+
+3. Babinski sign은 어떤 상황에서 정상적인가?
+    - A. 4살 미만의 아이들이 발바닥을 긁었을 때 발가락을 펴는 경우
+    - B. 성인이 발바닥을 긁었을 때 발가락을 펴는 경우
+    - C. 4살 이상의 아이들이 발바닥을 긁었을 때 발가락을 펴는 경우
+    - D. 모든 경우
+    - 답: A
+

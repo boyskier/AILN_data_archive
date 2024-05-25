@@ -1,0 +1,453 @@
+# 강의 요약
+
+## 주제: Membrane Potential, Action Potential, Neuroscience System
+
+이번 강의에서는 Membrane Potential, Action Potential, 그리고 Neuroscience System에 대해 배웁니다. 특히, 신경과 반응에 대한 내용을 중점적으로 다룰 예정입니다.
+
+## 강의 내용
+
+1. **Membrane Potential, Action Potential**: 이 두 주제는 신경과 반응에 대한 핵심적인 개념입니다. 이를 통해 신경 세포의 작동 원리를 이해하게 됩니다.
+
+2. **Neuroscience System**: 이 부분에서는 신경계의 구조와 기능에 대해 배웁니다. 특히, 신경 세포의 Resting Membrane Potential에 초점을 맞추어 설명합니다.
+
+3. **신경 반응**: 신경 세포의 반응 속도와 이에 따른 신체 반응에 대해 설명합니다. 예를 들어, 뾰족한 것에 찔렸을 때 발생하는 감각이 어떻게 뇌까지 전달되는지, 그리고 이를 통해 우리가 아픔을 느끼는 과정을 설명합니다.
+
+4. **리플렉스**: 리플렉스는 신경 반응의 한 예로, 매우 빠른 시간에 발생하는 반응을 말합니다. 이를 통해 우리는 위험한 상황에서 신속하게 반응할 수 있습니다.
+
+## 퀴즈
+
+1. Membrane Potential과 Action Potential의 차이점은 무엇인가요?
+   - A. Membrane Potential은 신경 세포의 전기적 상태를, Action Potential은 신경 세포의 활동 상태를 나타낸다.
+   - B. Membrane Potential은 신경 세포의 활동 상태를, Action Potential은 신경 세포의 전기적 상태를 나타낸다.
+   - C. Membrane Potential과 Action Potential은 같은 개념이다.
+   - D. Membrane Potential은 신경 세포의 전기적 상태를, Action Potential은 신경 세포의 화학적 상태를 나타낸다.
+   - 답: A
+
+2. Resting Membrane Potential이란 무엇인가요?
+   - A. 신경 세포가 활동 중일 때의 전기적 상태를 나타낸다.
+   - B. 신경 세포가 휴식 중일 때의 전기적 상태를 나타낸다.
+   - C. 신경 세포가 활동 중일 때의 화학적 상태를 나타낸다.
+   - D. 신경 세포가 휴식 중일 때의 화학적 상태를 나타낸다.
+   - 답: B
+
+3. 리플렉스는 어떤 상황에서 발생하나요?
+   - A. 위험한 상황에서 신속하게 반응할 때
+   - B. 신경 세포가 활동 중일 때
+   - C. 신경 세포가 휴식 중일 때
+   - D. 신경 세포가 화학적으로 활성화될 때
+   - 답: A
+
+# 강의 요약: Neuron과 전기 신호
+
+## 1. Neuron의 구조와 기능
+- Neuron은 전기 신호를 사용하여 정보를 전달하는 세포입니다.
+- 이 신호는 neurotransmitter라는 화학물질을 통해 전달되며, neuron 내부에서는 action potential이라는 전기 신호도 사용됩니다.
+- Neuron은 cell body, axon, dendrite로 구성되어 있습니다.
+- Axon은 neuron의 정보를 전달하는 긴 돌기로, 일부 neuron에서는 1미터에 이르기도 합니다.
+
+## 2. Neuron의 다양성
+- Central nervous system의 neuron은 다양한 형태와 dendrite를 가지고 있습니다.
+- Neuron의 위치에 따라 모양과 dendrite의 형태가 다르며, synapse 구조와 개수도 다양합니다.
+- 평균적으로 neuron 하나당 몇천 개에서 몇만 개의 synapse가 존재합니다.
+
+## 3. Neuron의 전기 신호
+- Neuron은 cell 내부에 voltage를 가지고 있습니다.
+- 이 voltage는 cell마다 다르며, 일반적으로 -60mV 정도입니다.
+- 이 voltage는 neuron뿐만 아니라 muscle cell이나 cardiac cell에서도 확인할 수 있습니다.
+
+## 4. 세포의 전기 신호
+- 거의 모든 cell에서 voltage가 존재합니다.
+- 이 voltage는 -65mV로 정의되었지만, 이는 편의상 정한 것에 불과합니다.
+- 이 voltage는 AA battery의 voltage 차이인 1.5V와 비교하면 약 25분의 95% 정도입니다.
+
+---
+
+# 퀴즈
+
+1. Neuron이 정보를 전달하는 방법은 무엇인가요?
+   - A. 화학 신호
+   - B. 전기 신호
+   - C. 물리적 신호
+   - D. 모두 위의 방법으로 정보를 전달한다.
+
+2. Neuron의 어떤 부분이 정보를 전달하는 긴 돌기인가요?
+   - A. Cell body
+   - B. Dendrite
+   - C. Axon
+   - D. Synapse
+
+3. Neuron의 voltage는 대략 얼마인가요?
+   - A. -20mV
+   - B. -40mV
+   - C. -60mV
+   - D. -80mV
+
+---
+
+# 퀴즈 답안
+
+1. B. 전기 신호
+2. C. Axon
+3. C. -60mV
+# 강의 요약
+
+## 세포의 전압 차이와 크기
+
+세포는 작은 전압 차이를 유지하면서 정상적으로 작동합니다. 이 작은 전압 차이는 세포 내부의 화학 반응과 전기 신호 전달에 중요한 역할을 합니다. 이 전압 차이는 세포의 '휴식막 전위'로, 세포 내부와 외부의 이온 농도 차이로 인해 발생합니다.
+
+세포의 크기도 중요한 요소입니다. 세포의 크기는 세포 내부의 구조와 기능에 영향을 미칩니다. 작은 세포는 더 얇은 세포막을 가지며, 이는 세포 내부의 화학 물질 교환과 전기 신호 전달에 더 효율적입니다. 또한, 작은 세포는 더 많은 표면적을 가지고 있어 화학 물질의 흡수와 배출이 더 빠르게 이루어집니다.
+
+세포의 작은 전압 차이와 작은 크기는 세포의 생존과 기능에 큰 의미를 가지며, 세포 내부의 화학 반응과 전기 신호 전달에 중요한 역할을 합니다. 이러한 이유로 세포의 전압 차이와 크기는 연구와 의학 분야에서 많은 관심을 받고 있습니다.
+
+## 퀴즈
+
+1. 세포의 '휴식막 전위'는 무엇을 의미하는가?
+    - A. 세포의 크기
+    - B. 세포의 화학 반응 속도
+    - C. 세포 내부와 외부의 이온 농도 차이로 인한 전기적 차이
+    - D. 세포의 표면적
+    - 답: C
+
+2. 세포의 크기가 세포의 어떤 기능에 영향을 미치는가?
+    - A. 화학 물질의 흡수와 배출
+    - B. 전기 신호의 전달
+    - C. 세포막의 두께
+    - D. 모두 옳다
+    - 답: D
+
+3. 작은 세포의 특징은 무엇인가?
+    - A. 더 얇은 세포막을 가짐
+    - B. 더 빠른 화학 반응 속도를 가짐
+    - C. 더 많은 표면적을 가짐
+    - D. 모두 옳다
+    - 답: D
+# 강의 요약
+
+## 1. 이온 채널과 전압 변화
+전압 변화는 세포막에 있는 '이온 채널'에 영향을 미칩니다. 이 이온 채널은 특정 이온이 세포막을 통과할 수 있도록 하는 단백질입니다. 전압 변화가 일어나면, 이 이온 채널들이 열리거나 닫히게 되어, 세포 내부와 외부의 이온 농도를 조절하게 됩니다. 이는 신경세포가 신호를 전달하는 데 중요한 역할을 합니다.
+
+## 2. Resting Membrane Potential
+Resting Membrane Potential은 세포가 안정 상태에서 아무런 활동을 하지 않을 때 발생하는 막 전위를 말합니다. 이 전위는 세포막을 통해 이온들이 이동함으로써 형성됩니다. 이온 농도 차이와 이온 채널의 활동이 이를 형성하는 주요 요인입니다.
+
+## 3. 이온 농도 그라디언트와 펌프
+세포 내부와 외부의 이온 농도는 서로 다르며, 이 농도 그라디언트는 펌프의 활동에 의해 형성됩니다. 펌프는 ATP 에너지를 사용하여 이온을 세포 내부나 외부로 이동시키며, 이 과정을 통해 이온 농도 그라디언트가 형성됩니다.
+
+# 퀴즈
+
+1. 이온 채널의 역할은 무엇인가요?
+    - A. 세포의 온도를 조절한다.
+    - B. 세포의 크기를 조절한다.
+    - C. 특정 이온이 세포막을 통과할 수 있도록 한다.
+    - D. 세포의 형태를 유지한다.
+    - 정답: C
+
+2. Resting Membrane Potential이 발생하는 주요 요인 두 가지는 무엇인가요?
+    - A. 이온 농도 차이와 이온 채널의 활동
+    - B. 세포의 크기와 형태
+    - C. 세포의 온도와 압력
+    - D. 세포의 수분 함량과 산도
+    - 정답: A
+
+3. 세포 내부와 외부의 이온 농도 그라디언트는 어떻게 형성되나요?
+    - A. 세포의 자연스러운 성장과정에 의해
+    - B. 세포의 수분 함량 변화에 의해
+    - C. 펌프의 활동에 의해
+    - D. 세포의 온도 변화에 의해
+    - 정답: C
+
+# 강의 요약
+
+## 세포의 이온 채널과 펌프
+
+세포의 막에는 특정 이온들을 선택적으로 통과시키는 채널이 있습니다. 예를 들어, 소듐 채널은 소듐 이온을, 칼슘 채널은 칼슘 이온을 통과시킵니다. 이 채널들은 세포 내외의 이온 농도 차이를 유지하고 세포의 전기적 균형을 유지하는 데 중요한 역할을 합니다. 이 채널들은 활성화되거나 억제될 수 있으며, 이는 세포 내부의 신호에 따라 조절됩니다.
+
+## 이온 채널의 선택성
+
+이온 채널은 특정 이온만을 선택적으로 통과시키는 특성을 보입니다. 예를 들어, 포타슘 채널은 포타슘 이온만, 소듐 채널은 소듐 이온만 통과시킵니다. 이런 선택성은 이온 채널이 단백질로 이루어져 있기 때문에 가능합니다.
+
+## 이온 채널의 구조
+
+이온 채널은 아미노산이 모여서 만들어진 폴리펩타이드로 이루어져 있습니다. 이 폴리펩타이드는 알파 헬릭스 구조로 세포 막을 관통합니다. 알파 헬릭스는 한 턴을 만들 때마다 3.6개의 아미노산이 필요하며, 세포 막을 관통하기 위해서는 약 34개의 알파 헬릭스 턴과 9개의 아미노산이 필요합니다.
+
+# 퀴즈
+
+1. 세포의 이온 채널은 어떤 역할을 하는가?
+    - A. 세포의 이온 농도를 조절한다.
+    - B. 세포의 전기적 균형을 유지한다.
+    - C. 세포 내부의 신호를 조절한다.
+    - D. 모두 맞다.
+    - 정답: D. 모두 맞다.
+
+2. 이온 채널의 선택성은 어떻게 가능한가?
+    - A. 이온 채널이 단백질로 이루어져 있기 때문이다.
+    - B. 이온 채널이 아미노산으로 이루어져 있기 때문이다.
+    - C. 이온 채널이 알파 헬릭스 구조를 가지고 있기 때문이다.
+    - D. 이온 채널이 세포 막을 관통하기 때문이다.
+    - 정답: A. 이온 채널이 단백질로 이루어져 있기 때문이다.
+
+3. 세포 막을 관통하기 위해 필요한 알파 헬릭스 턴의 개수와 아미노산의 개수는 각각 몇 개인가?
+    - A. 알파 헬릭스 턴 34개, 아미노산 9개
+    - B. 알파 헬릭스 턴 33개, 아미노산 10개
+    - C. 알파 헬릭스 턴 35개, 아미노산 8개
+    - D. 알파 헬릭스 턴 36개, 아미노산 7개
+    - 정답: A. 알파 헬릭스 턴 34개, 아미노산 9개
+# Marmekin의 Potassium Channel 연구
+
+1998년, 연구자 Marmekin은 Potassium Channel에 대한 연구를 통해 Nobel Prize를 수상하였습니다. 그의 연구는 이 단백질의 두 가지 독특한 특성을 밝혀냈습니다.
+
+## Potassium Channel의 특성
+
+1. **높은 Turnover Rate**: Potassium Channel은 1초에 100만개에서 1억개의 이온을 통과시킬 수 있습니다. 이는 Patch Clamp 방법으로 측정되었습니다.
+
+2. **높은 Potassium 선택성**: Sodium 이온 하나가 통과할 때, Potassium 이온은 20만개가 통과할 수 있습니다. 이는 Sodium에 비해 1000배에서 10,000배 정도 높은 선택성을 가지고 있음을 의미합니다.
+
+## Potassium Channel의 작동 원리
+
+Potassium Channel의 높은 선택성은 그 3차원 구조를 통해 설명될 수 있습니다. Potassium Channel의 구조에는 Potassium 이온이 통과할 수 있는 구멍이 있습니다. 이 구멍은 Sodium 이온보다 Potassium 이온이 더 잘 통과할 수 있도록 설계되어 있습니다.
+
+## Potassium Channel의 이온 이동
+
+Potassium 이온은 세포 내부에서 세포 외부로 이동합니다. 이 이동 과정에서 Potassium 이온은 물 분자와 결합하게 되며, 이 결합 에너지는 Potassium 이온이 물 분자를 벗어나고 Potassium Channel에 결합할 수 있도록 합니다. Sodium 이온의 경우, 이 결합 에너지가 충분하지 않아 Potassium Channel에 결합하는 것이 어렵습니다.
+
+---
+
+## 퀴즈
+
+1. Marmekin의 연구는 어떤 단백질에 대한 것이었나요?
+    - A. Sodium Channel
+    - B. Potassium Channel
+    - C. Calcium Channel
+    - D. Magnesium Channel
+    - 정답: B. Potassium Channel
+
+2. Potassium Channel의 어떤 특성이 Sodium 이온보다 Potassium 이온이 더 잘 통과할 수 있게 만드나요?
+    - A. 높은 Turnover Rate
+    - B. 높은 Potassium 선택성
+    - C. 낮은 Sodium 선택성
+    - D. 낮은 Turnover Rate
+    - 정답: B. 높은 Potassium 선택성
+
+3. Potassium 이온이 Potassium Channel에 결합할 수 있도록 하는 것은 무엇인가요?
+    - A. 높은 Turnover Rate
+    - B. 높은 Potassium 선택성
+    - C. 결합 에너지
+    - D. 낮은 Sodium 선택성
+    - 정답: C. 결합 에너지
+
+# 강의 요약
+
+## Potassium 결합과 Binding Energy
+
+- Potassium은 Carbon이 카독된 결합 포켓에 결합하며, 이는 Oxygen과 Amino side chain에서 Oxygen이 Coordination된 상태로 존재합니다.
+- 이 결합은 Binding energy를 제공하지만, 이 energy는 충분하지 않아 Tetrad 염정이 상현이 됩니다.
+
+## Multipass Transmembrane Protein과 서브유닛
+
+- Tetrad 염정은 Plastic membrane에 있는 Multipass transmembrane protein으로, 4개의 동일한 서브유닛이 연결되어 있습니다.
+- 이 서브유닛들은 Potassium ion을 면밀히 통과시키며, Potassium 결합 사이트는 한 곳이 아닌 여러 곳에 존재합니다.
+
+## Selectivity와 Tunneling
+
+- Selectivity가 높고 Tunneling이 높은 이유는 Potassium 결합 사이트가 여러 곳에 존재하기 때문입니다.
+- 결합 사이트가 여러 곳에 있으면, Potassium ion은 순서대로 밀어나가는 것처럼 작용하며, 이는 수백만 개, 수천만 개, 심지어 10억 개 이상의 이온이 통과할 수 있는 힌트를 제공합니다.
+
+## Professional Channel
+
+- Professional channel은 매우 높은 Selectivity를 보여주는 분자 메커니즘을 가지고 있습니다.
+- 이 채널은 1980년대 후반부터 1990년대 중반에 등장했으며, 이후 20년 동안 다양한 종류의 Professional channel이 등장했습니다.
+- Professional channel은 가장 많은 종류의 패밀리를 보유하고 있으며, 종류가 다양하다는 점에서 클론이 될 수 있습니다.
+
+## Transmembrane Domain과 Professional Channel
+
+- Transmembrane domain이 2개, 4개, 혹은 6개 있는 것이 있으며, 이는 Professional channel의 차이를 만듭니다.
+- Professional channel은 볼트로 열리는 것, 칼슘으로 열리는 것, 리간드로 열리는 것, 그냥 열리는 것 등 다양한 방식으로 열립니다.
+
+---
+
+# 퀴즈
+
+1. Potassium이 결합하는 결합 포켓에는 어떤 원소가 카독되어 있는가?
+   - 답: Carbon
+
+2. Multipass transmembrane protein에는 몇 개의 동일한 서브유닛이 연결되어 있는가?
+   - 답: 4개
+
+3. Professional channel이 가장 많은 종류의 패밀리를 보유하고 있으며, 종류가 다양하다는 점에서 무엇이 될 수 있는가?
+   - 답: 클론
+
+# 강의 요약
+
+## 이온 채널의 다양성
+
+이 강의에서는 Potassium, Calcium, Sodium 등 다양한 이온 채널에 대해 설명하였습니다. 이들 채널은 Voltage-gated 채널이나 Ligand-gated 채널 등으로 분류될 수 있습니다. Ligand-gated 채널은 Neurotransmitter가 binding해야 열리는 채널로, Serotonin receptor channel, GABA channel, Alcohol channel, Nicotine acetylcholine 등이 이에 해당합니다.
+
+## Resting Membrane Potential의 결정 요인
+
+Resting Membrane Potential을 결정하는 두 가지 요인은 Ionic Concentration Gradient와 특정 이온 성분의 존재입니다. 이를 통해 세포 내부와 외부의 이온 농도 차이가 어떻게 전기적 힘을 생성하는지를 이해할 수 있습니다.
+
+## 이온 채널의 작동 원리
+
+이온 채널은 특정 이온만 통과하게 하는 Selective Pathway 역할을 합니다. 예를 들어, Potassium Channel은 Potassium 이온이 농도가 높은 곳에서 낮은 곳으로 이동하게 하여 전기적 힘을 생성합니다. 이 과정에서 마이너스 전하가 생성되며, 이는 전체적인 전기적 균형을 유지하는 데 중요한 역할을 합니다.
+
+# 퀴즈
+
+1. Voltage-gated 채널과 Ligand-gated 채널의 차이점은 무엇인가요?
+   - 답: Voltage-gated 채널은 전압 변화에 반응하여 열리고 닫히는 반면, Ligand-gated 채널은 특정 물질(Ligand)이 결합할 때 열리고 닫힙니다.
+
+2. Resting Membrane Potential을 결정하는 두 가지 요인은 무엇인가요?
+   - 답: Ionic Concentration Gradient와 특정 이온 성분의 존재입니다.
+
+3. Potassium Channel이 어떻게 전기적 힘을 생성하는지 설명해보세요.
+   - 답: Potassium Channel은 Potassium 이온이 농도가 높은 곳에서 낮은 곳으로 이동하게 하여 전기적 힘을 생성합니다. 이 과정에서 마이너스 전하가 생성되며, 이는 전체적인 전기적 균형을 유지하는 데 중요한 역할을 합니다.
+# 평형(Equilibrium)과 포텐셜(Potential)
+
+평형은 시스템 내부의 상태가 변하지 않는 상태를 의미합니다. 이 상태에서는 두 가지 포텐셜을 측정할 수 있습니다.
+
+## 1. 평형 포텐셜(Equilibrium Potential)
+
+평형 포텐셜은 'EK'로 표시됩니다. 이는 시스템 내부의 특정 상태를 나타냅니다.
+
+## 2. 박테리아 평형 포텐셜(Bacterial Equilibrium Potential)
+
+박테리아 평형 포텐셜은 'EBacteria'로 표시됩니다. 이 역시 시스템 내부의 특정 상태를 나타냅니다.
+
+---
+
+### 퀴즈:
+
+1. 평형(Equilibrium)이란 무엇을 의미하는가?
+    - A. 시스템 내부의 상태가 변하는 상태
+    - B. 시스템 내부의 상태가 변하지 않는 상태
+    - C. 시스템 외부의 상태가 변하는 상태
+    - D. 시스템 외부의 상태가 변하지 않는 상태
+    - 정답: B
+
+2. 평형 포텐셜(Equilibrium Potential)은 어떤 기호로 표시되는가?
+    - A. EBacteria
+    - B. EK
+    - C. EP
+    - D. EQ
+    - 정답: B
+
+3. 박테리아 평형 포텐셜(Bacterial Equilibrium Potential)은 어떤 기호로 표시되는가?
+    - A. EBacteria
+    - B. EK
+    - C. EP
+    - D. EQ
+    - 정답: A
+
+# 세포의 전기적 활동: 막 전위와 세포막
+
+세포의 전기적 활동은 **막 전위(Membrane potential)**와 **세포막(Cell membrane)**의 상호작용에 의해 결정됩니다.
+
+## 막 전위 (Membrane potential)
+
+막 전위는 세포 내부와 외부 사이의 전기적인 차이를 의미합니다. 이 전기적 차이는 세포의 활동에 중요한 역할을 합니다. 특히 신경세포와 근육세포에서는 막 전위의 변화가 신호 전달의 기본 메커니즘을 형성합니다.
+
+## 세포막 (Cell membrane)
+
+세포막은 세포를 둘러싸고 있는 얇은 막을 말합니다. 이 막은 세포 내부와 외부를 구분하며, 세포 내부의 환경을 외부 환경으로부터 보호합니다. 또한 세포막은 세포와 외부 환경 사이의 물질 교환을 조절하며, 막 전위를 유지하는데 중요한 역할을 합니다.
+
+---
+
+### 퀴즈
+
+1. 막 전위는 무엇을 의미하는가?
+    - A. 세포막의 두께
+    - B. 세포 내부와 외부 사이의 전기적인 차이
+    - C. 세포의 크기
+    - D. 세포의 수명
+    - 정답: B
+
+2. 세포막의 주요 기능은 무엇인가?
+    - A. 세포의 크기를 결정하는 것
+    - B. 세포 내부와 외부를 구분하고, 세포 내부의 환경을 보호하는 것
+    - C. 세포의 에너지를 생성하는 것
+    - D. 세포의 분열을 조절하는 것
+    - 정답: B
+
+3. 막 전위의 변화가 신호 전달의 기본 메커니즘을 형성하는 세포는 무엇인가?
+    - A. 피부세포
+    - B. 신경세포와 근육세포
+    - C. 간세포
+    - D. 뼈세포
+    - 정답: B
+
+# 강의 요약
+
+## 내부 및 외부 이온 농도와 전위의 관계
+
+강의에서는 세포 내부와 외부의 이온 농도가 전위에 어떻게 영향을 미치는지에 대해 설명하였습니다. 내부가 100이고 외부가 10일 때, 로우(low) 10이면 -61 millivolt, 외부가 5와 150일 때는 -90 millivolt가 됩니다. Sodium의 경우는 +65 millivolt입니다. 이는 농도가 바뀌기 때문입니다. 
+
+## Resting Potential
+
+Resting Potential은 생물막 사이에 두는 Potential Sodium, Calcium, Chloride에 대한 농도 경사를 갖고 계산됩니다. Calcium의 Resting Potential은 +20 millivolt, Sodium는 +60 millivolt, Chloride는 -90 몇, Potential도 -90 몇입니다. 신경세포에서의 Resting Potential은 -65 정도입니다.
+
+## Depolarization과 Hyperpolarization
+
+Depolarization은 resting membrane potential이 마이너스 65 millivolt에서 덜 마이너스 쪽으로 가는 것을 의미하며, 더 마이너스 쪽으로 가는 것을 hyperpolarization이라고 부릅니다. 
+
+## Potassium 농도와 Resting Membrane Potential
+
+세포 외부의 Potassium 농도를 5mm에서 10mm로 늘리면 Resting Membrane Potential이 Depolarization됩니다. 반대로 Potassium 농도를 세포 외부의 5mm에서 2mm로 줄인다면, -20mm까지 Depolarization이 발생합니다. 이는 Potassium 농도와 Resting Membrane Potential이 서로 관련되어 있기 때문입니다. 
+
+## Potassium과 Sodium 농도의 기여도
+
+Resting Membrane Potential이 결정될 때는, Potassium 농도와 Sodium 농도의 기여도에 따라 결정됩니다. Potassium 농도의 기여도가 크지만, Sodium 농도의 기여도도 무시할 수 없습니다.
+
+# 퀴즈
+
+1. Resting Potential은 어떤 이온에 대한 농도 경사를 갖고 계산되나요?
+    - A. Sodium
+    - B. Calcium
+    - C. Chloride
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음
+
+2. 세포 외부의 Potassium 농도를 5mm에서 10mm로 늘리면 Resting Membrane Potential이 어떻게 변하나요?
+    - A. Depolarization됨
+    - B. Hyperpolarization됨
+    - C. 변화 없음
+    - D. 더욱 안정화됨
+    - 정답: A. Depolarization됨
+
+3. Resting Membrane Potential이 결정될 때 가장 중요한 이온 농도는 무엇인가요?
+    - A. Sodium
+    - B. Calcium
+    - C. Chloride
+    - D. Potassium
+    - 정답: D. Potassium
+
+# 강의 요약
+
+## 휴식의 중요성
+
+강의에서는 휴식의 중요성에 대해 강조하였습니다. 변화가 거의 없는 상황에서는 계산할 필요가 없다는 것을 설명하였습니다. 이는 휴식이 우리의 뇌에게 필요한 시간을 제공하여, 학습한 내용을 정리하고 새로운 정보를 효과적으로 처리할 수 있게 돕는다는 점을 강조하였습니다.
+
+## 다음 강의 계획
+
+다음 강의에서는 휴식 후의 실습을 통해 설명할 계획이라고 밝혔습니다. 이전에 학습한 내용이 많기 때문에, 이를 바탕으로 실습을 진행할 예정입니다.
+
+---
+
+# 퀴즈
+
+1. 강의에서 강조한 것은 무엇인가요?
+    - A. 계산의 중요성
+    - B. 휴식의 중요성
+    - C. 실습의 중요성
+    - D. 변화의 중요성
+
+2. 다음 강의에서는 어떤 내용을 다룰 예정인가요?
+    - A. 새로운 이론 소개
+    - B. 휴식 후의 실습
+    - C. 변화에 대한 설명
+    - D. 계산 방법에 대한 설명
+
+3. 휴식이 우리의 뇌에게 어떤 도움을 주는가요?
+    - A. 새로운 정보를 빠르게 처리하는 능력
+    - B. 학습한 내용을 정리하는 능력
+    - C. 더 많은 정보를 저장하는 능력
+    - D. A와 B
+
+**답: 1. B, 2. B, 3. D**

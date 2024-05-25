@@ -1,0 +1,748 @@
+# Human Physiology: Membrane Transport
+
+## 개요
+- 세포막은 세포 내외의 물질 이동을 조절하여 세포 내외의 항상성을 유지하는 역할을 합니다.
+- Membrane Transport 시스템은 크게 Passive Transport, Active Transport, Vesicular Transport로 구분할 수 있습니다.
+
+## Passive Transport와 Active Transport
+- 세포막을 구성하는 이중층 lipid bilayer에서 물질의 이동에 어떤 문제점이 있는지 살펴보겠습니다.
+- lipid bilayer를 통과하는 물질들 중에서 어떤 것은 통과할 수 있고 어떤 것은 통과할 수 없는 경우가 있습니다.
+- 이산화탄소, 질소, 산소와 같은 기체는 세포막 lipid bilayer를 쉽게 통과하여 농도 경사에 따라 이동할 수 있습니다.
+- Ethanol이나 Urea와 같은 작은 분자량의 non-electrolyte, uncharged polar molecule입니다. non-electrolyte들도 지질층을 잘 통과합니다.
+- 물이나 같은 non-electrolyte이지만 분자량이 비교적 큰 Glucose나 Proteins와 같은 non-electrolyte들은 지질층을 통과하지 못합니다.
+- 이러한 충전을 가진 물질들이 세포막을 통과하기 위해서는 세포막 내에 존재하는 특정 단백질 transporter를 이용하여 운반되거나, transporter 단백질에 의해 운반됩니다.
+- 이때, 이러한 충전을 가진 물질들의 운반은 electrochemical gradient에 따라 이동 방향이 결정됩니다.
+- 따라서, membrane transport system은 passive transport system과 active transport system으로 구분됩니다. passive transport system은 자발적인 운반 과정을 의미하며, active transport system은 에너지를 필요로 하는 과정입니다.
+
+## 퀴즈
+1. Membrane Transport 시스템은 어떤 것들로 구분할 수 있나요?
+   - Passive Transport, Active Transport, Vesicular Transport
+2. 세포막 lipid bilayer를 쉽게 통과하여 농도 경사에 따라 이동할 수 있는 기체는 무엇인가요?
+   - 이산화탄소, 질소, 산소
+3. 충전을 가진 물질들이 세포막을 통과하기 위해 필요한 것은 무엇인가요?
+   - 세포막 내에 존재하는 특정 단백질 transporter를 이용하여 운반되거나, transporter 단백질에 의해 운반됩니다.
+## 강의 요약
+
+이 강의에서는 세포 내부의 물질 이동 방식에 대해 설명하였습니다. 이는 크게 세 가지로 나눌 수 있습니다.
+
+1. **Membrane Transport System**: 이는 Carrier Protein이 필요한 경우와 필요하지 않은 경우로 나눌 수 있습니다. 필요하지 않은 경우에는 Lipid Bilayer를 통해 이동되며, 이는 Simple Diffusion에 의해 이루어집니다. 반면, Facilitated Diffusion은 Membrane Protein을 통과하여 이동되는 방식입니다.
+
+2. **Active Transport System**: 이는 농도 경사의 역행에서 이동되어야 하는 경우입니다. 이를 위해 Transporter Protein이 필요하며, ATP Hydrolysis를 통해 에너지를 얻어 사용합니다. 이는 Primary Active Transport 또는 다른 물질의 농도 경사의 순응에서 생기는 에너지를 이용하여 이동시키는 Secondary Active Transport로 구분할 수 있습니다.
+
+3. **Vesicular Transport System**: 이는 세포 내부의 물질을 세포 외부로 이동시키는 방식입니다. 이는 크게 endocytosis와 exocytosis로 나뉩니다. Endocytosis는 세포 바깥쪽에 있는 물질을 함입시켜 membrane vesicle로 감싼 다음 세포 안으로 끌어들이는 과정을 말합니다. Exocytosis는 반대로 세포 안에 있던 물질을 lipid bilayer 봉투에 담아 세포 바깥쪽으로 내보내는 과정입니다.
+
+## 퀴즈
+
+1. **Membrane Transport System에서 Carrier Protein이 필요하지 않은 경우에는 어떤 방식으로 물질이 이동하나요?**
+    - A. Facilitated Diffusion
+    - B. Simple Diffusion
+    - C. Active Transport
+    - D. Vesicular Transport
+    - 답: B. Simple Diffusion
+
+2. **Active Transport System에서 농도 경사의 역행에서 이동되어야 하는 경우, 어떤 방식으로 에너지를 얻나요?**
+    - A. ATP Hydrolysis
+    - B. Facilitated Diffusion
+    - C. Simple Diffusion
+    - D. Ion Channel
+    - 답: A. ATP Hydrolysis
+
+3. **세포 바깥쪽에 있는 물질을 함입시켜 membrane vesicle로 감싼 다음 세포 안으로 끌어들이는 과정을 무엇이라고 하나요?**
+    - A. Exocytosis
+    - B. Endocytosis
+    - C. Active Transport
+    - D. Passive Transport
+    - 답: B. Endocytosis
+
+# 패시브 트랜스포트 시스템: Simple Diffusion
+
+## 개요
+- Simple Diffusion은 **Lipid Bilayer를 통해 세포막 안과 밖의 농도 경사**가 있을 때, 세포막을 통해 물질이 이동하는 패시브 트랜스포트 시스템입니다.
+- 이 이동은 양쪽의 세포막을 경계로 한 물질의 농도 경사가 없을 때까지 계속됩니다. 이를 **Equilibrium 상태**라고 합니다.
+- Simple Diffusion은 **Fick's First Law**로 설명됩니다.
+
+## Fick's First Law
+- Ion의 이동량은 단위 시간 단위 면적당 얼마나 많은 ion이 이동했는지를 나타내는 **flux**로 표시됩니다.
+- 이 flux는 ion의 **diffusion coefficient**와 통과하는 cell membrane의 면적에 비례합니다.
+- 또한, cell membrane을 경계로 한 양쪽 ion 농도의 경사에 비례하여 flux가 결정됩니다.
+- 분모로는 cell membrane의 두께가 들어가는데, 이는 cell membrane을 경계로 안팎으로 이동할 때 이동 거리에 해당합니다.
+
+## Diffusion Coefficient
+- Diffusion Coefficient는 특정한 용매 안에서 용질이 얼마나 자유롭게 움직이는지를 나타냅니다.
+- 이 값은 용매의 종류에 따라 다르며, 물이나 기름과 같은 용매에서의 확산계수를 구분합니다.
+- 확산계수는 **Stokes-Einstein 방정식**에 의해 결정되며, Boltzmann Constant와 Absolute Temperature에 비례하고, 반지름과 용매의 점성에 반비례합니다.
+
+---
+
+## 퀴즈
+
+1. Simple Diffusion은 어떤 상황에서 일어나는 패시브 트랜스포트 시스템인가요?
+    - A. 세포막 안과 밖의 농도 경사가 없을 때
+    - B. 세포막 안과 밖의 농도 경사가 있을 때
+    - C. 세포막 안과 밖의 온도 경사가 있을 때
+    - D. 세포막 안과 밖의 온도 경사가 없을 때
+    - 정답: B
+
+2. Fick's First Law에 따르면, flux는 어떤 요소에 비례하나요?
+    - A. Ion의 diffusion coefficient와 통과하는 cell membrane의 면적
+    - B. Ion의 diffusion coefficient와 cell membrane의 두께
+    - C. Cell membrane의 면적과 cell membrane의 두께
+    - D. Ion의 diffusion coefficient와 ion의 농도
+    - 정답: A
+
+3. Diffusion Coefficient는 어떤 방정식에 의해 결정되나요?
+    - A. Newton's Second Law
+    - B. Einstein's Theory of Relativity
+    - C. Stokes-Einstein Equation
+    - D. Schrodinger Equation
+    - 정답: C
+
+# 강의 요약
+
+## 확산 계수(Diffusion Coefficient)
+
+- Non-electrolyte의 분자량이 작을수록, 온도가 높을수록, 용매의 점성이 낮을수록 확산 계수가 커집니다.
+- 기름과 같은 용매에서는 확산 계수가 더 큽니다.
+
+## 세포막을 통한 이동
+
+- Non-electrolyte는 물에서 lipid bilayer로, 그리고 다시 lipid bilayer에서 반대쪽 물로 이동합니다.
+- 이동 과정은 서로 다른 용매를 통해 이루어집니다.
+
+## Partition Coefficient
+
+- 지방에 잘 녹는 물질일수록 partition coefficient가 높습니다.
+- Partition coefficient가 높을수록 지방 용해도가 높다고 볼 수 있습니다.
+
+## Permeability Coefficient
+
+- 투과량을 나타내며, Membrane Bilayer를 통과하는 능력을 의미합니다.
+- 지방 용액의 Permeability Coefficient가 높을수록 투과도 또는 이동되는 양이 많아집니다.
+
+# 퀴즈
+
+1. Non-electrolyte의 분자량이 클수록 확산 계수는 어떻게 변하나요?
+    - A. 커진다
+    - B. 작아진다
+    - C. 변하지 않는다
+    - D. 분자량과 무관하다
+    - 정답: B. 작아진다
+
+2. Partition Coefficient가 높은 물질은 어떤 특성을 가지나요?
+    - A. 물에 잘 녹는다
+    - B. 지방에 잘 녹는다
+    - C. 물과 지방 모두에 잘 녹는다
+    - D. 물과 지방 모두에 잘 녹지 않는다
+    - 정답: B. 지방에 잘 녹는다
+
+3. Permeability Coefficient가 높다는 것은 무엇을 의미하나요?
+    - A. 투과도가 낮다
+    - B. 투과도가 높다
+    - C. 투과도와 무관하다
+    - D. 투과도를 결정하지 않는다
+    - 정답: B. 투과도가 높다
+
+# 강의 요약
+
+## 흡수와 세포 구조
+
+흡수는 penetration frequency, partition coefficient, diffusion coefficient, membrane의 두께 등의 요소에 의해 결정되며, 이들은 주어진 조건에서는 상수로 간주될 수 있습니다. 그러나 우리 몸은 이러한 요소들을 조절하여 단위 시간당 더 많은 물질을 흡수하기 위해 노력합니다. 이를 위해 우리 몸은 세포막을 통과하는 단위 시간당 양을 높이기 위해 다양한 작업을 수행합니다. 이는 세포의 구조를 발달시키거나 세포막 면적을 증가시키는 작업을 포함합니다.
+
+## Facilitated Diffusion
+
+Facilitated diffusion은 특정한 protein이나 channel을 통해 이루어지며, 이 protein이나 channel은 물질의 운반을 도와줍니다. 이는 simple diffusion과는 달리 선택적 운반을 가능하게 합니다. 또한, facilitated diffusion은 simple diffusion보다 빠르게 이루어질 수 있습니다. 이는 facilitated diffusion을 통해 운반되는 물질이 더 빠르게 통과할 수 있기 때문입니다.
+
+## Simple Diffusion vs Facilitated Diffusion
+
+Simple diffusion에 비해서 facilitated diffusion은 membrane에 있는 transporter protein을 경유해서 이동하며, 이 이동되는 양을 그래프로 나타내면 hyperbolic하게 나타납니다. 이는 transporter protein과 마치 enzyme과 substrate의 관계처럼 이동하기 때문입니다. 따라서 transporter protein은 여러 개의 binding site를 가지고 있어야 hyperbolic한 곡선이 잘 나타납니다. 이렇게 enzyme reaction과 유사한 방식으로 이동되기 때문에 transport rate가 simple diffusion에 비해 훨씬 빠릅니다.
+
+# 퀴즈
+
+1. 흡수를 결정하는 네 가지 요소는 무엇인가요?
+   - A. Penetration frequency, Partition coefficient, Diffusion coefficient, Membrane의 두께
+   - B. Penetration frequency, Partition coefficient, Diffusion coefficient, Membrane의 면적
+   - C. Penetration frequency, Partition coefficient, Diffusion coefficient, Membrane의 구조
+   - D. Penetration frequency, Partition coefficient, Diffusion coefficient, Membrane의 농도
+   - 정답: A
+
+2. Facilitated diffusion과 simple diffusion의 주요 차이점은 무엇인가요?
+   - A. Facilitated diffusion은 선택적 운반을 가능하게 하고, 더 빠른 운반 속도를 가진다.
+   - B. Facilitated diffusion은 선택적 운반을 가능하게 하지만, 더 느린 운반 속도를 가진다.
+   - C. Facilitated diffusion은 선택적 운반을 가능하게 하지 않고, 더 빠른 운반 속도를 가진다.
+   - D. Facilitated diffusion은 선택적 운반을 가능하게 하지 않고, 더 느린 운반 속도를 가진다.
+   - 정답: A
+
+3. Facilitated diffusion에서 transporter protein의 역할은 무엇인가요?
+   - A. Transporter protein은 물질의 운반을 도와준다.
+   - B. Transporter protein은 물질의 운반을 방해한다.
+   - C. Transporter protein은 물질의 운반에 영향을 주지 않는다.
+   - D. Transporter protein은 물질의 운반을 느리게 한다.
+   - 정답: A
+
+# 강의 요약
+
+## Facilitated Diffusion과 Saturation 현상
+
+Facilitated diffusion은 특정 protein을 통해 물질의 이동이 이루어지는 현상입니다. 이 protein 안에는 non-electrolyte의 binding site가 있어 saturation 현상이 나타납니다. 농도 경사가 어느 정도 높아지면 binding site가 포화되어 이동 속도가 더 이상 증가하지 않는 최대 상태에 이르게 됩니다. 이동시키는 non-electrolyte의 특정한 종류만을 이동시키는 specificity을 보입니다.
+
+## Osmosis와 Hypo-osmotic Solution
+
+Osmosis는 cell membrane을 통해 물과 다른 물질들이 세포 안으로 이동하는 현상을 말합니다. 이 실험에서는 osmotic pressure의 차이에 의해 세포 바깥쪽에서 세포 안으로 물이 들어와서 개구리 알의 볼륨이 커지다가 cell membrane이 터지는 현상이 관찰되었습니다. 이는 Facilitative diffusion의 한 형태로 볼 수 있습니다.
+
+## Aquaporin
+
+"Aquaporin"이라는 gene은 결국 물을 이동시키는 protein을 coding하는 gene입니다. 이 Aquaporin은 세포막을 통해 물이 이동되는 채널로 작용하며, 세포막에 발현되는 Aquaporin protein의 양을 조절하거나 물의 이동을 pH에 따라 조절함으로써 세포가 물의 이동을 조절하는 기능을 가지고 있습니다.
+
+# 퀴즈
+
+1. Facilitated diffusion에서 saturation 현상이 나타나는 이유는 무엇인가요?
+   - A. 물질의 이동 속도가 빠르기 때문입니다.
+   - B. Protein 안에 non-electrolyte의 binding site가 포화되기 때문입니다.
+   - C. 물질의 농도가 높아지기 때문입니다.
+   - D. 물질의 이동 속도가 느려지기 때문입니다.
+   - 정답: B
+
+2. Osmosis는 어떤 현상을 설명하는 용어인가요?
+   - A. 물질의 이동 속도가 빠르기 때문입니다.
+   - B. 세포 안으로 물과 다른 물질들이 이동하는 현상입니다.
+   - C. 물질의 농도가 높아지기 때문입니다.
+   - D. 물질의 이동 속도가 느려지기 때문입니다.
+   - 정답: B
+
+3. Aquaporin의 역할은 무엇인가요?
+   - A. 물질의 이동 속도를 빠르게 하는 것입니다.
+   - B. 세포막을 통해 물이 이동되는 채널로 작용하는 것입니다.
+   - C. 물질의 농도를 높이는 것입니다.
+   - D. 물질의 이동 속도를 느리게 하는 것입니다.
+   - 정답: B
+
+# Human Physiology: Membrane Transport
+
+## 개요
+이번 강의에서는 세포막을 통한 물질 이동, 즉 Membrane Transport에 대해 다룹니다. 세포막은 세포 내외의 물질 이동을 조절하여 세포 내외의 항상성을 유지하는 역할을 합니다. Membrane Transport 시스템은 크게 Passive Transport, Active Transport, Vesicular Transport로 구분됩니다.
+
+## 세포막을 통과하는 물질들
+세포막을 구성하는 이중층 lipid bilayer에서 물질의 이동에는 문제점이 있습니다. 이산화탄소, 질소, 산소와 같은 기체는 세포막 lipid bilayer를 쉽게 통과하여 농도 경사에 따라 이동할 수 있습니다. Ethanol이나 Urea와 같은 작은 분자량의 non-electrolyte, uncharged polar molecule도 지질층을 잘 통과합니다. 그러나 물이나 같은 non-electrolyte이지만 분자량이 비교적 큰 Glucose나 Proteins와 같은 non-electrolyte들은 지질층을 통과하지 못합니다.
+
+## 이동 방식: Diffusion
+지질층을 통과하는 non-electrolyte나 가스들의 이동 방식은 바로 diffusion입니다. 이 물질들은 hydrophobic하기 때문에 즉, 소수성 물질들이기 때문에 지질층을 쉽게 통과할 수 있습니다.
+
+## 지질층을 통과하지 못하는 물질들
+Potassium, Magnesium, Calcium, Chloride, Bicarbonate, Phosphate, Sodium 등 이온들은 비록 분자량은 앞서 언급한 non-electrolyte들보다 훨씬 작지만 지질층을 통과하지 못하는 이유는 바로 이들 이온이 전하를 띄고 있기 때문입니다. 이와 같이, 큰 분자량을 가진 아미노산, ATP, 단백질, 핵산 등도 세포막을 통과할 수 없습니다.
+
+## 이동 방식: Transporter를 이용한 운반
+이러한 충전을 가진 물질들이 세포막을 통과하기 위해서는 세포막 내에 존재하는 특정 단백질 transporter를 이용하여 운반되거나, transporter 단백질에 의해 운반됩니다. 이때, 이러한 충전을 가진 물질들의 운반은 electrochemical gradient에 따라 이동 방향이 결정됩니다.
+
+## Membrane Transport System
+Membrane transport system은 passive transport system과 active transport system으로 구분됩니다. passive transport system은 자발적인 운반 과정을 의미하며, active transport system은 에너지를 필요로 하는 과정입니다.
+
+---
+
+## 퀴즈
+
+1. Membrane Transport 시스템은 어떤 것들로 구분될 수 있는가?
+    - A. Passive Transport, Active Transport, Vesicular Transport
+    - B. Passive Transport, Active Transport, Diffusion Transport
+    - C. Passive Transport, Active Transport, Osmosis Transport
+    - D. Passive Transport, Active Transport, Facilitated Transport
+    - 정답: A
+
+2. 지질층을 통과하지 못하는 물질들의 예시로 올바르지 않은 것은?
+    - A. Potassium
+    - B. Ethanol
+    - C. ATP
+    - D. Sodium
+    - 정답: B
+
+3. Passive Transport System과 Active Transport System의 차이점은 무엇인가?
+    - A. Passive는 에너지를 필요로 하고, Active는 에너지를 필요로 하지 않는다.
+    - B. Passive는 에너지를 필요로 하지 않고, Active는 에너지를 필요로 한다.
+    - C. Passive는 물질의 이동 방향을 결정하고, Active는 이동 방향을 결정하지 않는다.
+    - D. Passive는 물질의 이동 방향을 결정하지 않고, Active는 이동 방향을 결정한다.
+    - 정답: B
+
+# 강의 요약
+
+## 세포 내 운송 시스템
+
+세포 내 운송 시스템은 크게 세 가지로 나눌 수 있습니다.
+
+1. **Passive Transport System**: 에너지를 사용하지 않고 물질을 이동시키는 시스템입니다. 이는 다시 두 가지로 나눌 수 있습니다.
+    - **Simple Diffusion**: 에너지 경사나 농도 경사에 순응하여 물질이 이동하는 방식입니다.
+    - **Facilitated Diffusion**: 막 단백질을 통과하여 물질이 이동하는 방식입니다. 이에는 Aquaporin, Ion channel, Uniporter 등이 포함됩니다.
+
+2. **Active Transport System**: 에너지를 사용하여 물질을 이동시키는 시스템입니다. 이는 다시 두 가지로 나눌 수 있습니다.
+    - **Primary Active Transport**: ATP를 가수분해하여 에너지를 얻는 방식입니다. 이에는 Ion pump, ABC superfamily 등이 포함됩니다.
+    - **Secondary Active Transport**: 다른 물질의 농도 경사의 순응에서 생기는 에너지를 이용하여 물질을 이동시키는 방식입니다. 이에는 cotransporter와 exchanger가 포함됩니다.
+
+3. **Vesicular Transport System**: 세포 내부와 외부 사이의 물질 이동을 담당하는 시스템입니다. 이는 다시 두 가지로 나눌 수 있습니다.
+    - **Endocytosis**: 세포 외부의 물질을 세포 내부로 이동시키는 과정입니다.
+    - **Exocytosis**: 세포 내부의 물질을 세포 외부로 이동시키는 과정입니다.
+    - **Transcytosis**: Endocytosis와 Exocytosis가 동시에 일어나는 현상입니다.
+
+## 퀴즈
+
+1. Passive Transport System에서 에너지 경사나 농도 경사에 순응하여 물질이 이동하는 방식은 무엇인가요?
+    - A. Simple Diffusion
+    - B. Facilitated Diffusion
+    - C. Primary Active Transport
+    - D. Secondary Active Transport
+    - 답: A. Simple Diffusion
+
+2. ATP를 가수분해하여 에너지를 얻는 Active Transport System은 무엇인가요?
+    - A. Simple Diffusion
+    - B. Facilitated Diffusion
+    - C. Primary Active Transport
+    - D. Secondary Active Transport
+    - 답: C. Primary Active Transport
+
+3. 세포 외부의 물질을 세포 내부로 이동시키는 Vesicular Transport System은 무엇인가요?
+    - A. Endocytosis
+    - B. Exocytosis
+    - C. Transcytosis
+    - D. None of the above
+    - 답: A. Endocytosis
+
+# 패시브 트랜스포트 시스템: Simple Diffusion
+
+## 개요
+- Simple Diffusion은 **Lipid Bilayer를 통해 세포막 안과 밖의 농도 경사**가 있을 때, 세포막을 통해 물질이 이동하는 패시브 트랜스포트 시스템입니다.
+- 이 이동은 양쪽의 세포막을 경계로 한 물질의 농도 경사가 없을 때까지 계속됩니다. 이를 **Equilibrium 상태**라고 합니다.
+- Simple Diffusion은 **Fick's First Law**로 설명됩니다.
+
+## Flux와 Diffusion Coefficient
+- **Flux**는 cell membrane을 통한 ion의 이동량을 나타냅니다. 이는 ion의 diffusion coefficient와 통과하는 cell membrane의 면적, 그리고 cell membrane을 경계로 한 양쪽 ion 농도의 경사에 비례합니다.
+- **Diffusion Coefficient**는 특정한 용매 안에서 용질이 얼마나 자유롭게 움직이는지를 나타냅니다. 이 값은 용매의 종류에 따라 다르며, 물이나 기름과 같은 용매에서의 확산계수를 구분합니다.
+
+## Stokes-Einstein 방정식
+- 확산계수는 **Stokes-Einstein 방정식**에 의해 결정되며, Boltzmann Constant와 Absolute Temperature에 비례하고, 반지름과 용매의 점성에 반비례합니다.
+
+---
+
+## 퀴즈
+
+1. Simple Diffusion이란 무엇인가요?
+    - A. 세포막을 통해 물질이 이동하는 패시브 트랜스포트 시스템
+    - B. 세포막을 통해 물질이 이동하지 않는 패시브 트랜스포트 시스템
+    - C. 세포막을 통해 물질이 이동하는 액티브 트랜스포트 시스템
+    - D. 세포막을 통해 물질이 이동하지 않는 액티브 트랜스포트 시스템
+    - 정답: A
+
+2. Flux는 어떤 요소들에 비례하는가요?
+    - A. ion의 diffusion coefficient와 통과하는 cell membrane의 면적
+    - B. cell membrane을 경계로 한 양쪽 ion 농도의 경사
+    - C. A와 B 모두
+    - D. A와 B 모두 아님
+    - 정답: C
+
+3. Stokes-Einstein 방정식에 의해 결정되는 것은 무엇인가요?
+    - A. Flux
+    - B. Diffusion Coefficient
+    - C. Equilibrium 상태
+    - D. Fick's First Law
+    - 정답: B
+
+# 강의 요약
+
+## 확산 계수(Diffusion Coefficient)
+
+- Non-electrolyte의 분자량이 작을수록, 온도가 높을수록, 용매의 점성이 낮을수록 확산 계수가 커집니다.
+- 기름과 같은 용매에서는 확산 계수가 더 큽니다.
+
+## 세포막을 통한 이동
+
+- Non-electrolyte는 물에서 lipid bilayer로, 그리고 다시 lipid bilayer에서 물로 이동합니다.
+- 이동 과정은 서로 다른 용매를 통해 이루어집니다.
+
+## Partition Coefficient
+
+- 물질이 지방에 잘 녹을수록 partition coefficient가 높습니다.
+- Partition coefficient가 높을수록 지방 용해도가 높습니다.
+
+## Permeability Coefficient
+
+- 투과량을 나타내며, 세포막을 통과하는 능력을 의미합니다.
+- 지방 용액의 Permeability Coefficient가 높을수록 투과도 또는 이동되는 양이 많아집니다.
+
+# 퀴즈
+
+1. Non-electrolyte의 분자량이 작을수록 확산 계수는 어떻게 변하나요?
+    - A. 커진다
+    - B. 작아진다
+    - C. 변하지 않는다
+    - D. 분자량과 무관하다
+    - 정답: A
+
+2. Partition Coefficient가 높을수록 어떤 특성이 높아지나요?
+    - A. 지방 용해도
+    - B. 물 용해도
+    - C. 확산 계수
+    - D. 분자량
+    - 정답: A
+
+3. Permeability Coefficient는 무엇을 나타내나요?
+    - A. 확산 계수
+    - B. 분자량
+    - C. 투과량
+    - D. 용매의 점성
+    - 정답: C
+
+# 강의 요약
+
+## 흡수와 세포 구조
+
+흡수는 세포막을 통과하는 물질의 양을 결정하는 중요한 과정입니다. 이 과정은 partition coefficient, diffusion coefficient, membrane의 두께 등 네 가지 요소에 의해 결정되며, 이들은 모두 상수로 간주될 수 있습니다. 그러나 우리 몸은 이러한 요소들을 조절하여 단위 시간당 더 많은 물질을 흡수하기 위해 노력합니다. 이를 위해 우리 몸은 세포막을 통과하는 단위 시간당 양을 높이기 위해 다양한 작업을 수행합니다. 이는 세포의 구조를 발달시키거나 membrane area를 증가시키는 작업을 통해 이루어집니다.
+
+## Facilitated Diffusion
+
+Facilitated diffusion은 simple diffusion과는 다르게, 특정한 protein이나 channel을 통해 이루어지며, 이 protein이나 channel은 물질의 운반을 도와줍니다. 이는 simple diffusion과는 달리 선택적 운반을 가능하게 합니다. 또한, facilitated diffusion은 simple diffusion보다 빠르게 이루어질 수 있습니다. 이는 facilitated diffusion을 통해 운반되는 물질이 더 빠르게 통과할 수 있기 때문입니다.
+
+## Simple Diffusion vs Facilitated Diffusion
+
+Simple diffusion에 비해서 facilitated diffusion은 membrane에 있는 transporter protein을 경유해서 이동하기 때문에 이 이동되는 양을 그래프로 나타내면 다음과 같이 됩니다. Simple diffusion은 세포막 경계를 그룹으로 여기는 코스를 따르지만, 세포막 경계의 농도 차이가 클수록 facilitated diffusion은 계속해서 증가합니다. 이와 달리 facilitated diffusion은 membrane protein transporter를 경유해서 이동하기 때문에 이동 곡선이 hyperbolic하게 나타납니다. 이러한 hyperbolic한 곡선은 enzyme reaction에서 볼 수 있는 곡선과 유사합니다.
+
+# 퀴즈
+
+1. 흡수를 결정하는 네 가지 요소는 무엇인가요?
+   - A. Partition coefficient, Diffusion coefficient, Membrane의 두께, Membrane의 area
+   - B. Partition coefficient, Diffusion coefficient, Membrane의 두께, Cell의 크기
+   - C. Partition coefficient, Diffusion coefficient, Cell의 크기, Cell의 형태
+   - D. Partition coefficient, Diffusion coefficient, Membrane의 두께, Cell의 형태
+   - 답: A
+
+2. Facilitated diffusion과 simple diffusion의 주요 차이점은 무엇인가요?
+   - A. 운반 속도
+   - B. 선택성
+   - C. 운반 경로
+   - D. 모두
+   - 답: D
+
+3. Facilitated diffusion의 이동 곡선이 hyperbolic하게 나타나는 이유는 무엇인가요?
+   - A. Transporter protein의 존재
+   - B. Enzyme reaction과 유사한 방식으로 이동되기 때문
+   - C. 물질이 더 빠르게 통과할 수 있기 때문
+   - D. 모두
+   - 답: B
+
+# 강의 요약
+
+## Facilitated Diffusion과 Saturation 현상
+
+Facilitated diffusion은 특정 protein을 통해 물질의 이동이 이루어지는 현상입니다. 이 과정에서는 hyperbolic curve를 따르며, 최대 이동 속도(Vmax)가 존재합니다. 이 protein 안에는 non-electrolyte의 binding site가 있어 saturation 현상이 나타납니다. 즉, 농도 경사가 어느 정도 높아지면 binding site가 포화되어 이동 속도가 더 이상 증가하지 않는 최대 상태에 이르게 됩니다. 이 과정에서는 특정한 종류의 non-electrolyte만을 이동시키는 specificity이 나타납니다.
+
+## Osmosis와 Facilitative Diffusion
+
+Osmosis는 cell membrane을 통해 물과 다른 물질들이 세포 안으로 이동하는 현상을 말합니다. 이 과정에서는 osmotic pressure의 차이에 의해 세포 바깥쪽에서 세포 안으로 물이 이동하게 됩니다. 이러한 현상은 Facilitative diffusion의 한 형태로 볼 수 있습니다.
+
+## Aquaporin의 발견
+
+"땡땡땡"이라는 gene은 결국 물을 이동시키는 protein을 coding하는 gene이라는 것을 알게 되었습니다. 이 gene은 "Aquaporin"이라는 이름으로 알려지게 되었고, 이는 "물을 통과시키는 구멍"이라는 뜻입니다. Aquaporin은 세포막을 통해 물이 이동되는 채널로 작용하며, 세포가 물의 이동을 조절하는 기능을 가지고 있습니다.
+
+---
+
+# 퀴즈
+
+1. Facilitated diffusion에서 물질의 이동 속도가 더 이상 증가하지 않는 상태를 무엇이라고 하는가?
+    - A. Saturation
+    - B. Osmosis
+    - C. Specificity
+    - D. Competition
+
+2. Osmosis는 어떤 현상을 설명하는가?
+    - A. 물질의 이동 속도가 더 이상 증가하지 않는 상태
+    - B. 세포막을 통해 물과 다른 물질들이 세포 안으로 이동하는 현상
+    - C. 특정한 종류의 non-electrolyte만을 이동시키는 현상
+    - D. 물질의 이동 속도가 최대로 증가하는 상태
+
+3. "땡땡땡"이라는 gene이 coding하는 protein의 이름은 무엇인가?
+    - A. Osmosis
+    - B. Facilitated diffusion
+    - C. Aquaporin
+    - D. Hyperbolic curve
+
+---
+
+# 퀴즈 답안
+
+1. A. Saturation
+2. B. 세포막을 통해 물과 다른 물질들이 세포 안으로 이동하는 현상
+3. C. Aquaporin
+# 강의 요약
+
+## Aquaporin과 Ion Channel
+
+2003년에 Peter Agre 교수는 Aquaporin 발견으로 노벨상을 수상했습니다. Aquaporin은 물 분자가 지나가는 통로 역할을 하는 단백질입니다. 또 다른 중요한 단백질인 Ion Channel은 생리학적으로 중요한 채널 단백질로, 뉴런의 흥분성 조절, 근육과 심장의 수축, 냄새와 맛, 빛과 소리 인식 등 다양한 생리 현상에 핵심적인 역할을 합니다.
+
+## Ion Channel의 분류와 작동 메커니즘
+
+Ion Channel은 Electrical Conductance와 Chemical Conductance라는 두 가지 개념을 통해 이해할 수 있습니다. Electrical Conductance는 전기적인 신호에 의해 채널이 열리고 닫히는 것을 의미하며, 이에는 Voltage-gated Channel과 Ligand-gated Channel이 있습니다. 반면, Chemical Conductance는 화학적인 신호에 의해 채널이 열리고 닫히는 것을 의미합니다.
+
+## Ion Channel의 개폐 방식
+
+Ion Channel의 개폐는 다양한 요인에 의해 조절될 수 있습니다. 세포 바깥에서 온 hormone이나 neurotransmitter, 세포 안에 있는 second messengers나 cation, ATP, cyclic AMP, cyclic GMP와 같은 분자들이 ligand로 작용하여 ion channel protein에 결합하면 채널이 열리거나 닫힙니다. 이를 ligand-gated channel이라고 합니다. 또한, 세포막에 가해지는 물리적인 힘인 stretch나 온도 변화에 반응하여 채널이 열리거나 닫히는 경우도 있습니다. 이를 stretch-gated channel이나 temperature-gated channel로 구분합니다.
+
+# 퀴즈
+
+1. Peter Agre 교수가 노벨상을 수상한 이유는 무엇인가요?
+    - Aquaporin 발견
+2. Ion Channel의 두 가지 주요 분류는 무엇인가요?
+    - Electrical Conductance와 Chemical Conductance
+3. Ligand-gated channel이란 무엇인가요?
+    - 특정 화학 물질이 채널에 결합하여 작동하는 채널
+# 강의 요약
+
+## 이온 채널의 기능과 구분
+
+이온 채널은 세포 내부와 외부의 이온 이동을 조절하는 역할을 합니다. 이온 채널은 크게 네 가지 기능으로 구분됩니다.
+
+1. **Selectivity filter**: 이온을 선택적으로 걸러내는 역할을 합니다. 특정 이온만을 통과시키고, 채널의 구멍보다 작은 물질은 통과시킵니다.
+2. **Gate**: 채널의 개폐를 조절합니다. 이 개폐는 sensor에 의해 제어되며, voltage-gated channel의 경우 전압을 감지하는 sensor가 필요하고, ligand-gated channel의 경우 ligand를 감지하는 binding site가 필요합니다.
+3. **Sensor**: 문이 열리거나 닫히게 하는 역할을 합니다. 이에 따라 이온의 이동이 가능해집니다.
+4. **Channel protein**: 문이 닫히면 이온은 channel protein 내부에 있는 넓은 공간에 녹아들어가고, selectivity filter를 통과하여 이동합니다.
+
+## 이온 채널의 작동 방식
+
+이온 채널의 작동 방식은 디지털 방식으로 이루어져 있습니다. Gate가 열리면 이온이 흐르고 전류가 발생하고, gate가 닫히면 이온의 흐름이 멈춥니다. 하지만 여러 개의 이온 채널이 동시에 열리거나 닫히는 경우, 그 총합으로 나타나는 신호는 아날로그 신호로 나타나게 됩니다.
+
+## 이온 채널의 구분
+
+이온 채널은 어떤 이온을 선택적으로 통과시키는지, 즉 permeation이나 permeability, selectivity에 따라 구분할 수 있습니다. 예를 들어, sodium channel, potassium channel, calcium channel, chloride channel 등으로 구분할 수 있습니다. 또한, gating mechanism에 따라 voltage-gated channel, ligand-gated channel, mechanically-gated channel, temperature-gated channel 등으로 구분할 수도 있습니다.
+
+# 퀴즈
+
+1. 이온 채널의 네 가지 기능에는 무엇이 있나요?
+   - A. Selectivity filter, Gate, Sensor, Channel protein
+   - B. Selectivity filter, Gate, Sensor, Ion
+   - C. Selectivity filter, Gate, Ion, Protein
+   - D. Selectivity filter, Ion, Protein, Cell
+
+2. 이온 채널의 작동 방식은 어떻게 되나요?
+   - A. 아날로그 방식
+   - B. 디지털 방식
+   - C. 아날로그와 디지털 방식 모두
+   - D. 아날로그나 디지털 방식 모두 아님
+
+3. 이온 채널은 어떤 이온을 선택적으로 통과시키는지에 따라 어떻게 구분할 수 있나요?
+   - A. Sodium channel, Potassium channel, Calcium channel, Chloride channel
+   - B. Sodium channel, Potassium channel, Calcium channel, Protein channel
+   - C. Sodium channel, Potassium channel, Protein channel, Cell channel
+   - D. Sodium channel, Protein channel, Cell channel, Ion channel
+
+# 퀴즈 답안
+
+1. A. Selectivity filter, Gate, Sensor, Channel protein
+2. C. 아날로그와 디지털 방식 모두
+3. A. Sodium channel, Potassium channel, Calcium channel, Chloride channel
+# Ion 이동과 Channel의 역할
+
+Ion은 선택적으로 이동하며, 이는 ion의 종류에 따라 다릅니다. 이동 방식은 다양한 이름으로 분류됩니다. 이는 gate가 어떻게 열리는지에 따라 다르며, neurotransmitter를 감지하거나, 세포의 calcium이나 기타 second messenger가 붙게 되면 열리는 방식 등이 있습니다. 이에 따라서 neurotransmitter-gated channel, calcium-activated channel, cyclic nucleotide에서 gating되는 channel 등의 이름을 붙일 수 있습니다.
+
+항상 열려있는 channel도 있으며, 이는 leak channel이라고 불립니다. 또한, 세포막에 가해지는 물리적 자극이나 온도 등을 감지해서 열리는 channel들도 있습니다. 이러한 channel들은 mechanosensitive channel로 구분됩니다.
+
+# Ion Channel의 특성 분석
+
+Ion channel의 특성을 이해하는 것은 중요하며, 이를 통해 특정 ion channel이 열리거나 닫혔을 때, 그 channel을 가지고 있는 세포에서 어떤 일이 벌어지는지 예측할 수 있습니다. 이를 위해 가장 기본적인 것은 current와 voltage 간의 관계를 분석하는 것입니다. 이를 통해 ion channel의 특성을 분석할 수 있습니다.
+
+# IV Curve
+
+Current와 voltage의 관계를 나타내는 것을 IV curve라고 합니다. 전기 생리학이나 ion channel 연구에서 IV curve는 가장 기본적인 분석 도구입니다. IV curve를 그릴 때는 몇 가지 약속을 합니다. current는 Y축에, voltage는 X축에 그립니다. 각 cell membrane voltage에서 기록된 current의 크기를 XY축에 플로팅합니다.
+
+# Reverse Potential
+
+전류의 net flux가 제로가 되는 지점의 전위 값을 보니까 대략적으로 +60mV 정도 될 것 같네요. 그래서 세포 안과 밖의 전위가 세포 바깥보다 +60mV로 양성을 가지게 되면 세포 안과 밖으로 sodium 이온의 net flux가 없어지고 제로가 됩니다. 그러한 지점을 우리는 reverse potential이라고 부르며, voltage와 거의 동의어로 사용합니다. reverse voltage라고도 이야기할 수 있습니다. 그러나 주로 potential이라는 말을 많이 사용합니다. potential이 있냐 없냐, 능력이 있냐 없냐로 해석할 수도 있습니다. 그래서 역전전압이라고 표현합니다. 역전전압, 혹은 여기에서는 세포 안과 밖으로 sodium 이온의 양성 net flux가 제로가 되기 때문에 다른 말로 equilibrium potential, 평형전압이라고도 이야기할 수 있습니다.
+
+---
+
+## 퀴즈
+
+1. Ion이 이동하는 방식을 분류하는 기준은 무엇인가요?
+    - A. Ion의 크기
+    - B. Ion의 종류
+    - C. Ion의 전하
+    - D. Ion의 위치
+    - 정답: B. Ion의 종류
+
+2. 항상 열려있는 channel을 무엇이라고 부르나요?
+    - A. Open channel
+    - B. Closed channel
+    - C. Leak channel
+    - D. Fixed channel
+    - 정답: C. Leak channel
+
+3. 전류의 net flux가 제로가 되는 지점의 전위 값을 무엇이라고 부르나요?
+    - A. Zero potential
+    - B. Reverse potential
+    - C. Equilibrium potential
+    - D. Both B and C
+    - 정답: D. Both B and C
+
+# 강의 요약
+
+## 1. 전류와 전압의 관계
+- 세포 내외로 이동하는 전류를 측정하며 전압을 바꿔가며 실험을 진행했습니다.
+- 특정 전압에서 전류가 더 이상 존재하지 않는 지점을 equilibrium potential 또는 reversal potential이라고 합니다.
+- 이 때, Ohm's law(V = IR)를 이용하여 전압과 전류의 관계를 해석합니다.
+
+## 2. Conductance와 IV 커브
+- Conductance는 전류를 얼마나 잘 흐르게 할 수 있는지를 나타내며, IV 커브에서의 기울기로 표현됩니다.
+- 같은 조건에서도 다양한 IV 커브를 얻을 수 있습니다.
+
+## 3. Conductance의 비교
+- 같은 직선이지만 기울기가 다른 두 세포를 비교했을 때, 기울기가 큰 세포가 더 높은 conductance를 가집니다.
+- 이 두 세포는 모두 sodium 이온에 대해 선택성을 가지는 ion channel이지만, 하나는 conductance가 크고 다른 하나는 conductance가 작습니다.
+
+## 4. Outward Current와 Inward Current
+- Outward Current는 세포 안에서 세포 바깥쪽으로 흐르는 전류를, Inward Current는 세포 바깥에서 세포 안으로 흐르는 전류를 의미합니다.
+- 이 때, 전류의 흐르는 방향은 양이온의 이동 방향을 기준으로 합니다.
+
+# 퀴즈
+
+1. 특정 전압에서 전류가 더 이상 존재하지 않는 지점을 무엇이라고 부르는가?
+    - A. Equilibrium potential
+    - B. Reversal potential
+    - C. Conductance
+    - D. Outward Current
+    - 정답: A, B
+
+2. IV 커브에서 기울기는 무엇을 나타내는가?
+    - A. Voltage
+    - B. Current
+    - C. Conductance
+    - D. Resistance
+    - 정답: C
+
+3. 세포 안에서 세포 바깥쪽으로 흐르는 전류를 무엇이라고 부르는가?
+    - A. Inward Current
+    - B. Outward Current
+    - C. Equilibrium potential
+    - D. Reversal potential
+    - 정답: B
+
+# 강의 요약
+
+## Chloride Ion의 이동
+- Chloride ion은 물리적으로는 세포 바깥에서 안으로 이동하지만, 전기생리학적으로는 양이온의 이동 방향을 기준으로 하기 때문에 세포 안으로 들어오면 outward current라고 부릅니다. 반대로 세포 안에서 바깥으로 나가면 inward current라고 합니다.
+
+## Patch Clamp 기술
+- Patch Clamp는 세포막 조각 안에 있는 이온 채널 단백질의 활성을 측정하는 방법으로, 주로 마이크로 전극이나 유리 마이크로 전극을 사용합니다.
+- Patch Clamp 기술은 유리 튜브를 가늘게 뽑아서 세포막에 부착시킨 후, 그 안에 있는 세포막 조각 패치에 있는 채널 단백질의 활성을 실시간으로 기록하는 전기 생리학 또는 전기 공학 기술입니다.
+
+## Voltage Clamp와 Current Clamp
+- Voltage Clamp는 전압을 일정한 값으로 고정하고, 이때 발생되는 채널의 전류값을 기록하는 방법입니다.
+- Current Clamp는 전류값을 일정하게 고정하고, 이때 변화되는 전압 값을 기록하는 방법입니다.
+
+## Patch Clamp Technique의 중요성
+- Patch Clamp Technique은 ion channel의 활성을 기록하고 분석하는 데 사용되며, 이를 통해 ion channel의 기능과 ion channel 결함이 어떤 질병과 연관이 있는지 연구할 수 있습니다.
+- 이 방법을 개발한 과학자들은 1991년에 노벨 생리의학상을 수상하게 되었습니다.
+
+# 퀴즈
+
+1. Chloride ion이 세포 안으로 들어오면 어떤 current라고 부르는가?
+    - A. Inward current
+    - B. Outward current
+    - C. Voltage Clamp
+    - D. Current Clamp
+    - 정답: B. Outward current
+
+2. Patch Clamp 기술은 어떤 것을 측정하는 방법인가?
+    - A. 세포막 조각 안에 있는 이온 채널 단백질의 활성
+    - B. 세포막 조각 안에 있는 이온 채널 단백질의 수량
+    - C. 세포막 조각 안에 있는 이온 채널 단백질의 구조
+    - D. 세포막 조각 안에 있는 이온 채널 단백질의 종류
+    - 정답: A. 세포막 조각 안에 있는 이온 채널 단백질의 활성
+
+3. Patch Clamp Technique을 개발한 과학자들이 수상한 상은 무엇인가?
+    - A. 노벨 물리학상
+    - B. 노벨 화학상
+    - C. 노벨 생리의학상
+    - D. 노벨 평화상
+    - 정답: C. 노벨 생리의학상
+
+# 강의 요약
+
+## 이온 채널의 구조와 작동 원리
+
+- 이온 채널은 다양한 이온 채널들을 규명하고, 그 채널의 작동 방식과 생리학적, 병리학적 현상과의 연관성을 연구하는 분야입니다.
+- 이온 채널 단백질의 구조를 해독하는 접근법이 시작되었고, 이로 인해 실제 채널 단백질의 crystal structure가 밝혀졌습니다.
+- 예를 들어, 세균에 있는 칼륨 채널은 네 개의 subunits이 모여 칼륨 이온이 통과할 수 있는 구멍을 만듭니다.
+- 이 구조는 selectivity filter 또는 pore selectivity filter라고도 불립니다.
+- 이온이 통과될 때, 이온은 한 줄로 나란히 이동하는 형태로 구조적으로 해석됩니다.
+
+## 이온 채널의 활동
+
+- 이온은 물을 벗어나고 stripped down 상태로 이동하는 functional 결과를 보입니다.
+- 이 결과는 구조적으로 다시 한 번 확인되었습니다.
+- 이온은 물 분자에 둘러싸여 있으며, selective filter를 통과할 때 물 분자를 벗어나고 아미노산에 둘러싸여 있습니다.
+- 이렇게 채널 단백질이 물 분자가 하는 역할을 대신하며 이온을 안정화시키고, 뒤에서 들어온 이온을 밀어내는 방식으로 이동이 이루어집니다.
+
+## Facilitated Diffusion
+
+- Facilitated diffusion의 예로 uniporter를 들 수 있습니다.
+- 세포막에는 glucose transporter protein이 있으며, 세포 안과 밖으로 글루코스가 이동합니다.
+- 글루코스는 non-electrolyte이므로 lipid bilayer를 통과할 수 없습니다.
+- 그러나 우연히 글루코스를 통과시킬 수 있는 transporter가 존재합니다.
+
+# 퀴즈
+
+1. 이온 채널의 구조를 이루는 subunits의 수는 몇 개인가요?
+    - A. 2개
+    - B. 3개
+    - C. 4개
+    - D. 5개
+    - 정답: C. 4개
+
+2. 이온이 채널을 통과할 때 어떤 상태로 이동하는가요?
+    - A. 물에 녹아 있는 상태
+    - B. 물을 벗어난 상태
+    - C. 아미노산에 둘러싸인 상태
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음
+
+3. 글루코스는 어떤 방식으로 세포 안으로 이동하는가요?
+    - A. 직접 lipid bilayer를 통과
+    - B. 이온 채널을 통과
+    - C. transporter를 통과
+    - D. 아미노산에 둘러싸여 이동
+    - 정답: C. transporter를 통과
+
+# 강의 요약
+
+## Glucose Transport Mechanism
+
+1. **Glucose의 이동**: Glucose는 농도 경사를 따라 transporter protein을 통해 세포 내부로 들어옵니다.
+
+2. **Transporter의 구조 변화**: Glucose가 transporter의 binding site에 결합하면, transporter의 구조가 변화합니다. 처음에는 세포 외부로 문이 열려있어 glucose를 받아들일 수 있습니다.
+
+3. **Glucose의 확산**: Glucose가 세포 내부로 들어오면, 문이 세포 내부로 열리고 glucose가 세포 내부로 확산됩니다. 이후, glucose가 세포 내부에서 농도가 낮은 쪽으로 확산되면, 문이 다시 세포 외부로 열립니다.
+
+4. **반복적인 사이클**: 이 과정이 반복되면서, 한 사이클 동안 glucose 한 분자가 세포 외부에서 세포 내부로 이동하게 됩니다.
+
+5. **촉진 확산**: 이 현상은 기본적으로 확산이지만, transporter protein을 통해 촉진 확산됩니다.
+
+다음 강의에서는 active transport system에 대해 다룰 예정입니다.
+
+---
+
+# 퀴즈
+
+1. Glucose는 어떤 경사를 따라 세포 내부로 들어오는가?
+    - A. 온도 경사
+    - B. 농도 경사
+    - C. 압력 경사
+    - D. 전기 경사
+    - 정답: B. 농도 경사
+
+2. Transporter의 구조는 어떤 상황에서 변하는가?
+    - A. Glucose가 세포 외부로 나갈 때
+    - B. Glucose가 세포 내부로 들어올 때
+    - C. Glucose가 transporter의 binding site에 결합할 때
+    - D. Glucose가 transporter의 binding site에서 분리될 때
+    - 정답: C. Glucose가 transporter의 binding site에 결합할 때
+
+3. Glucose의 이동은 어떤 현상을 통해 촉진되는가?
+    - A. 활성 운송
+    - B. 촉진 확산
+    - C. 단순 확산
+    - D. 오스모시스
+    - 정답: B. 촉진 확산
+

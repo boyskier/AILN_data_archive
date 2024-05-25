@@ -1,0 +1,336 @@
+# 강의 요약
+
+## 이온 채널과 전위
+
+- Potassium channel이 열리면 equilibrium 상태에 도달하게 되지만, 이동해야 하는 이온의 농도 변화는 매우 작다. 따라서 Potassium의 initial concentration만 제어되면 충분하다.
+- 시간이 지나면 ATP를 사용하여 Sodium pump가 다시 돌아가고, equilibrium 상태도 다시 돌리지 않은 상태로 돌아가게 된다. 이로 인해 Potassium의 potential은 점점 감소하게 된다.
+
+## Potassium channel과 Chloride channel의 차이
+
+- Potassium channel은 주로 세포에서 resting potential이 만들어지는 곳에서 열리는 것으로 이해하면 된다.
+- 반면에 Chloride channel은 다른 종류의 채널로, Sodium channel이나 Calcium channel과 같은 역할을 한다. 이러한 채널들은 세포에 존재하지만, resting 상태에서는 열리지 않는다는 것이 특징이다.
+
+## GABA(A) 리셉터와 Chloride 채널
+
+- GABA(A) 리셉터가 결합하면 Chloride 채널이 열리고, Chloride가 세포 안으로 들어가게 된다. 이로 인해 세포막의 전위가 Hyperpolarization이 되어 신경세포가 덜 흥분성, 덜 활동적으로 된다.
+
+## Sodium 채널과 Depolarization
+
+- Sodium 채널이 열리면 Sodium이 세포 안으로 들어가게 되고, 세포막의 전위는 Depolarization이 된다. 이로 인해 신경세포가 흥분성이 된다.
+
+---
+
+# 퀴즈
+
+1. Potassium channel이 열리면 어떤 상태에 도달하게 되는가?
+    - A. Depolarization
+    - B. Hyperpolarization
+    - C. Equilibrium
+    - D. Excitation
+    - 정답: C. Equilibrium
+
+2. GABA(A) 리셉터가 결합하면 어떤 채널이 열리는가?
+    - A. Sodium channel
+    - B. Potassium channel
+    - C. Chloride channel
+    - D. Calcium channel
+    - 정답: C. Chloride channel
+
+3. Sodium 채널이 열리면 세포막의 전위는 어떻게 변하는가?
+    - A. Depolarization
+    - B. Hyperpolarization
+    - C. Equilibrium
+    - D. Excitation
+    - 정답: A. Depolarization
+
+# Saccharomyces Navreler의 세포 연구
+
+## 주요 내용
+- Saccharomyces Navreler 박사는 세포의 작은 부분을 연구하였다.
+- 세포의 크기가 10 micrometers라고 가정하면, 1 micrometer도 되지 않는 작은 유리판을 사용하여 salt solution을 전극에 연결한 후 세포에 밀착시킨다.
+- 이렇게 하면 세포 내부에서 zinc channel이 형성될 수 있다.
+- 이 sodium channel을 통해 zinc 이온이 이동하면 전극에서 이를 감지할 수 있다.
+- 이러한 현상은 Lambertential Depolarization을 통해 관찰된다.
+
+## Sodium Channel의 활성화
+- Sodium channel이 활성화되었다고 하고 닫혔던 것이 열리니까 그 다음에 계속해서 열려있지 못하고 활성화된 자극은 계속되는데도 불구하고 스스로 이 활성화될 것이다.
+- Sodium channel에 Voltage-dependent한 활성화와 그러니까 아무래도 Depolarization에 의해서 열리는 채널 특정한 임계치 이상이 되면 닫혔던 채널이 열리는 것이다.
+
+## Sodium Channel의 Inactivation
+- Sodium channel이 열리면서 Sodium이 1초에 100만개까지 도움받았다.
+- 그런데 이렇게 계속 기억하지 못하고 채널 자체에 뭔가 다른 특정 초가 있다.
+- 그래서 열리자마자 또 자기 스스로 자기 자신의 구멍을 막아버리는 소위 Inactivation 과정은 있다.
+- 이것을 Sodium channel의 Inactivation이라고 한다.
+
+## Ball and Chain Model
+- 볼이 달린 체인이 아마 channel inactivation을 가져올 것이다.
+- 이걸 어떻게 알아야 되느냐 하면 나중에 여기를 잘라버려서 볼이 없는 Hydrogen channel을 만들어버리면 그 다음에 inactivation이 없어져서 이 체인을 좀 긴걸 하게 되면 어떻게 될까요? inactivation이 늦게 와서 이 체인을 좀 더 짧게 하면 어떻게 될까요? inactivation이 더 빨리 와서 열렸다가 바로 닫힐 것이다.
+
+## 퀴즈
+1. Saccharomyces Navreler 박사가 연구한 세포의 크기는 얼마인가요?
+    - 10 micrometers
+2. Sodium channel이 활성화되는 과정을 설명해주세요.
+    - Sodium channel이 활성화되었다고 하고 닫혔던 것이 열리니까 그 다음에 계속해서 열려있지 못하고 활성화된 자극은 계속되는데도 불구하고 스스로 이 활성화될 것이다.
+3. Ball and Chain Model이란 무엇인가요?
+    - 볼이 달린 체인이 아마 channel inactivation을 가져올 것이다. 이걸 어떻게 알아야 되느냐 하면 나중에 여기를 잘라버려서 볼이 없는 Hydrogen channel을 만들어버리면 그 다음에 inactivation이 없어져서 이 체인을 좀 긴걸 하게 되면 어떻게 될까요? inactivation이 늦게 와서 이 체인을 좀 더 짧게 하면 어떻게 될까요? inactivation이 더 빨리 와서 열렸다가 바로 닫힐 것이다.
+# 강의 요약
+
+## Sodium Channel과 그 영향
+
+- Sodium channel을 통해 1초에 100만 개의 sodium이 들어올 수 있지만, 그 current의 양은 매우 작습니다. 
+- 그러나 세포 크기가 작고 여러 개의 sodium channel이 연결되어 있다면, 그 양은 상당히 많아질 수 있습니다.
+- 이 양이 갑자기 심각하게 증가하여 뇌에 oxygen 공급이 중단된다면 ischemic damage가 발생할 수 있습니다. 이는 뇌졸중과 같은 상황을 초래할 수 있습니다.
+
+## Sodium Pump와 Phyto Toxin
+
+- Sodium pump, Sodium Potassium pump는 concentration gradient를 만드는데 사용됩니다.
+- Digitalis와 Ouabain은 심장 약으로 사용되며, 약하게 사용하면 membrane tension을 증가시켜 더 강력한 Calcium이 들어오게 합니다.
+- 이들은 Sodium channel과 Voltage channel을 공부하는데 사용될 수 있습니다.
+
+## Channel의 구조와 기능
+
+- Sodium channel이 Potassium channel보다 4배 크며, subunit이 연결되어 있는 것이 하나의 functional한 channel이 됩니다.
+- Membrane을 단통하기 위해서는 allosteric turn이 필요하며, Cloning을 통해 subunit의 4번째 transmembrane domain에 plus, shot, pen을 표시하고 있습니다.
+- 이 구조가 중요한 이유는 바로 ballistic pendulum을 뜻하는데, 이는 4번째 passing, sachet이 모여있는 구조 때문입니다.
+- Membrane potential이 말단에 있는 신경세포 말단에 membrane potential이 그것 때문에 갑자기 membrane potential이 20 millivolt로 확대되었습니다.
+- 이 charge park가 움직이면서 닫혀있던 sodium channel이 열리는 모양이 됩니다. 이게 voltage dependence와 gating이라고 합니다.
+
+---
+
+# 퀴즈
+
+1. Sodium channel을 통해 1초에 몇 개의 sodium이 들어올 수 있는가?
+    - A. 100만 개
+    - B. 10만 개
+    - C. 1000만 개
+    - D. 100억 개
+    - 정답: A. 100만 개
+
+2. Digitalis와 Ouabain은 어떤 약으로 사용되는가?
+    - A. 감기 약
+    - B. 심장 약
+    - C. 소화기 약
+    - D. 항생제
+    - 정답: B. 심장 약
+
+3. Sodium channel이 Potassium channel보다 몇 배 큰가?
+    - A. 2배
+    - B. 3배
+    - C. 4배
+    - D. 5배
+    - 정답: C. 4배
+
+# 강의 요약
+
+## Voltage Dependence와 Sodium Channel
+
+- 휴식 상태에서는 Sodium channel이 닫혀 있어 Sodium의 기여도가 없다.
+- Depolarization 자극이 오면 Sodium channel이 열리고, Sodium가 세포 내로 들어온다.
+- Sodium channel은 Potential channel에 비해 Sodium에 천배만큼 선택적이다.
+- Sodium channel의 Core size는 Hydration에 있는 Sodium size와 동일하다.
+- Sodium channel을 통해는 Water molecule 하나를 포함한 Sodium ion이 통과할 수 있다.
+- Sodium channel과 Potential channel은 완전히 다른 성격의 채널이지만, 코어는 같다.
+- Sodium channel은 Sodium에 대해 permeability를 높게 가져가는 방법을 사용하고, Potential channel은 통과를 막는 다른 방법을 사용한다.
+
+## Potential Ion과 Cell Physiology
+
+- 모든 organ에서 Potential ion은 필수적이다.
+- Potential ion을 정확히 알지 않으면, 각 organ에서 시작하는 포인트를 이해하는데 어려움이 있다.
+
+## Membrane Potential 변화 실험
+
+- Negative current와 Positive current를 인위적으로 주입하여 membrane potential을 변화시킬 수 있다.
+- 이를 통해 전류의 변화에 따라 세포의 반응을 측정할 수 있다.
+- Hodgkin과 Huxley는 이 방법을 사용하여 대왕 오징어의 axon에서 세포의 membrane potential 변화를 측정하였다.
+
+# 퀴즈
+
+1. Sodium channel은 어떤 상태에서 닫혀 있나요?
+    - A. Depolarization 상태
+    - B. 휴식 상태
+    - C. Hyperpolarization 상태
+    - D. Repolarization 상태
+    - 정답: B. 휴식 상태
+
+2. Sodium channel과 Potential channel의 차이점은 무엇인가요?
+    - A. Sodium channel은 Sodium에 대해 permeability를 높게 가져가는 방법을 사용하고, Potential channel은 통과를 막는 다른 방법을 사용한다.
+    - B. Sodium channel과 Potential channel은 완전히 같은 성격의 채널이다.
+    - C. Sodium channel은 Sodium에 대해 permeability를 낮게 가져가는 방법을 사용하고, Potential channel은 통과를 쉽게 하는 다른 방법을 사용한다.
+    - D. Sodium channel과 Potential channel은 서로 다른 성격의 채널이지만, 코어는 다르다.
+    - 정답: A. Sodium channel은 Sodium에 대해 permeability를 높게 가져가는 방법을 사용하고, Potential channel은 통과를 막는 다른 방법을 사용한다.
+
+3. Hodgkin과 Huxley는 어떤 실험을 통해 세포의 membrane potential 변화를 측정하였나요?
+    - A. 대왕 오징어의 axon에서 실험을 진행하였다.
+    - B. 인간의 neuron에서 실험을 진행하였다.
+    - C. 쥐의 심장에서 실험을 진행하였다.
+    - D. 식물의 세포에서 실험을 진행하였다.
+    - 정답: A. 대왕 오징어의 axon에서 실험을 진행하였다.
+# 강의 요약
+
+## 실험 개요
+- 실험의 목표는 membrane potential을 -70mV에서 0mV로 depolarization시키면서 나트륨과 칼륨 채널의 반응을 관찰하는 것입니다.
+- 실험자는 이 과정에서 나타나는 전류를 측정하고자 했습니다.
+
+## Feedback Amplifier의 사용
+- 실험자는 원하는 전압을 유지하기 위해 Feedback Amplifier를 사용했습니다.
+- 이 기기는 원하는 전압을 유지하기 위해 필요한 전류를 제공합니다.
+- 이를 통해 실험자는 원하는 전압을 유지하면서 전류를 측정할 수 있었습니다.
+
+## Sodium channel blocker의 사용
+- 실험자는 Sodium channel blocker인 양모를 사용하여 Sodium channel을 차단했습니다.
+- 이를 통해 Voltage-gated current를 기록할 수 있었습니다.
+
+## Voltage-clamp의 사용
+- 실험자는 Voltage-clamp를 사용하여 Voltage를 일정하게 유지했습니다.
+- 이를 통해 Voltage-gated current가 세포 밖으로 나가는 것을 관찰할 수 있었습니다.
+
+## Sodium channel의 반응
+- Sodium channel은 Depolarization이 되면 바로 열리는 것을 확인할 수 있었습니다.
+- 이는 Single channel patch clamp에서 Sodium channel을 열고 나서 Inactivation이 되는 것과 차이가 있었습니다.
+
+# 퀴즈
+
+1. 실험자가 원하는 전압을 유지하기 위해 사용한 기기는 무엇인가요?
+    - A. Voltage-clamp
+    - B. Feedback Amplifier
+    - C. Sodium channel blocker
+    - D. Single channel patch clamp
+    - 답: B. Feedback Amplifier
+
+2. Sodium channel blocker인 양모의 역할은 무엇인가요?
+    - A. Sodium channel을 차단한다.
+    - B. Sodium channel을 열어준다.
+    - C. Sodium channel을 활성화시킨다.
+    - D. Sodium channel을 비활성화시킨다.
+    - 답: A. Sodium channel을 차단한다.
+
+3. Voltage-clamp를 사용하면 어떤 현상을 관찰할 수 있나요?
+    - A. Voltage-gated current가 세포 안으로 들어가는 것
+    - B. Voltage-gated current가 세포 밖으로 나가는 것
+    - C. Sodium channel이 열리는 것
+    - D. Sodium channel이 닫히는 것
+    - 답: B. Voltage-gated current가 세포 밖으로 나가는 것
+# 강의 요약
+
+## Depolarization과 Sodium 채널
+
+Depolarization 과정에서 Sodium 채널은 열리자마자 스스로 Inactivation이 발생합니다. 이러한 Single 채널이 100개, 1,000개 있다면 Inactivation이 발생합니다. 
+
+## 볼트지 시뮬레이션
+
+볼트지마다 시뮬레이션을 진행하였고, 이를 통해 Potassium 채널과 Sodium 채널이 어떤 볼트지에서 얼마나 열리는지에 대한 정보를 알 수 있었습니다. 
+
+## Squid Giant Axon
+
+Squid Giant Axon은 Electrical이라는 단어를 멤버의 Potential이라는 단어로 설명할 수 있으며, Action Potential이라는 단어는 다음 시간에 언급할 것입니다. 
+
+## Potassium 채널과 Sodium 채널
+
+Potassium 채널은 Resting Membrane Potential을 만드는 역할을 하며, Potassium와는 관계없이 항상 열려있습니다. 
+
+## 맴브레인 포텐셜
+
+맴브레인 포텐셜이 마이너스 60mV가 되었을 때, 스케프 밖으로 나가는 것은 정상적인 상황입니다. 이는 맴브레인 포텐셜이 더 음의 값으로 바뀌어서 발생하는 것입니다. 
+
+## 레스트 포텐셜
+
+레스트 포텐셜은 마이너스 포텐셜을 세우고 방향이 바뀌는 것을 의미합니다. 맴브레인 포텐셜이 마이너스 100mV가 되면, 스케프 안쪽으로 포텐셜이 들어와서 다시 이큐리온 뷰러로 돌아갑니다. 
+
+## 리버설 포텐셜
+
+맴브레인 포텐셜이 어느 방향으로 변하느냐에 따라서 방향이 바뀌는 것을 리버설 포텐셜이라고도 표현합니다. 
+
+## 이큐리온 포텐셜
+
+이큐리온 포텐셜을 만드는 포텐셜 채널이 100개였는데 200개로 늘어났다면, 곡선이 어떻게 바뀌는지 생각해볼 수 있습니다. 
+
+# 퀴즈
+
+1. Depolarization 과정에서 Sodium 채널이 어떤 변화를 겪는가?
+    - A. Activation
+    - B. Inactivation
+    - C. No change
+    - D. Both A and B
+    - 정답: B. Inactivation
+
+2. Potassium 채널은 어떤 상태에서도 항상 어떤 상태인가?
+    - A. Closed
+    - B. Open
+    - C. Inactive
+    - D. Active
+    - 정답: B. Open
+
+3. 맴브레인 포텐셜이 마이너스 60mV가 되었을 때, 스케프는 어떤 방향으로 나가는가?
+    - A. 안쪽으로
+    - B. 밖으로
+    - C. 변화 없음
+    - D. 위로
+    - 정답: B. 밖으로
+
+# Sodium Channels과 Voltage Dependency
+
+## Sodium Channels의 활성화
+
+- Sodium channels는 모두 sodium에 의해 활성화되는 것이 아니라, 일부는 voltage-dependent한 특성을 가지고 있습니다.
+- 이러한 sodium channels는 membrane의 전위가 어떤 수준에서 얼마나 열렸는지에 따라 활성화됩니다.
+- 예를 들어, 마이너스 40mV에서는 전혀 열리지 않지만, 마이너스 30mV에서는 약간 열리고, 마이너스 20mV에서는 더 많이 열립니다. 0mV에서는 완전히 열리게 됩니다.
+
+## Voltage Dependency
+
+- Sodium channels의 활성화 곡선을 그릴 수 있습니다. 이 곡선은 voltage-dependency를 보여주는 것으로, 마이너스 20mV에서 약간 열리고, 0mV에서 완전히 열리는 것을 확인할 수 있습니다.
+- 이러한 특성으로 인해 sodium channels는 활성화되는데 있어서 매우 민감하고 빠른 반응을 보입니다.
+- 따라서, 이 빨간 곡선은 항상 열려있는 상태의 sodium channels를 나타내며, 이러한 곡선을 기반으로 sodium current가 생성됩니다.
+
+## Voltage Dependence와 Sodium Current
+
+- 마이너스 40 millivolt까지는 하나만 열리지만, 마이너스 20 millivolt가 되면 꽤 열리며, 0 millivolt가 되면 100% 다 열립니다.
+- 그러나, 60 millivolt로 depolarization을 시켰다면, channel이 다 열리지만 current는 없는 상태가 됩니다. 이는 sodium의 reverse potential, 즉 sodium의 equilibrium potential 때문입니다.
+- 이러한 voltage dependence와 sodium current의 관계를 이해하면 action potential을 이해하는데 큰 도움이 됩니다.
+
+## 주의사항
+
+- Off-Jay라는 실험적 방법은 실제로 개발된 적이 없습니다.
+- "Channel Load Option2"나 "Hera Load Option"이라는 채널도 실제로는 존재하지 않습니다.
+- 녹조 위에 있는 채널을 사용하여 ATP로 변환한다는 부분은 이해하기 어렵습니다.
+
+---
+
+## 퀴즈
+
+1. Sodium channels는 모두 sodium에 의해 활성화되는가?
+    - 답: 아니다. 일부는 voltage-dependent한 특성을 가지고 있다.
+
+2. Sodium channels의 활성화 곡선은 어떤 것을 보여주는가?
+    - 답: Voltage-dependency를 보여준다.
+
+3. 60 millivolt로 depolarization을 시켰을 때, channel이 다 열리지만 current는 없는 상태가 되는 이유는 무엇인가?
+    - 답: 이는 sodium의 reverse potential, 즉 sodium의 equilibrium potential 때문이다.
+# 강의 요약
+
+## Dysphonia와 Neurons
+
+- 특정 부위의 Neurons가 예민하게 반응하여 Dysphonia가 발현됩니다.
+- 이러한 Neurons의 활동에 따라 Dysphonia의 심각성이 결정됩니다.
+
+## Dysphonia 완화 방법
+
+- 특정 부위를 누르거나 블루라이트를 켜는 등의 방법으로 Dysphonia를 감소시키는 것이 가능합니다.
+- 이는 드럼을 사용하는 방법과 유사하며, 특정 부위를 선택적으로 원하는 위치에 위치시킬 수 있습니다.
+
+## 윤리적 문제
+
+- 기술적인 가능성이 있음에도 불구하고, 이를 윤리적으로 처리하는 것은 별도의 문제로 존재합니다.
+
+---
+
+# 퀴즈
+
+1. Dysphonia의 발현은 어떤 부위의 Neurons가 예민하게 반응할 때 일어나는가?
+    - 답: 특정 부위의 Neurons
+
+2. Dysphonia를 완화시키는 방법 중 하나는 무엇인가?
+    - 답: 특정 부위를 누르거나 블루라이트를 켜는 방법
+
+3. 기술적인 가능성이 있음에도 Dysphonia 완화 방법의 실현에 걸림돌이 되는 것은 무엇인가?
+    - 답: 윤리적 문제
+

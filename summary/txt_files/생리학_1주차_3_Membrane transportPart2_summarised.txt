@@ -1,0 +1,1322 @@
+# 강의 요약
+
+## Active Transport
+
+Active Transport는 물질을 농도 경사를 역행시키는 방법으로, 이 과정에서 에너지를 사용합니다. 이 방법에는 두 가지 방식이 있습니다.
+
+1. **Primary Active Transport**: ATP의 가수분해를 통해 직접적으로 에너지를 얻어 농도 경사를 역행시키는 방법입니다. 예를 들어, Sodium Potassium ATPase(소듐 펌프)는 이 방식을 사용하여 sodium ion을 세포 바깥쪽으로 퍼내고 potassium ion을 세포 안으로 끌어들입니다.
+
+2. **Secondary Active Transport**: 물질의 이동으로 인해 발생한 에너지를 이용하여 농도 경사를 역행시키는 방법입니다. Sodium Calcium exchanger(소듐 칼슘 교환체)는 이 방식을 사용하여 sodium ion과 calcium ion을 교환합니다.
+
+세포 내외의 이온 농도는 다음과 같습니다.
+
+- Sodium 이온: 세포 바깥쪽에는 약 145mmol, 세포 안에는 10분의 1 이하
+- Potassium 이온: 세포 바깥쪽에는 4mmol, 세포 안에는 120mmol
+- Calcium 이온: 세포 바깥쪽에는 2.5mmol, 세포 안에는 0.001mmol 이하
+
+## 퀴즈
+
+1. Active Transport의 두 가지 방식 중, ATP의 가수분해를 통해 직접적으로 에너지를 얻어 농도 경사를 역행시키는 방법은 무엇인가요?
+    - A. Primary Active Transport
+    - B. Secondary Active Transport
+    - C. Tertiary Active Transport
+    - D. Quaternary Active Transport
+    - 답: A. Primary Active Transport
+
+2. Sodium Potassium ATPase(소듐 펌프)는 어떤 방식의 Active Transport를 사용하나요?
+    - A. Primary Active Transport
+    - B. Secondary Active Transport
+    - C. Tertiary Active Transport
+    - D. Quaternary Active Transport
+    - 답: A. Primary Active Transport
+
+3. Sodium Calcium exchanger(소듐 칼슘 교환체)는 어떤 방식의 Active Transport를 사용하나요?
+    - A. Primary Active Transport
+    - B. Secondary Active Transport
+    - C. Tertiary Active Transport
+    - D. Quaternary Active Transport
+    - 답: B. Secondary Active Transport
+# 강의 요약
+
+## Primary Active Transport
+
+- **F클래스 프로톤 펌프**와 **ABC 슈퍼 패밀리**는 primary active transport에 속함.
+- **PVF클래스 펌프**는 이온만을 수송하며, **ABC 슈퍼 패밀리**는 이온 채널을 포함하고, 작은 분자, 지질 등을 세포막을 에너지를 사용하여 이동시킴.
+
+## P클래스 펌프
+
+- **P클래스 펌프** 중에서는 **소듐 펌프**가 가장 대표적이며, 우리 몸의 모든 세포에 존재하고, ATP 생산에 사용되는 미토콘드리아에서 생성된 ATP 중 약 1/3 정도가 소듐 펌프 작동에 사용됨.
+- **소듐 펌프**는 우리 몸에서 이온 농도를 조절하는 데 매우 중요한 역할을 함.
+
+## 기타 펌프
+
+- 식물이나 곰팡이, 세균에 있는 **Hydrogen pump**, **Gastric acid secretion**과 **Hydrochloric acid secretion**을 일으키는 **Hydrogen pump**, **Sodium-Potassium pump** 또는 **ATP** 등이 있음.
+- **Proton pump**는 Cell membrane을 경계로 세포 안에서 세포 바깥쪽으로 Calcium을 퍼내는 **Plasma membrane pump**임.
+- **Endoplasmic reticulum** 또는 근육에서는 **Sarcoplasmic reticulum**이라고도 불리는데, 이는 ER 안으로 농도 경제 에어캡에서 Calcium을 퍼넣는 pump임.
+
+## 펌프의 작동 원리
+
+- 이러한 펌프들은 모두 Ion을 수송할 때 ATP 분자가 Hydrolysis되어 Transport protein에 Phosphorylation을 시키고, Phosphorylation에 의해 pump의 구조가 변화하여 Ion을 수송함.
+- Sodium pump는 세포 내에서 3개의 Sodium을 세포 바깥쪽으로 퍼내고, 세포 바깥에서 2개의 Sodium을 세포 내부로 퍼내는 역할을 함.
+- Sodium 펌프가 돌면서 세포 내의 막전압은 더 마이너스 쪽으로 내려가게 됨. 이러한 펌프들을 우리는 electrogenic한 펌프라고 부름.
+
+## 퀴즈
+
+1. **Primary Active Transport에 속하는 펌프는 무엇인가요?**
+    - A. F클래스 프로톤 펌프
+    - B. ABC 슈퍼 패밀리
+    - C. PVF클래스 펌프
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음
+
+2. **소듐 펌프가 우리 몸에서 하는 역할은 무엇인가요?**
+    - A. 이온 농도를 조절함
+    - B. ATP를 생산함
+    - C. 세포의 구조를 변화시킴
+    - D. 세포의 막전압을 더 마이너스 쪽으로 내려가게 함
+    - 정답: A. 이온 농도를 조절함
+
+3. **펌프가 Ion을 수송할 때 어떤 과정을 거치는가요?**
+    - A. ATP 분자가 Hydrolysis되어 Transport protein에 Phosphorylation을 시킴
+    - B. Phosphorylation에 의해 pump의 구조가 변화하여 Ion을 수송함
+    - C. Sodium pump는 세포 내에서 3개의 Sodium을 세포 바깥쪽으로 퍼내고, 세포 바깥에서 2개의 Sodium을 세포 내부로 퍼내는 역할을 함
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음
+
+# V-class Proton Pump
+V-class proton pump은 식물, 효모, 곰팡이의 세포 외부에 위치한 endosome이나 lysosome에 수소 이온을 저장하도록 도와줍니다. 이로 인해 endosome이나 lysosome의 pH가 매우 낮아지게 되며, 이는 단백질 분해 과정에 사용됩니다. 또한, 뼈를 파괴하는 세포인 osteoclast와 신장 상피세포에도 존재하며, 이들은 수소를 배출하여 몸의 pH를 유지하는 데 필요한 세포입니다. 
+
+# F-class Proton Pump
+F-class proton pump는 미토콘드리아의 내막에서 ATP를 합성하는 효소입니다. Hydrogen ion이 들어오는 힘을 이용해서 미토콘드리아의 외막과 내막 사이에 Hydrogen ion 농도 경사를 형성하며, 이 Hydrogen ion 경사는 ATP 합성을 위한 Electron Transport System을 통해 생성됩니다. 
+
+# ABC Superfamily
+ABC Superfamily는 ATP Binding Cassette의 약자로, ATP 결합 및 수송에 관여하는 단백질 그룹을 의미합니다. 이들은 세균의 membrane에 있는 amino acid, sugar, peptide들을 세균 안팎으로 이동시키는 데 관여하며, 우리 몸의 세포들에서는 phospholipid, 작은 지형성 약물, cholesterol 등을 세포 안팎으로 이동시키는 역할을 합니다. 
+
+## 퀴즈
+1. V-class proton pump은 어떤 세포에 존재하며, 어떤 역할을 하는가?
+   - 답: 뼈를 파괴하는 세포인 osteoclast와 신장 상피세포에 존재하며, 수소를 배출하여 몸의 pH를 유지하는 데 필요한 세포이다.
+
+2. F-class proton pump은 어디에서 ATP를 합성하는가?
+   - 답: 미토콘드리아의 내막에서 ATP를 합성한다.
+
+3. ABC Superfamily는 어떤 역할을 하는가?
+   - 답: ATP 결합 및 수송에 관여하는 단백질 그룹으로, 세균의 membrane에 있는 amino acid, sugar, peptide들을 세균 안팎으로 이동시키는 데 관여하며, 우리 몸의 세포들에서는 phospholipid, 작은 지형성 약물, cholesterol 등을 세포 안팎으로 이동시키는 역할을 한다.
+# 강의 요약
+
+## CFTR 채널과 Chloride 이온
+
+- 호흡기 상피세포는 CFTR 채널을 통해 chloride 이온을 배출하며, 이 과정은 ATP를 사용합니다.
+- 이 과정은 호흡기 상피세포 외부의 물커스 레이어를 얇게 유지하고, 먼지를 제거하는데 필요합니다.
+- CFTR 채널에 genetic 변이가 발생하면, 채널의 기능이 고장나거나 채널 단백질이 만들어지지 않거나 cell membrane으로 이동하지 못하거나 기능이 현저히 떨어집니다.
+
+## CFTR 변이와 Cystic Fibrosis
+
+- 가장 흔한 CFTR 변이는 F508 deletion mutant로, 이 변이는 CFTR protein이 ER에서 Golgi로 이동하지 못하게 하여 cell membrane에 발현되는 CFTR 채널의 숫자를 줄입니다.
+- 이로 인해 cell이 chloride secretion을 제대로 수행하지 못하게 되며, 이는 bronchial epithelial cell의 점막증이 두꺼워지고 쌓이며, 세포들이 포집되어 여러 임상증상을 유발합니다.
+- 이러한 변이는 특히 유대인들 사이에서 많이 발생하며, cystic fibrosis라는 질병을 유발할 수 있습니다.
+
+## MDR Protein과 Chemotherapy
+
+- MDR (multidrug resistance protein)은 암세포에서 발현되며, 항암제에 대한 저항성을 유발할 수 있습니다.
+- MDR protein은 chemotherapy가 세포 안으로 들어오는 것을 방지하기 위해 세포 바깥쪽으로 ATP를 사용하여 계속해서 배출합니다.
+- 이로 인해 cancer cell은 자신이 살아남게 됩니다.
+- 이러한 상황에서는 chemotherapy와 함께 MDR protein의 기능을 억제하는 약제를 동시에 사용하면 항암 효과가 더욱 증가할 수 있습니다.
+
+## Antibiotic Resistance
+
+- 세균이 MDR protein을 발현시켜 antibiotic을 세포 바깥쪽으로 배출하여 살아남는 현상이 antibiotic resistance라고 볼 수 있습니다.
+- 따라서 많은 제약회사들은 antibiotic과 함께 MDR protein을 억제하는 전략을 개발하고 있습니다.
+
+# 퀴즈
+
+1. CFTR 채널의 기능은 무엇인가요?
+   - A. 호흡기 상피세포 외부의 물커스 레이어를 얇게 유지하는 것
+   - B. 먼지를 제거하는 것
+   - C. Chloride 이온을 배출하는 것
+   - D. 모두 맞음
+
+2. F508 deletion mutant 변이가 발생하면 어떤 결과가 나타나나요?
+   - A. CFTR protein이 ER에서 Golgi로 이동하지 못함
+   - B. Cell membrane에 발현되는 CFTR 채널의 숫자가 줄어듦
+   - C. Cell이 chloride secretion을 제대로 수행하지 못함
+   - D. 모두 맞음
+
+3. MDR protein의 역할은 무엇인가요?
+   - A. 암세포에서 발현되며, 항암제에 대한 저항성을 유발함
+   - B. Chemotherapy가 세포 안으로 들어오는 것을 방지하기 위해 세포 바깥쪽으로 ATP를 사용하여 계속해서 배출함
+   - C. Cancer cell이 살아남게 함
+   - D. 모두 맞음
+
+# 퀴즈 답안
+
+1. D. 모두 맞음
+2. D. 모두 맞음
+3. D. 모두 맞음
+# 농도경사와 물질 이동
+
+## 1. 물질 이동의 유형
+- **Symporter(코트랜스포터)**: 같은 방향으로 이동되는 물질
+- **Antiporter(익스체인저)**: 하나는 들어오고, 다른 하나는 나가는 방식으로 작용하는 물질
+
+## 2. Symporter의 예시
+- **글루코스 트랜스포터**: 세포 외부에서 세포 내부로 농도경사에 따라 글루코스가 쉽게 들어옴
+- **검은색 물질**: 농도경사를 역행하여 세포 내부로 이동, 이때 에너지를 사용
+
+## 3. Antiporter의 예시
+- **Red substance와 Black substance**: Red substance가 세포 안으로 들어오는 힘을 이용하여 Black substance가 세포 바깥쪽으로 나감
+
+## 4. Cotransporters의 역할
+- **Sodium-glucose cotransporter**: 음식을 소화하여 glucose로 분해되면, 이를 장상피 세포 안으로 이동시키는 중요한 에너지 전송 시스템
+- **Sodium-amino acid cotransporter**: Sodium의 농도경사를 이용하여 amino acid를 세포 안으로 끌어들임
+
+## 5. Exchangers의 역할
+- **Sodium-calcium exchanger**: Sodium이 세포 안으로 들어올 때 칼슘을 역행하여 밖으로 내보냄
+- **Sodium-proton exchanger**: Sodium이 들어올 때 수소 이온을 밖으로 내보냄
+- **Anion exchanger**: Chloride 이온이 들어올 때 bicarbonate 이온을 밖으로 내보냄
+
+---
+
+## 퀴즈
+
+1. Symporter는 물질이 어떤 방향으로 이동하는지 설명하시오.
+   - A. 같은 방향으로 이동
+   - B. 서로 다른 방향으로 이동
+   - C. 무작위 방향으로 이동
+   - D. 이동하지 않음
+
+2. Sodium-glucose cotransporter의 주요 역할은 무엇인가요?
+   - A. Glucose를 세포 바깥으로 이동시킴
+   - B. Sodium을 세포 안으로 이동시킴
+   - C. Glucose를 세포 안으로 이동시킴
+   - D. Sodium과 Glucose를 세포 안으로 이동시킴
+
+3. Sodium-calcium exchanger의 작동 원리는 무엇인가요?
+   - A. Sodium이 세포 안으로 들어올 때 칼슘을 역행하여 밖으로 내보냄
+   - B. Sodium이 세포 바깥으로 나갈 때 칼슘을 역행하여 세포 안으로 들어옴
+   - C. Sodium과 칼슘이 서로 교환됨
+   - D. Sodium과 칼슘이 동시에 세포 안으로 들어옴
+
+---
+
+## 답안
+1. A. 같은 방향으로 이동
+2. C. Glucose를 세포 안으로 이동시킴
+3. A. Sodium이 세포 안으로 들어올 때 칼슘을 역행하여 밖으로 내보냄
+# 강의 요약
+
+## Intracellular Calcium와 근육 수축
+
+- 세포 내 칼슘 농도가 높아지면 근육 수축이 일어남
+- 심장근 수축을 멈추기 위해 세포 내 칼슘 농도를 낮추는데 Sodium-Calcium Exchanger(NCX)가 사용됨
+- NCX는 3개의 나트륨이 들어올 때 1개의 칼슘 이온이 배출되는 3:1 비율로 작동
+- 경우에 따라 NCX가 거꾸로 작동하여 3개의 나트륨이 배출되고 1개의 칼슘 이온이 들어옴
+- 이 경우를 reverse mode of Sodium-Calcium Exchanger라고 함
+
+## 세포 내 pH 조절
+
+- 세포 내 pH는 약 7.2, 세포 외부나 혈액의 pH는 약 7.4
+- 세포 내 pH가 많이 떨어지면 세포 생존이 어려워져, 세포 내 수소 이온 농도를 높여야 함
+- 이를 위해 수소 이온 농도를 세포 외부로 배출하거나, 알칼리 이온을 세포 내로 끌어들이는 방법을 사용
+- Sodium proton exchanger를 사용하여 나트륨이 세포 내로 들어올 때, 수소 이온을 세포 외부로 배출
+- Sodium bicarbonate exchanger를 사용하여 나트륨과 이산화탄소가 세포 내로 들어오고 염화 이온을 세포 외부로 배출
+
+# 퀴즈
+
+1. Sodium-Calcium Exchanger(NCX)의 작동 비율은 어떻게 되나요?
+   - A. 1:1
+   - B. 2:1
+   - C. 3:1
+   - D. 4:1
+   - 정답: C. 3:1
+
+2. 세포 내의 pH가 낮아질수록 어떤 exchanger의 활성이 증가하나요?
+   - A. Sodium-Calcium Exchanger
+   - B. Sodium Proton Exchanger
+   - C. Sodium Bicarbonate Exchanger
+   - D. Sodium Chloride Exchanger
+   - 정답: B. Sodium Proton Exchanger
+
+3. Sodium bicarbonate exchanger의 작동 원리는 무엇인가요?
+   - A. 나트륨이 세포 내로 들어올 때, 수소 이온을 세포 외부로 배출
+   - B. 나트륨과 이산화탄소가 세포 내로 들어오고 염화 이온을 세포 외부로 배출
+   - C. 나트륨이 세포 외부로 나갈 때, 수소 이온을 세포 내로 들어옴
+   - D. 나트륨과 이산화탄소가 세포 외부로 나가고 염화 이온을 세포 내로 들어옴
+   - 정답: B. 나트륨과 이산화탄소가 세포 내로 들어오고 염화 이온을 세포 외부로 배출
+
+# 강의 요약
+
+## Transporter들의 Transport Rate 비교
+- **Water channel**과 **ion channel**은 **Facilitated diffusion** 메커니즘을 가지고 있으며, 이들의 transport rate는 매우 높습니다.
+- **Solute carrier**는 uniporter, exchanger, cotransport 등 다양한 기능을 수행하며, 이들의 transport rate는 channel보다 낮습니다.
+- **ATP에 의존하는 transporter**들, 예를 들어 sodium pump와 같은 것들도 있으며, 이들의 transport rate 역시 channel보다 낮습니다.
+
+## 세포막의 Transport 방식
+- **Endocytosis**: 세포 안으로 물질을 끌어들이는 과정
+- **Pinocytosis**: 아주 작은 물질들을 세포 안으로 끌어들이는 과정
+- **Phagocytosis**: 큰 물질들을 세포 안으로 끌어들이는 과정
+- **Receptor-mediated endocytosis**: 특이적인 수용체를 가지고 있으며, 수용체의 세포 바깥쪽에 있는 물질이 특이적으로 결합하면 세포 안으로 들어가는 과정
+- **Exocytosis**: 세포 바깥쪽으로 물질을 내보내는 과정
+- **Constitutive exocytosis**: 항상 세포에서 지속적으로 일어나는 exocytosis 형태
+- **Regulated exocytosis**: 특정 자극에 따라 분비되는 물질
+- **Transcytosis**: 주로 epithelial cell이나 pituitary cell, 혈관의 endothelial cell과 같은 조직에서 방향성을 가지고 물질을 내보내는 현상
+
+# 퀴즈
+
+1. 다음 중 Facilitated diffusion 메커니즘을 가지고 있는 transporter는 무엇인가요?
+    - A. Solute carrier
+    - B. Ion channel
+    - C. Sodium pump
+    - D. ATP transporter
+    - 답: B. Ion channel
+
+2. 다음 중 세포 안으로 물질을 끌어들이는 과정을 나타내는 용어는 무엇인가요?
+    - A. Exocytosis
+    - B. Endocytosis
+    - C. Transcytosis
+    - D. Phagocytosis
+    - 답: B. Endocytosis
+
+3. 다음 중 항상 세포에서 지속적으로 일어나는 exocytosis 형태를 나타내는 용어는 무엇인가요?
+    - A. Regulated exocytosis
+    - B. Constitutive exocytosis
+    - C. Receptor-mediated endocytosis
+    - D. Transcytosis
+    - 답: B. Constitutive exocytosis
+# 강의 요약
+
+## 1. Membrane Transport
+- Membrane Transport는 크게 Passive Transport, Active Transport, Vesicular Transport로 나눌 수 있습니다.
+- Passive Transport는 Simple Diffusion과 Facilitated Diffusion으로 이루어져 있고, Active Transport는 Primary와 Secondary로 구성됩니다.
+- 각각의 종류에는 어떤 것들이 있는지도 알아보겠습니다.
+
+## 2. Electrochemical Gradient와 Membrane Potential
+- 세포막 전압은 세포 안과 밖의 전압 차이를 말합니다.
+- 이는 세포막을 구성하는 이온들의 농도 차이와 이온의 이동에 의해 발생합니다.
+- 세포막을 통과하는 이온들은 주로 Sodium(Na+), Potassium(K+), Chloride(Cl-) 등이 있습니다.
+- 이러한 이온들의 이동은 Electrochemical Gradient에 의해 결정됩니다.
+
+## 3. Electrochemical Gradient
+- Electrochemical Gradient는 세포막을 경계로 한 전기 화학 그래디언트를 말합니다.
+- 이러한 그래디언트는 이온의 농도 차이와 전기적인 차이를 합쳐서 나타납니다.
+- 이러한 세포막을 경계로 한 Electrochemical Gradient로 인해 Transmembrane Potential이 발생합니다.
+
+## 4. Nernst equation
+- Nernst equation은 ion의 이동을 전기적인 힘과 화학적인 경사도의 곱으로 나타냅니다.
+- 따라서, sodium ion의 이동을 예측하기 위해서는 cell 내부와 외부의 전기적인 차이와 화학적인 경사도를 고려해야 합니다.
+
+# 퀴즈
+
+1. Membrane Transport는 크게 어떤 세 가지로 나눌 수 있나요?
+   - A. Passive Transport, Active Transport, Vesicular Transport
+   - B. Simple Diffusion, Facilitated Diffusion, Active Transport
+   - C. Primary, Secondary, Vesicular Transport
+   - D. Sodium, Potassium, Chloride
+
+2. Electrochemical Gradient는 어떤 것들의 차이로 이루어져 있나요?
+   - A. 이온의 농도 차이와 전기적인 차이
+   - B. 이온의 농도 차이와 화학적인 차이
+   - C. 전기적인 차이와 화학적인 차이
+   - D. 이온의 농도 차이와 온도 차이
+
+3. Nernst equation은 어떤 것을 나타내나요?
+   - A. 이온의 이동을 전기적인 힘과 화학적인 경사도의 곱
+   - B. 이온의 이동을 전기적인 힘과 온도의 곱
+   - C. 이온의 이동을 화학적인 경사도와 온도의 곱
+   - D. 이온의 이동을 전기적인 힘과 이온의 농도 차이의 곱
+
+# 퀴즈 답
+1. A
+2. A
+3. A
+## 강의 요약
+
+### 소듐 이온의 전기화학적 경사도
+
+- 소듐 이온은 화학적인 힘과 전기적인 당김 힘의 결합으로 세포 안으로 들어가려는 힘을 가집니다.
+- 이 힘은 전기화학적 경사도로 표현되며, 이는 세포 안을 경계로 한 전하를 가진 물질들에게 모두 적용됩니다.
+
+### 전기화학적 경사도 계산
+
+- 전기화학적 경사도는 화학적 경사도와 전기적 경사도의 합으로 계산됩니다.
+- 화학적 경사도는 세포 내외의 이온 농도 차이로, 전기적 경사도는 이온의 밸런스, 페라데 상수, 세포막 전위 등으로 계산됩니다.
+
+### Nernst Equation
+
+- Nernst Equation은 화학적 전기적 경사인 Electrochemical Gradient와 Chemical Gradient가 상세하게 되어 네트플럭스가 제로가 되는 지점에서의 세포막 전위를 계산하는 방법입니다.
+
+---
+
+## 퀴즈
+
+1. 소듐 이온이 세포 안으로 들어가려는 힘은 어떤 두 가지 힘의 결합으로 이루어져 있나요?
+    - A. 화학적인 힘과 전기적인 당김 힘
+    - B. 물리적인 힘과 화학적인 힘
+    - C. 전기적인 힘과 물리적인 힘
+    - D. 전기적인 힘과 자기적인 힘
+    - 정답: A. 화학적인 힘과 전기적인 당김 힘
+
+2. 전기화학적 경사도는 어떤 두 가지 요소의 합으로 계산되나요?
+    - A. 화학적 경사도와 전기적 경사도
+    - B. 화학적 경사도와 물리적 경사도
+    - C. 전기적 경사도와 자기적 경사도
+    - D. 물리적 경사도와 자기적 경사도
+    - 정답: A. 화학적 경사도와 전기적 경사도
+
+3. Nernst Equation은 무엇을 계산하는 방법인가요?
+    - A. 화학적 전기적 경사
+    - B. 전기화학적 경사도
+    - C. 네트플럭스가 제로가 되는 지점에서의 세포막 전위
+    - D. 세포막 전위의 최대치
+    - 정답: C. 네트플럭스가 제로가 되는 지점에서의 세포막 전위
+# 전기화학적 경사도 계산
+
+전기화학적 경사도를 계산하는 공식은 다음과 같습니다:
+
+```
+ΔG = -RT ln(K)
+```
+
+여기서,
+
+- ΔG: 전기화학적 경사도
+- R: 기체 상수
+- T: 온도
+- K: 평형상수
+
+이 공식을 통해 막의 포텐셜을 계산할 수 있습니다.
+
+## 순수 유량이 0이 되는 경우
+
+전기적 경사도와 화학적 경사도가 같아져서 순수 유량이 0이 되는 경우, 즉 ΔG가 0이 되는 경우를 생각해봅시다. 이때의 막의 포텐셜을 X라고 하면, 위의 공식을 화학적 경사도를 왼쪽으로 옮기면 다음과 같이 표현할 수 있습니다:
+
+```
+ΔG = -RT ln(K) = -RT ln(XO/XI)
+```
+
+여기서,
+
+- XO: 외부 용액의 이온 농도
+- XI: 내부 용액의 이온 농도
+
+이 공식을 X에 대해 풀면 다음과 같은 결과를 얻을 수 있습니다:
+
+```
+X = XO * exp(-ΔG/RT)
+```
+
+## 퀴즈
+
+1. 전기화학적 경사도를 계산하는 공식은 무엇인가요?
+   - A. ΔG = RT ln(K)
+   - B. ΔG = -RT ln(K)
+   - C. ΔG = RT ln(XO/XI)
+   - D. ΔG = -RT ln(XO/XI)
+   - 답: B
+
+2. 순수 유량이 0이 되는 경우, 막의 포텐셜 X를 계산하는 공식은 무엇인가요?
+   - A. X = XO * exp(ΔG/RT)
+   - B. X = XO * exp(-ΔG/RT)
+   - C. X = XI * exp(ΔG/RT)
+   - D. X = XI * exp(-ΔG/RT)
+   - 답: B
+
+3. ΔG가 0이 되는 경우, 어떤 상황인가요?
+   - A. 전기적 경사도와 화학적 경사도가 다름
+   - B. 전기적 경사도와 화학적 경사도가 같음
+   - C. 순수 유량이 0이 됨
+   - D. B와 C 모두
+   - 답: D
+# 전기화학적 경사도와 막의 포텐셜
+
+전기화학적 경사도와 화학적 경사도를 통해 막의 포텐셜을 계산할 수 있습니다. 이 계산에 사용되는 상수들은 다음과 같습니다:
+
+- 온도(T): 37도
+- 기체 상수(R): 알려진 값
+- Gibbs 자유 에너지 변화(ΔG): 이온 종류에 따라 다름
+- XO와 XI: 주어진 이온 농도에 따라 결정
+
+이를 통해 계산한 막의 포텐셜은 약 61.5mV입니다.
+
+# Sodium 이온의 평형 전압
+
+37도 체온에서 세포 밖과 안의 Sodium 이온 농도의 비율은 10:1입니다. 이를 Nernst 방정식에 대입하면 다음과 같습니다:
+
+EX = -61.5 * log(10/1) = -61.5 * log(10) = -61.5 * 1 = -61.5 mV
+
+따라서, Sodium 이온의 평형 전압(EX)은 -61.5 mV입니다.
+
+---
+
+## 퀴즈
+
+1. 막의 포텐셜을 계산하는데 사용되는 상수 중, 이온 종류에 따라 달라지는 것은 무엇인가요?
+    - A. 온도
+    - B. 기체 상수
+    - C. Gibbs 자유 에너지 변화
+    - D. XO와 XI
+    - 정답: C. Gibbs 자유 에너지 변화
+
+2. Sodium 이온의 평형 전압(EX)은 얼마인가요?
+    - A. 61.5 mV
+    - B. -61.5 mV
+    - C. 10 mV
+    - D. -10 mV
+    - 정답: B. -61.5 mV
+
+3. 37도 체온에서 세포 밖과 안의 Sodium 이온 농도의 비율은 얼마인가요?
+    - A. 1:10
+    - B. 10:1
+    - C. 1:1
+    - D. 2:1
+    - 정답: B. 10:1
+
+# 강의 요약
+
+## 로그와 전위
+
+- 로그 1은 0이다. 이는 어떤 수를 몇 번 곱해야 1이 되는지를 나타내는 지수이기 때문이다.
+- 막 전위(membrane potential)는 sodium ion의 농도 차이에 의해 결정되는 것이 아니라, 전기화학적 경사(electrochemical gradient)에 의해 결정된다. 이는 sodium ion과 다른 ion들의 전기화학적 경사의 합으로 결정된다.
+
+## Sodium 이동과 전하
+
+- Sodium는 양전하를 가지는 cation이다. Sodium가 이동하면 양전하가 쌓이게 되고, 이는 전위를 생성한다.
+- Sodium가 이동할수록 양전하가 계속 쌓이게 되어 증가하게 된다. 이는 화학적 평형상태에 이르기 전까지 계속해서 증가하게 된다.
+
+## 평형상태와 전위
+
+- 양전하의 합이 2로 나누어진 값이 화학적 경사도의 평형상태를 나타낸다.
+- Sodium의 이동량이 매우 적어져서 거의 오른쪽의 Sodium 농도 변화가 없을 정도로 아주 조금만 움직여도 평형상태에 이르게 된다.
+
+## 실험적 측정
+
+- cell 바깥쪽에 reference electrode를 두고 cell 내로 electrode를 찔러 넣어서 cell 안팎의 voltage difference를 측정하면, 이것이 membrane potential 또는 membrane voltage를 측정하는 것이다.
+- 이렇게 하면 모든 cell이 negative 값을 가지고 있다는 것을 확인할 수 있다.
+
+# 퀴즈
+
+1. 로그 1의 값은 무엇인가요?
+    - A. 1
+    - B. 0
+    - C. -1
+    - D. 10
+    - 정답: B. 0
+
+2. Sodium 이동이 양전하 쌓임에 어떤 영향을 주나요?
+    - A. Sodium 이동이 양전하 쌓임을 감소시킨다.
+    - B. Sodium 이동이 양전하 쌓임을 증가시킨다.
+    - C. Sodium 이동이 양전하 쌓임에 영향을 주지 않는다.
+    - D. Sodium 이동이 양전하 쌓임을 일시적으로 증가시킨다.
+    - 정답: B. Sodium 이동이 양전하 쌓임을 증가시킨다.
+
+3. cell 안팎의 voltage difference를 측정하는 것은 무엇을 나타내나요?
+    - A. cell의 크기
+    - B. cell의 형태
+    - C. membrane potential 또는 membrane voltage
+    - D. cell의 수명
+    - 정답: C. membrane potential 또는 membrane voltage
+# 강의 요약
+
+## Active Transport
+
+Active Transport는 물질을 농도 경사를 역행시키는 방법으로, 이 과정에서 에너지를 사용합니다. 이 방법에는 두 가지 방식이 있습니다.
+
+1. **Primary Active Transport**: ATP의 가수분해를 통해 직접적으로 에너지를 얻어 농도 경사를 역행시키는 방법입니다. 예를 들어, Sodium Potassium ATPase(소듐 펌프)는 이 방식을 사용하여 sodium ion을 세포 바깥쪽으로 퍼내고 potassium ion을 세포 안으로 끌어들입니다.
+
+2. **Secondary Active Transport**: 물질의 이동으로 인해 발생한 에너지를 이용하여 농도 경사를 역행시키는 방법입니다. Sodium Calcium exchanger(소듐 칼슘 교환체)는 이 방식을 사용하여 sodium ion과 calcium ion을 교환합니다.
+
+## 세포 내외의 이온 농도
+
+세포 내외의 이온 농도는 다음과 같습니다.
+
+- Sodium 이온: 세포 바깥쪽에는 약 145mmol, 세포 안에는 10분의 1 이하로 유지됩니다.
+- Potassium 이온: 세포 바깥쪽 농도는 4mmol, 세포 안에는 120mmol로 세포 안이 더 높습니다.
+- Calcium 이온: 세포 바깥쪽 농도는 2.5mmol, 세포 안에는 0.001mmol 이하입니다.
+
+## Primary Active Transport와 Secondary Active Transport
+
+Primary Active Transport는 보통 Pump라는 이름을 가지고 있습니다. 이는 Protein 자체가 ATP를 가수분해에서 에너지를 얻기 때문입니다. 이에 반해, Secondary Active Transport는 ATP 가수분해 없이 발생합니다.
+
+# 퀴즈
+
+1. Active Transport에서 물질을 농도 경사를 역행시키는 방법에는 어떤 것들이 있나요?
+   - A. Primary Active Transport
+   - B. Secondary Active Transport
+   - C. Tertiary Active Transport
+   - D. A와 B
+
+2. Sodium Potassium ATPase(소듐 펌프)는 어떤 방식을 사용하여 sodium ion과 potassium ion을 이동시키나요?
+   - A. Primary Active Transport
+   - B. Secondary Active Transport
+   - C. Tertiary Active Transport
+   - D. Passive Transport
+
+3. 세포 내외의 Sodium 이온 농도는 어떻게 되나요?
+   - A. 세포 바깥쪽에는 약 145mmol, 세포 안에는 10분의 1 이하
+   - B. 세포 바깥쪽에는 약 10mmol, 세포 안에는 145분의 1 이하
+   - C. 세포 바깥쪽에는 약 120mmol, 세포 안에는 4분의 1 이하
+   - D. 세포 바깥쪽에는 약 2.5mmol, 세포 안에는 0.001mmol 이하
+
+# 퀴즈 답안
+
+1. D. A와 B
+2. A. Primary Active Transport
+3. A. 세포 바깥쪽에는 약 145mmol, 세포 안에는 10분의 1 이하
+# 강의 요약
+
+## Primary Active Transport
+
+- **F클래스 프로톤 펌프**와 **ABC 슈퍼 패밀리**는 primary active transport에 속함
+- **PVF클래스 펌프**는 이온을 수송하는 펌프로 주로 이온만을 수송
+- **ABC 슈퍼 패밀리**는 ATP binding cassette에서 유래한 이름으로, 이온 채널을 포함하며, 대부분은 작은 분자, 지질 등을 세포막을 에너지를 사용하여 이동시키는 방식으로 작용
+
+## P클래스 펌프
+
+- **P클래스 펌프** 중에서는 **소듐 펌프**가 가장 대표적
+- 소듐 펌프는 우리 몸에서 이온 농도를 조절하는 데 매우 중요한 역할을 함
+- **Hydrogen pump**, **Gastric acid secretion**과 **Hydrochloric acid secretion**을 일으키는 Hydrogen pump, **Sodium-Potassium pump** 또는 **ATP** 등이 있음
+- 이러한 펌프들은 모두 Ion을 수송할 때 ATP 분자가 Hydrolysis되어 Transport protein에 Phosphorylation을 시키고, Phosphorylation에 의해 pump의 구조가 변화하여 Ion을 수송
+
+## Sodium 펌프
+
+- Sodium 펌프는 세포 내에서 3개의 Sodium을 세포 바깥쪽으로 퍼내고, 세포 바깥에서 2개의 Sodium을 세포 내부로 퍼내는 역할을 함
+- Sodium 펌프가 돌면서 세포 내의 막전압은 더 마이너스 쪽으로 내려가게 됨
+- Sodium 펌프의 교환 비율은 3대 2
+
+## Proton 펌프
+
+- Proton 펌프는 위에서 염산을 분비하는 데 필요
+- 수소이온이 하나 나갈 때 potassium이온이 하나 들어옴
+- 이 과정에서 ATP 가수분해를 통해 에너지를 얻고, 수소이온을 농도경사에 역행시켜 potassium이 들어오게 됨
+
+---
+
+# 퀴즈
+
+1. ABC 슈퍼 패밀리는 어떤 방식으로 작용하는가?
+   - A. 이온 채널을 포함하며, 대부분은 작은 분자, 지질 등을 세포막을 에너지를 사용하여 이동시키는 방식으로 작용
+   - B. 이온만을 수송하는 방식으로 작용
+   - C. ATP를 가수분해하여 에너지를 얻는 방식으로 작용
+   - D. 세포 내에서 3개의 Sodium을 세포 바깥쪽으로 퍼내는 방식으로 작용
+   - 답: A
+
+2. Sodium 펌프의 교환 비율은 어떻게 되는가?
+   - A. 1대 1
+   - B. 2대 3
+   - C. 3대 2
+   - D. 4대 3
+   - 답: C
+
+3. Proton 펌프는 어떤 과정을 통해 에너지를 얻는가?
+   - A. ATP를 가수분해하여 에너지를 얻음
+   - B. 이온을 수송하여 에너지를 얻음
+   - C. 세포 내에서 3개의 Sodium을 세포 바깥쪽으로 퍼내어 에너지를 얻음
+   - D. 세포 내에서 2개의 Sodium을 세포 바깥쪽으로 퍼내어 에너지를 얻음
+   - 답: A
+# V-class Proton Pump
+V-class proton pump은 식물, 효모, 곰팡이의 세포 외부에 위치한 endosome이나 lysosome에 수소 이온을 저장하도록 도와줍니다. 이로 인해 endosome이나 lysosome의 pH가 매우 낮아지게 되며, 이는 단백질 분해 과정에서 중요한 역할을 합니다. 또한, 뼈를 파괴하는 세포인 osteoclast와 일부 신장 상피세포에도 존재하며, 이들은 수소를 배출하여 몸의 pH를 유지하는 데 필요한 세포입니다.
+
+# F-class Proton Pump
+F-class proton pump은 미토콘드리아의 내막에서 ATP를 합성하는 효소입니다. Hydrogen ion이 들어오는 힘을 이용해서 미토콘드리아의 외막과 내막 사이에 Hydrogen ion 농도 경사를 형성하며, 이는 ATP 합성을 위한 Electron Transport System을 통해 생성됩니다.
+
+# ABC Superfamily
+ABC Superfamily는 ATP Binding Cassette의 약자로, ATP 결합 및 수송에 관여하는 단백질 그룹을 의미합니다. 이들은 세균의 membrane에 있는 amino acid, sugar, peptide들을 세균 안팎으로 이동시키는 데 관여하며, 우리 몸의 세포들에서는 phospholipid, 작은 지형성 약물, cholesterol 등을 세포 안팎으로 이동시키는 역할을 합니다.
+
+## 퀴즈
+1. V-class proton pump은 어떤 세포에 존재하며, 그 역할은 무엇인가요?
+   - A. 식물 세포, 수소 이온 저장
+   - B. 효모 세포, 수소 이온 배출
+   - C. 곰팡이 세포, 수소 이온 이동
+   - D. osteoclast, 수소 이온 배출
+   - 답: D. osteoclast, 수소 이온 배출
+
+2. F-class proton pump은 어디에서 ATP를 합성하나요?
+   - A. 미토콘드리아의 외막
+   - B. 미토콘드리아의 내막
+   - C. 세포막
+   - D. 세포핵
+   - 답: B. 미토콘드리아의 내막
+
+3. ABC Superfamily는 어떤 역할을 하는 단백질 그룹인가요?
+   - A. ATP 결합 및 수송
+   - B. ATP 분해 및 수송
+   - C. ATP 생성 및 수송
+   - D. ATP 저장 및 수송
+   - 답: A. ATP 결합 및 수송
+# 강의 요약
+
+## 호흡기 상피세포와 CFTR 채널
+
+호흡기 상피세포는 물커스 레이어를 유지하고, 먼지를 쓸어내는 역할을 합니다. 이를 위해 CFTR 채널을 통해 chloride 이온을 배출하는데, 이 과정에서 ATP를 사용합니다. 
+
+## CFTR 채널의 변이와 cystic fibrosis
+
+CFTR 채널에 genetic 변이가 발생하면, 채널의 기능이 고장나거나 채널 단백질이 만들어지지 않거나 cell membrane으로 이동하지 못하거나 cell membrane까지 도달했지만 기능이 현저히 떨어지는 등 다양한 증상이 나타날 수 있습니다. 이러한 변이는 특히 유대인들 사이에서 많이 발생하며, cystic fibrosis라는 질병을 유발할 수 있습니다.
+
+## MDR protein과 암세포
+
+MDR (multidrug resistance protein)은 암세포에서 발현되며, 항암제에 대한 저항성을 유발할 수 있습니다. 암세포를 죽이기 위해 항암제를 사용할 때 MDR이 약물의 효과를 감소시킬 수 있습니다.
+
+## Chemotherapy와 MDR protein
+
+Chemotherapy는 cancer cell의 안쪽으로 들어가서 세포 내에서 DNA를 파괴하거나 protein의 합성을 억제하여 결국 cancer cell을 죽게 합니다. 하지만 시간이 지나면서 cancer cell들이 MDR protein을 많이 세포막에 생성하여 chemotherapy가 세포 안으로 들어오는 것을 방지합니다. 이러한 경우에는 chemotherapy와 함께 MDR protein의 기능을 억제하는 약제를 동시에 사용하면 항암 효과가 더욱 증가할 수 있습니다.
+
+## Antibiotic resistance
+
+세균이 MDR protein을 발현시켜 antibiotic을 세포 바깥쪽으로 배출하여 살아남는 현상이 antibiotic resistance라고 볼 수 있습니다. 많은 제약회사들은 antibiotic과 함께 MDR protein을 억제하는 전략을 개발하고 있습니다.
+
+# 퀴즈
+
+1. CFTR 채널의 기능은 무엇인가요?
+   - A. 호흡기 상피세포의 물커스 레이어를 유지하는 것
+   - B. 암세포를 죽이는 것
+   - C. 세포 내에서 DNA를 파괴하는 것
+   - D. 세포 바깥쪽으로 antibiotic을 배출하는 것
+   - 답: A
+
+2. MDR protein이 암세포에서 어떤 역할을 하는지 설명하세요.
+   - A. 암세포를 죽이는 역할
+   - B. 항암제에 대한 저항성을 유발하는 역할
+   - C. 세포 내에서 DNA를 파괴하는 역할
+   - D. 세포 바깥쪽으로 antibiotic을 배출하는 역할
+   - 답: B
+
+3. Antibiotic resistance이란 무엇인가요?
+   - A. 세균이 MDR protein을 발현시켜 antibiotic을 세포 바깥쪽으로 배출하여 살아남는 현상
+   - B. 세균이 antibiotic을 세포 안으로 들여와 죽는 현상
+   - C. 세균이 antibiotic을 세포 안으로 들여와 살아남는 현상
+   - D. 세균이 MDR protein을 발현시켜 antibiotic을 세포 안으로 들여와 죽는 현상
+   - 답: A
+
+# 농도경사와 물질 이동
+
+## 1. 물질 이동의 유형
+- **Symporter(코트랜스포터)**: 같은 방향으로 이동되는 물질
+- **Antiporter(익스체인저)**: 하나는 들어오고, 다른 하나는 나가는 방식으로 작용하는 물질
+
+## 2. Symporter의 예시
+- 글루코스와 같은 물질은 세포 외부에서 세포 내부로 농도경사에 따라 쉽게 들어옴
+- 검은색 물질은 농도경사를 역행하여 세포 내부로 이동하며, 이때 에너지를 사용함
+- 빨간색과 검은색 물질이 같은 방향으로 이동하므로 이를 코트랜스포터 또는 심포터라고 부름
+
+## 3. Antiporter의 예시
+- red substance가 세포 안으로 쉽게 들어오려고 하는 힘을 이용하여 black substance가 concentration gradient를 역행하여 세포 바깥쪽으로 나감
+- 이는 exchanger의 원리를 보여주는 것으로, 서로 맞교환되는 과정을 나타냄
+
+## 4. Cotransporters의 예시
+- sodium을 이용하여 glucose가 세포 안으로 들어오는 과정
+- sodium의 concentration gradient를 이용하여 amino acid를 세포 안으로 끌어들이는 과정
+- sodium이 들어올 때 potassium이 따라 들어오거나, bicarbonate가 세포 바깥쪽으로 나가려고 할 때 sodium이 concentration gradient에 역행하여 따라 나가는 과정
+
+## 5. Exchangers의 예시
+- sodium-calcium exchanger: 소듐이 세포 안으로 들어올 때 칼슘을 역행하여 밖으로 내보냄
+- sodium-proton exchanger: 소듐이 들어올 때 수소 이온을 밖으로 내보냄
+- anion exchanger: chloride 이온이 들어올 때 bicarbonate 이온을 밖으로 내보냄
+
+---
+
+# 퀴즈
+
+1. Symporter는 물질이 어떤 방향으로 이동하는지 설명하시오.
+   - 답: 같은 방향으로 이동한다.
+
+2. Antiporter의 원리를 설명하시오.
+   - 답: 하나의 물질이 들어오는 힘을 이용하여 다른 물질이 농도경사를 역행하여 나가는 원리이다.
+
+3. sodium-calcium exchanger의 역할은 무엇인가?
+   - 답: 소듐이 세포 안으로 들어올 때 칼슘을 역행하여 밖으로 내보내는 역할을 한다.
+# 강의 요약
+
+## Intracellular Calcium와 근육 수축
+
+- Intracellular calcium이 높아지면 근육의 수축이 일어남
+- 심장근의 수축을 멈추기 위해 intracellular calcium 농도를 낮추어야 함
+- 이를 위해 Sodium-Calcium Exchanger(NCX)를 사용
+- NCX는 3:1 비율로 작동 (3개의 sodium이 들어올 때 1개의 calcium ion이 배출)
+- 경우에 따라 NCX가 거꾸로 작동하는 경우도 있음 (reverse mode of Sodium-Calcium Exchanger)
+
+## 세포 내의 pH 조절
+
+- 세포 내의 pH는 약 7.2 정도로 유지되어야 함
+- 세포 내의 pH가 많이 떨어진다면, 세포는 생존하기 어려움
+- 세포 내의 hydrogen ion 농도를 높여야 함
+- 이를 위해 sodium proton exchanger를 사용
+- 세포 내의 pH가 낮아질수록 이 sodium proton exchanger의 활성이 증가
+
+## 퀴즈
+
+1. Sodium-Calcium Exchanger(NCX)의 작동 비율은 어떻게 되나요?
+   - A. 1:1
+   - B. 2:1
+   - C. 3:1
+   - D. 4:1
+   - 정답: C. 3:1
+
+2. 세포 내의 정상적인 pH 범위는 어떻게 되나요?
+   - A. 약 6.2
+   - B. 약 7.2
+   - C. 약 8.2
+   - D. 약 9.2
+   - 정답: B. 약 7.2
+
+3. 세포 내의 pH가 낮아질수록 어떤 exchanger의 활성이 증가하나요?
+   - A. Sodium-Calcium Exchanger
+   - B. Sodium Proton Exchanger
+   - C. Sodium Bicarbonate Exchanger
+   - D. Sodium Chloride Exchanger
+   - 정답: B. Sodium Proton Exchanger
+
+# 강의 요약
+
+## 세포 내 물질 이동 메커니즘
+
+1. **Facilitated Diffusion**: Water channel과 ion channel이 이에 해당하며, 이들의 transport rate는 매우 높습니다. 이들은 거의 simple diffusion으로 이동되는 속도에 가까울 정도로 빠르게 이동할 수 있습니다.
+
+2. **Solute Carrier**: Uniporter, exchanger, cotransport 등 다양한 기능을 수행할 수 있으며, transport rate는 channel보다 훨씬 낮습니다. 이들은 transport 과정에서 복잡한 구조적 변화를 거쳐야 합니다.
+
+3. **ATP-dependent Transporters**: Sodium pump 등이 이에 해당하며, 이들의 transport rate 역시 channel보다 훨씬 낮습니다. 이들은 ATP가 hydrolysis되면서 물질이 농도의 역행에서 이동해야 합니다.
+
+## Vesicular Transport
+
+1. **Endocytosis**: 세포 안으로 물질을 끌어들이는 과정입니다. 이는 pinocytosis(아주 작은 물질들을 세포 안으로 끌어들이는 과정)와 phagocytosis(큰 물질들을 세포 안으로 끌어들이는 과정)을 포함합니다.
+
+2. **Receptor-mediated Endocytosis**: Cholesterol이나 LDL과 같은 물질들은 이 방식을 통해 세포 안으로 끌어들여집니다. 이 방식은 특이적인 수용체를 가지고 있으며, 수용체의 세포 바깥쪽에 있는 물질이 특이적으로 결합하면 세포 안으로 들어가는 과정을 거칩니다.
+
+3. **Exocytosis**: 세포 바깥쪽으로 물질을 내보내는 과정입니다. 이는 constitutive exocytosis(항상 세포에서 지속적으로 일어나는 형태)와 regulated exocytosis(특정 자극에 따라 분비되는 물질)을 포함합니다.
+
+4. **Transcytosis**: 주로 epithelial cell이나 pituitary cell, 혈관의 endothelial cell과 같은 조직에서 방향성을 가지고 물질을 내보내는 현상입니다.
+
+---
+
+# 퀴즈
+
+1. 다음 중 Facilitated Diffusion에 해당하는 것은 무엇인가요?
+    - A. Solute Carrier
+    - B. Water Channel
+    - C. Sodium Pump
+    - D. ATP-dependent Transporters
+    - 답: B. Water Channel
+
+2. Receptor-mediated Endocytosis는 어떤 물질을 세포 안으로 끌어들이는 방식인가요?
+    - A. Water
+    - B. Sodium
+    - C. Cholesterol
+    - D. ATP
+    - 답: C. Cholesterol
+
+3. Transcytosis는 주로 어떤 세포에서 발생하는 현상인가요?
+    - A. Muscle Cells
+    - B. Epithelial Cells
+    - C. Nerve Cells
+    - D. Blood Cells
+    - 답: B. Epithelial Cells
+# 강의 요약
+
+## 1. Membrane Transport
+- Membrane Transport는 크게 Passive Transport, Active Transport, Vesicular Transport로 나눌 수 있습니다.
+- Passive Transport는 Simple Diffusion과 Facilitated Diffusion으로 이루어져 있고, Active Transport는 Primary와 Secondary로 구성됩니다.
+- 각각의 종류에는 어떤 것들이 있는지도 알아보겠습니다.
+
+## 2. Electrochemical Gradient와 Membrane Potential
+- 세포막 전압은 세포 안과 밖의 전압 차이를 말합니다.
+- 이는 세포막을 구성하는 이온들의 농도 차이와 이온의 이동에 의해 발생합니다.
+- 세포막을 통과하는 이온들은 주로 Sodium(Na+), Potassium(K+), Chloride(Cl-) 등이 있습니다.
+- 이러한 이온들의 이동은 Electrochemical Gradient에 의해 결정됩니다.
+
+## 3. Electrochemical Gradient
+- Electrochemical Gradient는 세포막을 경계로 한 전기 화학 그래디언트를 말합니다.
+- 이러한 그래디언트는 이온의 농도 차이와 전기적인 차이를 합쳐서 나타납니다.
+- 이러한 세포막을 경계로 한 Electrochemical Gradient로 인해 Transmembrane Potential이 발생합니다.
+
+## 4. Nernst equation
+- Nernst equation은 ion의 이동을 전기적인 힘과 화학적인 경사도의 곱으로 나타냅니다.
+- 따라서, sodium ion의 이동을 예측하기 위해서는 cell 내부와 외부의 전기적인 차이와 화학적인 경사도를 고려해야 합니다.
+
+# 퀴즈
+
+1. Membrane Transport는 어떤 세 가지로 나눌 수 있나요?
+   - A. Passive Transport, Active Transport, Vesicular Transport
+   - B. Simple Diffusion, Facilitated Diffusion, Active Transport
+   - C. Primary, Secondary, Vesicular Transport
+   - D. Sodium, Potassium, Chloride
+
+2. Electrochemical Gradient는 무엇을 의미하나요?
+   - A. 세포막을 경계로 한 전기 화학 그래디언트
+   - B. 세포막을 경계로 한 전위 차이
+   - C. 세포막을 통과하는 이온들의 농도 차이
+   - D. 세포막을 통과하는 이온들의 이동
+
+3. Nernst equation은 무엇을 나타내나요?
+   - A. ion의 이동을 전기적인 힘과 화학적인 경사도의 곱
+   - B. ion의 이동을 전기적인 힘과 화학적인 경사도의 합
+   - C. ion의 이동을 전기적인 힘과 화학적인 경사도의 차
+   - D. ion의 이동을 전기적인 힘과 화학적인 경사도의 나눗셈
+
+# 퀴즈 답안
+1. A
+2. A
+3. A
+## 강의 요약
+
+### 소듐 이온의 전기화학적 경사도
+
+소듐 이온은 화학적인 힘과 전기적인 당김 힘의 결합으로 세포 안으로 들어가려는 힘이 있습니다. 이를 전기화학적 경사도라고 합니다. 이 경사도는 세포 안으로 들어가려는 힘을 나타내며, 이는 에너지를 이용하여 농도 경사에 역행하여 세포 안으로 들어오거나 내보내는 등의 방식을 사용할 수 있습니다.
+
+### 전기화학적 경사도의 계산
+
+전기화학적 경사도는 화학적 경사와 전기적 경사의 합으로 계산됩니다. 화학적 경사는 세포 내외의 이온 농도 차이로 나타내며, 전기적 경사는 이온의 밸런스, 페라데 상수, 세포막 전압 등에 의해 결정됩니다.
+
+### Nernst Equation
+
+Nernst Equation은 화학적 전기적 경사인 Electrochemical Gradient와 Chemical Gradient가 상세하게 되어 네트플럭스가 제로가 되는 지점에서의 세포막 전위를 계산하는 방법입니다.
+
+---
+
+## 퀴즈
+
+1. 소듐 이온이 세포 안으로 들어가려는 힘은 어떤 두 가지 힘의 결합으로 이루어져 있나요?
+    - A. 화학적인 힘과 전기적인 당김 힘
+    - B. 물리적인 힘과 화학적인 힘
+    - C. 전기적인 힘과 물리적인 힘
+    - D. 화학적인 힘과 열적인 힘
+    - 정답: A. 화학적인 힘과 전기적인 당김 힘
+
+2. 전기화학적 경사도는 어떤 두 가지 요소의 합으로 계산되나요?
+    - A. 화학적 경사와 전기적 경사
+    - B. 화학적 경사와 물리적 경사
+    - C. 전기적 경사와 열적 경사
+    - D. 물리적 경사와 열적 경사
+    - 정답: A. 화학적 경사와 전기적 경사
+
+3. Nernst Equation은 무엇을 계산하는 방법인가요?
+    - A. 화학적 경사
+    - B. 전기적 경사
+    - C. 네트플럭스가 제로가 되는 지점에서의 세포막 전위
+    - D. 세포막 전압
+    - 정답: C. 네트플럭스가 제로가 되는 지점에서의 세포막 전위
+# 전기화학적 경사도 계산
+
+전기화학적 경사도 또는 포텐셜을 계산하는 공식은 다음과 같습니다:
+
+```
+ΔG = -RT ln(K)
+```
+
+여기서,
+
+- ΔG는 전기화학적 경사도
+- R은 기체 상수
+- T는 온도
+- K는 평형상수
+
+이 공식을 사용하여 막의 포텐셜을 계산할 수 있습니다.
+
+## 순수 유량이 0이 되는 경우
+
+전기적 경사도와 화학적 경사도가 같아져서 순수 유량이 0이 되는 경우, 즉 ΔG가 0이 되는 경우를 생각해보겠습니다. 이때의 막의 포텐셜을 X라고 하면, 위의 공식을 화학적 경사도를 왼쪽으로 옮기면 다음과 같이 표현할 수 있습니다:
+
+```
+ΔG = -RT ln(K) = -RT ln(XO/XI)
+```
+
+여기서,
+
+- XO는 외부 용액의 이온 농도
+- XI는 내부 용액의 이온 농도
+
+이 공식을 X에 대해 풀면 다음과 같은 결과를 얻을 수 있습니다:
+
+```
+X = XO * exp(-ΔG/RT)
+```
+
+## 퀴즈
+
+1. 전기화학적 경사도를 계산하는 공식은 무엇인가요?
+    - A. ΔG = RT ln(K)
+    - B. ΔG = -RT ln(K)
+    - C. ΔG = -RT ln(XO/XI)
+    - D. ΔG = RT ln(XO/XI)
+    - 답: B
+
+2. 순수 유량이 0이 되는 경우, 막의 포텐셜 X를 계산하는 공식은 무엇인가요?
+    - A. X = XO * exp(-ΔG/RT)
+    - B. X = XO * exp(ΔG/RT)
+    - C. X = XI * exp(-ΔG/RT)
+    - D. X = XI * exp(ΔG/RT)
+    - 답: A
+
+3. ΔG가 0이 되는 경우, 전기적 경사도와 화학적 경사도는 어떤 상태인가요?
+    - A. 전기적 경사도가 화학적 경사도보다 큼
+    - B. 화학적 경사도가 전기적 경사도보다 큼
+    - C. 전기적 경사도와 화학적 경사도가 같음
+    - D. 전기적 경사도와 화학적 경사도의 관계를 알 수 없음
+    - 답: C
+
+# 전기화학적 경사도와 막의 포텐셜
+
+전기화학적 경사도와 화학적 경사도를 통해 막의 포텐셜을 계산할 수 있습니다. 이 계산에 사용되는 상수들은 다음과 같습니다:
+
+- 온도: 37도
+- R 값: 기체 상수
+- ΔG 값: 이온에 따라 다름
+- XO와 XI: 주어진 이온 농도에 따라 결정
+
+이를 통해 계산한 막의 포텐셜은 약 61.5mV입니다.
+
+# Sodium 이온의 평형 전압
+
+37도 체온에서 세포 밖과 안의 Sodium 이온 농도의 비율은 10:1입니다. 이 비율을 이용하여 Nernst 방정식을 적용하면, Sodium 이온의 평형 전압(EX)은 -61.5 mV입니다.
+
+```math
+EX = -61.5 * log(10/1)
+   = -61.5 * log(10)
+   = -61.5 * 1
+   = -61.5 mV
+```
+
+## 퀴즈
+
+1. 막의 포텐셜을 계산하는데 사용되는 상수 중, 이온에 따라 값이 달라지는 상수는 무엇인가요?
+   - A. 온도
+   - B. R 값
+   - C. ΔG 값
+   - D. XO와 XI
+
+2. Sodium 이온의 평형 전압(EX)을 계산하는 공식은 무엇인가요?
+   - A. EX = -61.5 * log(10/1)
+   - B. EX = -61.5 * log(1/10)
+   - C. EX = 61.5 * log(10/1)
+   - D. EX = 61.5 * log(1/10)
+
+3. 37도 체온에서 세포 밖과 안의 Sodium 이온 농도의 비율은 얼마인가요?
+   - A. 1:10
+   - B. 10:1
+   - C. 1:1
+   - D. 10:10
+
+### 답
+1. C. ΔG 값
+2. A. EX = -61.5 * log(10/1)
+3. B. 10:1
+# 강의 요약
+
+## 로그와 전위
+
+- 로그 1은 0이다. 이는 어떤 수를 몇 번 곱해야 1이 되는지를 나타내는 지수이기 때문이다.
+- 막 전위(membrane potential)는 sodium ion의 농도 차이에 의해 결정되는 것이 아니라, 전기화학적 경사(electrochemical gradient)에 의해 결정된다. 이는 sodium ion과 다른 ion들의 전기화학적 경사의 합으로 결정된다.
+
+## Sodium 이동과 전위
+
+- Sodium는 양전하를 가지고 있는 cation이다. Sodium가 이동하면 양전하가 쌓이게 되고, 이는 전위를 생성한다.
+- Sodium가 이동하면서 양전하가 쌓이다 보면, 어느 순간 더 이상 Sodium가 들어오지 못하도록 양전하가 밀어내는 힘이 생긴다. 이때의 양전하의 양은 화학적 평형상태에 이르기 전까지 계속해서 증가한다.
+
+## Potassium 이동과 전위
+
+- cell membrane이 potassium에 대해서만 동일한 조건에서 투과성(permeability)를 가지고 있다고 가정하면, potassium은 왼쪽에서 오른쪽으로 10배 concentration gradient를 타고 이동하게 된다.
+- 이동할 때마다 오른쪽에 positive charge가 쌓이므로, 82.5mV에 도달하기 전에 전기화학적 평형 상태에 이르게 되면서 potassium의 net flux는 0이 된다.
+
+## 실험적 측정
+
+- cell 바깥쪽에 reference electrode를 두고 cell 내로 electrode를 찔러 넣어서 cell 안팎의 voltage difference를 측정하면, 이것이 membrane potential 또는 membrane voltage를 측정하는 것이다.
+- 이렇게 하면 모든 cell이 negative 값을 가지고 있다는 것을 확인할 수 있다.
+
+# 퀴즈
+
+1. 로그 1의 값은 얼마인가?
+    - A. 1
+    - B. 0
+    - C. -1
+    - D. 무한대
+    - 정답: B
+
+2. Sodium 이동에 따른 전위 변화는 어떻게 이루어지는가?
+    - A. Sodium 이동에 따라 양전하가 쌓이고, 이는 전위를 생성한다.
+    - B. Sodium 이동에 따라 음전하가 쌓이고, 이는 전위를 생성한다.
+    - C. Sodium 이동에 따라 전위는 변하지 않는다.
+    - D. Sodium 이동에 따라 전위는 감소한다.
+    - 정답: A
+
+3. cell membrane이 potassium에 대해서만 투과성을 가진다면, potassium의 이동은 어떻게 이루어지는가?
+    - A. potassium은 왼쪽에서 오른쪽으로 10배 concentration gradient를 타고 이동한다.
+    - B. potassium은 오른쪽에서 왼쪽으로 10배 concentration gradient를 타고 이동한다.
+    - C. potassium은 왼쪽에서 오른쪽으로 이동하지 않는다.
+    - D. potassium은 오른쪽에서 왼쪽으로 이동하지 않는다.
+    - 정답: A
+
+# 강의 요약
+
+## 막전위(Membrane Potential)
+
+- 세포의 안쪽과 바깥쪽의 전기적 차이를 막전위라고 합니다.
+- 세포의 안쪽은 대체로 음전위를 가지며, 이는 이온 채널에 의해 발생합니다.
+- 세포가 휴지 상태일 때의 막전위를 안정막전압(Resting Membrane Potential, RMP)라고 합니다.
+
+## 이온 채널(Ion Channel)과 이온의 이동
+
+- 이온 채널은 특정 이온들을 세포막을 통과시키는 역할을 합니다.
+- 이온은 전기적인 힘에 의해 이동하며, 이 힘은 전기화학적 경사도(electrochemical gradient)에 의해 결정됩니다.
+- 이온의 농도 차이는 세포 내외의 이온 농도 차이에 의해 발생하며, 이는 활성화된 이온 채널을 통해 이온이 이동함으로써 조절됩니다.
+
+## 이온 전류(Ion Current)
+
+- 이온 전류는 전기화학적 경사도와 이온이 통과하는 채널의 전도도에 의해 결정됩니다.
+- Electrochemical Driving Force는 세포막 전압과 Nernst equation에 의해 결정됩니다.
+
+# 퀴즈
+
+1. 막전위(Membrane Potential)는 무엇을 의미하는가?
+    - A. 세포의 크기
+    - B. 세포의 형태
+    - C. 세포의 안쪽과 바깥쪽의 전기적 차이
+    - D. 세포의 수명
+    - 정답: C
+
+2. 이온 채널(Ion Channel)의 역할은 무엇인가?
+    - A. 세포의 크기를 조절하는 것
+    - B. 세포의 형태를 유지하는 것
+    - C. 특정 이온들을 세포막을 통과시키는 것
+    - D. 세포의 수명을 연장하는 것
+    - 정답: C
+
+3. Electrochemical Driving Force는 어떻게 결정되는가?
+    - A. 세포의 크기에 의해
+    - B. 세포의 형태에 의해
+    - C. 세포막 전압과 Nernst equation에 의해
+    - D. 세포의 수명에 의해
+    - 정답: C
+# Sodium Channel과 전류의 관계
+
+## Sodium Channel과 전류의 기본 원리
+
+세포 바깥쪽의 Sodium 농도가 세포 안쪽보다 10배 높을 때, Sodium 이온의 평형 전위는 +61mV입니다. 세포막 전위가 +61mV라면, Sodium 이온의 equilibrium potential과 세포막 전위가 같으므로 driving force는 없습니다. 
+
+세포막 전위가 +61mV에서 -70mV로 변하면, driving force는 -131mV가 됩니다. 이 driving force에 의해 Sodium 이온은 이동하게 되며, 이 채널을 통해 흐르는 전류의 크기는 Ohm의 법칙에 따라 전압에 전도도를 곱한 값이 됩니다.
+
+## Ion Channel을 통한 전류의 크기 결정 요인
+
+전류의 크기는 electrochemical gradient와 채널의 conductance의 곱으로 결정됩니다. 이는 하나의 single channel에 대한 설명이며, 실제 세포에서는 여러 개의 채널이 존재하므로 전체 ion current는 각 채널을 통한 전류량과 채널의 개수를 곱하여 결정됩니다.
+
+전류의 크기는 채널의 conductance, 세포에 존재하는 채널의 수, 그리고 채널이 열려있는 시간에 따라 달라집니다. 
+
+## 세포의 resting membrane potential 결정 요인
+
+세포의 resting membrane potential은 Sodium, Potassium, Chloride와 같은 주요 이온들의 농도에 의해 결정됩니다. 이들 이온의 농도 경사를 통해 각 이온의 equilibrium potential을 계산할 수 있습니다.
+
+---
+
+### 퀴즈
+
+1. 세포막 전위가 +61mV에서 -70mV로 변하면, driving force는 얼마가 됩니까?
+    - A. -131mV
+    - B. -70mV
+    - C. +61mV
+    - D. 0mV
+    - 정답: A. -131mV
+
+2. 전류의 크기는 어떤 요인들에 의해 결정됩니까?
+    - A. 채널의 conductance
+    - B. 세포에 존재하는 채널의 수
+    - C. 채널이 열려있는 시간
+    - D. 모두 위의 요인들에 의해 결정됨
+    - 정답: D. 모두 위의 요인들에 의해 결정됨
+
+3. 세포의 resting membrane potential은 어떤 이온에 의해 주로 결정됩니까?
+    - A. Sodium
+    - B. Potassium
+    - C. Chloride
+    - D. 모두 위의 이온들에 의해 결정됨
+    - 정답: D. 모두 위의 이온들에 의해 결정됨
+
+# 강의 요약
+
+## 이온의 평형 전압
+
+- Sodium 이온의 평형 전압: +66.6mV
+- Potassium 이온의 평형 전압: -90.8mV
+- Chloride 이온의 평형 전압: -33.5mV
+
+## 세포막 전압 측정
+
+- 실험자가 세포막 전압을 측정한 결과: -64.4mV
+- 이 값은 세포가 안정적으로 유지하고 있음
+
+## Resting Membrane Potential
+
+- 세포 내외의 이온 농도 차이와 ion channel의 활성화와 비활성화에 의해 결정
+- 세포막을 통해 나가는 이온과 들어오는 이온의 양이 균형을 이루어야 함
+- Sodium, Potassium, Chloride 이온 세 가지만이 세포막을 통해 이동 가능
+- 이 세 가지 이온의 전류의 합이 0이 되어야 함
+
+## 전류의 합이 0이 되는 조건
+
+- Sodium 전류, Potassium 전류, Chloride 전류의 합이 0이 되어야 함
+- 이 조건을 만족하면 resting membrane potential인 -64.4mV를 유지할 수 있음
+
+## 전류 계산
+
+- 전류는 Ohm's law에 따라 voltage와 채널의 conductance의 곱으로 계산
+- Sodium, Potassium, Chloride 각각의 이온에 대해 계산하여 세 개의 값을 더함
+- 이 값이 0이면 membrane potential로 풀 수 있음
+
+## 고난이도 객관식 퀴즈
+
+1. Sodium 이온의 평형 전압은 얼마인가?
+    - A. +66.6mV
+    - B. -90.8mV
+    - C. -33.5mV
+    - D. -64.4mV
+    - 정답: A. +66.6mV
+
+2. Resting membrane potential을 유지하기 위해 필요한 조건은 무엇인가?
+    - A. Sodium, Potassium, Chloride 이온 세 가지만이 세포막을 통해 이동 가능해야 함
+    - B. Sodium 전류, Potassium 전류, Chloride 전류의 합이 0이 되어야 함
+    - C. 세포 내외의 이온 농도 차이와 ion channel의 활성화와 비활성화에 의해 결정됨
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음
+
+3. 전류는 어떻게 계산되는가?
+    - A. Ohm's law에 따라 voltage와 채널의 conductance의 곱으로 계산
+    - B. Sodium, Potassium, Chloride 각각의 이온에 대해 계산하여 세 개의 값을 더함
+    - C. 이 값이 0이면 membrane potential로 풀 수 있음
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음
+# Resting Membrane Potential 계산
+
+## 개요
+- 세포막을 경계로 Potassium Channel, Sodium Channel, Chloride Channel이 존재하며, 이 채널들을 통해 이온이 이동하며 Resting Membrane Potential이 형성됩니다.
+- 이온 전도도와 전위 값의 차이 곱하기 채널의 전도도를 통해 Resting Membrane Potential을 계산할 수 있습니다.
+
+## 세포막 전도도
+- 세포막 전체의 전도도는 100 picosiemens입니다.
+- Potassium Ion은 80 picosiemens, Sodium Channel은 15 picosiemens, Chloride Channel은 5 picosiemens의 전도도를 가지고 있습니다.
+- 세포막이 가지는 총 전도도 값은 Potassium Channel의 전도도 80 + Sodium Channel의 전도도 15 + Chloride Channel의 전도도 5 = 100 picosiemens입니다.
+
+## Resting Membrane Potential 계산
+- 전체 세포의 conductance 100분의 sodium channel의 conductance 15, potassium channel의 conductance는 80, chloride는 0.05입니다.
+- 이 세 개의 수치 중에 가장 큰 값은 conductance 값이 가장 큰 이온인 potassium입니다.
+- potassium 전류가 기여하는 부분이 가장 크며, Nernst equation에서 구한 potassium 이온의 평형 전압값은 -90.8밀리 볼트입니다.
+- 따라서, potassium 채널의 혹은 potassium 전류의 기여도가 가장 크기 때문에 결국 마이너스 90.8밀리 볼트의 가까운 안정막 전압을 갖게 됩니다.
+
+## ENA 계산
+- ENA = (EK * gK + ECl * gCl + ENa * gNa) / (gK + gCl + gNa)
+- 주어진 값:
+  - EK = -90.8 mV
+  - gK = 0.8
+  - ECl = -33.5 mV
+  - gCl = 0.05
+  - ENa = 66.6 mV
+  - gNa = 0.15
+- ENA = (-90.8 * 0.8 + (-33.5) * 0.05 + 66.6 * 0.15) / (0.8 + 0.05 + 0.15) = -64.325 mV
+- 따라서, ENA는 -64.325 mV입니다.
+
+## 퀴즈
+1. 세포막 전체의 전도도는 얼마인가요?
+   - A. 80 picosiemens
+   - B. 100 picosiemens
+   - C. 120 picosiemens
+   - D. 150 picosiemens
+   - 답: B. 100 picosiemens
+
+2. Resting Membrane Potential을 계산하는 공식은 무엇인가요?
+   - A. (EK * gK + ECl * gCl + ENa * gNa) / (gK + gCl + gNa)
+   - B. (EK * gK + ECl * gCl + ENa * gNa) * (gK + gCl + gNa)
+   - C. (EK + gK + ECl + gCl + ENa + gNa) / (gK + gCl + gNa)
+   - D. (EK + gK + ECl + gCl + ENa + gNa) * (gK + gCl + gNa)
+   - 답: A. (EK * gK + ECl * gCl + ENa * gNa) / (gK + gCl + gNa)
+
+3. ENA의 계산 결과는 얼마인가요?
+   - A. -90.8 mV
+   - B. -64.325 mV
+   - C. -33.5 mV
+   - D. 66.6 mV
+   - 답: B. -64.325 mV
+
+# 강의 요약
+
+## Potassium Channel과 Potassium Ion의 역할
+- 세포의 전기적 균형 유지
+- 세포의 전기적 활동 조절
+- Resting Membrane Potential 형성
+
+## Resting Membrane Potential의 중요성
+- 세포의 기능에 직접적인 영향을 미침
+- 이상적인 Resting Membrane Potential 유지를 위해 Potassium Channel과 Potassium Ion이 중요한 역할을 함
+
+## Ion Channel의 역할
+- Ion Channel은 전위에 따라 열리고 닫힘
+- Resting Membrane Potential을 유지하기 위해 Potassium Ion Channel이 주로 열려 있어야 함
+- Potassium Ion의 이동이 전기적인 차이를 만들어냄
+
+## Resting Membrane Potential의 변화
+- Sodium Channel이 열리면서 Sodium의 Resting Membrane Potential 쪽으로 급격히 이동
+- Potassium Channel의 Conductance가 증가하면서 다시 아래로 이동
+- Sodium Channel의 Conductance는 원래 상태로 돌아가는 시점에서 Potassium Channel의 Conductance가 서서히 증가하면서 원래의 Resting Membrane Potential로 돌아옴
+
+# 퀴즈
+
+1. Potassium Channel과 Potassium Ion이 세포에서 주로 어떤 역할을 하는가?
+   - A. 세포의 전기적 균형 유지
+   - B. 세포의 전기적 활동 조절
+   - C. Resting Membrane Potential 형성
+   - D. 모두 맞음
+
+2. Resting Membrane Potential을 유지하기 위해 어떤 Ion Channel이 주로 열려 있어야 하는가?
+   - A. Sodium Channel
+   - B. Potassium Channel
+   - C. Calcium Channel
+   - D. Chloride Channel
+
+3. Sodium Channel이 열리면서 어떤 변화가 일어나는가?
+   - A. Sodium의 Resting Membrane Potential 쪽으로 급격히 이동
+   - B. Potassium Channel의 Conductance가 증가하면서 다시 아래로 이동
+   - C. Sodium Channel의 Conductance는 원래 상태로 돌아가는 시점에서 Potassium Channel의 Conductance가 서서히 증가하면서 원래의 Resting Membrane Potential로 돌아옴
+   - D. 모두 맞음
+
+# 퀴즈 답안
+1. D. 모두 맞음
+2. B. Potassium Channel
+3. D. 모두 맞음
+# Neuron에서의 Action Potential
+
+Neuron에서 발생하는 action potential은 시간에 따라 변화하며, 이는 neurophysiology에서 자세히 공부할 수 있습니다. 
+
+## Resting Membrane Potential
+
+세포는 resting membrane potential을 가지고 있습니다. 예를 들어, 이 값이 -80이라고 가정해봅시다. 
+
+## Depolarization
+
+세포가 가진 resting membrane potential보다 더 플러스 볼테지 쪽으로 이동될 경우를 depolarization이라고 합니다. 이는 세포막을 경계로 막전압이 분극되어 있던 상태에서 분극이 사라지는 쪽으로 이동하는 것을 의미합니다. 완전히 사라진 시점은 0mV이며, 이보다 더 위쪽으로 치고 올라갈 수도 있습니다.
+
+## Hyperpolarization
+
+반면에, resting membrane potential보다 더 마이너스 쪽으로 내려가는 경우를 hyperpolarization이라고 합니다.
+
+---
+
+### 퀴즈
+
+1. Neuron에서의 action potential은 어떤 과목에서 자세히 공부할 수 있나요?
+    - A. Neurophysiology
+    - B. Neurology
+    - C. Neuropsychology
+    - D. Neuroscience
+
+    답: A. Neurophysiology
+
+2. 세포가 가진 resting membrane potential보다 더 플러스 볼테지 쪽으로 이동될 경우를 무엇이라고 하나요?
+    - A. Depolarization
+    - B. Hyperpolarization
+    - C. Polarization
+    - D. Repolarization
+
+    답: A. Depolarization
+
+3. resting membrane potential보다 더 마이너스 쪽으로 내려가는 경우를 무엇이라고 하나요?
+    - A. Depolarization
+    - B. Hyperpolarization
+    - C. Polarization
+    - D. Repolarization
+
+    답: B. Hyperpolarization
+

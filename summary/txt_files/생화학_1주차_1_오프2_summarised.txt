@@ -1,0 +1,292 @@
+# 생존을 위한 필수 요소와 대사 과정
+
+## 생존을 위한 필수 요소
+1. **Full-Stay Kit**: 미국 Red Cross에서 권장하는 생존 키트. 물, 돈, 휴대폰 등이 포함됨.
+2. **Medical Kit**: 응급 상황에서 필요한 의료 도구들이 포함됨.
+3. **물**: 생존에 가장 중요한 요소. 최소 3일치, 필요하다면 2주치의 물을 준비해야 함.
+4. **음식**: 에너지 공급과 몸을 구성하는 성분을 제공.
+
+## 대사 과정
+1. **Catabolism**: 에너지 공급 과정.
+2. **Anabolism**: 몸을 구성하는 성분을 만드는 과정.
+3. **Metabolism**: Catabolism과 Anabolism을 포함한 모든 생명체의 활동.
+
+## 음식의 종류
+1. **Carbohydrates**: 단당류(Glucose 등), 이당류(Sucrose, Maltose, Lactose 등), 다당류(Starch, Glycogen 등) 등이 있음.
+2. **Proteins**: Amino acids로 이루어져 있으며, 아미노산이 연결되는 형태를 Polypeptide라고 함.
+3. **Fats**: "Triacylglycerol" 또는 "Triglyceride"라고도 하며, Glycerol에 Hydroxyl group에 Fatty acid 세 분자가 결합된 형태.
+
+## 객관식 퀴즈
+1. 생존에 가장 필요한 요소는 무엇인가요?
+    - A. 음식
+    - B. 물
+    - C. 휴대폰
+    - D. 돈
+    - 정답: B. 물
+
+2. Catabolism과 Anabolism을 포함한 모든 생명체의 활동을 무엇이라고 부르나요?
+    - A. Metabolism
+    - B. Carbohydrates
+    - C. Proteins
+    - D. Fats
+    - 정답: A. Metabolism
+
+3. 아미노산이 연결되는 형태를 무엇이라고 부르나요?
+    - A. Polypeptide
+    - B. Triacylglycerol
+    - C. Triglyceride
+    - D. Hydroxyl group
+    - 정답: A. Polypeptide
+# 강의 요약
+
+## 1. 에너지의 종류와 열량
+- 당류와 단백질은 분량당 약 4kcal, 알코올은 7kcal, 지방은 약 9kcal의 열량을 가집니다.
+- 지방의 열량이 높은 이유는 탄소가 많이 붙어있기 때문입니다. 탄소를 산화시키는 과정에서 에너지가 발생합니다.
+
+## 2. 우리 몸의 연료 저장소
+- 우리 몸에 저장되어 있는 연료로는 Glycogen, Protein, Triglyceride 등이 있습니다.
+- Glycogen은 세포 단위에서 보면 간세포에서 가장 많이 저장되어 있지만, 우리 몸 전체를 보면 근육에 저장되는 양이 많습니다.
+- 공복 시에 혈당을 유지하는 소스로 사용되는 것은 Liver Glycogen입니다.
+- 급하게 에너지를 필요로 할 때 사용할 수 있는 에너지 소스는 Triglycerides입니다.
+
+## 3. 에너지 생성과 ATP
+- 우리 세포에서 에너지를 생성하는 대사 과정을 통해 만들어지는 에너지는 ATP라는 형태로 생성됩니다.
+- ATP는 Ribose에 Adenine이 붙어 있고, Phosphate 그룹이 3개 붙어 있는 구조입니다.
+- ATP는 ADP와 Phosphate로 분해되는 과정에서 에너지가 방출됩니다.
+- Phosphate group은 결합이 끊어지면서 에너지를 방출하는 반응이 일어나기 때문에 에너지가 많이 나옵니다.
+
+## 4. 에너지 생성 과정
+- catabolism pathway에서는 ADP를 phosphorylation하여 ATP를 생성하는 과정에서 acetyl group이 coenzyme A라는 조효성 cofactor에 전달됩니다.
+- 이 과정은 acetyl group을 생성하기 위해 carbonyl acetyl phosphate의 bond를 끊어가는 과정으로 이루어집니다.
+- 생성된 acetyl group은 coenzyme A로 전달되어 에너지 생성 과정에 참여합니다.
+
+# 퀴즈
+
+1. 당류와 단백질의 열량은 분량당 몇 kcal인가요?
+   - A. 2kcal
+   - B. 4kcal
+   - C. 7kcal
+   - D. 9kcal
+   - 정답: B. 4kcal
+
+2. 우리 몸에서 에너지를 생성하는 대사 과정을 통해 만들어지는 에너지는 무엇인가요?
+   - A. ADP
+   - B. ATP
+   - C. AMP
+   - D. DNA
+   - 정답: B. ATP
+
+3. catabolism pathway에서 ADP를 phosphorylation하여 ATP를 생성하는 과정에서 어떤 group이 coenzyme A에 전달되나요?
+   - A. acetyl group
+   - B. phosphate group
+   - C. carbonyl group
+   - D. amino group
+   - 정답: A. acetyl group
+
+# 강의 요약
+
+## TCA Cycle과 Respiratory Transport Chain
+
+- TCA cycle을 통해 생성된 전자는 respiratory transport chain을 통해 이동하며, 이 과정에서 수소 이온의 농도 경사를 생성합니다.
+- 이 수소 이온의 농도 경사는 ATPase라는 효소를 작동시키는 원동력이 됩니다.
+
+## Metabolic Pathway와 Core Factors
+
+- Metabolic pathway를 따라가면 다이어트에 필요한 구성 요소들이 있습니다.
+- 에너지를 생성할 수 있는 비타민, 미네랄, 물, xenobiotics와는 별개로 우리 몸을 보호하는 pathway에 필요한 여러 가지 core factors들이 있습니다.
+
+## Cell Differentiation과 Gene Expression
+
+- 조직마다 특화된 기능을 수행하기 위해 cell들은 다양한 metabolism을 수행합니다.
+- 이는 gene expression을 조절하여 조직마다 특정한 metabolism pathway가 활성화되거나 억제되기 때문입니다.
+- Cell differentiation 과정에서 필요한 특정한 gene을 활성화하고 다른 gene을 억제하는 과정을 통해 이루어집니다.
+
+## Hormone과 Cell Communication
+
+- Cell 간의 통신을 위해 에너지 간의 정보 교환 시스템이 필요합니다.
+- 이를 위해 hormone이라는 signal molecule이 사용됩니다.
+- Hormone은 혈류를 통해 원거리로 전달되어 특정한 cell에 작용합니다.
+
+## Intercellular Signaling Pathway와 Nutrients 전달
+
+- 외부에서 섭취한 nutrients들이 혈중으로 들어와서 cell로 전달되어야 합니다.
+- 대부분의 경우에는 glucose가 전달되는 것이 일반적입니다.
+- 이런 nutrients를 섭취한 다음에 일어나는 상황에서 여기서 이게 어디갔지? 누가 갖고 있지? 이것은 중요한 정보인데요. 이런 상황에서는 nutrients를 전달하는 역할을 하는 물질들이 필요합니다.
+
+# 퀴즈
+
+1. TCA cycle을 통해 생성된 전자는 어떤 과정을 통해 ATPase라는 효소를 작동시키는 원동력이 되는가?
+    - A. Respiratory transport chain
+    - B. Metabolic pathway
+    - C. Cell differentiation
+    - D. Intercellular signaling pathway
+    - 정답: A. Respiratory transport chain
+
+2. Cell differentiation 과정에서 필요한 특정한 gene을 활성화하고 다른 gene을 억제하는 과정을 통해 어떤 것이 이루어지는가?
+    - A. Hormone 생성
+    - B. Nutrients 전달
+    - C. 조직마다 특화된 기능 수행
+    - D. ATPase 작동
+    - 정답: C. 조직마다 특화된 기능 수행
+
+3. 외부에서 섭취한 nutrients들이 혈중으로 들어와서 cell로 전달되는 과정에서 대부분 전달되는 물질은 무엇인가?
+    - A. Glucose
+    - B. ATPase
+    - C. Hormone
+    - D. Xenobiotics
+    - 정답: A. Glucose
+
+# 강의 요약
+
+## 비만 판단 지표
+
+비만 여부를 판단하는 지표로는 BMI, Waist Circumference, Body Fat Percentage 등이 있습니다. 
+
+- **BMI** : 키를 제곱하여 체중으로 나눈 값으로, 비만 여부를 대략적으로 판단할 수 있는 지표입니다. 
+- **Waist Circumference** : 허리 둘레를 측정하여 비만 여부를 판단하는 지표로, 특히 중심 비만과 관련이 있습니다.
+- **Body Fat Percentage** : 전체 체중 중 지방의 비율을 나타내는 지표로, 전기 저항을 이용하여 측정합니다.
+
+## 비만 분류
+
+비만 여부는 Underweight, Normal, Overweight, Obese, Severely Obese 등 다섯 가지로 구분됩니다. 이는 국제적인 기준이며, 서양인을 기준으로 한 것입니다. 따라서 BMI 30 이상이면 Severely Obese로 분류됩니다. 그러나 아시아인의 경우 정상 범위는 18.5에서 23까지로 되어 있습니다.
+
+## 강의에서의 사례
+
+강의에서는 키 177.8cm, 체중 119.7kg, 허리 둘레 129.1cm, 혈압 systolic 155mmHg, diastolic 95mmHg인 사례를 들었습니다. 이 사람의 BMI는 30.9로 Severely Obese에 해당하며, 허리 둘레 역시 정상치를 크게 초과하였습니다. 이는 중심 비만과 고혈압을 동반한 상태를 보여줍니다.
+
+---
+
+# 퀴즈
+
+1. 비만 여부를 판단하는 지표로 적절하지 않은 것은 무엇인가요?
+    - A. BMI
+    - B. Waist Circumference
+    - C. Body Fat Percentage
+    - D. 키
+    - 정답: D. 키
+
+2. 아시아인의 BMI 정상 범위는 어떻게 되나요?
+    - A. 5에서 25
+    - B. 18.5에서 23
+    - C. 20에서 25
+    - D. 15에서 20
+    - 정답: B. 18.5에서 23
+
+3. 강의에서 언급된 사례의 허리 둘레는 어떻게 되나요?
+    - A. 101.6cm
+    - B. 88.9cm
+    - C. 129.1cm
+    - D. 177.8cm
+    - 정답: C. 129.1cm
+
+# 강의 요약
+
+## 1. 체중과 BMI
+- 77kg의 체중을 1.75m의 키로 나누면 BMI는 약 44.3이 됩니다.
+- 체중이 적음 여부는 개인의 신체 조건과 건강 상태에 따라 다르므로 일반적인 기준으로 판단하기 어렵습니다.
+
+## 2. 식단과 술
+- 개인의 식습관과 섭취량에 따라 다르므로 일반적인 기준으로 판단하기 어렵습니다.
+- 개인의 몸 상태와 목표에 맞는 올바른 식단과 술 습관을 가지는 것이 중요합니다.
+
+## 3. 에너지 소비
+- 에너지 소비는 크게 세 가지 부분으로 나눌 수 있습니다: BMR(Basal Metabolic Rate), 신체 활동에 따른 에너지 소비, 소화 및 대사에 필요한 에너지.
+- 음식을 제대로 씹는 것이 중요하며, 이 과정에서 에너지가 소비됩니다.
+- 에너지 소비를 계산할 때는 대개 rough한 숫자를 사용하기 때문에 error가 발생할 수 있습니다.
+- 기초대사량(BMR)을 알 수 있으며, 운동을 하는 사람은 기초대사량에 운동량을 더해야 합니다.
+- 실제로 BMR을 측정하는 기구가 있지만, 이는 controlled 환경에서 측정해야 하므로 field 환경에서 측정하기 어렵습니다.
+- 대신에 흔히 Resting Metabolic Rate(RMR)라는 용어를 사용합니다.
+
+# 퀴즈
+
+1. BMI를 계산하는 공식은 무엇인가요?
+   - A. 체중(kg) / 키(m)^2
+   - B. 체중(kg) * 키(m)
+   - C. 체중(kg) / 키(m)
+   - D. 체중(kg) * 키(m)^2
+   - 답: A
+
+2. 에너지 소비는 크게 몇 가지 부분으로 나눌 수 있나요?
+   - A. 1가지
+   - B. 2가지
+   - C. 3가지
+   - D. 4가지
+   - 답: C
+
+3. BMR과 RMR의 차이점은 무엇인가요?
+   - A. BMR은 실제로 측정할 수 있지만, RMR은 측정할 수 없다.
+   - B. BMR은 controlled 환경에서 측정해야 하고, RMR은 field 환경에서 측정한다.
+   - C. BMR은 신체 활동에 따른 에너지 소비를, RMR은 소화 및 대사에 필요한 에너지를 나타낸다.
+   - D. BMR과 RMR은 같은 개념이다.
+   - 답: B
+# 강의 요약
+
+## 기초 대사량 (BMR)과 영향 요소
+기초 대사량(BMR)은 체형 구성 중 린바디매스(근육량)의 비율에 영향을 받습니다. 성별, 체온, 외부 온도, 갑상선 기능, 나이, 임신 및 수유 상황 등도 BMR에 영향을 줍니다. 일반적으로 남성은 24kcal/kg, 여성은 20kcal/kg를 기준으로 BMR을 계산합니다.
+
+## 에너지 소모량 계산
+에너지 소모량은 개인의 활동에 따라 다르며, 대략적인 카테고리로 분류하여 계산합니다. 예를 들어, 잠은 Resting 상태, 서 있거나 앉아 있는 경우는 매우 가벼운 활동으로 분류됩니다. 
+
+## 영양소 섭취 가이드라인
+영양소 섭취 가이드라인에는 RDA(Recommended Dietary Allowance), AI(Adequate Intake), UL(Tolerable Upper Intake Level) 등이 있습니다. RDA는 가장 많은 사람들을 대상으로 연구를 통해 얻어진 결과를 기반으로 합니다. AMDR(Acceptable Macronutrient Distribution Range)는 영양소를 충분히 섭취하면서도 질병 발생 확률을 낮출 수 있는 범위를 나타냅니다.
+
+---
+
+# 퀴즈
+
+1. 기초 대사량(BMR)에 영향을 주는 요소가 아닌 것은 무엇인가요?
+    - A. 성별
+    - B. 체온
+    - C. 외부 온도
+    - D. 키
+    - 정답: D. 키
+
+2. 에너지 소모량을 계산할 때, 잠을 자는 상태는 어떤 카테고리로 분류되나요?
+    - A. 매우 가벼운 활동
+    - B. 가벼운 활동
+    - C. Resting 상태
+    - D. 보통 활동
+    - 정답: C. Resting 상태
+
+3. 영양소 섭취 가이드라인 중, 가장 많은 사람들을 대상으로 연구를 통해 얻어진 결과를 기반으로 하는 것은 무엇인가요?
+    - A. RDA
+    - B. AI
+    - C. UL
+    - D. AMDR
+    - 정답: A. RDA
+
+# 강의 요약
+
+## 영양소의 종류와 중요성
+
+1. **단백질**: 하루에 0.8g 섭취가 권장되며, 고품질의 단백질 섭취가 중요하다.
+2. **AMDR**: 탄수화물 45-65%, 단백질 10-35%, 지방 20-35%의 비율을 유지하는 것이 권장된다.
+3. **미네랄**: 나트륨, 칼륨, 크롬, 칼슘, 인, 마그네슘 등이 필수적이며, 철, 아연, 구리, 마그네슘 등의 마이너 미네랄도 중요하다.
+4. **비타민**: 지방용(A, D, E, K)과 수용성(B, C, H)으로 나뉘며, 부족 시 다양한 질병을 유발할 수 있다.
+
+## 비타민 D와 기름의 상호작용
+
+비타민 D는 햇볕을 통해 체내에서 합성되며, 햇볕을 제대로 받지 못하는 경우 보충제로 섭취할 수 있다. 그러나 공복에 섭취하는 것은 흡수에 영향을 줄 수 있으므로, 식사와 함께 섭취하는 것이 좋다. 기름이 흡수되려면 기름방울이 형성되어야 하며, 그 기름방울 안에 지방용 비타민이 함께 녹아들어가서 함께 흡수된다. 
+
+## 퀴즈
+
+1. AMDR에서 단백질이 차지하는 비율은 얼마인가?
+   - A. 45-65%
+   - B. 10-35%
+   - C. 20-35%
+   - D. 0.8g
+   - 답: B
+
+2. 비타민 D를 효과적으로 흡수하기 위한 방법은 무엇인가?
+   - A. 공복에 섭취한다.
+   - B. 식사와 함께 섭취한다.
+   - C. 햇볕을 많이 받는다.
+   - D. 기름과 함께 섭취한다.
+   - 답: B
+
+3. 지방용 비타민이 흡수되기 위해 필요한 것은 무엇인가?
+   - A. 햇볕
+   - B. 기름방울
+   - C. 고품질의 단백질
+   - D. 수용성 비타민
+   - 답: B

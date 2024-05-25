@@ -1,0 +1,198 @@
+# Metabolism 기본 지식 복습
+
+## 1. 물의 중요성
+- 물은 우리 몸의 60% 이상을 차지하며, 우리 몸을 구성하는 분자들이 녹아있는 용매이다.
+- 물은 여러 종류의 분자들과 열이 운반되는 매개체이다.
+- 외계 생명체 탐사에서 가장 먼저 찾아야 할 것은 물이다.
+
+## 2. 생체 분자와 탄소
+- 생체 분자는 유기 화합물, 즉 탄소를 포함한 화합물을 의미한다.
+- 탄소는 4개의 결합을 형성할 수 있으며, 이 4개의 결합은 각각 109.5도의 각도로 배열되어 삼연체 구조를 이룬다.
+- 탄소는 다른 탄소와 단일 결합, 이중 결합, 삼중 결합을 형성할 수 있다.
+
+## 3. Functional Group
+- Functional Group은 생체 분자에서 흔히 발견되는 기능기를 의미한다.
+- Functional Group에는 Methyl Group, Ethyl Group, Phenyl Group, Carbonyl Group, aldehyde 그룹, ketone 그룹, carboxyl 그룹, hydroxyl 그룹 등이 있다.
+
+## 4. Configuration과 Conformation
+- Configuration은 구성원자들의 공간적 배열이 고정된 경우 사용된다.
+- Conformation은 치환기들이 자유롭게 회전할 수 있어서 어떤 결합도 끊지 않고 공간에서 자유롭게 다른 모양을 취할 수 있는 치환기의 공간적 배열을 의미한다.
+
+---
+
+### 퀴즈
+
+1. 탄소는 몇 개의 결합을 형성할 수 있나요?
+    - A. 2개
+    - B. 3개
+    - C. 4개
+    - D. 5개
+    - 정답: C. 4개
+
+2. 다음 중 Functional Group에 속하지 않는 것은 무엇인가요?
+    - A. Methyl Group
+    - B. Ethyl Group
+    - C. Phenyl Group
+    - D. Hydrogen Group
+    - 정답: D. Hydrogen Group
+
+3. Configuration과 Conformation의 차이점은 무엇인가요?
+    - A. Configuration은 구성원자들의 공간적 배열이 고정되지만, Conformation은 치환기들이 자유롭게 회전할 수 있다.
+    - B. Configuration은 치환기들이 자유롭게 회전할 수 있지만, Conformation은 구성원자들의 공간적 배열이 고정되어 있다.
+    - C. Configuration과 Conformation은 같은 의미이다.
+    - D. Configuration은 Functional Group을 의미하고, Conformation은 탄소를 의미한다.
+    - 정답: A. Configuration은 구성원자들의 공간적 배열이 고정되지만, Conformation은 치환기들이 자유롭게 회전할 수 있다.
+# Stereoisomer와 Chiral Center
+
+Stereoisomer는 이중 결합 때문에 생기는 Geometric Isomer와 Chiral Center 때문에 생기는 것으로 나눌 수 있습니다. 
+
+- Geometric Isomer는 cis-configuration, trans-configuration의 두 가지 isomer가 있습니다. 
+- Chiral Center는 탄소 원자에 붙어 있는 4개의 치환기가 모두 다른 경우로, 비대칭 탄소라고도 합니다.
+
+Chiral Carbon을 가진 화합물은 거울에 비친 이미지와 같은 stereo isomer를 가집니다. 이러한 거울상 이성질체를 엔티오머라고도 부르며 이들 이성질체들을 합하여 광학 이성질체라고 부릅니다. 키랄 탄소를 갖는 화합물의 입체 이성질체이지만 거울상이 아닌 경우는 디아스테레오머 또는 디아스테레오이성질체라고 부릅니다.
+
+# 물의 화학적, 물리적 특성
+
+물은 강한 극성을 띄고 있는데, 이는 산소 원자와 수소 원자 간 전기음성도, 즉, Electronegativity가 큰 차이를 보이기 때문입니다. 이러한 물 분자의 극성으로 인해 한 물 분자의 부분 음전하를 가지는 Oxygen과 다른 물 분자의 부분 양전하를 가지는 Hydrogen 사이에 약한 결합인 Hydrogen 결합이 형성됩니다. 
+
+---
+
+### 퀴즈
+
+1. Stereoisomer는 어떤 두 가지 경우로 나눌 수 있는가?
+    - A. 이중 결합과 단일 결합
+    - B. 이중 결합과 Chiral Center
+    - C. Chiral Center와 Hydrogen 결합
+    - D. Hydrogen 결합과 이중 결합
+    - 정답: B. 이중 결합과 Chiral Center
+
+2. 키랄 탄소를 갖는 화합물의 입체 이성질체이지만 거울상이 아닌 경우를 무엇이라고 부르는가?
+    - A. 엔티오머
+    - B. 디아스테레오머
+    - C. 광학 이성질체
+    - D. Geometric Isomer
+    - 정답: B. 디아스테레오머
+
+3. 물 분자의 극성으로 인해 어떤 결합이 형성되는가?
+    - A. 이중 결합
+    - B. 단일 결합
+    - C. Hydrogen 결합
+    - D. Chiral 결합
+    - 정답: C. Hydrogen 결합
+
+# 강의 요약
+
+## 수소 결합과 이온-이온 상호작용
+- 수소 결합은 극성을 띈 물질끼리 서로 결합하는 현상입니다.
+- 이온과 물 사이에는 전기적인 상호작용인 이온-이온 상호작용이 주로 작용합니다.
+- 이온-이온 상호작용은 전하의 크기와 거리에 따라 결합의 강도가 결정됩니다.
+
+## 물에 녹는 과정
+- 수소 염기 결정이 물에 들어가면 수화되어 결정이 녹습니다.
+- 이와 마찬가지로 다른 이온화된 화학물들도 물분자에 의해 수화되어 물에 녹을 수 있습니다.
+
+## 하이드로포빅 효과와 반데르발스 힘
+- 하이드로포빅 효과는 하이드로포빅 화합물과 극성 용매가 섞일 경우 하이드로포빅 부분이 극성 그룹과의 접촉을 최소화하기 위해 생기는 수동적인 효과입니다.
+- 하이드로포빅 분자들이 서로 가까워지면 실제로 인력이 작용하게 되는데, 이를 반데르발스 힘이라고 부릅니다.
+
+## 반데르발스 반지름
+- 반데르발스 반지름은 원자가 다른 원자와 최대한 가까워질 수 있는 특징적인 거리를 의미합니다.
+- 화학물질 구조를 나타내는 공간 채움 모델에서는 원자의 크기를 반데르발스 반지름을 기준으로 표현합니다.
+
+# 퀴즈
+
+1. 수소 결합은 어떤 물질끼리 서로 결합하는 현상인가요?
+    - 극성을 띈 물질끼리
+
+2. 하이드로포빅 효과는 어떤 상황에서 발생하는 효과인가요?
+    - 하이드로포빅 화합물과 극성 용매가 섞일 경우 하이드로포빅 부분이 극성 그룹과의 접촉을 최소화하기 위해 발생하는 효과
+
+3. 반데르발스 반지름은 무엇을 의미하는가요?
+    - 원자가 다른 원자와 최대한 가까워질 수 있는 특징적인 거리
+# 강의 요약
+
+## 원자간의 결합과 생체분자 내의 약한 결합
+
+원자간의 covalent bond 형성은 원자 간의 거리를 줄이고, 결합 에너지를 형성합니다. 생체분자 내에서는 네 가지 종류의 약한 결합이 형성됩니다: 
+
+1. **Hydrogen bond**: 한쪽 functional group에 있는 전기음성 원자와 다른 쪽 functional group에 있는 수소 사이에 형성됩니다.
+2. **Ionic bond**: 양성 전하를 가진 functional group과 음성 전하를 가진 functional group 사이에 생성됩니다.
+3. **Hydrophobic effect**: 수용핵과 만날 때 물분자와의 접촉을 최소화하기 위해 소수성분자들이 모이는 현상입니다.
+4. **Pi bond**: 생체 내에서는 많은 수위의 약한 pi bond에 의해 결합된 두 분자가 붙어 있게 됩니다.
+
+## 물의 특성과 삼투압
+
+물은 용질의 농도가 높은 쪽으로 이동하여 'osmolarity', 즉 삼투질 농도를 맞추게 됩니다. 이러한 'osmolarity' 차에 따른 물의 흐름을 'osmosis' 또는 삼투라고 하고, 'osmotic flow'에 의해 생긴 압력을 'osmotic pressure' 또는 삼투압이라고 합니다.
+
+## 세포의 Osmolarity 유지
+
+세포는 Sodium을 비롯한 이온들을 능동적으로, 즉, 에너지를 소모하며 세포 밖으로 내보내면서 세포와 세포 밖의 Osmolarity를 유지하게 됩니다.
+
+## 물의 이온화
+
+순수한 상태의 물도 약간 이온화되어 양성자인 수소이온과 음성자인 수산이온이 생성됩니다. 이온화된 물의 농도는 Kw의 제곱근 값인 10의 마이너스 7승몰이 됩니다.
+
+---
+
+# 퀴즈
+
+1. 생체분자 내에서 형성되는 네 가지 종류의 약한 결합은 무엇인가요?
+   - A. Hydrogen bond, Ionic bond, Hydrophobic effect, Pi bond
+   - B. Covalent bond, Ionic bond, Hydrophobic effect, Pi bond
+   - C. Hydrogen bond, Covalent bond, Hydrophobic effect, Pi bond
+   - D. Hydrogen bond, Ionic bond, Hydrophilic effect, Pi bond
+   - 정답: A. Hydrogen bond, Ionic bond, Hydrophobic effect, Pi bond
+
+2. 'osmolarity' 차에 따른 물의 흐름을 무엇이라고 하나요?
+   - A. Osmotic flow
+   - B. Osmotic pressure
+   - C. Osmosis
+   - D. Osmolarity
+   - 정답: C. Osmosis
+
+3. 순수한 상태의 물이 이온화되어 생성되는 양성자와 음성자는 무엇인가요?
+   - A. Sodium 이온과 Potassium 이온
+   - B. 수소이온과 수산이온
+   - C. Sodium 이온과 수산이온
+   - D. 수소이온과 Potassium 이온
+   - 정답: B. 수소이온과 수산이온
+
+# 강의 요약
+
+## 1. Proton 전달과 Proton Hopping
+- Water 분자가 이온화되어 Hydronium 이온이 생성되면, 수소는 즉시 인접한 water 분자로 전달되는 현상인 proton 전달이 발생합니다. 이를 proton hopping이라고도 합니다.
+
+## 2. pH와 pKa
+- Hydrogen ion 농도는 pH로 표시되며, pH는 hydrogen ion 농도의 역수에 음용도를 취한 값입니다.
+- Weak acid의 이온화 반응의 평형 상수의 역수를 취한 값을 pKa라고 합니다.
+
+## 3. Buffer와 Buffer Action
+- Buffer는 수소 이온이나 수산 이온의 변화를 상세히 측정하여 pH를 유지하는 역할을 합니다.
+- Buffer action은 Buffer solution에서 acid-base 농도의 변화가 pH에 미치는 영향을 나타냅니다.
+
+## 4. Henderson-Hasselbalch Equation
+- Henderson-Hasselbalch Equation은 Buffer solution에서 acid-base 농도의 변화가 pH에 미치는 영향을 쉽게 알 수 있는 방법입니다.
+
+# 퀴즈
+
+1. Proton 전달이란 무엇인가요?
+    - A. 수소 이온이 인접한 water 분자로 전달되는 현상
+    - B. 수소 이온이 인접한 water 분자로부터 받아오는 현상
+    - C. 수소 이온이 인접한 water 분자와 결합하는 현상
+    - D. 수소 이온이 인접한 water 분자와 결합을 끊는 현상
+    - 정답: A
+
+2. Buffer의 역할은 무엇인가요?
+    - A. 수소 이온의 농도를 측정하는 것
+    - B. 수산 이온의 농도를 측정하는 것
+    - C. pH를 유지하는 것
+    - D. pKa를 유지하는 것
+    - 정답: C
+
+3. Henderson-Hasselbalch Equation은 무엇을 나타내는가요?
+    - A. Buffer solution에서 acid-base 농도의 변화가 pH에 미치는 영향
+    - B. Buffer solution에서 acid-base 농도의 변화가 pKa에 미치는 영향
+    - C. Buffer solution에서 pH의 변화가 acid-base 농도에 미치는 영향
+    - D. Buffer solution에서 pKa의 변화가 acid-base 농도에 미치는 영향
+    - 정답: A
+

@@ -1,0 +1,917 @@
+# Chapter 2: Body Fluid의 Homeostasis 조절
+
+## 학습 목표
+1. Osmosis의 원리와 Cell Volume 조절 이해
+2. Sodium Concentration Gradient를 이용한 물질의 이동 원리와 조절 기전 이해
+3. Epithelial Cell에서의 물의 이동과 물질 이동 원리 이해
+
+## Osmosis의 원리
+Osmosis는 반투막을 경계로 한쪽 용액의 농도가 다른 쪽 용액의 농도와 다를 때, 물이 농도 경사를 따라 움직여서 두 용액의 농도를 평형 상태로 만드는 현상입니다. 이러한 물의 이동은 에너지를 요구하지 않는 Passive한 이동입니다. Osmosis의 원리는 Osmolality 농도 혹은 Osmol의 분자 수에 의해 결정됩니다.
+
+## Sodium Concentration Gradient
+Sodium Concentration Gradient는 세포 내부와 외부의 Sodium 농도 차이를 이용하여 물질의 이동을 조절하는 원리입니다. 이를 통해 세포 내부의 용액 농도를 조절하고, 세포의 용적을 유지합니다.
+
+## Epithelial Cell에서의 물의 이동
+Epithelial Cell은 반투막으로 이루어진 세포들의 집합체로, 물의 이동과 함께 물질의 이동도 일어납니다. 이러한 Epithelial Cell의 물질 이동은 Osmosis의 원리와 Sodium Concentration Gradient를 이용하여 조절됩니다.
+
+## Osmotic Pressure
+Osmotic pressure은 물의 이동을 상세히 나타내는 압력을 의미합니다. 이를 물리적인 단위로 표시하면 mmHg 등이 될 수 있습니다. 하지만 실제 생리학이나 생체의학에서는 mmHg 등의 물리적인 단위로 osmotic pressure을 표시하지 않습니다.
+
+## 용액의 농도와 Osmolarity 계산
+용액의 osmotic pressure를 계산하기 위해서는 용액 속에 녹아있는 solute의 양과 용액의 농도, 그리고 가스 상수와 온도를 곱해주어야 합니다. Osmolarity는 용액의 농도와 용액 속에 녹아있는 solute의 양을 곱해주면 됩니다.
+
+---
+
+## 퀴즈
+
+1. Osmosis의 원리는 어떤 농도에 의해 결정되는가?
+    - A. Sodium 농도
+    - B. Osmolality 농도
+    - C. Glucose 농도
+    - D. Protein 농도
+    - 정답: B. Osmolality 농도
+
+2. Sodium Concentration Gradient는 어떤 것을 조절하는 원리인가?
+    - A. 세포의 용적
+    - B. 세포의 물질 이동
+    - C. 세포의 에너지 생산
+    - D. 세포의 DNA 복제
+    - 정답: A. 세포의 용적
+
+3. Osmotic pressure를 계산하기 위해 필요한 요소는 무엇인가?
+    - A. 용액의 농도와 용액 속에 녹아있는 solute의 양
+    - B. 용액의 pH와 용액의 온도
+    - C. 용액의 색깔과 용액의 냄새
+    - D. 용액의 부피와 용액의 질량
+    - 정답: A. 용액의 농도와 용액 속에 녹아있는 solute의 양
+
+# NaCl 용액의 Osmolarity와 삼투압에 관한 이해
+
+## 1. NaCl 용액의 Osmolarity
+NaCl 용액의 Osmolarity는 용액 내의 용질의 총 몰 수를 용액의 총 부피로 나눈 값으로 표현됩니다. NaCl이 Sodium과 Chloride 이온으로 분해되기 때문에 입자의 숫자가 두 배가 되어, 100mL 용액에 100% 헬이가 되는 경우, NaCl의 몰 수는 0.1mol이 되고 이를 용액의 총 부피인 0.1L로 나누면 1mol/L이 되는데, 이는 1000mOsmol/L과 같습니다. 따라서, 100mL NaCl 용액의 Osmolarity는 1000mOsmol/L가 됩니다. 이는 Isosmotic solution에 해당합니다.
+
+## 2. 삼투압에 따른 용액의 분류
+Hyperosmolar solution은 Isosmotic solution보다 높은 Osmolarity를 가지며, Hypoosmotic solution은 이보다 낮은 Osmolarity를 가집니다. 이러한 용어는 우리 몸의 체액에 대해 이야기할 때 사용되며, 등장성 용액, 고장성 용액, 저장성 용액 등의 용어는 혈장의 삼투압을 기준으로 사용됩니다.
+
+## 3. 삼투압에 따른 세포의 변화
+Hypotonic solution에서는 cell 내부의 osmotic pressure이 높아지기 때문에 cell membrane을 통해 물이 cell 내부로 이동하게 되고, cell의 volume이 증가하게 됩니다. 반대로 hypertonic solution에서는 cell 내부의 osmotic pressure이 낮아지기 때문에 cell membrane을 통해 물이 cell 외부로 이동하게 되고, cell의 volume이 감소하게 됩니다. 이렇게 solution의 농도에 따라 cell의 volume이 변화하므로, 우리는 이를 통해 solution의 osmotic pressure을 평가하고 비교할 수 있습니다.
+
+---
+
+### 퀴즈:
+
+1. NaCl 용액의 Osmolarity는 어떻게 계산되는가?
+    - A. 용액 내의 용질의 총 몰 수를 용액의 총 부피로 나눈 값
+    - B. 용액 내의 용질의 총 몰 수를 용액의 총 부피로 곱한 값
+    - C. 용액 내의 용질의 총 몰 수를 용액의 총 부피로 더한 값
+    - D. 용액 내의 용질의 총 몰 수를 용액의 총 부피로 뺀 값
+    - 답: A
+
+2. Hypotonic solution에서 세포의 볼륨은 어떻게 변화하는가?
+    - A. 증가한다
+    - B. 감소한다
+    - C. 변화하지 않는다
+    - D. 일정한 비율로 증가한다
+    - 답: A
+
+3. Hypertonic solution에서 세포의 볼륨은 어떻게 변화하는가?
+    - A. 증가한다
+    - B. 감소한다
+    - C. 변화하지 않는다
+    - D. 일정한 비율로 감소한다
+    - 답: B
+
+# 강의 요약
+
+## 세포의 용액에 따른 변화
+세포는 Hypotonic solution과 Hypertonic solution에 따라 다르게 반응합니다. Hypotonic solution에서는 세포 내부의 osmotic pressure이 세포 외부의 osmotic pressure보다 높아, 물이 세포 내부로 이동하게 되어 세포가 터지는 현상인 Hemolysis가 일어납니다. 반면, Hypertonic solution에서는 세포 내부의 osmotic pressure이 세포 외부의 osmotic pressure보다 낮아, 세포에서 물이 빠져나가게 되어 세포가 줄어듭니다. 이러한 변화를 통해 세포가 정상적인 크기와 기능을 유지하기 위해서는 Isotonic solution 안에 있어야 함을 알 수 있습니다.
+
+## 용열과 Osmotic Vulnerability
+용열은 Hypertonic solution에 Red blood cell을 넣고 시간이 지나면서 Blood vessel로 물이 들어오면서 Red blood cell이 터져버리는 현상을 말합니다. 이를 통해 Red blood cell의 Osmotic Vulnerability를 측정할 수 있습니다. 정상적인 Red blood cell의 경우, Osmolarity가 대략 75mOsmol 정도가 되면 모두 용열이 일어납니다.
+
+## Osmotic Fragility
+Osmotic Fragility는 세포가 용해에 얼마나 취약한지를 나타내는 지표입니다. 일반적으로 Osmolarity가 높은 세포가 용해에 더 취약하지만, 이는 세포의 정상 Osmolarity를 알아야 판단할 수 있습니다. 우리 몸의 정상 Osmolarity는 약 290에서 300mOsmol 정도이며, 이 값의 절반 정도로 Osmolarity가 떨어져야 Osmotic fragility가 측정됩니다. 이를 통해 Hereditary Spherocytosis라는 유전성 질환을 진단할 수 있습니다. 이 질환은 세포의 모양을 유지하는 데 중요한 Spectrin 단백질 등이 유전적 결함으로 인해 감소하면서 발생합니다.
+
+# 퀴즈
+
+1. Hypotonic solution에서 세포 내부로 물이 이동하게 되는 이유는 무엇인가요?
+   - 세포 내부의 osmotic pressure이 세포 외부의 osmotic pressure보다 높기 때문입니다.
+
+2. Osmotic Vulnerability를 측정하는 방법은 무엇인가요?
+   - Red blood cell을 Hypertonic solution에 넣고, 시간이 지난 후 Red blood cell의 절반이 터져서 용열이 일어난다면, 그때의 solution의 Osmolarity를 측정하여 Osmotic Vulnerability를 표시합니다.
+
+3. Hereditary Spherocytosis 질환은 어떤 원인으로 발생하는가요?
+   - 세포의 모양을 유지하는 데 중요한 Spectrin 단백질 등이 유전적 결함으로 인해 감소하면서 발생합니다.
+# Cytoskeleton 단백질과 세포 구조
+
+Cytoskeleton 단백질은 세포의 2차원 및 3차원 구조를 유지하는 역할을 합니다. Spectrin과 BAND3 protein은 세포의 2차원 구조를 유지하는 데 중요하며, integral protein은 Spectrin과 연결되어 적혈구의 모양을 유지합니다. 유전적인 이유로 이러한 단백질들이 결핍되면 적혈구의 세포막 구조가 온전히 유지되지 못하게 됩니다. 이로 인해 세포가 작아지고, 모양도 동그란 공처럼 변하게 됩니다.
+
+# Osmotic Pressure와 적혈구
+
+Osmotic pressure는 적혈구 내부와 외부 사이의 압력 차이를 의미합니다. 정상적인 적혈구의 osmotic pressure는 290에서 300mL 정도입니다. 하지만 spherocytosis의 적혈구는 부풀어서 늘어날 수 있는 부분이 없기 때문에 들어온 물을 다 수용할 수 없습니다. 또한, 망가진 cytoskeleton으로 인해 적혈구는 더 취약해져 hemolysis가 쉽게 발생할 수 있습니다.
+
+# Effective Osmotic Pressure
+
+Effective osmotic pressure는 용질의 특성에 따라 실제로 세포가 느끼는 osmotic pressure를 의미합니다. 이를 계산할 때는 Reflection coefficient라는 상수를 곱해줍니다. Reflection coefficient는 osmole의 개수를 의미하며, osmole의 개수가 다르면 실제 세포가 경험하는 osmotic pressure가 달라집니다.
+
+## 퀴즈
+
+1. Cytoskeleton 단백질의 주요 역할은 무엇인가요?
+    - A. 세포의 2차원 및 3차원 구조를 유지하는 것
+    - B. 세포의 에너지를 공급하는 것
+    - C. 세포의 DNA를 복제하는 것
+    - D. 세포의 신호 전달을 담당하는 것
+    - 정답: A
+
+2. Osmotic pressure는 무엇을 의미하는가요?
+    - A. 세포 내부와 외부 사이의 압력 차이
+    - B. 세포 내부의 압력
+    - C. 세포 외부의 압력
+    - D. 세포의 표면 장력
+    - 정답: A
+
+3. Reflection coefficient는 무엇을 의미하는가요?
+    - A. 용액의 농도
+    - B. 용액의 pH
+    - C. 용액의 온도
+    - D. Osmole의 개수
+    - 정답: D
+
+# 강의 요약
+
+## 삼투압과 물질의 이동
+
+- 삼투압(osmosis)은 물질의 농도 차이에 따라 물이 이동하는 현상을 말합니다.
+- Semi-permeable membrane을 통과할 수 있는 물질(solute)이 있을 경우, 이 물질이 농도 균형(equilibrium) 상태에 이르면 물의 이동이 멈추고 삼투압이 발생하지 않습니다. 이런 물질을 ineffective osmol이라고 합니다.
+- Lipid bilayer를 통과하여 확산할 수 있는 물질에는 가스, 요소(urea), 알코올 등이 있습니다. 이들은 작은 분자량을 가지므로 쉽게 균형 상태에 이르며 삼투압을 발생시키지 않습니다.
+- 반면에 설탕, 글루코스, 단백질 등 큰 물질은 삼투압을 유발합니다. 이들 물질은 osmotic coefficient가 1인 반면, 통과하지 못하는 물질은 0입니다.
+
+## Colloid Osmotic Pressure
+
+- Colloid osmotic pressure는 큰 분자량을 가진 단백질에 의해 발생하는 삼투압을 말합니다. 이는 단백질의 크기와 다양한 아미노산 구성 때문에 발생합니다.
+- 우리 몸에서는 세포 내부의 단백질과 혈장의 albumin이 이를 일으킵니다. Albumin은 혈액에서의 colloid osmotic pressure를 일으키는 중요한 단백질로, 농도는 약 1.4mL입니다.
+- 정상적인 osmotic pressure 범위는 280에서 300이며, 평균적으로 290입니다. 이 중에서 albumin이 차지하는 비율은 약 0.5%입니다.
+- 단백질의 양이 증가하면 계산된 osmotic pressure이 직선적으로 증가하지만, 실제 측정값은 더 높게 나타납니다. 이는 colloid osmotic pressure에 의한 현상으로, 단백질 농도가 높을수록 더 큰 차이를 보입니다.
+
+# 퀴즈
+
+1. 삼투압이 발생하지 않는 물질을 무엇이라고 부르는가?
+   - A. Effective osmol
+   - B. Ineffective osmol
+   - C. Osmotic coefficient
+   - D. Colloid osmotic pressure
+   - 정답: B. Ineffective osmol
+
+2. Colloid osmotic pressure를 일으키는 중요한 단백질은 무엇인가?
+   - A. Glucose
+   - B. Urea
+   - C. Albumin
+   - D. Sucrose
+   - 정답: C. Albumin
+
+3. 정상적인 osmotic pressure 범위는 얼마인가?
+   - A. 100-200
+   - B. 200-280
+   - C. 280-300
+   - D. 300-320
+   - 정답: C. 280-300
+
+# 강의 요약
+
+## Plasma의 Albumin과 Oncotic Pressure
+
+플라즈마의 알부민은 캐필러리 내부에 존재하며, 이는 캐필러리의 작은 구멍을 통과하지 못해 플라즈마 내부에 머무르게 됩니다. 이러한 특성은 알부민이 캐필러리 내부에 머무르게 하여 액체가 캐필러리 외부로 쉽게 빠져나가지 않도록 막아줍니다. 이를 통해 알부민은 캐필러리 내부에 액체가 머무르도록 유지하며, 이는 혈액의 온코틱 압력을 유지하는 중요한 역할을 합니다.
+
+## Capillaries와 Blood Flow
+
+혈액은 캐필러리를 따라 흐르게 되며, 캐필러리 내부의 알부민에 의해 콜로이드 삼투압이 유지됩니다. 이 삼투압은 캐필러리 외부에서 물이 들어오려는 힘을 유지하며, 이는 캐필러리 초입에서 물이 빠져나가려는 힘과 합산되어 넷 필터링을 일으킵니다.
+
+## Starling's Force
+
+스탈링의 힘은 캐필러리 시스템의 물질 이동을 설명하는 중요한 개념입니다. 이는 캐필러리에서 플라즈마의 알부민이 캐필러리 내부의 온코틱 압력에 의해 물이 빠져나가게 하며, 동시에 동일한 양의 물이 다시 되돌아오게 합니다. 이 과정에서 물질 교환이 이루어지며, 이는 혈액 순환에서 플라즈마 볼륨, 즉 혈액 볼륨을 유지합니다.
+
+# 퀴즈
+
+1. 알부민이 캐필러리 내부에 머무르는 것은 어떤 압력을 유지하는데 중요한 역할을 하는가?
+    - A. 혈액 압력
+    - B. 삼투압
+    - C. 온코틱 압력
+    - D. 정수압
+    - 정답: C. 온코틱 압력
+
+2. 스탈링의 힘은 어떤 것을 설명하는 중요한 개념인가?
+    - A. 캐필러리 시스템의 물질 이동
+    - B. 혈액의 삼투압
+    - C. 알부민의 기능
+    - D. 혈액의 정수압
+    - 정답: A. 캐필러리 시스템의 물질 이동
+
+3. 캐필러리 초입에서 물이 빠져나가려는 힘과 합산되어 어떤 현상을 일으키는가?
+    - A. 삼투압
+    - B. 넷 필터링
+    - C. 정수압
+    - D. 혈액 압력
+    - 정답: B. 넷 필터링
+
+# 체액 구획
+
+우리 몸은 **고체**와 **액체** 성분으로 구성되어 있습니다. 평균적인 성인 남성의 몸무게의 약 40%는 고체로 이루어져 있으며, 이에는 뼈, 세포 내의 단백질 등이 포함됩니다. 반면, 몸무게의 나머지 60%는 물로 구성되어 있습니다. 
+
+그러나 이 물은 단순한 물이 아니라, **전해질** 또는 **이온**이 용해된 형태의 용액입니다. 따라서, 우리 몸의 60%는 전해질 용액으로 이루어져 있습니다.
+
+---
+
+### 퀴즈:
+
+1. 평균적인 성인 남성의 몸무게 중 고체로 이루어진 부분은 얼마인가?
+    - A. 20%
+    - B. 40%
+    - C. 60%
+    - D. 80%
+    - 정답: B. 40%
+
+2. 우리 몸의 물은 어떤 형태로 존재하는가?
+    - A. 단순한 물
+    - B. 전해질 용액
+    - C. 이온 용액
+    - D. 단백질 용액
+    - 정답: B. 전해질 용액
+
+3. 우리 몸의 전체 무게 중 전해질 용액이 차지하는 비율은 얼마인가?
+    - A. 20%
+    - B. 40%
+    - C. 60%
+    - D. 80%
+    - 정답: C. 60%
+# 강의 요약
+
+## 체액의 분포
+
+- 정상적인 성인 남자의 체중의 약 60%는 체액으로 구성되어 있습니다.
+- 이 체액 중 2/3는 세포 내액으로, 세포 내부의 액체를 의미합니다.
+- 나머지 1/3는 외부세포액으로, 세포 외부의 액체를 가리킵니다. 이 액체는 간질액이라고 불리며, 세포 사이, 세포와 혈관 사이 등에 위치하고 있습니다.
+
+## 체액의 변화
+
+- 여성의 체액 비율은 남성보다 낮습니다. 이는 여성이 남성보다 지방이 많기 때문입니다.
+- 노인의 체액 비율은 정상 성인보다 더 낮습니다. 이는 나이가 들면서 근육량이 줄고 지방조직이 많아지기 때문입니다.
+- 반면, 신생아의 체액 비율은 체중 대비 약 70%로, 성인보다 높습니다.
+
+## 체액의 경계
+
+- 모세혈관 벽은 간질액과 혈장을 구분짓습니다.
+- 세포 내액과 세포 외액의 경계는 각각의 세포막입니다.
+
+# 퀴즈
+
+1. 정상적인 성인 남자의 체중의 약 몇 퍼센트가 체액인가요?
+   - A. 50%
+   - B. 60%
+   - C. 70%
+   - D. 80%
+   - 정답: B. 60%
+
+2. 세포 외부의 액체를 무엇이라고 부르나요?
+   - A. 세포 내액
+   - B. 간질액
+   - C. 혈장
+   - D. 세포막
+   - 정답: B. 간질액
+
+3. 체액 비율이 가장 높은 사람은 누구인가요?
+   - A. 정상적인 성인 남자
+   - B. 정상적인 성인 여성
+   - C. 노인
+   - D. 신생아
+   - 정답: D. 신생아
+
+# 강의 요약
+
+## 어린아이의 수분 대사
+
+어린아이들은 체중 대비 수분의 비율이 높고, 체표면적이 크기 때문에 수분을 쉽게 잃습니다. 이로 인해 쉽게 탈수 상태에 빠질 수 있으며, 이는 세포 기능에 이상을 일으키고 생명을 위협할 수 있습니다.
+
+## 체액의 구성
+
+우리 체액은 세포 내액(Intracellular fluid, ICF)과 세포 외액(Extracellular fluid, ECF)로 나눌 수 있습니다. 물은 우리 몸으로 들어오거나 나갈 때 이 두 액체를 통과합니다. 이 두 액체는 삼투압에 의해 평형 상태를 유지하며, 이는 세포 내부와 외부의 삼투압이 평형에 도달한다는 것을 의미합니다.
+
+## 세포의 볼륨 유지
+
+세포의 볼륨을 유지하는 것은 중요하며, 이는 용질의 농도 변화에 따라 물이 이동하여 발생합니다. 세포 내외로 용질이 이동하면 세포 볼륨이 변화하거나 세포 외액이 크게 변화할 수 있습니다.
+
+## 체액의 삼투압
+
+체액의 정상적인 삼투압을 유지하는 것은 중요하며, 이는 세포 외액인 ECF를 기준으로 합니다. ECF는 Sodium 이온이 가장 많은 양을 차지하며, Sodium 이온의 농도는 평균적으로 140에서 145mEq/L입니다.
+
+---
+
+# 퀴즈
+
+1. 어린아이들이 쉽게 탈수 상태에 빠지는 이유는 무엇인가요?
+    - A. 체중 대비 수분의 비율이 높다.
+    - B. 체표면적이 크다.
+    - C. A와 B 모두
+    - D. 위의 모든 것이 아니다.
+    - 정답: C
+
+2. 세포 내액(Intracellular fluid, ICF)과 세포 외액(Extracellular fluid, ECF)는 어떤 방식으로 평형 상태를 유지하나요?
+    - A. 삼투압에 의해
+    - B. 화학적 반응에 의해
+    - C. 물리적인 압력에 의해
+    - D. 위의 모든 것이 아니다.
+    - 정답: A
+
+3. 세포 외액의 삼투압을 결정하는 주요 이온은 무엇인가요?
+    - A. Potassium
+    - B. Calcium
+    - C. Sodium
+    - D. Phosphate
+    - 정답: C
+
+# Osmotic Pressure와 세포 내외액의 상호작용
+
+## 1. Osmotic Pressure의 정상 범위
+- 270, 275 정도의 osmotic pressure는 정상 범위에 속함.
+- 260, 250, 330, 340 등 크게 벗어난 값은 비정상적인 osmotic pressure를 나타냄.
+- 280에서 310 정도는 정상적인 osmotic pressure로 판단.
+
+## 2. 세포 내외액의 Osmotic Pressure 평형 상태
+- 세포 내액과 세포 외액 사이의 osmotic pressure이 평형 상태에 이르는 원리는 물의 이동에 의해서만 나타나는 것이 아님.
+- 세포 내액과 세포 외액은 모두 정상적인 290mOs의 osmotic pressure를 유지하며 세포막을 경계로 osmotically 평형 상태에 있음.
+
+## 3. 실험적 상황
+- 세포 외액에 1.5L의 145mM Sodium Chloride 용액을 주입한 후, 평형 상태에 도달했을 때 세포 내외액의 볼륨과 osmotic pressure 변화를 관찰.
+- 290mL의 osmolality가 세포 내외의 농도가 동일한 상태에서 1.5L의 distilled water를 ECF에 넣어줌으로써, ECF의 solution 농도가 희석되게 됨.
+- 이후에는 세포막을 경계로 ECF와 ICF의 osmotic pressure의 경사가 생김. 290 대 265로 osmotic pressure이 낮은 쪽에서 osmotic pressure이 높은 곳으로 물이 이동하게 됨.
+
+## 4. 플라즈마와 ECF
+- 플라즈마는 ECF 중 하나로, 혈관 내의 electrolyte solution의 양만 증가시키는 것.
+- 세포의 volume은 변화가 없으므로, 혈액량을 늘려서 순환하는 전체 혈액량을 늘려 혈압을 올려주는 치료를 함.
+
+---
+
+# 퀴즈
+
+1. 세포 내외액의 osmotic pressure이 평형 상태에 이르는 원리는 무엇에 의해서만 나타나는가?
+    - A. 물의 이동
+    - B. 용질의 이동
+    - C. 세포막의 투과성
+    - D. 모두 아님
+    - 정답: A. 물의 이동
+
+2. 실험적 상황에서 세포 외액에 주입된 용액의 종류는 무엇인가?
+    - A. 145mM Sodium Chloride 용액
+    - B. 1.5L의 distilled water
+    - C. 290mL의 osmolality 용액
+    - D. 모두 아님
+    - 정답: A. 145mM Sodium Chloride 용액
+
+3. 플라즈마는 어떤 방식으로 혈압을 올려주는가?
+    - A. 세포의 volume을 증가시킴
+    - B. 혈관 내의 electrolyte solution의 양을 증가시킴
+    - C. 세포 외액의 농도를 증가시킴
+    - D. 모두 아님
+    - 정답: B. 혈관 내의 electrolyte solution의 양을 증가시킴
+# 강의 요약
+
+## 세포 내외액의 삼투압 및 부피 변화
+- 세포 내부와 외부의 액체는 삼투 현상에 의해 이동하며, 이는 세포의 부피를 변화시킵니다.
+- 세포 외부액(ECF)에 NaCl이나 물을 주입하면, 세포 내부액(ICF)의 삼투압이 변하며, 이에 따라 세포의 부피도 변화합니다.
+- 세포 외부액에 NaCl을 주입하면, NaCl이 분리되어 세포 외부액의 삼투압이 증가하고, 이에 따라 세포 내부에서 외부로 물이 이동하게 됩니다.
+
+## 세포의 체적 조절
+- 세포 내부액의 체적은 세포 내부에 있는 여러 물질들의 농도를 결정하므로, 일정하게 유지되어야 합니다.
+- 세포의 체적이 변하면, 세포 내부의 pH, 칼슘 농도, 단백질 농도 등이 변하게 되며, 이는 세포의 활성과 기능에 영향을 미칩니다.
+- 따라서, 세포는 다양한 종류의 막 전달체를 통해 세포 내부액의 양과 항상성을 유지합니다.
+
+## 이온 전달체의 역할
+- 세포 내외액의 이온 농도는 세포막에 있는 이온 전달체에 의해 조절됩니다.
+- 특히, Sodium-Potassium ATPase는 세포막을 경계로 Sodium와 Potassium의 농도 경사를 항상 유지하는 중요한 역할을 합니다.
+
+# 퀴즈
+
+1. 세포 외부액에 NaCl을 주입하면 어떤 현상이 발생하는가?
+    - A. 세포 내부액의 삼투압이 증가한다.
+    - B. 세포 외부액의 삼투압이 증가한다.
+    - C. 세포 내부액의 삼투압이 감소한다.
+    - D. 세포 외부액의 삼투압이 감소한다.
+    - 정답: B. 세포 외부액의 삼투압이 증가한다.
+
+2. 세포의 체적이 변하면 어떤 변화가 발생하는가?
+    - A. 세포 내부의 pH가 변한다.
+    - B. 세포 내부의 칼슘 농도가 변한다.
+    - C. 세포 내부의 단백질 농도가 변한다.
+    - D. 위의 모든 항목
+    - 정답: D. 위의 모든 항목
+
+3. Sodium-Potassium ATPase의 주요 역할은 무엇인가?
+    - A. 세포 내부액의 삼투압을 조절한다.
+    - B. 세포 외부액의 삼투압을 조절한다.
+    - C. 세포막을 경계로 Sodium와 Potassium의 농도 경사를 유지한다.
+    - D. 세포 내부의 pH를 조절한다.
+    - 정답: C. 세포막을 경계로 Sodium와 Potassium의 농도 경사를 유지한다.
+# 강의 요약
+
+## Sodium Pump와 그 역할
+
+세포 내외의 sodium 농도를 조절하는 Sodium Pump는 세포 내의 sodium 농도가 정상보다 높아지지 않도록 항상 sodium을 세포 바깥쪽으로 퍼냅니다. 이는 ATP를 사용하여 세 개의 sodium을 세포 바깥으로 퍼내고 두 개의 potassium 이온을 세포 안으로 끌어들이는 과정으로 이루어집니다. 이를 primary active transport라고 합니다.
+
+## Sodium-coupled Secondary Active Transporters
+
+Sodium Pump가 제대로 작동할 때에만 작동할 수 있는 Sodium-coupled Secondary Active Transporters는 Sodium Pump가 세포 내외의 소듐 농도를 조절하여 활성을 유지합니다. 이들은 sodium이 세포 내로 들어올 때 글루코스를 함께 운반하거나, 수소 이온을 배출하고, 아미노산을 끌어들이는 역할을 합니다.
+
+## Sodium Pump의 중요성
+
+Sodium Pump는 세포 내외의 소듐 농도와 Secondary Active Transporters의 활성을 유지하는 데에 중요하며, 세포 내외의 오스몰라리티와 삼투압을 조절하여 세포의 용적을 유지하는 데에도 중요합니다. 또한, Sodium Pump는 ATP가 존재해야만 작동할 수 있습니다.
+
+## Metabolic Inhibition과 Sodium Pump
+
+Metabolic Inhibition이 발생하면 ATP 생산이 감소하게 되고, 이로 인해 Sodium Pump를 작동시키기 위한 ATP가 부족해지게 됩니다. 이에 따라 Sodium Pump의 활성이 감소하고 세포 내외의 소듐 농도가 상승하게 되며, 이는 Secondary Active Transporters의 활성을 감소시키게 됩니다.
+
+---
+
+# 퀴즈
+
+1. Sodium Pump가 세포 내외의 소듐 농도를 조절하는 과정을 무엇이라고 부르는가?
+    - A. Secondary Active Transport
+    - B. Primary Active Transport
+    - C. Passive Transport
+    - D. Facilitated Diffusion
+    - 정답: B. Primary Active Transport
+
+2. Sodium-coupled Secondary Active Transporters가 작동하기 위해 필요한 조건은 무엇인가?
+    - A. Sodium Pump가 제대로 작동하고 있어야 한다.
+    - B. ATP가 충분해야 한다.
+    - C. 세포 내외의 소듐 농도가 높아야 한다.
+    - D. 세포 내외의 소듐 농도가 낮아야 한다.
+    - 정답: A. Sodium Pump가 제대로 작동하고 있어야 한다.
+
+3. Metabolic Inhibition이 발생하면 어떤 변화가 일어나는가?
+    - A. Sodium Pump의 활성이 증가한다.
+    - B. ATP 생산이 증가한다.
+    - C. Sodium Pump의 활성이 감소한다.
+    - D. 세포 내외의 소듐 농도가 감소한다.
+    - 정답: C. Sodium Pump의 활성이 감소한다.
+# Sodium Pump의 작동 원리와 중요성
+
+## Sodium Pump의 작동 원리
+
+1. Sodium pump는 세포 내부에서 외부로 3개의 sodium 이온을 퍼내고, 세포 외부에서 내부로 2개의 potassium 이온을 끌어들입니다.
+2. Sodium pump가 세포 내부를 향해 열려있을 때, 3개의 sodium 이온이 결합하게 되며, 이때 sodium 이온에 대한 결합력은 매우 높습니다.
+3. Sodium 이온이 결합하면, sodium pump는 닫히며 ATP가 분해되고, 인산화가 일어나며, phosphate가 결합합니다.
+4. 이 과정에서 sodium pump는 세포 외부를 향해 열리며, sodium 결합 부위의 sodium ion 결합 능력이 낮아져, sodium 이온이 세포 외부로 빠져나갑니다.
+5. 동시에, 세포 외부를 향해 있는 sodium pump에서는 두 개의 potassium 결합 부위가 노출되어, potassium ion 두 개가 결합할 수 있게 됩니다.
+6. 두 개의 potassium 이온이 결합하면, sodium pump는 다시 세포 내부를 향해 열리게 됩니다.
+
+## Sodium Pump의 중요성
+
+1. Sodium pump의 작동을 통해 세포 내부의 sodium 농도와 세포 외부의 potassium 농도를 유지하게 됩니다.
+2. 이 과정은 세포의 volume을 정상으로 유지하는데 중요한 역할을 합니다.
+3. Ouabain이라는 약물은 sodium pump의 작동을 차단하여, 심장을 강하게 하는 역할을 합니다.
+
+---
+
+## 퀴즈
+
+1. Sodium pump가 세포 내부를 향해 열려있을 때, 몇 개의 sodium 이온이 결합하게 되나요?
+    - A. 1개
+    - B. 2개
+    - C. 3개
+    - D. 4개
+    - 정답: C. 3개
+
+2. Sodium pump가 세포 외부를 향해 열려있을 때, 몇 개의 potassium 이온이 결합하게 되나요?
+    - A. 1개
+    - B. 2개
+    - C. 3개
+    - D. 4개
+    - 정답: B. 2개
+
+3. Ouabain이라는 약물은 어떤 역할을 하는가요?
+    - A. Sodium pump의 작동을 촉진하는 역할
+    - B. Sodium pump의 작동을 차단하는 역할
+    - C. Potassium pump의 작동을 촉진하는 역할
+    - D. Potassium pump의 작동을 차단하는 역할
+    - 정답: B. Sodium pump의 작동을 차단하는 역할
+# Sodium Pump와 세포 부피 조절
+
+세포 부피 조절은 Sodium pump에 의해 이루어지며, 이는 등토성 용액에서 삼투압이 동일하더라도 세포 부피를 유지하기 위해 필요합니다. 이는 세포 내외의 삼투액이 동일하면 물의 이동이 없어 세포 부피가 유지되어야 하지만, 실제로는 Sodium pump가 필요한 이유입니다.
+
+## Gibbs-Donnan Effect
+
+Gibbs-Donnan effect는 등토성 용액에서 Sodium pump를 통해 세포 부피를 유지하는 이유를 설명합니다. 이는 colloid osmotic pressure라는 개념과 관련이 있습니다. 이는 물질이 막을 통과하는 능력을 의미합니다.
+
+## Isotonic and Non-isotonic Cell Volume Regulation
+
+세포 외부의 체액이 고토성 용액이나 저장성 용액으로 변하면, 세포는 자체 기능을 유지하기 위해 세포 외부의 삼투압이 높아지거나 낮아져도 원래의 부피로 되돌리기 위한 조절 메커니즘을 가지고 있습니다. 이를 Isotonic cell volume regulation 또는 Non-isotonic cell volume regulation 이라고 합니다.
+
+## Sodium and Chloride Movement
+
+막이 sodium과 chloride에게는 투과성이 있지만 protein에게는 없다면, chloride는 B에서 A로 이동하면서 A쪽에는 chloride의 농도가 증가하고, negative charge가 추가됩니다. 이로 인해 membrane potential이 발생하게 되고, 이 membrane potential이 sodium을 끌어당기게 됩니다. 따라서 sodium은 농도 경사가 없음에도 불구하고 B에서 A로 이동하게 됩니다.
+
+---
+
+### 퀴즈
+
+1. Sodium pump는 어떤 상황에서 세포 부피를 유지하는데 필요한가요?
+    - A. 등토성 용액에서 삼투압이 동일할 때
+    - B. 고토성 용액에서 삼투압이 동일할 때
+    - C. 저장성 용액에서 삼투압이 동일할 때
+    - D. 모든 상황에서
+
+2. Gibbs-Donnan effect는 어떤 개념과 관련이 있나요?
+    - A. Sodium pump
+    - B. Colloid osmotic pressure
+    - C. Isotonic cell volume regulation
+    - D. Non-isotonic cell volume regulation
+
+3. 막이 sodium과 chloride에게는 투과성이 있지만 protein에게는 없다면, 어떤 일이 벌어지나요?
+    - A. Sodium가 B에서 A로 이동한다.
+    - B. Chloride가 B에서 A로 이동한다.
+    - C. Protein이 B에서 A로 이동한다.
+    - D. Sodium와 Chloride가 모두 B에서 A로 이동한다.
+
+---
+
+### 답안
+
+1. A. 등토성 용액에서 삼투압이 동일할 때
+2. B. Colloid osmotic pressure
+3. B. Chloride가 B에서 A로 이동한다.
+# Gibbs-Donnan 효과와 세포 볼륨 조절
+
+Gibbs-Donnan 효과는 이온과 물 분자가 A에서 B로 이동하면서 발생하는 현상입니다. 이로 인해 물이 B에서 A로 이동하게 되고, A 내부의 용액의 양이 증가하게 됩니다. 이 현상은 세포 내외의 동질성, 즉 동일한 용매 압력 조건에서도 발생할 수 있습니다.
+
+세포 외부에는 전해질 용액이 많고 단백질은 거의 없지만, 세포 내부에는 다양한 종류의 단백질이 존재하며, 이들은 음전하를 가지고 있어 세포막을 통과하지 못합니다. 따라서 단백질이 만들어내는 콜로이드 용매 압력과 Gibbs-Donnan 효과에 의해 세포 외부에서 세포 내부로 물이 계속해서 이동하려고 합니다.
+
+## 세포 볼륨 조절 방법
+
+세포의 크기가 계속 커져서 터져 죽는 상황을 방지하려면, Sodium Ion이나 Chloride Ion을 다시 B로 넘겨주면 됩니다. 이때 Sodium pump이 이 역할을 합니다. Sodium pump은 Gibbs-Donnan 효과에 의한 세포 볼륨 증가를 조절하는 역할을 합니다.
+
+Sodium pump은 소듐을 세포 바깥쪽으로 내보내는 역할을 하며, 한 번의 펌핑마다 3개의 소듐이 나가고 2개의 칼륨이 들어오게 됩니다. 이로 인해 세포 바깥쪽으로 한 용지를 내보낼 수 있게 됩니다. 이렇게 물이 나가면 세포의 용적이 줄어들게 됩니다.
+
+또한, Sodium pump은 소듐을 내보내는 과정에서 세포 안쪽을 마이너스로 만들어 membrane potential을 낮추어 칼륨과 chloride 이온을 세포 바깥쪽으로 밀어내는 역할도 합니다. 이때 발생하는 membrane 전위는 소듐을 끌어들이지만 chloride 이온을 막는 역할도 합니다.
+
+따라서, Sodium pump은 동질성 볼륨 조절을 위해 매우 중요한 역할을 합니다.
+
+## 퀴즈
+
+1. Gibbs-Donnan 효과는 어떤 상황에서 발생하는가?
+    - A. 이온과 물 분자가 A에서 B로 이동할 때
+    - B. 이온과 물 분자가 B에서 A로 이동할 때
+    - C. 이온과 물 분자가 A와 B 사이에서 이동하지 않을 때
+    - D. 이온과 물 분자가 A와 B 사이에서 무작위로 이동할 때
+    - 답: A
+
+2. Sodium pump은 세포 볼륨 조절에서 어떤 역할을 하는가?
+    - A. 소듐을 세포 내부로 이동시킨다.
+    - B. 소듐을 세포 외부로 이동시킨다.
+    - C. 칼륨을 세포 내부로 이동시킨다.
+    - D. 칼륨을 세포 외부로 이동시킨다.
+    - 답: B
+
+3. Sodium pump이 소듐을 세포 외부로 이동시키는 과정에서 어떤 이온을 세포 바깥쪽으로 밀어내는가?
+    - A. Sodium 이온
+    - B. Chloride 이온
+    - C. Potassium 이온
+    - D. Calcium 이온
+    - 답: B
+
+# 강의 요약
+
+## Sodium의 역할과 Sodium Pump
+
+Sodium는 세포 내부의 액체 양을 줄이는 역할을 하며, 이를 통해 세포 내부에서 발생하는 membrane potential과 negative potential을 이용해 chloride를 세포 외부로 밀어냅니다. 이 과정에서 액체가 나갈 때 물도 함께 나가게 되어 세포의 대사를 억제하고 ATP 합성을 저해합니다. Sodium pump의 기능이 멈추면 Gibbs-Donnan 효과가 사라지게 되어 세포의 용적이 계속 증가하게 됩니다.
+
+## Isotonic Cell Volume Regulation
+
+Isotonic cell volume regulation은 세포 외부의 osmotic pressure이 변화할 때 세포의 용적이 변화하며, 이를 다시 원래대로 되돌려 세포의 기능을 유지하려는 조절 기전입니다. Hypotonic solution에 세포를 넣으면 세포 안으로 물이 흡수되어 세포의 용적이 급격히 증가하게 됩니다.
+
+## Regulatory Volume Increase
+
+Hypotonic 용액에 노출되면, 세포 바깥의 용액 농도가 세포 안보다 높아지게 되고, 세포막을 통해 물이 세포 안으로 빠르게 흡수되어 세포 안의 용액 농도가 증가하게 됩니다. 이로 인해 삼투압이 증가하고, 물이 세포 안으로 흐르게 되어 세포 크기가 급격히 줄어듭니다. 이러한 현상을 Regulatory Volume Increase라고 합니다.
+
+## Sodium-Potassium Pump
+
+Sodium-Potassium Pump는 Sodium을 세포 밖으로 내보내고 Potassium을 세포 안으로 끌어들입니다. 이렇게 함으로써 Sodium과 Potassium의 농도 차이를 유지하고, 세포 크기를 조절할 수 있습니다. 이런 과정은 세포 내외의 이온 균형을 유지하고, 세포 크기를 정상적으로 조절하는데 중요한 역할을 합니다.
+
+# 퀴즈
+
+1. Sodium의 주요 역할은 무엇인가요?
+   - A. 세포 내부의 액체 양을 증가시키는 것
+   - B. 세포 내부의 액체 양을 줄이는 것
+   - C. 세포 외부의 액체 양을 증가시키는 것
+   - D. 세포 외부의 액체 양을 줄이는 것
+   - 답: B
+
+2. Hypotonic 용액에 세포가 노출되면 어떤 현상이 발생하나요?
+   - A. Regulatory Volume Decrease
+   - B. Regulatory Volume Increase
+   - C. Isotonic Cell Volume Regulation
+   - D. Gibbs-Donnan 효과
+   - 답: B
+
+3. Sodium-Potassium Pump의 기능은 무엇인가요?
+   - A. Sodium을 세포 안으로 끌어들이고, Potassium을 세포 밖으로 내보내는 것
+   - B. Sodium을 세포 밖으로 내보내고, Potassium을 세포 안으로 끌어들이는 것
+   - C. Sodium과 Potassium의 농도 차이를 없애는 것
+   - D. Sodium과 Potassium의 농도 차이를 증가시키는 것
+   - 답: B
+
+# 강의 요약
+
+## 세포 볼륨 조절과 RVI, RVD
+
+세포 내부의 Potassium 농도가 높은 상태에서 Chloride 또는 Sodium이 계속해서 세포 내부로 유입되면, 세포 내외의 농도 차이가 사라지게 되어 Secondary Active Transport가 작동하지 않을 수 있습니다. 이때 세포 내부로 유입된 Sodium은 Sodium 펌프를 통해 다시 배출되어 세포 내부의 Sodium 농도를 낮은 상태로 유지하면서 볼륨을 조절합니다. 이러한 현상을 Regulatory Volume Increase (RVI)라고 합니다. RVI는 주로 Potassium이나 Chloride를 통해 볼륨을 조절하는 과정을 의미합니다.
+
+## 세포 볼륨 조절 메커니즘
+
+세포 볼륨 조절 메커니즘은 아직까지 명확하게 밝혀지지는 않았지만, cell volume의 변화 후에 활성화되는 것은 분명합니다. cell volume의 변화를 감지하는 메커니즘에 의해 세포 내의 다양한 transporter의 활성이 증가하여 이런 현상이 나타난 것으로 생각됩니다. 또한, cell volume을 감지하는 cytoskeleton에 가해지는 인장 및 스트레치와 같은 힘에 의해 단백질들이 상호작용하며 볼륨이 증가하면 덜 뭉치게 되고, 볼륨이 감소하면 분자들이 crowding되는 것으로 생각됩니다.
+
+## Epithelial cell
+
+Epithelial cell은 우리 몸의 안과 밖을 경계짓는 세포들을 말합니다. 예를 들어 피부 Epithelial cell은 다층으로 이루어져 있고, 바깥쪽에는 각질층이 있습니다. 또한, Epithelial cell은 우리 몸의 다른 부위에도 존재합니다. 예를 들어 구강 Epithelial cell, 장 Epithelial cell, 신장에서 오줌이 빠져나가는 콩팥 Epithelial cell 등이 있습니다.
+
+---
+
+# 퀴즈
+
+1. 세포 내부로 유입된 Sodium이 다시 배출되어 세포 내부의 Sodium 농도를 낮은 상태로 유지하면서 볼륨을 조절하는 현상을 무엇이라고 부르는가?
+    - A. RVD
+    - B. RVI
+    - C. Secondary Active Transport
+    - D. Donnan's Iso-osmotic Cell Volume Regulation
+    - 정답: B. RVI
+
+2. 세포 볼륨의 변화를 감지하는 메커니즘에 의해 세포 내의 다양한 transporter의 활성이 증가하는 현상은 무엇으로 생각되는가?
+    - A. RVD
+    - B. RVI
+    - C. Secondary Active Transport
+    - D. Donnan's Iso-osmotic Cell Volume Regulation
+    - 정답: C. Secondary Active Transport
+
+3. 우리 몸의 안과 밖을 경계짓는 세포들을 무엇이라고 부르는가?
+    - A. Endothelial cell
+    - B. Epithelial cell
+    - C. Cytoskeleton
+    - D. Transporter
+    - 정답: B. Epithelial cell
+# Trans-epithelial Transport 요약
+
+Trans-epithelial Transport는 물질이 상피세포막을 통해 이동하는 현상을 말합니다. 이를 위해 필요한 조건들은 다음과 같습니다:
+
+1. **상피세포막의 구조**: 상피세포는 Microvilli로 구성되어 있으며, 이는 세포막을 넓히는 방법 중 하나입니다.
+2. **내강**: 내강은 음식물이나 오줌과 같은 물질들이 몸 바깥과 연결되어 내려가는 공간으로, ECF(Extracellular Fluid)와 연결되어 있습니다.
+3. **Apical Membrane과 Basolateral Membrane**: Apical Membrane은 상피세포의 Microvilli가 있는 Membrane을, Basolateral Membrane은 상피세포와 상피세포를 연결하는 Tight Junction 아래쪽 전체를 말합니다.
+
+이러한 구조 덕분에, apical membrane와 basolateral membrane에는 서로 다른 transporter 단백질들이 위치하게 되며, 이를 asymmetrical distribution of transporter system이라고 합니다. 이로 인해 물질의 이동 방향에 따라 흡수와 분비라는 개념이 생깁니다.
+
+또한, 세포간 운송과 소포 운송이라는 두 가지 방식을 통해 물질 이동이 이루어집니다. 세포간 운송은 비선택적으로 이루어지며, 소포 운송은 한 방향으로 이동합니다.
+
+마지막으로, 상피세포 막의 브러시 경계와 베이소레트럴 막의 인폴딩은 표면적을 늘려 물질 이동을 용이하게 합니다.
+
+## 퀴즈
+
+1. Trans-epithelial Transport를 일으키기 위해 필요한 세 가지 조건은 무엇인가요?
+   - 상피세포막의 구조, 내강, Apical Membrane과 Basolateral Membrane
+
+2. Apical Membrane과 Basolateral Membrane에 서로 다른 transporter 단백질들이 위치하는 이유는 무엇인가요?
+   - 이는 asymmetrical distribution of transporter system 때문입니다.
+
+3. 세포간 운송과 소포 운송의 차이점은 무엇인가요?
+   - 세포간 운송은 비선택적으로 이루어지며, 소포 운송은 한 방향으로 이동합니다.
+# 강의 요약
+
+## 상피세포의 구조와 기능
+
+상피세포는 apical membrane와 basal lateral membrane로 구분되며, 이 두 면 사이에는 tight junction이 존재합니다. 이 구조는 상피세포가 특정 방향으로 물질을 흡수하거나 분비하는 vectorial transport를 가능하게 합니다.
+
+## Mitochondria와 Sodium Pump
+
+Basal lateral membrane에는 다량의 mitochondria와 sodium pump가 위치해 있습니다. Mitochondria는 ATP를 생산하여 sodium pump에 공급하며, sodium pump는 이 ATP를 이용해 세포 내부의 sodium 이온을 세포 외부로 이동시킵니다.
+
+## Sodium-Glucose Cotransporter와 Glucose Transporter
+
+Apical membrane에는 sodium-glucose cotransporter가 존재합니다. 이 cotransporter는 sodium 이온과 glucose를 함께 세포 내부로 이동시킵니다. 이후, glucose는 basal lateral membrane에 위치한 glucose transporter를 통해 세포 외부로 이동하게 됩니다.
+
+## Vectorial Transport
+
+이러한 과정을 통해 sodium 이온과 glucose는 vectorial transport를 통해 상피세포를 통과하게 됩니다. 이 과정에서 물은 osmotic pressure에 따라 paracellular pathway를 통해 흡수되며, 이를 통해 sodium과 glucose 용액이 장에서 흡수되게 됩니다.
+
+## 상피세포의 역할
+
+상피세포는 이러한 과정을 통해 우리가 음식을 섭취하고 소화하여 glucose를 흡수하고 영양을 얻는 데 중요한 역할을 합니다. 이를 위해 sodium glucose transporter, glucose transporter, sodium pump 등 최소 3가지 종류의 transporter 단백질들이 협동하여 작용합니다.
+
+# 퀴즈
+
+1. 상피세포의 apical membrane와 basal lateral membrane 사이에는 무엇이 존재하며, 이것의 역할은 무엇인가요?
+    - 답: Tight junction이 존재하며, 이는 상피세포가 특정 방향으로 물질을 흡수하거나 분비하는 vectorial transport를 가능하게 합니다.
+
+2. Sodium pump는 어떤 역할을 하며, 이를 위해 어떤 구조와 상호작용하나요?
+    - 답: Sodium pump는 세포 내부의 sodium 이온을 세포 외부로 이동시키는 역할을 하며, 이를 위해 ATP를 공급하는 mitochondria와 상호작용합니다.
+
+3. Sodium-glucose cotransporter와 glucose transporter는 어떤 역할을 하나요?
+    - 답: Sodium-glucose cotransporter는 sodium 이온과 glucose를 함께 세포 내부로 이동시키며, glucose transporter는 glucose를 세포 외부로 이동시킵니다.
+# 강의 요약
+
+## 물의 흡수와 Dehydration 보정
+
+- 물의 흡수는 sodium과 glucose의 함께 섭취를 통해 활성화됩니다. 이들이 흡수될 때 물이 함께 흡수되어, dehydration로 인한 체액 손실을 빠르게 보정할 수 있습니다.
+- 운동 후 땀을 많이 흘려 체액이 손실되면, sodium과 glucose가 함유된 electrolyte solution을 마시는 것이 좋습니다.
+- Oral Rehydration Solution에는 sodium과 glucose가 반드시 포함되어야 합니다.
+
+## Paracellular Pathway와 상피세포의 Tightness
+
+- Paracellular pathway는 epithelial cells의 tight junction을 통해 물이 이동하는 과정입니다.
+- Tight junction의 물리적인 구멍의 크기가 크면 leaky하다고 하며, 촘촘하면 tight한 epithelial cells입니다.
+- Leaky 상피세포들은 주로 소장이나 콩팥의 proximal tubule 등에 위치하며, tight 상피세포들은 콩팥의 collecting duct, 콩팥의 tubule의 뒤쪽 끝부분, 그리고 장의 대장 끝부분인 distal colon에 위치합니다.
+- Paracellular pathway로 이동되는 물질들은 이동하는 물질의 concentration gradient, passive mobility, diffusion에 의해 결정됩니다.
+
+## Trans-epithelial Potential
+
+- Trans-epithelial potential은 세포 안팎의 전압차를 의미하며, 이는 세포 안팎의 전압차를 측정하여 알 수 있습니다.
+- Trans-epithelial potential이 존재할 경우, charged 물질들은 화학적인 concentration gradient뿐만 아니라 전기적인 gradient에 따라 이동량이 달라집니다.
+
+# 퀴즈
+
+1. Dehydration 보정을 위해 섭취해야 하는 물질 두 가지는 무엇인가요?
+   - 답: Sodium와 Glucose
+
+2. Paracellular pathway는 어떤 과정을 의미하는가요?
+   - 답: Epithelial cells의 tight junction을 통해 물이 이동하는 과정
+
+3. Trans-epithelial potential이란 무엇을 의미하는가요?
+   - 답: 세포 안팎의 전압차를 의미
+# 강의 요약
+
+## 호수의 깊이와 전기적 잠재
+
+- 호수의 깊이는 관찰자의 위치에 따라 다르게 측정될 수 있습니다. 이는 전기적 잠재에서도 마찬가지로, 잠재의 차이는 위치에 따라 달라질 수 있습니다.
+
+## Transepithelial Potential
+
+- Transepithelial potential은 기본적으로 basolateral 대비 lumen 쪽, apical 쪽이 -10mV를 가지고 있습니다.
+- apical membrane에는 sodium channel이 있고 basolateral membrane에는 sodium pump가 있습니다.
+
+## Sodium와 Chloride의 이동
+
+1. apical membrane의 sodium channel을 통해 소듐 이온이 농도 경사를 따라 세포 안으로 들어옵니다.
+2. basolateral membrane의 sodium pump가 ATP를 사용하여 세포 바깥쪽으로 소듐을 퍼뜨립니다.
+3. 소듐의 이동에 따라 transepithelial potential이 발생하며, 이로 인해 chloride 이온이 밀려나게 됩니다.
+4. chloride 이온은 paracellular pathway를 통해 이동하게 됩니다.
+
+## Sodium와 Chloride의 흡수
+
+- Sodium와 Chloride 이온이 흡수되면, 물도 paracellular pathway로 흡수됩니다.
+
+## NaCl의 분비
+
+- Sodium pump는 basolateral membrane에 있으며, NKCC, Sodium Potassium Chloride cotransporter가 basolateral membrane에 있습니다.
+- Apical membrane에는 Chloride channel이 있습니다.
+- NKCC가 활성화되면 세포 바깥쪽에 높은 Sodium과 Chloride 농도가 형성되며, 이를 통해 Sodium와 Chloride가 lumen 쪽으로 이동하게 됩니다.
+
+---
+
+# 퀴즈
+
+1. Transepithelial potential에서 basolateral 대비 lumen 쪽, apical 쪽의 전기적 잠재은 얼마인가요?
+   - A. -20mV
+   - B. -10mV
+   - C. 0mV
+   - D. 10mV
+   - 정답: B. -10mV
+
+2. Sodium 이온이 세포 안으로 들어오는 경로는 무엇인가요?
+   - A. Sodium pump
+   - B. Sodium channel
+   - C. Chloride channel
+   - D. NKCC
+   - 정답: B. Sodium channel
+
+3. Sodium와 Chloride 이온이 흡수되면 어떤 현상이 발생하나요?
+   - A. 물이 apical pathway로 흡수된다.
+   - B. 물이 paracellular pathway로 흡수된다.
+   - C. 물이 basolateral pathway로 흡수된다.
+   - D. 물이 NKCC를 통해 흡수된다.
+   - 정답: B. 물이 paracellular pathway로 흡수된다.
+# 강의 요약
+
+## 상피세포를 통한 이온 및 물의 이동
+
+1. 상피 세포를 통해 Chloride가 이동하면 루멘 쪽에 마이너스 전하가 쌓이게 되어 trans-epithelial potential이 발생합니다.
+2. 이 상황에서 Sodium은 paracellular pathway로 이동하게 되며, 이로 인해 2개의 Sodium Chloride 용질이 이동하게 됩니다.
+3. 이러한 이동에 따라 paracellular pathway로 물이 이동하게 되어 NaCl의 분비가 나타납니다.
+4. 이 과정에서 NKCC를 통해 들어온 Sodium은 Sodium pump로 원래 자리로 돌려놓고, 들어온 Potassium은 Potassium 채널로 내보냅니다.
+
+## Aquaporin을 통한 물의 이동
+
+1. 상피세포막 자체에 있는 Aquaporin을 통해 물이 이동할 수 있습니다. 이를 transcellular route라고 합니다.
+2. 타이트 정체를 통해 삼투압 경사를 따라 이동하는 것은 paracellular water movement라고 합니다.
+3. Sodium pump가 많이 있는 basolateral membrane에 Sodium 이온들이 쌓이게 되면, 이로 인해 물이 이동되는데 유리하게 됩니다.
+
+## Epithelial cell에서의 이동 조절
+
+1. Epithelial cell에서의 이동은 여러 가지 신경이나 호르몬의 조절을 받습니다.
+2. 이 조절은 transport protein들의 합성 증가나 이미 합성된 단백질을 membrane으로 인서션하여 트래픽킹하는 것을 포함합니다.
+3. 또한, membrane에 이미 존재하는 transport나 pump들의 활성을 촉진하는 것과 새로운 단백질 합성에 의해 전반적인 epithelial transport의 양이 조절됩니다.
+
+# 퀴즈
+
+1. 상피 세포를 통해 이동하는 이온은 무엇인가요?
+    - A. Sodium
+    - B. Potassium
+    - C. Chloride
+    - D. Calcium
+    - 정답: C. Chloride
+
+2. Aquaporin을 통해 이동하는 물의 이동 경로를 무엇이라고 합니까?
+    - A. Paracellular route
+    - B. Transcellular route
+    - C. Intracellular route
+    - D. Extracellular route
+    - 정답: B. Transcellular route
+
+3. Epithelial cell에서의 이동을 조절하는 것은 무엇인가요?
+    - A. 신경과 호르몬
+    - B. 단백질 합성
+    - C. Membrane 인서션
+    - D. 모두 맞음
+    - 정답: D. 모두 맞음
+# 요약
+
+## 우려성 심부전과 치료
+우려성 심부전은 심장이 비정상적으로 늘어나고 심장 벽이 얇아져서 심장의 펌프 기능이 저하되는 질병입니다. 이로 인해 혈액 순환이 원활하게 이루어지지 않고, 심부전이 심해지면 생명을 위협할 수 있습니다. 이 환자는 심부전으로 인한 부종을 방지하기 위해 Furosemide라는 약을 복용하고 있었으며, 심장 펌프 기능을 강화하기 위해 Digoxin이라는 강심제를 복용하고 있었습니다.
+
+## Digoxin과 Furosemide의 작용 원리
+Digoxin은 심장의 펌프 기능을 강화시키는 약으로, 심장 근육의 수축력을 증가시키는 역할을 합니다. Digoxin은 sodium pump의 기능을 억제하여 심장근 세포의 sodium 농도를 증가시키고, 이로 인해 sodium-calcium exchanger의 기능이 떨어져 심장근의 수축을 끝내는 역할을 합니다. Furosemide는 이뇨제로, 심부전으로 인한 부종을 줄이는 역할을 합니다.
+
+## 환자의 상태와 의사의 판단
+환자는 최근에 부종이 심해져서 Furosemide의 복용량을 늘렸습니다. 그러나 진찰한 의사는 Digoxin 중독을 의심하고 oral potassium을 처방했습니다. 이는 Digoxin이 sodium pump를 억제하면서 심장근 세포의 sodium 농도가 증가하고, 이로 인해 sodium-calcium exchanger의 기능이 떨어져 심장근의 수축을 끝내는 역할이 약해졌기 때문으로 추정됩니다.
+
+# 퀴즈
+
+1. 우려성 심부전이란 무엇인가요?
+   - A. 심장이 비정상적으로 늘어나고 심장 벽이 얇아져서 심장의 펌프 기능이 저하되는 질병
+   - B. 심장이 비정상적으로 축소되고 심장 벽이 두꺼워져서 심장의 펌프 기능이 저하되는 질병
+   - C. 심장이 비정상적으로 늘어나고 심장 벽이 두꺼워져서 심장의 펌프 기능이 증가하는 질병
+   - D. 심장이 비정상적으로 축소되고 심장 벽이 얇아져서 심장의 펌프 기능이 증가하는 질병
+   - 답: A
+
+2. Digoxin이란 어떤 약인가요?
+   - A. 심장의 펌프 기능을 강화시키는 약
+   - B. 심장의 펌프 기능을 약화시키는 약
+   - C. 심장의 펌프 기능을 유지하는 약
+   - D. 심장의 펌프 기능에 영향을 주지 않는 약
+   - 답: A
+
+3. 의사가 환자에게 oral potassium을 처방한 이유는 무엇일까요?
+   - A. 환자가 Digoxin 중독을 의심했기 때문
+   - B. 환자가 Furosemide 중독을 의심했기 때문
+   - C. 환자가 심부전을 앓고 있었기 때문
+   - D. 환자가 심장 근육의 수축력이 약해졌기 때문
+   - 답: A
+# 강의 요약
+
+## Digoxin의 약리학적 메커니즘
+
+Digoxin은 Sodium pump의 기능을 저하시키고 세포 내 Sodium 농도를 상승시킵니다. 이로 인해 Sodium-Calcium exchanger의 활성이 감소하고, 세포 내 Calcium 농도가 상승합니다. Calcium 이온은 근육 수축을 일으키는 핵심적인 이온으로, 이로 인해 근육의 수축력이 증가하고 심장의 펌프 기능이 증가합니다.
+
+## Furosemide의 약리학적 메커니즘
+
+Furosemide는 콩팥의 NKCC를 억제하여 오줌의 농축을 저해합니다. 이로 인해 더 많은 양의 물과 이온들이 오줌을 통해 재흡수되지 않고 빠져나가게 되어, 오줌량이 늘어나고 체액량이 줄어들어 부종이 감소합니다.
+
+## 부종과 체액량
+
+부종은 혈관의 외부나 capillary의 외부에 있는 interstitial fluid에 물이 쌓여 있는 상태를 말하며, 이는 체외액량이 증가한 상태를 의미합니다. Furosemide를 투여하여 신장에서 물을 많이 배출하면, 소변을 통해 체외액량이 감소하고 이로 인해 부종이 감소합니다.
+
+## Digitalis toxicity
+
+Digitalis toxicity는 Digitalis에 의해 발생하며, 구토와 뇌에 있는 구토 중추의 자극으로 인해 구토가 나타날 수 있습니다. 또한, 심한 palpitation은 Digitalis 과다 복용으로 인해 발생할 수 있습니다.
+
+## Emergency potassium 처방
+
+환자가 furosemide 복용량을 증가시켰기 때문에, NKCC가 더 많이 억제되어 소변으로 배출되는 물의 양이 증가할 뿐만 아니라, sodium과 chloride뿐만 아니라 potassium도 더 많이 배출될 수 있습니다. 이는 소변을 통해 이루어집니다.
+
+# 퀴즈
+
+1. Digoxin이 세포 내 Sodium 농도를 상승시키면, Sodium-Calcium exchanger의 활성은 어떻게 변하나요?
+    - A. 증가한다
+    - B. 감소한다
+    - C. 변화가 없다
+    - D. 불규칙하게 변한다
+    - 정답: B. 감소한다
+
+2. Furosemide는 어떤 transporter를 억제하여 오줌의 농축을 저해하나요?
+    - A. Sodium pump
+    - B. Calcium pump
+    - C. NKCC
+    - D. Aquaporin
+    - 정답: C. NKCC
+
+3. Digitalis toxicity의 증상으로 올바르지 않은 것은 무엇인가요?
+    - A. 구토
+    - B. 심한 palpitation
+    - C. 체중 감소
+    - D. 뇌에 있는 구토 중추의 자극
+    - 정답: C. 체중 감소
+

@@ -1,0 +1,283 @@
+# 강의 요약
+
+## Action Potential과 Sodium, Potassium Current
+
+- Action potential은 전기 신호가 신경 세포를 통해 전달될 때 발생하는 전기적인 변화를 의미합니다. 이 변화는 voltage-gated channel에 의해 조절됩니다.
+- Voltage-gated channel은 sodium channel과 potassium channel로 구성되어 있습니다.
+- Sodium current가 발생하며, sodium channel이 열립니다. 제로 밀리볼트에서는 모든 채널이 열리지 않습니다.
+- Sodium channel은 inactivation되어 닫혀버립니다. 그리고 potential channel은 제로밀리볼트를 유지하라는 명령이 있지만, 약간의 지연이 있어서 약 1ms 후에 열리기 시작합니다. 이 지연은 activation delay라고도 합니다.
+
+## Voltage Clamp
+
+- Voltage Clamp는 0mV를 유지하는 데 필요한 전류를 측정하는 방법입니다.
+- 이 클램프는 소듐 채널의 활성화와 전위 의존적 채널의 열림 과정을 재현하여 0mV를 유지합니다.
+- 이 방법은 간단해 보이지만 실제로는 매우 복잡한 과정을 단순화시킨 것입니다.
+
+## 스퀴드 자이언트 액손
+
+- 스퀴드 자이언트 액손에서는 전위 의존적인 소듐 채널과 전위 의존적인 전위 채널만으로 거의 90% 이상의 행동 전위 모양을 재현할 수 있다는 것을 알 수 있습니다.
+- 이는 0.5mm의 매우 얇은 전극을 사용하여 가능했습니다.
+
+# 퀴즈
+
+1. Action potential은 어떤 변화를 의미하는가?
+   - A. 전기 신호가 신경 세포를 통해 전달될 때 발생하는 전기적인 변화
+   - B. 전기 신호가 신경 세포를 통해 전달될 때 발생하는 화학적인 변화
+   - C. 전기 신호가 신경 세포를 통해 전달될 때 발생하는 물리적인 변화
+   - D. 전기 신호가 신경 세포를 통해 전달될 때 발생하는 생리적인 변화
+   - 답: A
+
+2. Voltage Clamp는 어떤 것을 측정하는 방법인가?
+   - A. 전압의 변화를 측정하는 방법
+   - B. 전류의 변화를 측정하는 방법
+   - C. 0mV를 유지하는 데 필요한 전류를 측정하는 방법
+   - D. 전압과 전류의 변화를 동시에 측정하는 방법
+   - 답: C
+
+3. 스퀴드 자이언트 액손에서는 어떤 채널만으로 거의 90% 이상의 행동 전위 모양을 재현할 수 있는가?
+   - A. 전위 의존적인 소듐 채널과 전위 의존적인 전위 채널
+   - B. 전위 의존적인 소듐 채널과 전위 의존적인 칼륨 채널
+   - C. 전위 의존적인 칼륨 채널과 전위 의존적인 클로라이드 채널
+   - D. 전위 의존적인 클로라이드 채널과 전위 의존적인 소듐 채널
+   - 답: A
+# 강의 요약
+
+## 자극의 강도와 Action Potential
+
+자극의 강도가 높아지면 action potential이 더 빨리 시작되고, 더 강한 depolarization이 발생하여 sodium channel이 더 빨리 열립니다. 하지만, action potential이 발생한 후 회복되는 시간은 자극의 강도와 관계없이 일정합니다. 
+
+## 자극 감지와 뇌로의 전달
+
+자극의 강도는 뇌의 Brainning 과정을 통해 판단됩니다. 강한 자극과 약한 자극은 각각 다른 영역에서 감지되며, 그에 따라 다른 신호가 전달됩니다. 이 신호는 action potential을 통해 axon을 통해 전달됩니다.
+
+## 에너지 소모와 전달 속도
+
+Action potential과 fire를 계속 사용하면 에너지 소모가 많아집니다. 이를 해결하기 위해 우리 몸은 conduction velocity를 빠르게 하는 myelination을 사용합니다. 이는 oligodendrocytes라는 세포들이 axon을 감싸는 과정입니다. 이 과정을 통해 전달 속도가 빨라집니다.
+
+## 퀴즈
+
+1. 자극의 강도가 높아지면 어떤 변화가 일어나는가?
+    - A. Action potential이 더 빨리 시작된다.
+    - B. Depolarization이 더 강해진다.
+    - C. Sodium channel이 더 빨리 열린다.
+    - D. 모두 맞다.
+
+2. Action potential이 발생한 후 회복되는 시간은 어떤 요소에 의해 결정되는가?
+    - A. 자극의 강도
+    - B. 자극의 빈도
+    - C. 자극의 지속 시간
+    - D. 위의 요소와 무관하다.
+
+3. 전달 속도를 빠르게 하는 과정은 무엇인가?
+    - A. Depolarization
+    - B. Myelination
+    - C. Repolarization
+    - D. Hyperpolarization
+
+답: 1. D, 2. D, 3. B
+# 강의 요약
+
+## Saltatory Conduction
+- Saltatory Conduction은 액션 포텐셜이 도약하며 전달되는 현상을 말합니다. 이를 통해 전달 속도가 굉장히 빨라집니다.
+
+## 액션 포텐셜의 전달 방향
+- 액션 포텐셜은 한쪽 방향으로만 전달됩니다. 이는 Sodium Channel의 Inactivation 때문입니다. 액션 포텐셜이 발생한 부분은 Recovery Time이 필요하므로, 역방향으로 전달되지 않습니다.
+
+## Multiple Sclerosis (다발성 경화증)
+- Multiple Sclerosis는 Myelination이 없어지는 질병입니다. 이 질병은 발생하는 신경세포의 위치에 따라 증상이 다르게 나타납니다. 원인은 아직 명확히 밝혀지지 않았으며, 치료법도 없습니다.
+
+## Conduction Velocity (전달 속도)
+- Conduction Velocity는 Action Potential이 전달되는 속도를 말합니다. 이는 Action Potential이 시작되는 부위에서 결정됩니다.
+
+## Action Hillock
+- Action Hillock은 액션 포텐셜이 시작되는 부분입니다. 여기에는 Sodium Channel이 많이 분포하고 있습니다. Action Hillock에서는 다른 신경세포들로부터 전달된 신호들을 종합하여, Action Potential이 Threshold 이상이면 발화합니다.
+
+---
+
+# 퀴즈
+
+1. Saltatory Conduction이란 무엇인가요?
+    - A. 액션 포텐셜이 도약하며 전달되는 현상
+    - B. 액션 포텐셜이 한 방향으로만 전달되는 현상
+    - C. 액션 포텐셜이 두 방향으로 전달되는 현상
+    - D. 액션 포텐셜이 전달되지 않는 현상
+    - 정답: A
+
+2. 액션 포텐셜이 한 방향으로만 전달되는 이유는 무엇인가요?
+    - A. Sodium Channel의 Activation 때문
+    - B. Sodium Channel의 Inactivation 때문
+    - C. Potassium Channel의 Activation 때문
+    - D. Potassium Channel의 Inactivation 때문
+    - 정답: B
+
+3. Multiple Sclerosis는 어떤 질병인가요?
+    - A. Myelination이 증가하는 질병
+    - B. Myelination이 없어지는 질병
+    - C. Sodium Channel이 증가하는 질병
+    - D. Sodium Channel이 없어지는 질병
+    - 정답: B
+
+# 강의 요약
+
+## 행동 전달과 Conduction Balance
+
+행동 전달의 속도는 여러 요소에 의해 결정됩니다. 
+
+1. **Myelination 상태**: Myelination 상태일 때 conduction balance가 거의 100배 이상 빨라집니다. 
+2. **행동의 크기**: 행동의 크기가 크면 전기 흐름이 빠르게 됩니다. 
+3. **행동 내부의 구조물**: 행동 내부에 지저분한 구조물이 많으면 저항값이 커져서 conduction 속도가 느려집니다.
+4. **Membrane resistance**: 행동을 전달해야 하는데, membrane 상에 누수가 있다면 행동의 전달이 느려질 것입니다. 
+
+## 저항과 전류
+
+저항이 크다는 것은 전류가 흐르는데 어려움이 있다는 의미입니다. Action의 저항이 크다는 것은 전기 전달이 어렵다는 것을 의미합니다. 따라서, 전기 전달을 해야하는 상황에서는 Action의 저항이 작아야 합니다. 
+
+## Conduction Velocity 결정 요소
+
+1. **Membrane Resistance**: Membrane Resistance가 작을수록 Conduction Velocity가 커지게 됩니다. 
+2. **Action Resistance**: Action을 타고 가는 저항은 작아야 합니다. 
+
+## Space Constant와 Lambda
+
+Space Constant는 Conduction Velocity를 나타내는 가상의 상수입니다. Lambda는 membrane potential의 변화를 의미하며, space constant는 membrane potential이 37%까지 떨어지는 걸 말합니다. 
+
+# 퀴즈
+
+1. Myelination 상태일 때 conduction balance는 어떻게 변하나요?
+    - A. 50배 빨라진다.
+    - B. 100배 빨라진다.
+    - C. 200배 빨라진다.
+    - D. 변화가 없다.
+    - 정답: B. 100배 빨라진다.
+
+2. Conduction Velocity를 결정하는 요소는 무엇인가요?
+    - A. Membrane Resistance와 Action Resistance
+    - B. Myelination 상태와 행동의 크기
+    - C. 행동 내부의 구조물과 Membrane resistance
+    - D. 모두 맞다.
+    - 정답: A. Membrane Resistance와 Action Resistance
+
+3. Lambda 값이 커질수록 어떤 변화가 일어나나요?
+    - A. 전달 속도가 느려진다.
+    - B. 전달 속도가 빨라진다.
+    - C. 전달 속도에 변화가 없다.
+    - D. 전달 속도가 일정하게 유지된다.
+    - 정답: B. 전달 속도가 빨라진다.
+# 강의 요약
+
+## Axon과 Action Potential
+
+- Axon의 크기는 일반적으로 세포 하나의 크기와 비슷하며, 두께는 두꺼운 편입니다.
+- Axon에서 1mm만 떨어져도 action potential fire가 발생하며, 이는 myelination이 일어나지 않았음을 의미합니다.
+- Squid giant axon의 경우 두께가 500마이크로미터로, action potential fire가 발생하면 5mm 떨어진 곳에서는 약 37%의 포텐셜만 전달됩니다.
+- 이를 위해 space constant를 증가시키는 것이 중요하며, myelination도 중요합니다.
+
+## Myelination과 Safety Mechanism
+
+- Myelination이 일어나지 않았기 때문에, fired membrane potential 변화가 옆으로 전달될 때 점차적으로 감소합니다.
+- 그러나 cognitive node of Ranvier에 전달될 때, 이 depolarization은 충분한 임계치를 전달하여 action potential을 시작할 수 있습니다.
+- 이는 action potential의 conduction velocity를 결정해주는 myelination에 매우 안전장치가 있음을 의미합니다.
+
+## Action Potential의 전파와 Conduction Velocity
+
+- Action potential의 전파와 conduction velocity를 결정해주는 여러 가지 요소가 있습니다.
+- 감각기관이나 축삭에서는 receptor potential이 발생하며, 이는 depolarizer 작용이 딱 맞습니다.
+- 이는 Action Potential이 척수까지 전달되도록 합니다.
+- 이러한 감각 뉴런의 대부분은 Aα 혹은 Aβ axon으로 분류됩니다.
+
+## 퀴즈
+
+1. Axon에서 1mm만 떨어져도 어떤 현상이 발생하는가?
+   - A. Action potential fire
+   - B. Myelination
+   - C. Depolarization
+   - D. Receptor potential
+   - 정답: A. Action potential fire
+
+2. Squid giant axon에서 action potential fire가 발생하면 5mm 떨어진 곳에서는 얼마의 포텐셜만 전달되는가?
+   - A. 10%
+   - B. 25%
+   - C. 37%
+   - D. 50%
+   - 정답: C. 37%
+
+3. 감각 뉴런의 대부분은 어떤 axon으로 분류되는가?
+   - A. Aα 혹은 Aβ axon
+   - B. Bα 혹은 Bβ axon
+   - C. Cα 혹은 Cβ axon
+   - D. Dα 혹은 Dβ axon
+   - 정답: A. Aα 혹은 Aβ axon
+
+# 강의 요약
+
+## 1. 신경 전달의 지연 시간
+신경 전달에는 약간의 지연 시간이 있습니다. Motor neuron을 움직여 contraction을 하는 데에는 약 10밀리세컨 정도의 delay가 있고, 다음 motor neuron을 움직이기 위해서도 몇 밀리세컨 정도의 시간이 필요합니다. 이런 지연 시간 때문에 우리는 위험을 피하거나 반응하는 데 약 50밀리세컨, 즉 20분의 1초 정도의 시간이 필요합니다.
+
+## 2. 감각 신경의 전달 속도
+감각 신경 중 대부분은 A-beta fiber 타입으로, 이들은 100밀리세컨 정도면 spinal cord를 관통합니다. 반면, C-fiber는 myelination이 되지 않아 action potential이 매우 얇고, 전달 속도는 대략 1미터 퍼 세컨 정도입니다. 이 때문에 발끝에 무엇이 박혔을 때 우리가 reflex를 하는 것은 이 pain 때문이 아니라는 것입니다.
+
+## 3. 통증의 두 단계
+통증은 두 단계로 나뉩니다. 처음에는 매우 강렬한 느낌이 전달되고, 그 후에 1,2초 후에 아주 둔탁하지만 불쾌한 통증이 동반됩니다. 이를 double pain이라고 합니다.
+
+## 4. Action potential의 생성과 전달
+Action potential은 Voltage-gated sodium channel과 Termination을 통해 형성됩니다. Sodium channel은 열려있는 동안 회복되는 시간이 필요하므로, Inactivation과 Activation이 있습니다. 이로 인해 자극의 강도에 따라 Action potential의 주파수가 결정되며, 이 형태로 뇌까지 전달됩니다.
+
+## 5. Conduction velocity
+전달되는 Conduction velocity는 Myelination과 Axon의 두께, 그리고 Ranvier node의 전달 속도를 결정합니다.
+
+# 퀴즈
+
+1. Motor neuron을 움직여 contraction을 하는 데에는 대략 얼마의 delay가 있나요?
+    - A. 1밀리세컨
+    - B. 10밀리세컨
+    - C. 100밀리세컨
+    - D. 1초
+    - 정답: B. 10밀리세컨
+
+2. C-fiber의 전달 속도는 대략 얼마나 되나요?
+    - A. 1미터 퍼 세컨
+    - B. 10미터 퍼 세컨
+    - C. 100미터 퍼 세컨
+    - D. 1킬로미터 퍼 세컨
+    - 정답: A. 1미터 퍼 세컨
+
+3. Action potential은 어떤 채널과 Termination을 통해 형성되나요?
+    - A. Potassium channel
+    - B. Calcium channel
+    - C. Sodium channel
+    - D. Chloride channel
+    - 정답: C. Sodium channel
+# 강의 요약
+
+## 핵심 개념
+
+- **Membrane Resistance** : 세포막의 저항력을 의미하며, 이는 세포막을 통과하는 이온의 흐름을 제어합니다.
+- **Channels** : 세포막에 존재하는 통로로, 특정 이온이 세포 내부와 외부를 자유롭게 이동할 수 있게 합니다.
+- **Bolus Drop** : 약물의 농도가 급격히 떨어지는 현상을 의미합니다.
+
+## 상호작용
+
+Membrane resistance가 감소하면, channels를 통한 이온의 흐름이 증가합니다. 이는 세포의 활성화 상태를 변경할 수 있습니다. 그러나 이 과정에서 bolus drop이 발생하면, 약물의 효과가 급격히 감소하게 되어, 예상치 못한 반응을 유발할 수 있습니다.
+
+# 퀴즈
+
+1. Membrane resistance가 감소하면, channels를 통한 이온의 흐름은 어떻게 변하나요?
+    - A. 증가한다
+    - B. 감소한다
+    - C. 변화가 없다
+    - D. 예측할 수 없다
+    - 정답: A. 증가한다
+
+2. Bolus drop이란 무엇을 의미하나요?
+    - A. 약물의 농도가 급격히 증가하는 현상
+    - B. 약물의 농도가 급격히 떨어지는 현상
+    - C. 세포의 활성화 상태가 급격히 변하는 현상
+    - D. 세포의 활성화 상태가 급격히 안정화되는 현상
+    - 정답: B. 약물의 농도가 급격히 떨어지는 현상
+
+3. Membrane resistance와 channels, bolus drop 사이의 관계를 설명하시오.
+    - A. Membrane resistance가 증가하면, channels를 통한 이온의 흐름이 증가하고, bolus drop이 발생한다.
+    - B. Membrane resistance가 감소하면, channels를 통한 이온의 흐름이 증가하고, bolus drop이 발생한다.
+    - C. Membrane resistance가 증가하면, channels를 통한 이온의 흐름이 감소하고, bolus drop이 발생한다.
+    - D. Membrane resistance가 감소하면, channels를 통한 이온의 흐름이 감소하고, bolus drop이 발생한다.
+    - 정답: B. Membrane resistance가 감소하면, channels를 통한 이온의 흐름이 증가하고, bolus drop이 발생한다.

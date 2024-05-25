@@ -1,0 +1,206 @@
+# Posterior Thigh Muscle (Hamstring Muscle)
+
+## 구성
+- Posterior thigh muscle은 semitendinosus, semimembranosus, 그리고 biceps femoris의 long head로 구성되어 있습니다.
+
+## 위치
+- Long head는 biceps femoris의 일부로, 옆에 위치한 근육은 semitendinosus입니다.
+- Semimembranosus는 semitendinosus 바로 아래에 위치한 근육입니다.
+
+## 기능
+- 이 근육들은 hip joint와 knee joint를 지나기 때문에 두 관절 모두에 작용합니다.
+- Hip joint에서는 extension, knee joint에서는 flexion에 작용합니다.
+
+## 공통점
+- Proximal attachment는 ischial tuberosity에 부착됩니다.
+- Digital attachment는 종아리 뼈에 부착됩니다.
+- Sciatic nerve의 tibial division이 innervation을 합니다.
+
+## Semitendinosus와 Semimembranosus
+- Semitendinosus와 Semimembranosus는 엉덩이 관절에서 Extension 작용을 하고, 무릎 관절에서 Flexion 작용을 합니다.
+- 무릎 관절이 Flexion된 상태에서는 다리를 종아리를 Medial Rotation하는 작용을 합니다.
+
+## Oblique Popliteal Ligament
+- Oblique Popliteal Ligament는 Semimembranosus Tendon의 끝부분으로, Tibia와 Medial Condyle이 Posterior Surface 쪽에 부착됩니다.
+- 이 Ligament는 Femur의 Medial Condyle과 Lateral Condyle 사이에 위치한 오목한 부분인 Intercondylar Fossa 부분에서 무릎 관절의 Joint Capsule 뒤쪽을 강화해 주는 역할을 수행합니다.
+
+---
+
+## 퀴즈
+
+1. Posterior thigh muscle은 어떤 근육들로 구성되어 있나요?
+    - A. Semitendinosus, Semimembranosus, Biceps femoris의 long head
+    - B. Semitendinosus, Semimembranosus, Biceps femoris의 short head
+    - C. Semitendinosus, Semimembranosus, Biceps femoris의 medial head
+    - D. Semitendinosus, Semimembranosus, Biceps femoris의 lateral head
+    - 정답: A. Semitendinosus, Semimembranosus, Biceps femoris의 long head
+
+2. Semitendinosus와 Semimembranosus는 어떤 작용을 하는가요?
+    - A. Hip joint에서 flexion, knee joint에서 extension
+    - B. Hip joint에서 extension, knee joint에서 flexion
+    - C. Hip joint에서 abduction, knee joint에서 adduction
+    - D. Hip joint에서 adduction, knee joint에서 abduction
+    - 정답: B. Hip joint에서 extension, knee joint에서 flexion
+
+3. Oblique Popliteal Ligament의 역할은 무엇인가요?
+    - A. Hip joint의 joint capsule을 강화하는 역할
+    - B. Knee joint의 joint capsule을 강화하는 역할
+    - C. Ankle joint의 joint capsule을 강화하는 역할
+    - D. Elbow joint의 joint capsule을 강화하는 역할
+    - 정답: B. Knee joint의 joint capsule을 강화하는 역할
+
+# 바이셉스 페모리스와 클루니얼 신경
+
+## 바이셉스 페모리스
+- **Proximal attachment**: Long head는 ischial tuberosity, short head는 페모의 linea aspera와 lateral supracondylar line에 부착
+- **Distal attachment**: Fibula head의 외측에 부착
+- **Inervation**: Long head는 sciatic nerve의 tibial division, short head는 sciatic nerve의 fibular division
+- **기능**: 무릎 관절의 굽힘과 무릎 관절이 굽혀진 상태에서 종아리를 외측 회전
+
+## 클루니얼 신경
+- **Superior clunial nerve**: L1부터 L3 레벨의 척추 신경 posterior rami의 lateral cutaneous branches로 시작, 엉덩이 윗부분에 분포
+- **Middle clunial nerve**: S1부터 S3 레벨의 척추 신경 posterior rami의 lateral cutaneous branches로 시작, sacrum과 그 주변 부분의 피부에 분포
+- **Inferior clunial nerve**: Posterior cutaneous nerve of thigh에서 갈라져서 분포, 엉덩이의 아래쪽 부분에 분포
+
+## 퀴즈
+1. 바이셉스 페모리스의 proximal attachment는 어디인가요?
+    - A. Ischial tuberosity와 linea aspera
+    - B. Linea aspera와 lateral supracondylar line
+    - C. Ischial tuberosity와 lateral supracondylar line
+    - D. Ischial tuberosity와 fibula head
+    - 정답: C. Ischial tuberosity와 lateral supracondylar line
+
+2. Superior clunial nerve는 어디에서 시작되나요?
+    - A. L1부터 L3 레벨의 척추 신경 posterior rami의 lateral cutaneous branches
+    - B. S1부터 S3 레벨의 척추 신경 posterior rami의 lateral cutaneous branches
+    - C. Posterior cutaneous nerve of thigh
+    - D. Sciatic nerve의 tibial division
+    - 정답: A. L1부터 L3 레벨의 척추 신경 posterior rami의 lateral cutaneous branches
+
+3. 바이셉스 페모리스의 주된 기능은 무엇인가요?
+    - A. 무릎 관절의 굽힘과 무릎 관절이 굽혀진 상태에서 종아리를 내측 회전
+    - B. 무릎 관절의 굽힘과 무릎 관절이 굽혀진 상태에서 종아리를 외측 회전
+    - C. 무릎 관절의 펴기와 무릎 관절이 굽혀진 상태에서 종아리를 내측 회전
+    - D. 무릎 관절의 펴기와 무릎 관절이 굽혀진 상태에서 종아리를 외측 회전
+    - 정답: B. 무릎 관절의 굽힘과 무릎 관절이 굽혀진 상태에서 종아리를 외측 회전
+# 강의 요약
+
+## 딥 글루테알 신경들
+
+- Sacral plexus에서 시작되며, 이는 대략 L4부터 S4 레벨에 위치하는 spinal nerves들이 모여서 만든 신경 얼기입니다.
+- Superior gluteal nerve는 piriformis muscle보다 위쪽을 통해 gluteal region으로 나오고, 나머지 모든 신경들은 piriformis muscle보다 아래쪽을 통해 gluteal region으로 나옵니다.
+
+## Sciatic nerve
+
+- Sacral plexus에서 시작되며, 가장 큰 peripheral nerve입니다.
+- Tibial division과 common fibular division으로 구분되며, 이는 각각 tibial nerve와 common fibular nerve로 표시됩니다.
+- Piriformis muscle 아래쪽으로 나오며, gluteal region에서는 어떤 근육도 공급하지 않고, posterior thigh로 내려가서 거기에 있는 모든 근육을 자극합니다.
+
+## Superior와 inferior gluteal nerves
+
+- Sacral plexus에서 직접 시작되며, superior gluteal nerve는 piriformis 위쪽으로 나오고, inferior gluteal nerve는 piriformis 아래쪽으로 나옵니다.
+- Superior gluteal nerve는 gluteus medius와 minimus 사이를 통해 진행하면서 표면에 위치한 gluteus medius, 깊게 위치한 minimus, 그리고 tensor fasciae latae를 자극합니다.
+- Inferior gluteal nerve는 gluteus maximus를 공급합니다.
+
+## Nerve to quadratus femoris
+
+- 주로 sacral plexus 중에서 L4부터 S1 레벨의 spinal nerve 성분들로부터 만들어지며, quadratus femoris muscle과 그 바로 아래에 위치한 inferior gemellus muscle, 그리고 엉덩이 관절을 자극합니다.
+
+## Posterior femoral cutaneous nerve of thigh
+
+- 주로 S1부터 S3 레벨의 spinal nerve 성분들로 구성되며, sciatic nerve보다 중앙 쪽들을 통해 다리 쪽으로 내려가게 됩니다.
+- Inferior cluneal nerves를 통해 엉덩이 아랫부분의 피부에 분포하고, 또 다리의 뒤쪽을 통해 내려가면서 엉덩이 뒷면과 대퇴부 뒷면 부분의 피부에 분포합니다.
+- Perineal branches를 통해서는 측면 음부 부분과 허벅지 상부 중앙 부분의 피부에도 분포하게 됩니다.
+
+# 퀴즈
+
+1. Sacral plexus는 어떤 레벨의 spinal nerves들이 모여서 만들어진 신경 얼기인가요?
+    - A. L1부터 L3
+    - B. L4부터 S4
+    - C. S1부터 S3
+    - D. S4부터 S5
+    - 정답: B. L4부터 S4
+
+2. Sciatic nerve는 어떤 부분을 통해 gluteal region으로 나오나요?
+    - A. Piriformis muscle 위쪽
+    - B. Piriformis muscle 아래쪽
+    - C. Piriformis muscle 중간
+    - D. Piriformis muscle 옆쪽
+    - 정답: B. Piriformis muscle 아래쪽
+
+3. Superior gluteal nerve는 어떤 근육들을 자극하나요?
+    - A. Gluteus maximus, minimus, tensor fasciae latae
+    - B. Gluteus medius, minimus, tensor fasciae latae
+    - C. Gluteus medius, maximus, tensor fasciae latae
+    - D. Gluteus medius, minimus, quadratus femoris
+    - 정답: B. Gluteus medius, minimus, tensor fasciae latae
+
+# 강의 요약
+
+## 쇼덴달 신경과 Nerve to Obturator Internus
+- 쇼덴달 신경은 S2부터 S4 레벨의 Spinal Nerve 성분들로 구성되며, 회음 부분에만 분포한다.
+- Nerve to Obturator Internus는 L5부터 S2 레벨의 Spinal Nerve 성분들로 구성되며, Obturator Internus 근육을 자극한다.
+- 이 두 신경은 Greater Sciatic Foramen을 통해 골반 밖으로 나갔다가, Sacrospinous Ligament를 감고 돌아서 Lesser Sciatic Foramen을 통해 다시 회음 부분으로 들어간다.
+
+## 동맥 분포
+- Superior Gluteal Artery와 Inferior Gluteal Artery는 대동맥이 골반으로 들어가면서 나누어진 Common Iliac Artery에서 나온다.
+- Common iliac artery는 internal iliac artery와 external iliac artery로 나누어진다.
+- Internal iliac artery는 골반 내부와 골반 표면에 위치한 근육이나 여러 구조물들에 혈액을 공급하고, external iliac artery는 골반 밖으로 나가서 다리로 내려간다.
+- Internal iliac artery는 anterior와 posterior 2개의 분기로 나누어진다.
+- Superior Gluteal Artery와 Inferior Gluteal Artery는 posterior 분기에서 나오며, anterior 분기에서는 internal pudendal artery, vesical artery 등이 나온다.
+
+## 객관식 퀴즈
+1. 쇼덴달 신경은 어떤 Spinal Nerve 성분들로 구성되어 있나요?
+    - A. L1부터 L3
+    - B. S2부터 S4
+    - C. L5부터 S1
+    - D. S1부터 S3
+    - 정답: B. S2부터 S4
+
+2. Nerve to Obturator Internus는 어떤 근육을 자극하나요?
+    - A. Gluteus Maximus
+    - B. Gluteus Medius
+    - C. Obturator Internus
+    - D. Tensor Fasciae Latae
+    - 정답: C. Obturator Internus
+
+3. Internal iliac artery는 어떤 부위에 혈액을 공급하나요?
+    - A. 다리
+    - B. 골반 내부와 골반 표면에 위치한 근육이나 여러 구조물들
+    - C. 골반 밖
+    - D. 머리
+    - 정답: B. 골반 내부와 골반 표면에 위치한 근육이나 여러 구조물들
+# 강의 요약
+
+## 동맥과 정맥의 분포
+
+- **Internal pudendal artery**는 골반의 바닥 부분에 위치한 페리늄에 혈액을 공급합니다.
+- **Perforating artery**는 deep femoral artery의 가지로, 페머의 샤프트를 따라 아래쪽으로 내려가며, 페머의 뒤쪽에 위치한 후면사이의 햄스트링 근육 대부분에 혈액을 공급합니다.
+- Gluteal region과 후면사이 region의 정맥은 동맥과 거의 비슷한 분포 양상을 보입니다. 가장 큰 정맥인 superior gluteal vein, inferior gluteal vein, 그리고 internal pudendal vein이 합쳐져 internal iliac vein을 형성합니다.
+
+## 림프 흐름
+
+- 골반의 깊은 구조물들에서 모아지는 림프는 먼저 상부와 하부 엉덩이 림프 노드로 모아진 다음, 이어서 내부, 외부 그리고 공통 장막 림프 노드를 거치고, 그 다음에 몸통 부위 측면 요추 또는 측면 대동맥 림프 노드로 들어가게 됩니다.
+
+# 퀴즈
+
+1. Internal pudendal artery는 어디에 혈액을 공급하는가?
+    - A. Gluteal region
+    - B. Perineum
+    - C. Femoral shaft
+    - D. Hamstring muscles
+    - 정답: B. Perineum
+
+2. Perforating artery는 어떤 동맥의 가지인가?
+    - A. Femoral artery
+    - B. Deep femoral artery
+    - C. Internal pudendal artery
+    - D. Superior gluteal artery
+    - 정답: B. Deep femoral artery
+
+3. 골반의 깊은 구조물들에서 모아지는 림프는 어디로 가장 먼저 이동하는가?
+    - A. Internal iliac lymph nodes
+    - B. Superior and inferior gluteal lymph nodes
+    - C. Common iliac lymph nodes
+    - D. Lateral lumbar or lateral aortic lymph nodes
+    - 정답: B. Superior and inferior gluteal lymph nodes

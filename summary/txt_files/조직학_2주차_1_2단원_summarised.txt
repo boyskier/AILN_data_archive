@@ -1,0 +1,306 @@
+# 강의 요약
+
+## 1. 인체해부학 강의
+- 강의는 인체의 다양한 부분에 대해 배우는 것으로 시작했습니다. leg와 arm에 대한 학습이 이루어졌습니다.
+- 인체해부학의 역사에 대해 언급하였으며, 과거에는 범죄자의 시신을 해부하는 것이 일반적이었다는 사실을 언급하였습니다.
+- 현대에는 이러한 행위가 인권 침해로 간주되며, 이에 대한 변화를 강조하였습니다.
+
+## 2. 실험실 경험
+- 강사는 자신의 실험실 경험에 대해 이야기하였습니다. 
+- 실험실에서의 다양한 도전과 문제에 대해 언급하였으며, 이를 통해 얻은 교훈을 공유했습니다.
+
+## 3. 세포 생물학 강의
+- 강의의 마지막 부분에서는 세포 생물학에 대해 배웠습니다.
+- 세포의 구조와 기능에 대해 설명하였으며, 세포의 핵과 세포질에 대한 이해를 강조하였습니다.
+- 세포를 관찰하기 위한 staining 기법에 대해 설명하였습니다.
+
+# 퀴즈
+
+1. 강의에서 언급된 인체 부위는 무엇인가요?
+    - A. 머리
+    - B. 팔
+    - C. 다리
+    - D. 발
+    - 정답: B, C
+
+2. 강사가 실험실에서 얻은 교훈은 무엇인가요?
+    - A. 실험실에서는 항상 조심해야 한다.
+    - B. 실험실에서는 항상 새로운 것을 배울 수 있다.
+    - C. 살아있는 사람이 죽은 사람보다 더 무섭다.
+    - D. 실험실에서는 항상 실패를 경험한다.
+    - 정답: C
+
+3. 세포를 관찰하기 위해 사용하는 staining 기법은 무엇인가요?
+    - A. Hematoxylin과 Eosin staining
+    - B. Gram staining
+    - C. Fluorescent staining
+    - D. Silver staining
+    - 정답: A
+# 강의 요약
+
+## 세포의 구조와 기능
+
+1. **Nucleus(핵)**: 세포의 핵심 부분으로, 원형으로 보이며 파란색으로 염색됩니다. 핵 내부에는 Nucleolus(핵소체)가 있으며, DNA와 RNA가 포함되어 있습니다.
+
+2. **Cytoplasm(세포질)**: 세포의 대부분을 차지하며, 보통 eosin 염색으로 붉게 염색됩니다.
+
+3. **Chromosome(염색체)**: DNA가 들어있는 부분으로, 세포의 핵이 크면 염색체가 퍼져있고, 작으면 모여있습니다. 염색체가 퍼져있는 상태를 Euchromatin, 모여있는 상태를 Heterochromatin이라고 합니다.
+
+4. **Transcription(전사)**: DNA가 RNA로 변환되는 과정으로, 세포의 핵이 크면 활발하게 일어납니다.
+
+5. **Neuron(뉴런)**: 크고 길쭉한 형태의 세포로, 많은 양의 protein이 필요하며, 핵이 크고 염색체가 퍼져있는 상태입니다.
+
+6. **Plasma Membrane(세포막)**: 세포의 안과 밖을 구별해주는 막으로, lipid bilayer로 구성되어 있습니다.
+
+## 퀴즈
+
+1. 세포의 핵이 크면 염색체는 어떤 상태인가요?
+    - A. 모여있는 상태
+    - B. 퍼져있는 상태
+    - C. 없는 상태
+    - D. 변하는 상태
+    - 정답: B. 퍼져있는 상태
+
+2. DNA가 RNA로 변환되는 과정을 무엇이라고 하나요?
+    - A. Translation
+    - B. Transcription
+    - C. Replication
+    - D. Mutation
+    - 정답: B. Transcription
+
+3. 세포의 안과 밖을 구별해주는 막을 무엇이라고 하나요?
+    - A. Cytoplasm
+    - B. Nucleus
+    - C. Plasma Membrane
+    - D. Chromosome
+    - 정답: C. Plasma Membrane
+
+# 세포의 구조와 기능
+
+## 세포막(Cell Membrane)
+
+- 세포막은 두 개의 지질층(lipid bilayer)으로 이루어져 있으며, 이는 세포의 내부와 외부를 구분합니다.
+- 세포막의 양쪽 부분은 친수성(hydrophilic) 성질을 가지고 있고, 가운데 부분은 소수성(hydrophobic) 지질로 이루어져 있어 물이 잘 통하지 않습니다.
+- 세포의 내부와 외부는 서로 다른 조성(composition)을 가질 수 있습니다. 예를 들어, 세포 외부는 나트륨 농도가 높고, 세포 내부는 나트륨 농도가 낮을 수 있습니다.
+
+## 세포막의 기능
+
+- 세포막에는 이온, 영양소 등을 통과시키는 전달체(transporter), 신호를 감지하는 수용체(receptor), 고정을 위한 단백질 등이 존재합니다.
+- 이러한 단백질들은 세포의 내부와 외부 사이의 교통을 가능하게 합니다.
+
+## 세포의 구조물
+
+- 세포의 내부에는 지질층에 의해 형성된 다양한 구조물이 존재합니다.
+- 이 중 하나는 거친 표면을 가진 거친 내플라스마막(reticulum, RER)으로, 단백질 합성에 관여합니다.
+- 반면에 리보솜이 없는 매끄러운 내플라스마막(SER)은 단백질 합성이 아닌 다른 대사 과정에 관여합니다.
+
+## 단백질 합성
+
+- 단백질 합성은 mRNA가 RER의 리보솜과 결합하여 이루어집니다.
+- 이 과정에서 폴리펩티드가 만들어지고, 이는 RER 내부의 공간으로 들어가게 됩니다.
+
+---
+
+### 퀴즈
+
+1. 세포막의 구조는 어떻게 되어있나요?
+    - A. 단일 지질층
+    - B. 두 개의 지질층
+    - C. 세 개의 지질층
+    - D. 네 개의 지질층
+    - 정답: B. 두 개의 지질층
+
+2. 세포막의 양쪽 부분은 어떤 성질을 가지고 있나요?
+    - A. 친수성
+    - B. 소수성
+    - C. 중성
+    - D. 양성
+    - 정답: A. 친수성
+
+3. 단백질 합성은 어디에서 이루어지나요?
+    - A. 매끄러운 내플라스마막(SER)
+    - B. 거친 내플라스마막(RER)
+    - C. 세포막
+    - D. 핵
+    - 정답: B. 거친 내플라스마막(RER)
+
+# 세포의 단백질 이동과 분비 과정
+
+## 1. 단백질의 생성과 이동
+- 단백질은 **Nucleotide에서 만들어진 mRNA**가 세포질에서 **Ribosome과 결합**하여 **Polypeptide**를 만듭니다.
+- 이 Polypeptide는 **Rough ER**의 빈 공간으로 들어가게 됩니다.
+
+## 2. 단백질의 분류와 이송
+- 단백질이 필요한 곳으로 이송되기 위해서는 **Golgi Apparatus**를 통해 이송됩니다.
+- **Golgi Apparatus**는 물류창고와 같은 역할을 하며, Rough ER에서 만들어진 단백질들이 모여서 분류 후 필요한 공간으로 이송됩니다.
+
+## 3. 단백질의 이송 방식
+- 단백질은 **Lipid Bilayer로 쌓여있는 볼같은 소포**를 통해 이송됩니다.
+- 이송되는 과정에서 단백질의 모양이 조금씩 변하는 **Modification**이 일어납니다.
+
+## 4. Golgi Apparatus의 구조
+- **cis-Golgi network(CGN)**와 **trans-Golgi network(TGN)**으로 구분합니다.
+- CGN은 Rough ER쪽 면이고, TGN은 반대편을 취하고 있습니다.
+
+## 5. 단백질의 이동 방향
+- Rough ER에서 만들어진 단백질은 CGN으로 이동하게 되고, 하나씩 옮겨지면서 점점 성숙화가 일어나게 되어 TGN에서 결국 자신의 마지막 목적지로 이동하게 됩니다.
+- 이러한 방향을 **anterograde transport**라고 부릅니다.
+- 반대로, CGN에서 TGN으로 옮겨지는 과정을 **retrograde transport**라고 부릅니다.
+
+## 6. 단백질의 분비
+- 어떤 단백질은 세포 바깥으로 분비됩니다.
+- 이때는 단백질을 매지클 속에 넣어 이 매지클이 세포막 쪽으로 이동한 후, 세포막에 있는 lipid bilayer와 볼기에 있는 lipid bilayer가 같은 물질이기 때문에 fusion이 일어나면 transport로 흡수됩니다.
+
+## 7. 세포의 물질 흡수
+- 세포 바깥에 있는 물질을 세포 안으로 가져와야 할 때가 있는데, 이를 **endocytosis**라고 부릅니다.
+
+## 8. Endocytosis
+- Endocytosis는 세포막에 있는 lipid bilayer로 만들어진 주머니를 통해 물질을 세포 내부로 운반하는 과정입니다.
+
+## 퀴즈
+1. 단백질이 만들어지는 과정에서 mRNA가 결합하는 구조물은 무엇인가요?
+    - A. Nucleotide
+    - B. Ribosome
+    - C. Polypeptide
+    - D. Rough ER
+    - 답: B. Ribosome
+
+2. 단백질이 이송되는 과정에서 Golgi Apparatus의 역할은 무엇인가요?
+    - A. 단백질의 생성
+    - B. 단백질의 분류와 이송
+    - C. 단백질의 소화
+    - D. 단백질의 분비
+    - 답: B. 단백질의 분류와 이송
+
+3. 세포 바깥에 있는 물질을 세포 안으로 가져오는 과정을 무엇이라고 부르나요?
+    - A. Anterograde transport
+    - B. Retrograde transport
+    - C. Endocytosis
+    - D. Exocytosis
+    - 답: C. Endocytosis
+
+# 강의 요약
+
+## 엔도사이토시스(Endocytosis)
+
+- 세포 바깥의 물질이 세포질 안으로 이동하는 과정
+- 물질은 세포질 안으로 직접 들어오는 것이 아니라, 세포 바깥 공간을 유지한 채로 둘러싼 지질 이중막(lipid bilayer)으로 만들어진 공간을 세포질 안으로 이동
+- 소화 과정도 세포질 안에서 이루어지는 것이 아니라, 특별한 공간을 만들어 그 안에 소화 효소를 넣어 소화
+
+## 세포 골격
+
+- 세포의 형태를 유지하기 위한 특별한 골격이 존재
+- 세 가지 종류의 골격: Microtubules, Actin filaments, Intermediate filaments
+- Microtubules: 세포 내부에서 공간을 만들고 물질을 이동시키는 역할
+- Actin filaments: 세포의 형태를 유지하는 역할
+- Intermediate filaments: 세포막과 핵 사이에 있는 트랙을 따라 이동하여 세포 내부의 물질을 효율적으로 이동시키는 역할
+
+## Microtubules
+
+- 역동적으로 움직이는 세포 골격
+- 움직임과 관련된 뼈대 역할
+- 세포 내부에서 물질을 운반하거나 세포의 모양을 변형시키는 중요한 구조물
+- Alpha tubulin과 Beta tubulin이라는 아련 모양의 구조물들이 빙글빙글 돌면서 쌓여 만들어진 길쭉한 구조물
+
+# 퀴즈
+
+1. 엔도사이토시스 과정에서 세포 바깥의 물질이 어떻게 세포질 안으로 이동하나요?
+    - A. 직접 이동
+    - B. 세포 바깥 공간을 유지한 채로 둘러싼 지질 이중막으로 만들어진 공간을 세포질 안으로 이동
+    - C. 세포 바깥 공간을 파괴하고 세포질 안으로 이동
+    - D. 세포 바깥 공간을 축소하고 세포질 안으로 이동
+    - 답: B
+
+2. 세포 골격의 세 가지 종류는 무엇인가요?
+    - A. Microtubules, Actin filaments, Intermediate filaments
+    - B. Microtubules, Actin filaments, Lipid bilayer
+    - C. Microtubules, Lipid bilayer, Intermediate filaments
+    - D. Lipid bilayer, Actin filaments, Intermediate filaments
+    - 답: A
+
+3. Microtubules의 주요 역할은 무엇인가요?
+    - A. 세포의 형태를 유지하는 역할
+    - B. 세포 내부에서 공간을 만들고 물질을 이동시키는 역할
+    - C. 세포막과 핵 사이에 있는 트랙을 따라 이동하여 세포 내부의 물질을 효율적으로 이동시키는 역할
+    - D. 세포 내부에서 물질을 운반하거나 세포의 모양을 변형시키는 역할
+    - 답: D
+
+# 강의 요약
+
+## Microtubule 구조와 기능
+
+Microtubule은 alpha tubulin과 beta tubulin의 dimer가 쌓여서 만든 구조물입니다. alpha tubulin은 항상 minus end를 향하고, beta tubulin은 항상 plus end를 향합니다. 이러한 방향성은 microtubule에 붙어 움직이는 단백질들에게 중요한 역할을 합니다. dynein은 항상 plus end에서 minus end 쪽으로 움직이는 역할을 하고, kinesin은 minus end에서 plus end 쪽으로 움직이는 역할을 합니다. 이들은 세포 내 물질 운반의 주요 역할을 담당합니다.
+
+## Actin과 Intermediate filament
+
+Actin과 Intermediate filament는 Microtubule과는 구조적으로 다릅니다. Actin filament는 세포의 막 바로 밑에서 초록색으로 나타나며, 세포의 막을 받치는 역할을 합니다. Intermediate filament는 Actin filament 아래에서 세포 전체의 뼈대 역할을 합니다. 
+
+## Protein Degradation
+
+세포 내에서는 지속적으로 protein이 만들어지고 망가집니다. 망가진 protein이 계속 쌓이면 세포는 계속 커지게 됩니다. 이를 방지하기 위해 사용된 protein을 degradation하는 작용이 필요한데, 이를 위해 proteasome이라는 쓰레기통이 필요합니다. proteasome은 damaged protein을 degradation하는 기계로 볼 수 있으며, 어떤 protein을 degradation할지 결정하는 역할을 합니다. 이 결정은 ubiquitin을 붙여주는 ubiquitin activating enzyme에 의해 이루어지는데, ubiquitin activating enzyme은 degradation할지 말지를 결정합니다.
+
+# 퀴즈
+
+1. Microtubule의 구조를 이루는 두 가지 단백질은 무엇인가요?
+    - A. Actin과 Intermediate filament
+    - B. alpha tubulin과 beta tubulin
+    - C. dynein과 kinesin
+    - D. ubiquitin과 ubiquitin activating enzyme
+    - 답: B. alpha tubulin과 beta tubulin
+
+2. 세포 내에서 protein이 지속적으로 망가지는 것을 방지하기 위해 사용되는 기계는 무엇인가요?
+    - A. Microtubule
+    - B. Actin filament
+    - C. Intermediate filament
+    - D. proteasome
+    - 답: D. proteasome
+
+3. 세포의 막을 받치는 역할을 하는 filament는 무엇인가요?
+    - A. Microtubule
+    - B. Actin filament
+    - C. Intermediate filament
+    - D. proteasome
+    - 답: B. Actin filament
+
+# 강의 요약
+
+## 1. 세포의 구조와 기능
+- 세포는 핵과 세포질로 구성되어 있으며, 이들은 HN 염색을 통해 구별할 수 있다.
+- 세포의 모양은 다양하며, 이는 cytoskeleton에 의해 유지된다.
+- 세포의 모양을 일정하게 유지하는 cytoskeleton은 microtubules, actin, intermediate filaments로 구성되어 있다.
+
+## 2. 세포의 물질 이동
+- 세포 바깥 물질이 세포 안으로 들어올 때는 fusion 과정을 거친다.
+- 세포에서 생성된 물질은 세포 바깥과 세포 안을 구별하여 만들어지며, 이는 secretion 기능을 통해 이루어진다.
+
+## 3. 세포의 단백질 관리
+- 세포에서 생성된 단백질은 계속 존재할 수 없으므로, 필요 없어진 단백질은 ubiquitin 체인을 통해 분해되어 제거된다.
+- ubiquitin의 양이 단백질의 존속 여부를 결정하는 중요한 요소이다.
+
+## 4. DNA의 상태에 따른 염색
+- DNA는 뭉쳐 있을 때는 heterochromatin이 되어 진하게 염색되며, 퍼져 있을 때는 euchromatin이 되어 넓게 염색된다.
+- euchromatin은 transcription factor가 잘 결합할 수 있어서 transcription이 많이 일어나며, 이는 protein의 반영이 많이 일어나는 세포를 의미한다.
+
+# 퀴즈
+
+1. 세포의 모양을 일정하게 유지하는 구조물은 무엇인가요?
+    - A. Nucleus
+    - B. Cytoskeleton
+    - C. Plasma Membrane
+    - D. Ubiquitin
+    - 답: B. Cytoskeleton
+
+2. 세포에서 생성된 단백질이 계속 존재할 수 없을 때, 이를 제거하는 과정에서 중요한 역할을 하는 것은 무엇인가요?
+    - A. Nucleus
+    - B. Cytoskeleton
+    - C. Plasma Membrane
+    - D. Ubiquitin
+    - 답: D. Ubiquitin
+
+3. DNA가 뭉쳐 있을 때와 퍼져 있을 때 각각 어떤 상태를 의미하는가요?
+    - A. Heterochromatin과 Euchromatin
+    - B. Euchromatin과 Heterochromatin
+    - C. Cytoskeleton과 Plasma Membrane
+    - D. Plasma Membrane과 Cytoskeleton
+    - 답: A. Heterochromatin과 Euchromatin
+
